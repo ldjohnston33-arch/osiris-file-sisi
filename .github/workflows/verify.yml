@@ -1,0 +1,84 @@
+# Build, test and live-check the app on every push to main.
+# Results (logs, source probes, health JSON, screenshots, lockfile) are
+# published to the `ci-results` branch so they can be read without the
+# Actions UI.
+name: verify
+on:
+  push:
+    branches: [main]
+  workflow_dispatch: {}
+permissions:
+  contents: write
+concurrency:
+  group: verify
+  cancel-in-progress: true
+jobs:
+  verify:
+    runs-on: ubuntu-latest
+    timeout-minutes: 40
+    env:
+      CRON_SECRET: ci-only-secret
+      NEXT_TELEMETRY_DISABLED: '1'
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+      - run: mkdir -p ci
+      - name: Install
+        run: set -o pipefail; npm install --no-audit --no-fund 2>&1 | tee ci/install.log
+      - name: Source probes
+        continue-on-error: true
+        run: |
+          set -o pipefail
+          node tools/ci/probe-sources.mjs 2>&1 | tee ci/probes.log
+          for h in sis.gov.eg www.sis.gov.eg; do
+            echo | openssl s_client -connect $h:443 -servername $h -showcerts 2>&1 | head -120 > ci/probes/tls-$h.txt || true
+            echo | openssl s_client -connect $h:443 -servername $h 2>/dev/null | openssl x509 -noout -text 2>/dev/null | grep -A2 -E "Issuer:|CA Issuers|Authority Information" >> ci/probes/tls-$h.txt || true
+          done
+      - name: Unit tests
+        continue-on-error: true
+        run: set -o pipefail; npm test 2>&1 | tee ci/test.log
+      - name: Lint
+        continue-on-error: true
+        run: set -o pipefail; npm run lint 2>&1 | tee ci/lint.log
+      - name: Build (runs a live ingest)
+        id: build
+        continue-on-error: true
+        run: set -o pipefail; npm run build 2>&1 | tee ci/build.log
+      - name: Typecheck
+        continue-on-error: true
+        run: set -o pipefail; npx tsc --noEmit 2>&1 | tee ci/typecheck.log
+      - name: Start and inspect
+        if: steps.build.outcome == 'success'
+        continue-on-error: true
+        run: |
+          (npm start > ci/server.log 2>&1 &)
+          for i in $(seq 1 60); do curl -fs http://localhost:3000/api/health >/dev/null && break; sleep 2; done
+          curl -s http://localhost:3000/api/ingest/health > ci/health.json
+          curl -s http://localhost:3000/api/events > ci/events.json
+          curl -s http://localhost:3000/api/frontlines > ci/frontlines.json
+          curl -s http://localhost:3000/api/country-risk > ci/risk.json
+          node tools/snapshot.mjs http://localhost:3000 "$CRON_SECRET" 2>&1 | tee ci/snapshot.log && cp src/data/snapshot.json ci/snapshot.json || true
+      - name: Screenshots
+        if: steps.build.outcome == 'success'
+        continue-on-error: true
+        run: |
+          npm install --no-save playwright@1 >/dev/null 2>&1
+          npx playwright install --with-deps chromium >/dev/null 2>&1
+          node tools/ci/screens.mjs http://localhost:3000 2>&1 | tee ci/screens.log
+      - name: Publish results to ci-results branch
+        if: always()
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          cp package-lock.json ci/ 2>/dev/null || true
+          echo "${GITHUB_SHA}" > ci/SHA
+          echo "build=${{ steps.build.outcome }}" > ci/OUTCOME
+          cd ci
+          git init -q -b ci-results
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add -A
+          git commit -qm "CI results for ${GITHUB_SHA}"
+          git push -qf "https://x-access-token:${GH_TOKEN}@github.com/${GITHUB_REPOSITORY}.git" ci-results
