@@ -1,0 +1,24 @@
+# Dependencies
+/node_modules
+
+# Next.js
+/.next/
+/out/
+/build
+next-env.d.ts
+*.tsbuildinfo
+
+# Local env files
+.env
+.env*.local
+
+# Vercel
+.vercel
+
+# CI output (published to the ci-results branch instead)
+/ci/
+
+# Misc
+.DS_Store
+*.pem
+npm-debug.log*
