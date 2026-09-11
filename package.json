@@ -1,0 +1,43 @@
+{
+  "name": "osiris-file-sisi",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Osiris File: Sisi — L4 Global's living leadership profile of Egyptian President Abdel Fattah el-Sisi. Forked from simplifaisoul/osiris (MIT).",
+  "scripts": {
+    "predev": "node tools/prepare-map-worker.mjs",
+    "dev": "next dev",
+    "prebuild": "node tools/prepare-map-worker.mjs",
+    "build": "next build",
+    "start": "next start",
+    "lint": "eslint",
+    "typecheck": "tsc --noEmit",
+    "test": "vitest run",
+    "snapshot": "node tools/snapshot.mjs"
+  },
+  "dependencies": {
+    "@fontsource-variable/inter": "^5.2.5",
+    "chart.js": "^4.5.0",
+    "framer-motion": "^12.38.0",
+    "lucide-react": "^1.14.0",
+    "maplibre-gl": "6.7.0",
+    "next": "16.3.4",
+    "react": "19.2.4",
+    "react-dom": "19.2.4",
+    "rss-parser": "^3.13.0",
+    "ws": "^8.21.0"
+  },
+  "devDependencies": {
+    "@types/geojson": "^7946.0.16",
+    "@types/node": "^22",
+    "@types/react": "^19",
+    "@types/react-dom": "^19",
+    "@types/ws": "^8.18.1",
+    "eslint": "^9",
+    "eslint-config-next": "16.3.4",
+    "typescript": "^5",
+    "vitest": "^2.1.9"
+  },
+  "engines": {
+    "node": ">=20.9"
+  }
+}
