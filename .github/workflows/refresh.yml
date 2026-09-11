@@ -1,0 +1,25 @@
+# Optional: time-driven refresh every 30 minutes.
+#
+# Vercel Hobby only allows one cron run per day, and the store otherwise
+# refreshes on the first visit after it goes stale. This free GitHub Action
+# pings /api/ingest every 30 minutes so the data is fresh even when nobody
+# has visited. Set two repository secrets (Settings > Secrets > Actions):
+#   SITE_URL     e.g. https://osiris-file-sisi.vercel.app
+#   CRON_SECRET  same value as the CRON_SECRET env var on Vercel
+name: refresh-osiris-file
+on:
+  schedule:
+    - cron: '*/30 * * * *'
+  workflow_dispatch: {}
+jobs:
+  ping:
+    runs-on: ubuntu-latest
+    if: ${{ vars.DISABLE_REFRESH != '1' }}
+    steps:
+      - name: Trigger ingest
+        env:
+          SITE_URL: ${{ secrets.SITE_URL }}
+          CRON_SECRET: ${{ secrets.CRON_SECRET }}
+        run: |
+          if [ -z "$SITE_URL" ]; then echo "SITE_URL secret not set; skipping"; exit 0; fi
+          curl -fsS -m 290 -H "Authorization: Bearer ${CRON_SECRET}" "$SITE_URL/api/ingest" || true
