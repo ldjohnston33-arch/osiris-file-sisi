@@ -1,5 +1,5 @@
 import { NextResponse } from 'next/server';
-import type { Feature, FeatureCollection } from 'geojson';
+import type { Feature } from 'geojson';
 import { THEATER_DEFS, circle } from '@/lib/osiris/geometry';
 
 /**

@@ -133,7 +133,9 @@ export default function MapView({ events, layers, selected, maritime, onSelect }
   const [ready, setReady] = useState(0);
   const [failed, setFailed] = useState<string | null>(null);
   const onSelectRef = useRef(onSelect);
-  onSelectRef.current = onSelect;
+  useEffect(() => {
+    onSelectRef.current = onSelect;
+  }, [onSelect]);
 
   // ── init ──────────────────────────────────────────────────────────
   useEffect(() => {
@@ -155,7 +157,8 @@ export default function MapView({ events, layers, selected, maritime, onSelect }
         cooperativeGestures: small,
       });
     } catch (e) {
-      setFailed(e instanceof Error ? e.message : 'Map failed to start');
+      const msg = e instanceof Error ? e.message : 'Map failed to start';
+      queueMicrotask(() => setFailed(msg));
       return;
     }
     mapRef.current = map;
@@ -287,7 +290,7 @@ export default function MapView({ events, layers, selected, maritime, onSelect }
     }
     const active = ['literal', [...layers]];
     for (const id of ['events-glow', 'events-core', 'events-count']) {
-      if (map.getLayer(id)) map.setFilter(id, (id === 'events-count' ? ['all', ['>', ['get', 'count'], 1], ['in', ['get', 'layer'], active]] : ['in', ['get', 'layer'], active]) as maplibregl.FilterSpecification);
+      if (map.getLayer(id)) map.setFilter(id, (id === 'events-count' ? ['all', ['>', ['get', 'count'], 1], ['in', ['get', 'layer'], active]] : ['in', ['get', 'layer'], active]) as unknown as maplibregl.FilterSpecification);
     }
   }, [layers, ready]);
 

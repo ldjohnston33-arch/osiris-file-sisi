@@ -32,7 +32,7 @@ export async function GET(request: Request) {
 
     let countryName = '';
     let countryCode = '';
-    let locationInfo: any = {};
+    let locationInfo: Record<string, string> = {};
 
     if (geoRes.ok) {
       const geoData = await geoRes.json();

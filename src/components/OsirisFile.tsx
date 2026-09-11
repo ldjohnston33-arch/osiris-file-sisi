@@ -5,7 +5,7 @@ import dynamic from 'next/dynamic';
 import type { Category, OsirisEvent, Store } from '@/lib/osiris/types';
 import type { CoverageEntry } from '@/config/related-coverage';
 import { CATEGORY_ORDER, layerFor, type LayerId } from '@/lib/osiris/ui';
-import { readLocal, useNow, writeLocal } from './hooks';
+import { useInitialLocalValue, useLocalValue, useNow, writeLocal } from './hooks';
 import Header from './Header';
 import DossierHero from './DossierHero';
 import StatTiles from './StatTiles';
@@ -35,17 +35,13 @@ export default function OsirisFile({ initial, coverage }: { initial: Store; cove
   const [layers, setLayers] = useState<Set<LayerId>>(() => new Set<LayerId>(['movements']));
   const [cats, setCats] = useState<Set<Category>>(() => new Set(CATEGORY_ORDER));
   const [range, setRange] = useState<RangeKey>('30d');
-  const [analystMode, setAnalystMode] = useState(false);
-  const [prevSeen, setPrevSeen] = useState<string | null>(null);
+  const analystMode = useLocalValue(LS_ANALYST) === '1';
+  const prevSeen = useInitialLocalValue(LS_LAST_SEEN);
   const [onlyNew, setOnlyNew] = useState(false);
   const [placeIds, setPlaceIds] = useState<string[]>([]);
   const mapRef = useRef<HTMLDivElement>(null);
 
   // ── persisted per-viewer preferences ──────────────────────────────
-  useEffect(() => {
-    setAnalystMode(readLocal(LS_ANALYST) === '1');
-    setPrevSeen(readLocal(LS_LAST_SEEN));
-  }, []);
   useEffect(() => {
     // Mark as seen when the visitor leaves, so badges survive this visit.
     const mark = () => writeLocal(LS_LAST_SEEN, new Date().toISOString());
@@ -57,12 +53,7 @@ export default function OsirisFile({ initial, coverage }: { initial: Store; cove
       window.removeEventListener('pagehide', mark);
     };
   }, []);
-  const toggleAnalyst = () => {
-    setAnalystMode(v => {
-      writeLocal(LS_ANALYST, v ? '0' : '1');
-      return !v;
-    });
-  };
+  const toggleAnalyst = () => writeLocal(LS_ANALYST, analystMode ? '0' : '1');
 
   // ── keep long-open tabs current (store refreshes every ~30 min) ───
   useEffect(() => {

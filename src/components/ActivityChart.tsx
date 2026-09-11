@@ -15,7 +15,9 @@ export default function ActivityChart({ events, start, end, onPick }: { events: 
   const canvas = useRef<HTMLCanvasElement>(null);
   const chart = useRef<Chart | null>(null);
   const pick = useRef(onPick);
-  pick.current = onPick;
+  useEffect(() => {
+    pick.current = onPick;
+  }, [onPick]);
 
   const data = useMemo(() => {
     const d0 = Math.floor(start / DAY) * DAY;

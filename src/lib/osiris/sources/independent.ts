@@ -100,24 +100,55 @@ function gdeltDate(s: string): string {
 
 const stamp = (d: Date) => d.toISOString().replace(/[-:T]/g, '').slice(0, 14);
 
-/** GDELT asks for at most one request every 5 seconds. */
+/**
+ * GDELT asks for at most one request every 5 seconds, and throttles shared
+ * cloud IP ranges harder than that. Calls are serialised with 5.5 s spacing
+ * and retried with backoff on 429 / "Please limit requests".
+ */
 let lastDocCall = 0;
+let docChain: Promise<unknown> = Promise.resolve();
+function docGet<T>(qs: URLSearchParams): Promise<T> {
+  const run = async () => {
+    let lastErr: unknown;
+    for (let attempt = 0; attempt < 3; attempt++) {
+      const wait = lastDocCall + (attempt ? 9000 * attempt : 5500) - Date.now();
+      if (wait > 0) await sleep(wait);
+      lastDocCall = Date.now();
+      try {
+        return await getJson<T>(`${DOC_API}?${qs}`, { timeoutMs: 25000 });
+      } catch (e) {
+        lastErr = e;
+        if (!(e instanceof Error && /429|limit requests/i.test(e.message))) throw e;
+      }
+    }
+    throw lastErr;
+  };
+  const p = docChain.then(run, run);
+  docChain = p.catch(() => undefined);
+  return p;
+}
+
 async function docQuery(params: Record<string, string>): Promise<DocArticle[]> {
-  const wait = lastDocCall + 5200 - Date.now();
-  if (wait > 0) await sleep(wait);
-  lastDocCall = Date.now();
   const qs = new URLSearchParams({ mode: 'artlist', format: 'json', sort: 'datedesc', ...params });
-  const res = await getJson<{ articles?: DocArticle[] }>(`${DOC_API}?${qs}`, { timeoutMs: 25000 });
+  const res = await docGet<{ articles?: DocArticle[] }>(qs);
   return res.articles ?? [];
 }
 
 export async function docTone(query: string, timespan = '30d'): Promise<{ date: string; value: number }[]> {
-  const wait = lastDocCall + 5200 - Date.now();
-  if (wait > 0) await sleep(wait);
-  lastDocCall = Date.now();
   const qs = new URLSearchParams({ query, mode: 'timelinetone', format: 'json', timespan });
-  const res = await getJson<{ timeline?: { data?: { date: string; value: number }[] }[] }>(`${DOC_API}?${qs}`, { timeoutMs: 25000 });
+  const res = await docGet<{ timeline?: { data?: { date: string; value: number }[] }[] }>(qs);
   return res.timeline?.[0]?.data ?? [];
+}
+
+const OUTLET_NAMES: Record<string, string> = {
+  'sis.gov.eg': 'SIS', 'presidency.eg': 'Presidency of Egypt', 'mena.org.eg': 'MENA', 'english.ahram.org.eg': 'Ahram Online', 'ahram.org.eg': 'Al-Ahram',
+  'reuters.com': 'Reuters', 'apnews.com': 'AP', 'aljazeera.com': 'Al Jazeera', 'bbc.com': 'BBC', 'bbc.co.uk': 'BBC', 'thenationalnews.com': 'The National',
+  'arabnews.com': 'Arab News', 'al-monitor.com': 'Al-Monitor', 'middleeasteye.net': 'Middle East Eye', 'bloomberg.com': 'Bloomberg', 'ft.com': 'Financial Times',
+  'dailynewsegypt.com': 'Daily News Egypt', 'egyptindependent.com': 'Egypt Independent', 'egypttoday.com': 'Egypt Today', 'madamasr.com': 'Mada Masr',
+};
+export function outletName(domain: string): string {
+  const d = domain.toLowerCase().replace(/^www\./, '');
+  return OUTLET_NAMES[d] ?? OUTLET_NAMES[d.split('.').slice(-2).join('.')] ?? d;
 }
 
 function toRaw(a: DocArticle): RawItem {
@@ -127,7 +158,7 @@ function toRaw(a: DocArticle): RawItem {
     summary: '',
     url: a.url,
     date: gdeltDate(a.seendate),
-    sourceName: domain.replace(/^www\./, ''),
+    sourceName: outletName(domain),
     kind: kindForDomain(domain),
     feed: 'gdelt-doc',
   };
@@ -136,21 +167,40 @@ function toRaw(a: DocArticle): RawItem {
 export const gdeltDoc: SourceAdapter = {
   id: 'gdelt-doc',
   name: 'GDELT DOC 2.0 (global news)',
-  method: 'JSON API, keyless; 6 x 15-day Sisi slices + theater queries, 5 s spacing',
+  method: 'JSON API, keyless; 4 Sisi history slices, Egyptian state/Ahram domain queries, theater queries; serialised at 5.5 s',
   async run() {
     const out: RawItem[] = [];
     const notes: string[] = [];
+    const counts: string[] = [];
     const now = Date.now();
     const DAY = 86_400_000;
-    // 90 days of Sisi coverage in 15-day slices so recent days don't crowd out history.
-    for (let i = 0; i < 6; i++) {
-      const end = new Date(now - i * 15 * DAY);
-      const start = new Date(now - (i + 1) * 15 * DAY);
+    // 90 days of Sisi coverage in slices so recent days don't crowd out history.
+    const slices: [number, number, string][] = [[0, 10, '250'], [10, 30, '200'], [30, 60, '150'], [60, 92, '150']];
+    for (const [from, to, max] of slices) {
       try {
-        const arts = await docQuery({ query: `${SISI_Q} sourcelang:english`, startdatetime: stamp(start), enddatetime: stamp(end), maxrecords: i === 0 ? '250' : '150' });
+        const arts = await docQuery({ query: `${SISI_Q} sourcelang:english`, startdatetime: stamp(new Date(now - to * DAY)), enddatetime: stamp(new Date(now - from * DAY)), maxrecords: max });
         out.push(...arts.map(toRaw));
+        counts.push(`${from}-${to}d:${arts.length}`);
       } catch (e) {
-        notes.push(`slice ${i}: ${e instanceof Error ? e.message.slice(0, 80) : e}`);
+        notes.push(`slice ${from}-${to}d: ${e instanceof Error ? e.message.slice(0, 80) : e}`);
+      }
+    }
+    // Egyptian state outlets and Ahram sit behind Cloudflare challenges that
+    // block datacenter IPs, so their English output is read through GDELT's
+    // index of those domains instead.
+    const domainQueries: [string, string][] = [
+      ['sis', '(Sisi OR Egypt OR Egyptian OR Cairo) domain:sis.gov.eg'],
+      ['presidency', 'domain:presidency.eg'],
+      ['mena', '(Sisi OR Egypt OR Egyptian) domain:mena.org.eg'],
+      ['ahram', '(Sisi OR Egypt OR Egyptian OR Cairo) domain:ahram.org.eg sourcelang:english'],
+    ];
+    for (const [label, q] of domainQueries) {
+      try {
+        const arts = await docQuery({ query: q, timespan: '30d', maxrecords: '150' });
+        out.push(...arts.filter(a => !a.language || /english/i.test(a.language)).map(toRaw));
+        counts.push(`${label}:${arts.length}`);
+      } catch (e) {
+        notes.push(`${label}: ${e instanceof Error ? e.message.slice(0, 80) : e}`);
       }
     }
     const theaterQueries = [
@@ -164,11 +214,12 @@ export const gdeltDoc: SourceAdapter = {
       try {
         const arts = await docQuery({ query: q, timespan: '7d', maxrecords: '75' });
         out.push(...arts.map(toRaw));
+        counts.push(`${q.slice(1, 8)}:${arts.length}`);
       } catch (e) {
         notes.push(`${q.slice(0, 20)}: ${e instanceof Error ? e.message.slice(0, 80) : e}`);
       }
     }
-    return { items: out, note: notes.join('; ') || undefined };
+    return { items: out, note: [counts.join(' '), ...notes].join('; ') };
   },
 };
 
@@ -252,7 +303,7 @@ const NEWS_FEEDS: { name: string; url: string }[] = [
   { name: 'Al-Monitor', url: 'https://www.al-monitor.com/rss' },
   { name: 'Middle East Eye', url: 'https://www.middleeasteye.net/rss' },
   { name: 'The National', url: 'https://www.thenationalnews.com/arc/outboundfeeds/rss/?outputType=xml' },
-  { name: 'Arab News', url: 'https://www.arabnews.com/cat/1/rss.xml' },
+  { name: 'Arab News', url: 'https://www.arabnews.com/rss.xml' },
 ];
 
 const THEATER_WORDS = [...THEATER_TERMS.gaza, ...THEATER_TERMS.libya, ...THEATER_TERMS.sudan, ...THEATER_TERMS['red-sea'], ...THEATER_TERMS.gulf];

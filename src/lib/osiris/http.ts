@@ -5,8 +5,10 @@
  * Osiris codebase and the sources this tool reads:
  *   1. IPv4 pinning — GDELT advertises AAAA first; hosts without IPv6 egress
  *      stall on undici's fetch until connect timeout.
- *   2. Custom trust — sis.gov.eg has served an incomplete certificate chain.
- *      Callers can pass extra CA certificates for a single host.
+ *   2. Incomplete certificate chains — sis.gov.eg serves its leaf without the
+ *      Sectigo intermediate. Browsers repair that by downloading the issuer
+ *      from the certificate's Authority Information Access URL; so does this
+ *      client (see completeChain), caching the result per host.
  *   3. Explicit proxy support — honours HTTPS_PROXY via CONNECT tunnelling so
  *      the ingest can run behind corporate or sandbox proxies. On Vercel no
  *      proxy is set and requests go direct.
@@ -16,6 +18,7 @@ import http from 'node:http';
 import https from 'node:https';
 import tls from 'node:tls';
 import zlib from 'node:zlib';
+import { X509Certificate } from 'node:crypto';
 import type { Socket } from 'node:net';
 
 export const UA = 'L4Global-OsirisFile/1.0 (+https://l4global.com)';
@@ -127,11 +130,77 @@ async function once(url: URL, opts: Required<Pick<GetOptions, 'timeoutMs'>> & Ge
   });
 }
 
+/* ── AIA chasing for servers that omit their intermediate certificate ── */
+
+const chainCache = new Map<string, string[]>();
+const CHAIN_ERRORS = new Set(['UNABLE_TO_VERIFY_LEAF_SIGNATURE', 'UNABLE_TO_GET_ISSUER_CERT_LOCALLY', 'UNABLE_TO_GET_ISSUER_CERT']);
+
+function caIssuerUrls(infoAccess: string | Record<string, string[]> | undefined): string[] {
+  if (!infoAccess) return [];
+  if (typeof infoAccess === 'string') {
+    return [...infoAccess.matchAll(/CA Issuers - URI:(\S+)/g)].map(m => m[1]);
+  }
+  return infoAccess['CA Issuers - URI'] ?? [];
+}
+
+/** Reads the server's leaf certificate (handshake only, nothing is sent). */
+async function peekLeaf(host: string, port: number, timeoutMs: number): Promise<tls.DetailedPeerCertificate> {
+  const url = new URL(`https://${host}:${port}/`);
+  const proxy = proxyFor(url);
+  const socket = proxy ? await tunnel(proxy, host, port, timeoutMs) : undefined;
+  return new Promise((resolve, reject) => {
+    const s = tls.connect({ host, port, servername: host, rejectUnauthorized: false, ...(socket ? { socket } : {}) }, () => {
+      const cert = s.getPeerCertificate(true);
+      s.end();
+      resolve(cert);
+    });
+    s.setTimeout(timeoutMs, () => s.destroy(new Error(`${host} TLS peek timed out`)));
+    s.on('error', reject);
+  });
+}
+
+/**
+ * Downloads missing intermediates via AIA. Only certificates that are not
+ * self-signed are accepted, and each must be the issuer of the one before
+ * it, so this can repair a chain but never introduce a new trust anchor.
+ */
+async function completeChain(host: string, port: number, timeoutMs: number): Promise<string[]> {
+  const cached = chainCache.get(host);
+  if (cached) return cached;
+  const leaf = await peekLeaf(host, port, timeoutMs);
+  const pems: string[] = [];
+  let urls = caIssuerUrls(leaf.infoAccess as unknown as Record<string, string[]>);
+  const cn = (dn: string) => dn.match(/CN=([^\n]+)/)?.[1]?.trim() ?? '';
+  let expectedCn = String(leaf.issuer?.CN ?? '');
+  for (let depth = 0; depth < 3 && urls.length; depth++) {
+    const res = await httpGet(urls[0], { timeoutMs, maxRedirects: 3 });
+    if (res.status !== 200) break;
+    const cert = new X509Certificate(res.body);
+    if (cert.subject === cert.issuer) break; // a root: never add as an anchor
+    if (expectedCn && cn(cert.subject) !== expectedCn) break;
+    pems.push(cert.toString());
+    expectedCn = cn(cert.issuer);
+    urls = caIssuerUrls(cert.infoAccess);
+  }
+  chainCache.set(host, pems);
+  return pems;
+}
+
 export async function httpGet(rawUrl: string, opts: GetOptions = {}): Promise<GetResult> {
   const timeoutMs = opts.timeoutMs ?? 15000;
   let url = new URL(rawUrl);
   for (let i = 0; i <= (opts.maxRedirects ?? 5); i++) {
-    const res = await once(url, { ...opts, timeoutMs });
+    let res: GetResult;
+    try {
+      const extra = chainCache.get(url.hostname);
+      res = await once(url, { ...opts, timeoutMs, extraCa: [...(opts.extraCa ?? []), ...(extra ?? [])] });
+    } catch (e) {
+      const code = (e as { code?: string }).code;
+      if (url.protocol !== 'https:' || !code || !CHAIN_ERRORS.has(code) || chainCache.has(url.hostname)) throw e;
+      const pems = await completeChain(url.hostname, Number(url.port) || 443, timeoutMs);
+      if (!pems.length) throw e;
+      res = await once(url, { ...opts, timeoutMs, extraCa: [...(opts.extraCa ?? []), ...pems] });
+    }
     if (res.status >= 300 && res.status < 400 && res.headers.location) {
       url = new URL(res.headers.location, url);
       continue;

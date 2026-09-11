@@ -35,6 +35,14 @@ const targets = {
   'gdelt-doc': 'https://api.gdeltproject.org/api/v2/doc/doc?query=%22el-Sisi%22%20sourcelang:english&mode=artlist&format=json&maxrecords=5&timespan=3d',
   'gdelt-lastupdate': 'https://data.gdeltproject.org/gdeltv2/lastupdate.txt',
   'openfreemap-dark': 'https://tiles.openfreemap.org/styles/dark',
+  'arabnews-rss2': 'https://www.arabnews.com/rss.xml',
+  'arabnews-rss3': 'https://www.arabnews.com/taxonomy/term/1/feed',
+  'presidency-api-get': 'https://www.presidency.eg/Surface/News/GetAll?culture=en&categoryId=-1&pageNumber=1&pageSize=12',
+  'presidency-api-get2': 'https://www.presidency.eg/Surface/News/GetAll?culture=en&category=-1&page=1',
+  'gdelt-doc-sis': 'https://api.gdeltproject.org/api/v2/doc/doc?query=domain:sis.gov.eg&mode=artlist&format=json&maxrecords=10&timespan=14d',
+  'gdelt-doc-presidency': 'https://api.gdeltproject.org/api/v2/doc/doc?query=domain:presidency.eg&mode=artlist&format=json&maxrecords=10&timespan=30d',
+  'gdelt-doc-ahram': 'https://api.gdeltproject.org/api/v2/doc/doc?query=Sisi%20domain:ahram.org.eg&mode=artlist&format=json&maxrecords=10&timespan=14d',
+  'crt-sectigo-dv-r36': 'http://crt.sectigo.com/SectigoPublicServerAuthenticationCADVR36.crt',
 };
 
 await mkdir('ci/probes', { recursive: true });
@@ -45,12 +53,41 @@ for (const [name, url] of Object.entries(targets)) {
     const res = await fetch(url, { headers: { 'User-Agent': UA, Accept: '*/*' }, redirect: 'follow', signal: AbortSignal.timeout(25000) });
     const body = await res.text();
     summary[name] = { url, status: res.status, finalUrl: res.url, type: res.headers.get('content-type'), bytes: body.length, ms: Date.now() - t0, looksLikeFeed: /<(rss|feed|rdf:RDF)[\s>]/i.test(body.slice(0, 3000)) };
-    await writeFile(`ci/probes/${name}.txt`, `${res.status} ${res.url}\n${res.headers.get('content-type')}\n\n${body.slice(0, 60000)}`);
+    await writeFile(`ci/probes/${name}.txt`, `${res.status} ${res.url}\n${res.headers.get('content-type')}\n\n${body.slice(0, 400000)}`);
   } catch (e) {
     summary[name] = { url, error: `${e.message}${e.cause ? ` | cause: ${e.cause.code || e.cause.message}` : ''}`, ms: Date.now() - t0 };
   }
   // GDELT DOC asks for 5 s between calls.
-  if (name.startsWith('gdelt')) await new Promise(r => setTimeout(r, 5500));
+  if (name.startsWith('gdelt')) await new Promise(r => setTimeout(r, 9000));
+}
+// Presidency news API: try POST variants the listing page's script may use.
+for (const [name, body] of [
+  ['presidency-api-post-form', 'culture=en&categoryId=-1&pageNumber=1&fromDate=&toDate='],
+  ['presidency-api-post-json', JSON.stringify({ culture: 'en', categoryId: -1, pageNumber: 1, fromDate: '', toDate: '' })],
+]) {
+  try {
+    const res = await fetch('https://www.presidency.eg/Surface/News/GetAll', {
+      method: 'POST', body, signal: AbortSignal.timeout(25000),
+      headers: { 'User-Agent': UA, 'X-Requested-With': 'XMLHttpRequest', 'Content-Type': name.endsWith('json') ? 'application/json' : 'application/x-www-form-urlencoded', Referer: 'https://www.presidency.eg/en/' },
+    });
+    const text = await res.text();
+    summary[name] = { status: res.status, type: res.headers.get('content-type'), bytes: text.length };
+    await writeFile(`ci/probes/${name}.txt`, `${res.status}\n${res.headers.get('content-type')}\n\n${text.slice(0, 200000)}`);
+  } catch (e) {
+    summary[name] = { error: String(e.message) };
+  }
+}
+// Script files referenced by the presidency listing page (to learn the API contract).
+try {
+  const html = await (await fetch(targets['presidency-listing-news-en'], { headers: { 'User-Agent': UA } })).text();
+  const scripts = [...html.matchAll(/<script[^>]+src=["']([^"']+)["']/g)].map(m => new URL(m[1], 'https://www.presidency.eg/').toString()).filter(u => u.includes('presidency.eg'));
+  await writeFile('ci/probes/presidency-scripts.txt', scripts.join('\n'));
+  for (const [i, u] of scripts.entries()) {
+    const t = await (await fetch(u, { headers: { 'User-Agent': UA } })).text();
+    if (/GetAll|apiUrl/.test(t)) await writeFile(`ci/probes/presidency-script-${i}.js`, `// ${u}\n${t.slice(0, 300000)}`);
+  }
+} catch (e) {
+  summary['presidency-scripts'] = { error: String(e.message) };
 }
 await writeFile('ci/probes/_summary.json', JSON.stringify(summary, null, 2));
 for (const [k, v] of Object.entries(summary)) console.log(k.padEnd(28), v.status ?? 'ERR', v.looksLikeFeed ? 'FEED' : '', v.error ?? v.type ?? '');
