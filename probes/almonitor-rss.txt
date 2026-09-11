@@ -1,0 +1,210 @@
+200 https://www.al-monitor.com/rss
+application/rss+xml; charset=utf-8
+
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xml:base="https://www.al-monitor.com/" xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel>
+    <title>AL-MONITOR: The Pulse of The Middle East</title>
+    <link>https://www.al-monitor.com/</link>
+    <description>Al Monitor</description>
+    <language>en</language>
+    
+    <item>
+  <title>New York marks 25th anniversary of 9/11 attacks</title>
+  <link>https://www.al-monitor.com/originals/2026/09/new-york-marks-25th-anniversary-911-attacks</link>
+  <description>&lt;div class=&quot;align-center media media--type-image media--view-mode-newsletter&quot;&gt;
+  
+      
+            &lt;div&gt;  &lt;img loading=&quot;lazy&quot; src=&quot;/sites/default/files/styles/newsletter/public/2026-09/000_c6xz887.jpg?itok=zpyWd-LN&quot; width=&quot;870&quot; height=&quot;579&quot; alt=&quot;Some 100 million Americans were not even born or are too young to remember the tragic events of 9/11&quot; title=&quot;Some 100 million Americans were not even born or are too young to remember the tragic events of 9/11&quot;&gt;
+
+
+&lt;/div&gt;
+      
+  &lt;/div&gt;
+  
+            &lt;p&gt;New York commemorated the 25th anniversary of the devastating September 11, 2001 attacks Friday w&lt;/p&gt;</description>
+  <pubDate>2026-09-11T09:30:33-0400</pubDate>
+    <dc:creator />
+    <guid isPermaLink="true">https://www.al-monitor.com/originals/2026/09/new-york-marks-25th-anniversary-911-attacks</guid>
+    </item>
+<item>
+  <title>Relative of 9/11 victim unleashes searing attack on Saudi Arabia</title>
+  <link>https://www.al-monitor.com/originals/2026/09/relative-911-victim-unleashes-searing-attack-saudi-arabia</link>
+  <description>&lt;p&gt;A family member of one of those killed in the September 11, 2001 attacks unleashed searing criticism of Saudi Arabia live on US television during the reading of victims&#039; names at the 9/11 Memorial Friday.&lt;/p&gt;  
+            &lt;p&gt;The September 11, 2001 attacks were carried out by mostly Saudi hijackers orchestrated by mastermind Osama bin Laden, a wealthy Saudi who founded Al-Qaeda. Washington maintains strong military and diplomatic ties with the kingdom.&lt;/p&gt;</description>
+  <pubDate>2026-09-11T09:30:33-0400</pubDate>
+    <dc:creator />
+    <guid isPermaLink="true">https://www.al-monitor.com/originals/2026/09/relative-911-victim-unleashes-searing-attack-saudi-arabia</guid>
+    </item>
+<item>
+  <title>CENTCOM chief in Saudi Arabia as Yemen&#039;s Houthis seize Bab al-Mandeb</title>
+  <link>https://www.al-monitor.com/originals/2026/09/centcom-chief-saudi-arabia-yemens-houthis-seize-bab-al-mandeb</link>
+  <description>The Houthis&#039; seizure of Mocha and Perim Island effectively puts them in a position to close the Bab al-Mandeb.</description>
+  <pubDate>2026-09-11T07:57:36-0400</pubDate>
+    <dc:creator>Jared Szuba</dc:creator>
+    <guid isPermaLink="true">https://www.al-monitor.com/originals/2026/09/centcom-chief-saudi-arabia-yemens-houthis-seize-bab-al-mandeb</guid>
+    </item>
+<item>
+  <title>CENTCOM chief in Saudi Arabia as Yemen&#039;s Houthis seize Bab al-Mandeb</title>
+  <link>https://www.al-monitor.com/originals/2026/09/centcom-chief-saudi-arabia-yemens-houthis-seize-bab-al-mandeb</link>
+  <description>The Houthis&#039; seizure of Mocha and Perim Island effectively puts them in a position to close the Bab al-Mandeb.</description>
+  <pubDate>2026-09-11T07:57:36-0400</pubDate>
+    <dc:creator>Jared Szuba</dc:creator>
+    <guid isPermaLink="true">https://www.al-monitor.com/originals/2026/09/centcom-chief-saudi-arabia-yemens-houthis-seize-bab-al-mandeb</guid>
+    </item>
+<item>
+  <title>CENTCOM chief in Saudi Arabia as Yemen&#039;s Houthis seize Bab al-Mandeb</title>
+  <link>https://www.al-monitor.com/originals/2026/09/centcom-chief-saudi-arabia-yemens-houthis-seize-bab-al-mandeb</link>
+  <description>The Houthis&#039; seizure of Mocha and Perim Island effectively puts them in a position to close the Bab al-Mandeb.</description>
+  <pubDate>2026-09-11T07:57:36-0400</pubDate>
+    <dc:creator>Jared Szuba</dc:creator>
+    <guid isPermaLink="true">https://www.al-monitor.com/originals/2026/09/centcom-chief-saudi-arabia-yemens-houthis-seize-bab-al-mandeb</guid>
+    </item>
+<item>
+  <title>CENTCOM chief in Saudi Arabia as Yemen&#039;s Houthis seize Bab al-Mandeb</title>
+  <link>https://www.al-monitor.com/originals/2026/09/centcom-chief-saudi-arabia-yemens-houthis-seize-bab-al-mandeb</link>
+  <description>The Houthis&#039; seizure of Mocha and Perim Island effectively puts them in a position to close the Bab al-Mandeb.</description>
+  <pubDate>2026-09-11T07:57:36-0400</pubDate>
+    <dc:creator>Jared Szuba</dc:creator>
+    <guid isPermaLink="true">https://www.al-monitor.com/originals/2026/09/centcom-chief-saudi-arabia-yemens-houthis-seize-bab-al-mandeb</guid>
+    </item>
+<item>
+  <title>Yemen&#039;s Houthis take over strait vital to global shipping</title>
+  <link>https://www.al-monitor.com/originals/2026/09/yemens-houthis-take-over-strait-vital-global-shipping</link>
+  <description>&lt;p&gt;Yemen&#039;s Iran-backed Houthis seized a strategic Red Sea island on Friday after capturing territory along the coast, sealing their takeover of a vital shipping corridor linking Europe and Asia.&lt;/p&gt;  
+            &lt;p&gt;The development is likely to deepen the Middle East war&#039;s impact on international commerce, months after the strategic Strait of Hormuz was blockaded by Iran, which hailed its Yemeni allies&#039; advance on Friday.&lt;/p&gt;</description>
+  <pubDate>2026-09-11T05:30:56-0400</pubDate>
+    <dc:creator />
+    <guid isPermaLink="true">https://www.al-monitor.com/originals/2026/09/yemens-houthis-take-over-strait-vital-global-shipping</guid>
+    </item>
+<item>
+  <title>India welcomes Russia, Iran leaders for BRICS summit overshadowed by war</title>
+  <link>https://www.al-monitor.com/originals/2026/09/india-welcomes-russia-iran-leaders-brics-summit-overshadowed-war</link>
+  <description>&lt;p&gt;The presidents of Russia and Iran were in India for talks Friday ahead of a BRICS summit that will bring together leaders including China&#039;s Xi Jinping, with wars, trade and energy expected to dominate the agenda.&lt;/p&gt;  
+            &lt;p&gt;&quot;The world today is going through a period of unprecedented complexity&quot;, Iranian President Masoud Pezeshkian said, speaking in New Delhi at a forum, ahead of the main summit on Saturday.&lt;/p&gt;  
+            &lt;p&gt;Wars in the Middle East and Ukraine, as well as global trade turbulence and oil, are expected to feature prominently at the two-day annual summit.&lt;/p&gt;</description>
+  <pubDate>2026-09-11T05:30:56-0400</pubDate>
+    <dc:creator />
+    <guid isPermaLink="true">https://www.al-monitor.com/originals/2026/09/india-welcomes-russia-iran-leaders-brics-summit-overshadowed-war</guid>
+    </item>
+<item>
+  <title>Statecraft or scripture: Why Pacific nations want Jerusalem embassies</title>
+  <link>https://www.al-monitor.com/originals/2026/09/statecraft-or-scripture-why-pacific-nations-want-jerusalem-embassies</link>
+  <description>&lt;div class=&quot;align-center media media--type-image media--view-mode-newsletter&quot;&gt;
+  
+      
+            &lt;div&gt;  &lt;img loading=&quot;lazy&quot; src=&quot;/sites/default/files/styles/newsletter/public/2026-09/000_nic299030.jpg?itok=HNO7XRpR&quot; width=&quot;870&quot; height=&quot;579&quot; alt=&quot;Christian pilgrims from Papua New Guinea joined thousands taking part in an annual support march for Israel in Jerusalem in 2008.&quot; title=&quot;Christian pilgrims from Papua New Guinea joined thousands taking part in an annual support march for Israel in Jerusalem in 2008.&quot;&gt;
+
+
+&lt;/div&gt;
+      
+  &lt;/div&gt;
+  
+            &lt;p&gt;An ancient Biblical prophecy lies at &lt;/p&gt;</description>
+  <pubDate>2026-09-10T22:30:35-0400</pubDate>
+    <dc:creator />
+    <guid isPermaLink="true">https://www.al-monitor.com/originals/2026/09/statecraft-or-scripture-why-pacific-nations-want-jerusalem-embassies</guid>
+    </item>
+<item>
+  <title>Ronaldo takes last crack at Asian glory as Saudi teams set to dominate</title>
+  <link>https://www.al-monitor.com/originals/2026/09/ronaldo-takes-last-crack-asian-glory-saudi-teams-set-dominate</link>
+  <description>&lt;p&gt;Cristiano Ronaldo will have a last crack at winning the Asian Champions League when the continent&#039;s top club competition begins on Monday, with big-spending Saudi teams set to dominate.&lt;/p&gt;  
+            &lt;p&gt;The 41-year-old former Manchester United, Real Madrid and Juventus superstar said in August that it was &quot;probably my last year in football&quot;.&lt;/p&gt;  
+            &lt;p&gt;The Portuguese attacker has nearly won it all during his club career, including five UEFA Champions League crowns.&lt;/p&gt;  
+            &lt;p&gt;But the Asian Champions League has so far eluded the five-time Ballon d&#039;Or winner.&lt;/p&gt;</description>
+  <pubDate>2026-09-10T22:30:35-0400</pubDate>
+    <dc:creator />
+    <guid isPermaLink="true">https://www.al-monitor.com/originals/2026/09/ronaldo-takes-last-crack-asian-glory-saudi-teams-set-dominate</guid>
+    </item>
+<item>
+  <title>China, Iran among countries that have used AI to aid spying, Anthropic says</title>
+  <link>https://www.al-monitor.com/originals/2026/09/china-iran-among-countries-have-used-ai-aid-spying-anthropic-says</link>
+  <description>&lt;p&gt;Anthropic said Thursday it shut down multiple cases of state-sponsored surveillance operations that used its artificial intelligence (AI) models, and warned that governments and state-aligned actors are increasingly using AI to spy on ethnic minorities and dissidents.&lt;/p&gt;  
+            &lt;p&gt;The incidents were found and disrupted between January and July, and they originated in China, Iran and west Africa, Anthropic said in a report about misuse of its models.&amp;nbsp;&lt;/p&gt;</description>
+  <pubDate>2026-09-10T21:30:25-0400</pubDate>
+    <dc:creator />
+    <guid isPermaLink="true">https://www.al-monitor.com/originals/2026/09/china-iran-among-countries-have-used-ai-aid-spying-anthropic-says</guid>
+    </item>
+<item>
+  <title>Tremor recorded as Israel says Hezbollah tunnels destroyed in south Lebanon</title>
+  <link>https://www.al-monitor.com/originals/2026/09/tremor-recorded-israel-says-hezbollah-tunnels-destroyed-south-lebanon</link>
+  <description>&lt;p&gt;Israel said Thursday it demolished key tunnels built by the Iran-backed Hezbollah group beneath the strategic Ali al-Taher ridge in southern Lebanon, triggering a 4.1 magnitude tremor.&lt;/p&gt;  
+            &lt;p&gt;AFP journalists in the area heard several explosions. In a video shared by Israeli Defence Minister Israel Katz, a huge fireball can be seen rising into the night sky.&amp;nbsp;&lt;/p&gt;</description>
+  <pubDate>2026-09-10T16:30:32-0400</pubDate>
+    <dc:creator />
+    <guid isPermaLink="true">https://www.al-monitor.com/originals/2026/09/tremor-recorded-israel-says-hezbollah-tunnels-destroyed-south-lebanon</guid>
+    </item>
+<item>
+  <title>Morocco says not involved in Ceuta migrant influx</title>
+  <link>https://www.al-monitor.com/originals/2026/09/morocco-says-not-involved-ceuta-migrant-influx</link>
+  <description>&lt;p&gt;Morocco said on Thursday there were &quot;no facts&quot; establishing its involvement in the massive migrant rush into Spain&#039;s North African exclave of Ceuta in July.&lt;/p&gt;  
+            &lt;p&gt;More than 70,000 migrants entered Ceuta from Morocco on July 30 and 31 in an unprecedented, chaotic surge that left scores dead and sparked European Union infighting over the touchy issue of migration.&lt;/p&gt;  
+            &lt;p&gt;The Moroccan foreign ministry said there were &quot;no facts or reports proving any involvement by the Moroccan authorities&quot;.&lt;/p&gt;</description>
+  <pubDate>2026-09-10T15:30:28-0400</pubDate>
+    <dc:creator />
+    <guid isPermaLink="true">https://www.al-monitor.com/originals/2026/09/morocco-says-not-involved-ceuta-migrant-influx</guid>
+    </item>
+<item>
+  <title>Israel says it destroyed Hezbollah tunnels in Ali al-Taher ridge: What to know</title>
+  <link>https://www.al-monitor.com/originals/2026/09/israel-says-it-destroyed-hezbollah-tunnels-ali-al-taher-ridge-what-know</link>
+  <description>The ridge has become a flashpoint in the Israel-Hezbollah conflict in Lebanon due to its extensive tunnel network Israel says is utilized by the Iran-backed group.</description>
+  <pubDate>2026-09-10T14:45:29-0400</pubDate>
+    <dc:creator>Adam Lucente, Rina Bassist</dc:creator>
+    <guid isPermaLink="true">https://www.al-monitor.com/originals/2026/09/israel-says-it-destroyed-hezbollah-tunnels-ali-al-taher-ridge-what-know</guid>
+    </item>
+<item>
+  <title>Israeli-made film about Gaza gets 25-minute ovation at Venice premiere</title>
+  <link>https://www.al-monitor.com/originals/2026/09/israeli-made-film-about-gaza-gets-25-minute-ovation-venice-premiere</link>
+  <description>&lt;p&gt;A chilling new documentary about Israel&#039;s AI-powered mass killing of civilians in Gaza from two Oscar-winning Israeli filmmakers received a 25-minute ovation at its premiere at the Venice Film Festival on Thursday.&lt;/p&gt;  
+            &lt;p&gt;The audience clapped continuously for Yuval Abraham and Rachel Szor after the screening, an AFP reporter witnessed, setting what is thought to be a new record in Venice after a 23-minute ovation for another film about Gaza last year.&lt;/p&gt;</description>
+  <pubDate>2026-09-10T14:30:28-0400</pubDate>
+    <dc:creator />
+    <guid isPermaLink="true">https://www.al-monitor.com/originals/2026/09/israeli-made-film-about-gaza-gets-25-minute-ovation-venice-premiere</guid>
+    </item>
+<item>
+  <title>Likely oil slicks in Strait of Hormuz after US tanker strikes: experts</title>
+  <link>https://www.al-monitor.com/originals/2026/09/likely-oil-slicks-strait-hormuz-after-us-tanker-strikes-experts</link>
+  <description>&lt;p&gt;Recent satellite images analysed on Thursday appear to show oil slicks near the Strait of Hormuz, after US strikes on tankers suspected of links to Iran&#039;s Revolutionary Guard.&lt;/p&gt;  
+            &lt;p&gt;An image from the European Copernicus programme taken on Wednesday shows brownish streaks on the surface of the water some 20 kilometres (nearly 12.5 miles) off the Iranian coast, to the east of the strait.&lt;/p&gt;  
+            &lt;p&gt;Another Copernicus image of the same location taken on Thursday shows winding streaks of a similar length.&lt;/p&gt;</description>
+  <pubDate>2026-09-10T14:30:28-0400</pubDate>
+    <dc:creator />
+    <guid isPermaLink="true">https://www.al-monitor.com/originals/2026/09/likely-oil-slicks-strait-hormuz-after-us-tanker-strikes-experts</guid>
+    </item>
+<item>
+  <title>UAE to invest 40 billion euros in Germany, including for data centres: Berlin</title>
+  <link>https://www.al-monitor.com/originals/2026/09/uae-invest-40-billion-euros-germany-including-data-centres-berlin</link>
+  <description>&lt;p&gt;The leader of the United Arab Emirates was on a state visit to Germany on Thursday that resulted in a promise to invest 40 billion euros ($46.5 billion) into Europe&#039;s top economy.&lt;/p&gt;  
+            &lt;p&gt;The money would partly pay for data centres with a capacity of up to one gigawatt, Berlin said, and an &quot;Investment Council&quot; would be set up to boost business links between the two nations.&lt;/p&gt;  
+            &lt;p&gt;The Gulf is a key source of capital for the AI boom as oil-rich states in the region seek to invest their energy wealth.&lt;/p&gt;</description>
+  <pubDate>2026-09-10T13:30:38-0400</pubDate>
+    <dc:creator />
+    <guid isPermaLink="true">https://www.al-monitor.com/originals/2026/09/uae-invest-40-billion-euros-germany-including-data-centres-berlin</guid>
+    </item>
+<item>
+  <title>Iran’s Pickaxe mountain tests limits of Trump’s military options</title>
+  <link>https://www.al-monitor.com/originals/2026/09/irans-pickaxe-mountain-tests-limits-trumps-military-options</link>
+  <description>A secretive Pentagon innovation agency has hastened to test munitions that may penetrate deeper than the GBU-57 bombs dropped on Iran’s two main enrichment facilities.</description>
+  <pubDate>2026-09-10T13:08:50-0400</pubDate>
+    <dc:creator>Jared Szuba</dc:creator>
+    <guid isPermaLink="true">https://www.al-monitor.com/originals/2026/09/irans-pickaxe-mountain-tests-limits-trumps-military-options</guid>
+    </item>
+<item>
+  <title>Iran’s Pickaxe mountain tests limits of Trump’s military options</title>
+  <link>https://www.al-monitor.com/originals/2026/09/irans-pickaxe-mountain-tests-limits-trumps-military-options</link>
+  <description>A secretive Pentagon innovation agency has hastened to test munitions that may penetrate deeper than the GBU-57 bombs dropped on Iran’s two main enrichment facilities.</description>
+  <pubDate>2026-09-10T13:08:50-0400</pubDate>
+    <dc:creator>Jared Szuba</dc:creator>
+    <guid isPermaLink="true">https://www.al-monitor.com/originals/2026/09/irans-pickaxe-mountain-tests-limits-trumps-military-options</guid>
+    </item>
+<item>
+  <title>Iran’s Pickaxe mountain tests limits of Trump’s military options</title>
+  <link>https://www.al-monitor.com/originals/2026/09/irans-pickaxe-mountain-tests-limits-trumps-military-options</link>
+  <description>A secretive Pentagon innovation agency has hastened to test munitions that may penetrate deeper than the GBU-57 bombs dropped on Iran’s two main enrichment facilities.</description>
+  <pubDate>2026-09-10T13:08:50-0400</pubDate>
+    <dc:creator>Jared Szuba</dc:creator>
+    <guid isPermaLink="true">https://www.al-monitor.com/originals/2026/09/irans-pickaxe-mountain-tests-limits-trumps-military-options</guid>
+    </item>
+
+  </channel>
+</rss>

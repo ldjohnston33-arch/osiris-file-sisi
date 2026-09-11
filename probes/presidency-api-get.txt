@@ -1,0 +1,134 @@
+200 https://www.presidency.eg/Surface/News/GetAll?culture=en&categoryId=-1&pageNumber=1&pageSize=12
+text/html; charset=utf-8
+
+
+
+
+    <div class="col-xl-3 col-lg-4 col-md-6 col-sm-6 card-container card-content-columns" data-category-id="22642">
+        <div class="card">
+            <a href="https://www.presidency.eg/en/قسم-الأخبار/أخبار-رئاسية/news11092026-1/"></a>
+            <div class="card-img">
+                <img class="card-img-top" src="/media/261690/الرئيس-عبد-الفتاح-السيسي-20-7jpg.jpg" alt="">
+                <span class="date">11 September 2026</span>
+            </div>
+            <h5 class="card-category" >Foreign Visits</h5>
+            <div class="card-body">
+                <h5 class="card-title">
+                    President El-Sisi Arrives in New Delhi, India, for BRICS Summit
+                </h5>
+                <div class="card-text">Today, President Abdel Fattah El-Sisi arrived in New Delhi, India, to participate in the 18th BRICS Summit.  <span class="more-info">More</span></div>
+            </div>
+        </div>
+    </div>
+    <div class="col-xl-3 col-lg-4 col-md-6 col-sm-6 card-container card-content-columns" data-category-id="22642">
+        <div class="card">
+            <a href="https://www.presidency.eg/en/قسم-الأخبار/أخبار-رئاسية/news11082026/"></a>
+            <div class="card-img">
+                <img class="card-img-top" src="/media/261688/الرئيس-عبد-الفتاح-السيسي-20-7jpg.jpg" alt="">
+                <span class="date">11 September 2026</span>
+            </div>
+            <h5 class="card-category" >Foreign Visits</h5>
+            <div class="card-body">
+                <h5 class="card-title">
+                    President El-Sisi Heads to New Delhi for 18th BRICS Summit
+                </h5>
+                <div class="card-text">President El-Sisi is scheduled to deliver Egypt’s address during the closed session of BRICS leaders on September 12.  <span class="more-info">More</span></div>
+            </div>
+        </div>
+    </div>
+    <div class="col-xl-3 col-lg-4 col-md-6 col-sm-6 card-container card-content-columns" data-category-id="12057">
+        <div class="card">
+            <a href="https://www.presidency.eg/en/قسم-الأخبار/أخبار-رئاسية/news08092026-8/"></a>
+            <div class="card-img">
+                <img class="card-img-top" src="/media/261441/القمه-الثلاثيه-فاعيلياتjpgjpg-1-jpg.jpg" alt="">
+                <span class="date">08 September 2026</span>
+            </div>
+            <h5 class="card-category" >International</h5>
+            <div class="card-body">
+                <h5 class="card-title">
+                    Joint Declaration of the Al-Alamein Trilateral Summit (Egypt- Cyprus-Greece)
+                </h5>
+                <div class="card-text">Joint Declaration of the Al-Alamein Trilateral Summit between the Arab Republic of Egypt, the Republic of Cyprus and the Hellenic Republic.  <span class="more-info">More</span></div>
+            </div>
+        </div>
+    </div>
+    <div class="col-xl-3 col-lg-4 col-md-6 col-sm-6 card-container card-content-columns" data-category-id="12040">
+        <div class="card">
+            <a href="https://www.presidency.eg/en/قسم-الأخبار/أخبار-رئاسية/news08092026-6/"></a>
+            <div class="card-img">
+                <img class="card-img-top" src="/media/261495/7jpg.jpg" alt="">
+                <span class="date">08 September 2026</span>
+            </div>
+            <h5 class="card-category" >The President&#39;s Speeches</h5>
+            <div class="card-body">
+                <h5 class="card-title">
+                    President El-Sisi&#39;s Speech at Joint Press Conference with Cypriot President, Greek PM in El Alamain
+                </h5>
+                <div class="card-text">President El-Sisi&#39;s speech at the joint press conference with Cypriot President Christodoulides and Greek PM Mitsotakis after their summit in El Alamain within the framework of the Tripartite Cooperation Mechanism.  <span class="more-info">More</span></div>
+            </div>
+        </div>
+    </div>
+    <div class="col-xl-3 col-lg-4 col-md-6 col-sm-6 card-container card-content-columns" data-category-id="12057">
+        <div class="card">
+            <a href="https://www.presidency.eg/en/قسم-الأخبار/أخبار-رئاسية/news08092026-7/"></a>
+            <div class="card-img">
+                <img class="card-img-top" src="/media/261523/9jpg-coverjpg.jpg" alt="الرئيس عبد الفتاح السيسي يشارك في اجتماع قمة آلية التعاون الثلاثي بين مصر واليونان وقبرص">
+                <span class="date">08 September 2026</span>
+            </div>
+            <h5 class="card-category" >International</h5>
+            <div class="card-body">
+                <h5 class="card-title">
+                    President El-Sisi Participates in Trilateral Summit with Cypriot President and Greek Prime Minister
+                </h5>
+                <div class="card-text">The President emphasized the importance of continuing efforts to advance constructive cooperation within the framework of the trilateral mechanism.  <span class="more-info">More</span></div>
+            </div>
+        </div>
+    </div>
+    <div class="col-xl-3 col-lg-4 col-md-6 col-sm-6 card-container card-content-columns" data-category-id="12057">
+        <div class="card">
+            <a href="https://www.presidency.eg/en/قسم-الأخبار/أخبار-رئاسية/news08092026-5/"></a>
+            <div class="card-img">
+                <img class="card-img-top" src="/media/261490/9jpg.jpg" alt="الرئيس عبد الفتاح السيسي يستقبل رئيس وزراء اليونان">
+                <span class="date">08 September 2026</span>
+            </div>
+            <h5 class="card-category" >International</h5>
+            <div class="card-body">
+                <h5 class="card-title">
+                    President El-Sisi Meets Prime Minister of the Hellenic Republic Kyriakos Mitsotakis
+                </h5>
+                <div class="card-text">During the meeting, President El-Sisi and Greek Prime Minister Mitsotakis discussed developments with regard to the electrical interconnection project between the two countries as a strategic step toward enhancing energy security.  <span class="more-info">More</span></div>
+            </div>
+        </div>
+    </div>
+    <div class="col-xl-3 col-lg-4 col-md-6 col-sm-6 card-container card-content-columns" data-category-id="12057">
+        <div class="card">
+            <a href="https://www.presidency.eg/en/قسم-الأخبار/أخبار-رئاسية/news08092026-4/"></a>
+            <div class="card-img">
+                <img class="card-img-top" src="/media/261421/الرئيس-عبد-الفتاح-السيسي-20-7jpg.jpg" alt="الرئيس عبد الفتاح السيسي يستقبل رئيس وزراء اليونان بمطار العلمين الدولي">
+                <span class="date">08 September 2026</span>
+            </div>
+            <h5 class="card-category" >International</h5>
+            <div class="card-body">
+                <h5 class="card-title">
+                    President El-Sisi Receives Prime Minister of the Hellenic Republic Kyriakos Mitsotakis
+                </h5>
+                <div class="card-text">President El-Sisi received the Greek Prime Minister at El Alamein International Airport upon his arrival in Egypt for an official visit.  <span class="more-info">More</span></div>
+            </div>
+        </div>
+    </div>
+    <div class="col-xl-3 col-lg-4 col-md-6 col-sm-6 card-container card-content-columns" data-category-id="4976">
+        <div class="card">
+            <a href="https://www.presidency.eg/en/قسم-الأخبار/أخبار-رئاسية/news08092026-3/"></a>
+            <div class="card-img">
+                <img class="card-img-top" src="/media/261505/2jpg-1.jpg-1" alt="">
+                <span class="date">08 September 2026</span>
+            </div>
+            <h5 class="card-category" >Local</h5>
+            <div class="card-body">
+                <h5 class="card-title">
+                    President El-Sisi Inaugurates El Alamain International Air Show “EIAS 2026”
+                </h5>
+                <div class="card-text">President El-Sisi and the Cypriot President conducted an inspection tour of the exhibition pavilions. This was followed by an aerial display presented by the Egyptian Air Force alongside teams from Russia, Spain, Turkey, KSA, UAE, France and India.  <span class="more-info">More</span></div>
+            </div>
+        </div>
+    </div>

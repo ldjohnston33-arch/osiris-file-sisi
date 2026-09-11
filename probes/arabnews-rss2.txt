@@ -1,0 +1,515 @@
+200 https://www.arabnews.com/rss.xml
+application/rss+xml; charset=utf-8
+
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:media="http://search.yahoo.com/mrss/" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Arab News</title>
+    <link>https://www.arabnews.com</link>
+    <description>Latest articles from Arab News</description>
+    <language>en</language>
+    <lastBuildDate>Fri, 11 Sep 2026 14:27:33 GMT</lastBuildDate>
+    <ttl>5</ttl>
+    <atom:link href="https://www.arabnews.com/rss.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Israel army rejects testimonies in film about AI-powered killing in Gaza</title>
+      <link>https://www.arabnews.com/middle-east/israel-army-rejects-testimonies-in-film-about-ai-powered-killing-in-gaza-3001381</link>
+      <guid isPermaLink="true">https://www.arabnews.com/middle-east/israel-army-rejects-testimonies-in-film-about-ai-powered-killing-in-gaza-3001381</guid>
+      <pubDate>Fri, 11 Sep 2026 14:18:20 GMT</pubDate>
+      <category>Middle East</category>
+      <description>The Israeli military has dismissed claims made in a new documentary about AI-powered killings of civilians in Gaza. The film, which involves testimonies from Israeli whistleblowers, was premiered in Venice.</description>
+      <enclosure url="https://assets.maestronewsroom.com/media/shared/wires/reuters/20260910/9951cf89381e-2026-09-10T120344Z_1333011856_RC2BGNA3PXYY_RTRMADP_3_FILMFESTIVAL-VENICE-NAZA.JPG" type="image/jpeg" length="0"/>
+      <media:content url="https://assets.maestronewsroom.com/media/shared/wires/reuters/20260910/9951cf89381e-2026-09-10T120344Z_1333011856_RC2BGNA3PXYY_RTRMADP_3_FILMFESTIVAL-VENICE-NAZA.JPG" medium="image"/>
+    </item>
+    <item>
+      <title>Yemen&apos;s Houthis used Claude AI to build guided weapons</title>
+      <link>https://www.arabnews.com/middle-east/yemens-houthis-used-claude-ai-to-build-guided-weapons-3001380</link>
+      <guid isPermaLink="true">https://www.arabnews.com/middle-east/yemens-houthis-used-claude-ai-to-build-guided-weapons-3001380</guid>
+      <pubDate>Fri, 11 Sep 2026 14:17:07 GMT</pubDate>
+      <category>Middle East</category>
+      <description>PARIS: A group in Yemen attempted to use Anthropic’s Claude chatbot to build guided rockets and missiles, the US firm has revealed, as Iran-backed Houthi rebels are on the offensive in the country. In a report published Thursday on how it had prevented illegal uses of Claude in several countries, Anthropic said it had “identified a cell of threat actors based in northern Yemen running three weapons development programs.” Those were “a guided rocket that used a commodity phone-class flight comput</description>
+      <enclosure url="https://assets.maestronewsroom.com/media/30f6532d-717b-4366-9158-9c455299fcd9/1789135482214-363897ff0bcb85b6.jpg" type="image/jpeg" length="0"/>
+      <media:content url="https://assets.maestronewsroom.com/media/30f6532d-717b-4366-9158-9c455299fcd9/1789135482214-363897ff0bcb85b6.jpg" medium="image"/>
+    </item>
+    <item>
+      <title>Saudi content creator turning pain into power</title>
+      <link>https://www.arabnews.com/saudi-arabia/saudi-content-creator-turning-pain-into-power-3001364</link>
+      <guid isPermaLink="true">https://www.arabnews.com/saudi-arabia/saudi-content-creator-turning-pain-into-power-3001364</guid>
+      <pubDate>Fri, 11 Sep 2026 14:11:46 GMT</pubDate>
+      <category>Saudi Arabia</category>
+      <description>JEDDAH: For more than three decades Ibrahim Al-Zubaidi has spent much of his life confined to a bed but he has not let his illness stop him from enjoying one of his greatest passions. Until he was 11, Al-Zubaidi was a normal child. Then a severe form of osteoporosis changed the course of his life, eventually leaving him immobile. But while the disease severely restricted his physical world, it could not limit his curiosity, determination or passion for motorsport. Today, Al-Zubaidi is a Saudi</description>
+      <enclosure url="https://assets.maestronewsroom.com/media/30f6532d-717b-4366-9158-9c455299fcd9/1789130649972-0dc7b69ca805eba3.jpg" type="image/jpeg" length="0"/>
+      <media:content url="https://assets.maestronewsroom.com/media/30f6532d-717b-4366-9158-9c455299fcd9/1789130649972-0dc7b69ca805eba3.jpg" medium="image"/>
+    </item>
+    <item>
+      <title>Saudi Media Forum 2027 to gather 300 global speakers in Riyadh</title>
+      <link>https://www.arabnews.com/saudi-arabia/saudi-media-forum-2027-to-gather-300-global-speakers-in-riyadh-3001378</link>
+      <guid isPermaLink="true">https://www.arabnews.com/saudi-arabia/saudi-media-forum-2027-to-gather-300-global-speakers-in-riyadh-3001378</guid>
+      <pubDate>Fri, 11 Sep 2026 14:08:12 GMT</pubDate>
+      <category>Saudi Arabia</category>
+      <description>RIYADH: The Saudi Media Forum is set to expand its international reach for the upcoming 2027 edition, hosting major global media organizations and platforms in Riyadh to foster industry dialogue and address transformations across the sector, the Saudi Press Agency reported. Saudi Media Forum Chairman Mohammed Fahd Al-Harthi said the 2027 gathering aims to attract more than 300 speakers and about 250 media organizations worldwide. He added that the growing participation highlights the forum’s ro</description>
+      <enclosure url="https://assets.maestronewsroom.com/media/30f6532d-717b-4366-9158-9c455299fcd9/1789135331466-6d02d70649731317.jfif" type="image/jpeg" length="0"/>
+      <media:content url="https://assets.maestronewsroom.com/media/30f6532d-717b-4366-9158-9c455299fcd9/1789135331466-6d02d70649731317.jfif" medium="image"/>
+    </item>
+    <item>
+      <title>Free-scoring Chelsea must tighten up, says Alonso</title>
+      <link>https://www.arabnews.com/football/free-scoring-chelsea-must-tighten-up-says-alonso-3001379</link>
+      <guid isPermaLink="true">https://www.arabnews.com/football/free-scoring-chelsea-must-tighten-up-says-alonso-3001379</guid>
+      <pubDate>Fri, 11 Sep 2026 14:05:44 GMT</pubDate>
+      <category>Football</category>
+      <description>Xabi Alonso has highlighted the need for Chelsea to improve their defense despite a strong offensive start to the season. The team has scored heavily but also conceded a notable number of goals.</description>
+      <enclosure url="https://assets.maestronewsroom.com/media/shared/wires/ap/20260906/825bb821767c-Britain_Premier_League_Soccer_68825--2fef3.jpg" type="image/jpeg" length="0"/>
+      <media:content url="https://assets.maestronewsroom.com/media/shared/wires/ap/20260906/825bb821767c-Britain_Premier_League_Soccer_68825--2fef3.jpg" medium="image"/>
+    </item>
+    <item>
+      <title>Saudi Arabia turns to in vitro technology to boost food security</title>
+      <link>https://www.arabnews.com/green-blue/saudi-arabia-turns-to-in-vitro-technology-to-boost-food-security-3000599</link>
+      <guid isPermaLink="true">https://www.arabnews.com/green-blue/saudi-arabia-turns-to-in-vitro-technology-to-boost-food-security-3000599</guid>
+      <pubDate>Fri, 11 Sep 2026 13:58:45 GMT</pubDate>
+      <category>Green &amp; Blue</category>
+      <description>Saudi Arabia is leveraging advanced in vitro culture technologies to enhance food security and environmental sustainability by mass-propagating disease-free plants in controlled conditions. Dr. Mohammad Faisal highlights that these methods can rapidly produce healthy cultivars, conserve genetic diversity, and improve resilience to climate challenges, ultimately transforming agricultural practices and ecological restoration efforts in the Kingdom.</description>
+      <enclosure url="https://assets.maestronewsroom.com/media/30f6532d-717b-4366-9158-9c455299fcd9/1788614288051-9e7ff1bfe2d6c2f1.jpeg" type="image/jpeg" length="0"/>
+      <media:content url="https://assets.maestronewsroom.com/media/30f6532d-717b-4366-9158-9c455299fcd9/1788614288051-9e7ff1bfe2d6c2f1.jpeg" medium="image"/>
+    </item>
+    <item>
+      <title>Iran is betting on Hormuz; President Trump is raising the price</title>
+      <link>https://www.arabnews.com/opinion/iran-is-betting-on-hormuz-president-trump-is-raising-the-price-3001263</link>
+      <guid isPermaLink="true">https://www.arabnews.com/opinion/iran-is-betting-on-hormuz-president-trump-is-raising-the-price-3001263</guid>
+      <pubDate>Fri, 11 Sep 2026 13:43:43 GMT</pubDate>
+      <category>Opinion</category>
+      <description>Tehran believes the Strait of Hormuz is its strongest weapon in this war. The US is making it increasingly expensive to use. Iran says it struck two American vessels and eight oil tankers in the Gulf this week. The US says the claim that Iran hit American warships is false, and separate reports of merchant ships being struck do not confirm Iran’s account of the tankers. Whatever the real scale, the attacks came after the US destroyed five Iranian oil tankers on Tuesday, 10 in a week by Central C</description>
+      <enclosure url="https://assets.maestronewsroom.com/media/shared/arabnews-import/2026/08/4742085-859072560.jpg" type="image/jpeg" length="0"/>
+      <media:content url="https://assets.maestronewsroom.com/media/shared/arabnews-import/2026/08/4742085-859072560.jpg" medium="image"/>
+    </item>
+    <item>
+      <title>Israel kills Hamas commander in Gaza strike, military and militants say</title>
+      <link>https://www.arabnews.com/middle-east/israel-kills-hamas-commander-in-gaza-strike-military-and-militants-say-3001376</link>
+      <guid isPermaLink="true">https://www.arabnews.com/middle-east/israel-kills-hamas-commander-in-gaza-strike-military-and-militants-say-3001376</guid>
+      <pubDate>Fri, 11 Sep 2026 13:39:16 GMT</pubDate>
+      <category>Middle East</category>
+      <description>CAIRO: Israel’s military said ​on Friday it had killed a top Hamas commander in a Gaza airstrike a day earlier, as it ‌presses ahead ‌with ​a ‌bombing ⁠campaign ​in the Palestinian ⁠territory despite US-backed efforts to salvage a 2025 ceasefire. In a statement, Hamas’ armed wing ⁠confirmed the death ‌of Mohammed ‌Abdel Salam ​al-Yazouri in ‌a Thursday airstrike, ‌saying he played a prominent role in planning the October 7, ‌2023 attacks that set off Israel’s two-year ⁠military ⁠assault. The Isr</description>
+      <enclosure url="https://assets.maestronewsroom.com/media/shared/wires/ap/20260911/8c174118fea7-Israel_Palestinians_Gaza__6611--4ffa6.jpg" type="image/jpeg" length="0"/>
+      <media:content url="https://assets.maestronewsroom.com/media/shared/wires/ap/20260911/8c174118fea7-Israel_Palestinians_Gaza__6611--4ffa6.jpg" medium="image"/>
+    </item>
+    <item>
+      <title>French military jets launch a 40-day global flight to project power and strengthen alliances</title>
+      <link>https://www.arabnews.com/world/french-military-jets-launch-a-40-day-global-flight-to-project-power-and-strengthen-alliances-3001373</link>
+      <guid isPermaLink="true">https://www.arabnews.com/world/french-military-jets-launch-a-40-day-global-flight-to-project-power-and-strengthen-alliances-3001373</guid>
+      <pubDate>Fri, 11 Sep 2026 13:34:44 GMT</pubDate>
+      <category>World</category>
+      <description>France has launched the Pegase 26 mission involving four fighter jets undertaking a 40-day global flight to demonstrate military prowess and foster international partnerships.</description>
+      <enclosure url="https://assets.maestronewsroom.com/media/shared/wires/ap/20260910/04aaf2f39dc0-Alaska_Pegase_2_26_94186--23844.jpg" type="image/jpeg" length="0"/>
+      <media:content url="https://assets.maestronewsroom.com/media/shared/wires/ap/20260910/04aaf2f39dc0-Alaska_Pegase_2_26_94186--23844.jpg" medium="image"/>
+    </item>
+    <item>
+      <title>Hotel and Hospitality Expo returns with Ministry of Tourism as strategic partner</title>
+      <link>https://www.arabnews.com/saudi-arabia/hotel-and-hospitality-expo-returns-with-ministry-of-tourism-as-strategic-partner-3001360</link>
+      <guid isPermaLink="true">https://www.arabnews.com/saudi-arabia/hotel-and-hospitality-expo-returns-with-ministry-of-tourism-as-strategic-partner-3001360</guid>
+      <pubDate>Fri, 11 Sep 2026 13:26:14 GMT</pubDate>
+      <category>Saudi Arabia</category>
+      <description>RIYADH: Hotel and Hospitality Expo Saudi Arabia will return to Riyadh from Sept. 15-17, with the future of Saudi hospitality under the spotlight. Taking place at the Riyadh International Convention and Exhibition Center with the Ministry of Tourism as strategic partner, the expo will bring together hotel operators, developers, procurement teams, manufacturers and suppliers as continued growth across Saudi Arabia’s tourism and hospitality sectors creates new demand across the industry. According</description>
+      <enclosure url="https://assets.maestronewsroom.com/media/30f6532d-717b-4366-9158-9c455299fcd9/1789130543899-1eed2ac6694660f7.jpg" type="image/jpeg" length="0"/>
+      <media:content url="https://assets.maestronewsroom.com/media/30f6532d-717b-4366-9158-9c455299fcd9/1789130543899-1eed2ac6694660f7.jpg" medium="image"/>
+    </item>
+    <item>
+      <title>Fenced off: Thailand builds border wall after Cambodia clashes</title>
+      <link>https://www.arabnews.com/world/fenced-off-thailand-builds-border-wall-after-cambodia-clashes-3001366</link>
+      <guid isPermaLink="true">https://www.arabnews.com/world/fenced-off-thailand-builds-border-wall-after-cambodia-clashes-3001366</guid>
+      <pubDate>Fri, 11 Sep 2026 13:23:02 GMT</pubDate>
+      <category>World</category>
+      <description>Thailand is constructing an 8.4-kilometre wall on its border with Cambodia after recent clashes. The wall, made of reinforced concrete and barbed wire, is part of efforts to enhance security.</description>
+      <enclosure url="https://assets.maestronewsroom.com/media/30f6532d-717b-4366-9158-9c455299fcd9/1789132927546-0ad1e77b85263ef3.jpg" type="image/jpeg" length="0"/>
+      <media:content url="https://assets.maestronewsroom.com/media/30f6532d-717b-4366-9158-9c455299fcd9/1789132927546-0ad1e77b85263ef3.jpg" medium="image"/>
+    </item>
+    <item>
+      <title>The US’ postwar regional plan is a nonstarter</title>
+      <link>https://www.arabnews.com/opinion/the-us-postwar-regional-plan-is-a-nonstarter-3001167</link>
+      <guid isPermaLink="true">https://www.arabnews.com/opinion/the-us-postwar-regional-plan-is-a-nonstarter-3001167</guid>
+      <pubDate>Fri, 11 Sep 2026 13:17:30 GMT</pubDate>
+      <category>Opinion</category>
+      <description>The Trump administration is drafting a postwar regional strategy that is built around containing Iran and expanding Israeli-Arab normalization, according to a widely circulated report this week. This should alarm anyone, especially in the Middle East, who has watched the region’s geopolitical reality speed toward a dangerous tipping point since Oct. 7, 2023. The US approach underscores a return to the same old mentality by American strategists, which has failed to prevent multiple regional catas</description>
+      <enclosure url="https://assets.maestronewsroom.com/media/shared/arabnews-import/2026/08/4738477-1634760954.jpg" type="image/jpeg" length="0"/>
+      <media:content url="https://assets.maestronewsroom.com/media/shared/arabnews-import/2026/08/4738477-1634760954.jpg" medium="image"/>
+    </item>
+    <item>
+      <title>UK govt asked to clarify if Israeli settlement sanctions include Golan Heights</title>
+      <link>https://www.arabnews.com/middle-east/uk-govt-asked-to-clarify-if-israeli-settlement-sanctions-include-golan-heights-3001357</link>
+      <guid isPermaLink="true">https://www.arabnews.com/middle-east/uk-govt-asked-to-clarify-if-israeli-settlement-sanctions-include-golan-heights-3001357</guid>
+      <pubDate>Fri, 11 Sep 2026 13:16:08 GMT</pubDate>
+      <category>Middle East</category>
+      <description>LONDON: The Council for Arab-British Understanding has written to UK Foreign Secretary Ed Miliband asking if the government’s new sanctions on illegal Israeli settlements will apply to the occupied Syrian Golan Heights. Caabu’s director, Chris Doyle, highlighted that the 34 Israeli settlements in the Golan — with a population of about 30,000 — were just as illegal as those in the occupied West Bank. In a press release, the council described the settlements as a “flagrant breach of the Fourth Gen</description>
+      <enclosure url="https://assets.maestronewsroom.com/media/30f6532d-717b-4366-9158-9c455299fcd9/1789132481660-454aebe592701c1f.png" type="image/jpeg" length="0"/>
+      <media:content url="https://assets.maestronewsroom.com/media/30f6532d-717b-4366-9158-9c455299fcd9/1789132481660-454aebe592701c1f.png" medium="image"/>
+    </item>
+    <item>
+      <title>Operation Atlantic City 26: A reminder that allied cooperation remains key to America’s security</title>
+      <link>https://www.arabnews.com/opinion/operation-atlantic-city-26-a-reminder-that-allied-cooperation-remains-key-to-americas-security-3001173</link>
+      <guid isPermaLink="true">https://www.arabnews.com/opinion/operation-atlantic-city-26-a-reminder-that-allied-cooperation-remains-key-to-americas-security-3001173</guid>
+      <pubDate>Fri, 11 Sep 2026 13:11:31 GMT</pubDate>
+      <category>Opinion</category>
+      <description>Last week, while much of the US military’s attention remained focused on the Middle East and the Strait of Hormuz, thousands of kilometers to the north, American forces were participating in another important operation. US Marines joined British and Norwegian forces for “Operation Atlantic City 26” on Jan Mayen, a remote island in the Norwegian Sea, about 1,000 kilometers from mainland Norway. The volcanic island, about the same size as the Gaza Strip, has no permanent population. But at any giv</description>
+      <enclosure url="https://assets.maestronewsroom.com/media/30f6532d-717b-4366-9158-9c455299fcd9/1789132257125-722ec6f11a728ff0.jpg" type="image/jpeg" length="0"/>
+      <media:content url="https://assets.maestronewsroom.com/media/30f6532d-717b-4366-9158-9c455299fcd9/1789132257125-722ec6f11a728ff0.jpg" medium="image"/>
+    </item>
+    <item>
+      <title>Swimming pigs draw tourists to Greek island</title>
+      <link>https://www.arabnews.com/offbeat/swimming-pigs-draw-tourists-to-greek-island-3001367</link>
+      <guid isPermaLink="true">https://www.arabnews.com/offbeat/swimming-pigs-draw-tourists-to-greek-island-3001367</guid>
+      <pubDate>Fri, 11 Sep 2026 13:06:05 GMT</pubDate>
+      <category>Offbeat</category>
+      <description>Atokos, a small Greek island, has gained popularity for its swimming pigs, attracting tourists who want to swim and interact with the animals. The island’s unique attraction has become widely shared on social media.</description>
+      <enclosure url="https://assets.maestronewsroom.com/media/30f6532d-717b-4366-9158-9c455299fcd9/1789131912568-509d9877885e85ab.jpg" type="image/jpeg" length="0"/>
+      <media:content url="https://assets.maestronewsroom.com/media/30f6532d-717b-4366-9158-9c455299fcd9/1789131912568-509d9877885e85ab.jpg" medium="image"/>
+    </item>
+    <item>
+      <title>FIFA denies claim that Morocco will host 2030 World Cup final</title>
+      <link>https://www.arabnews.com/football/fifa-denies-claim-that-morocco-will-host-2030-world-cup-final-3001368</link>
+      <guid isPermaLink="true">https://www.arabnews.com/football/fifa-denies-claim-that-morocco-will-host-2030-world-cup-final-3001368</guid>
+      <pubDate>Fri, 11 Sep 2026 12:55:50 GMT</pubDate>
+      <category>Football</category>
+      <description>FIFA has refuted a claim by Morocco’s football association president regarding hosting the 2030 World Cup final. Morocco will co-host the tournament with Spain and Portugal.</description>
+      <enclosure url="https://assets.maestronewsroom.com/media/30f6532d-717b-4366-9158-9c455299fcd9/1789131228624-b45273ee49b9aee8.webp" type="image/jpeg" length="0"/>
+      <media:content url="https://assets.maestronewsroom.com/media/30f6532d-717b-4366-9158-9c455299fcd9/1789131228624-b45273ee49b9aee8.webp" medium="image"/>
+    </item>
+    <item>
+      <title>Sweden races into final stretch before election</title>
+      <link>https://www.arabnews.com/world/sweden-races-into-final-stretch-before-election-3001361</link>
+      <guid isPermaLink="true">https://www.arabnews.com/world/sweden-races-into-final-stretch-before-election-3001361</guid>
+      <pubDate>Fri, 11 Sep 2026 12:41:25 GMT</pubDate>
+      <category>World</category>
+      <description>With Sweden’s election approaching, party leaders campaign in a close race that might see the centre left regain power or the far right enter government for the first time.</description>
+      <enclosure url="https://assets.maestronewsroom.com/media/30f6532d-717b-4366-9158-9c455299fcd9/1789130410996-2f1dd14c519abd56.webp" type="image/jpeg" length="0"/>
+      <media:content url="https://assets.maestronewsroom.com/media/30f6532d-717b-4366-9158-9c455299fcd9/1789130410996-2f1dd14c519abd56.webp" medium="image"/>
+    </item>
+    <item>
+      <title>Have both sides in Ukraine war run out of cards?</title>
+      <link>https://www.arabnews.com/opinion/have-both-sides-in-ukraine-war-run-out-of-cards-3000888</link>
+      <guid isPermaLink="true">https://www.arabnews.com/opinion/have-both-sides-in-ukraine-war-run-out-of-cards-3000888</guid>
+      <pubDate>Fri, 11 Sep 2026 12:32:04 GMT</pubDate>
+      <category>Opinion</category>
+      <description>Russian President Vladimir Putin met with US envoys Steve Witkoff and Jared Kushner at the Kremlin on Saturday, before they headed to Kyiv for talks with Ukrainian President Volodymyr Velensky. Both sides agreed to pause all strikes on the other’s capital while the Americans were in town. Why now? Have we finally reached the point in the conflict where all parties are left without cards to play? In August 2025, Donald Trump met Putin at a US military base in Anchorage. No Ukraine ceasefire occur</description>
+      <enclosure url="https://assets.maestronewsroom.com/media/30f6532d-717b-4366-9158-9c455299fcd9/1789129884046-66f3c5536db4ccd8.jpg" type="image/jpeg" length="0"/>
+      <media:content url="https://assets.maestronewsroom.com/media/30f6532d-717b-4366-9158-9c455299fcd9/1789129884046-66f3c5536db4ccd8.jpg" medium="image"/>
+    </item>
+    <item>
+      <title>Revitalised Isak in a ‘good place’ at Liverpool: Iraola</title>
+      <link>https://www.arabnews.com/sport/revitalised-isak-in-a-good-place-at-liverpool-iraola-3001359</link>
+      <guid isPermaLink="true">https://www.arabnews.com/sport/revitalised-isak-in-a-good-place-at-liverpool-iraola-3001359</guid>
+      <pubDate>Fri, 11 Sep 2026 12:30:52 GMT</pubDate>
+      <category>Sport</category>
+      <description>Alexander Isak appears to have found his form at Liverpool after overcoming a difficult first season plagued by injuries and low performance. He has already scored three goals this season, indicating a promising turnaround.</description>
+      <enclosure url="https://assets.maestronewsroom.com/media/shared/wires/ap/20260904/916ec95014f2-Britain_Premier_League_Soccer_76_88--ec180.jpg" type="image/jpeg" length="0"/>
+      <media:content url="https://assets.maestronewsroom.com/media/shared/wires/ap/20260904/916ec95014f2-Britain_Premier_League_Soccer_76_88--ec180.jpg" medium="image"/>
+    </item>
+    <item>
+      <title>Russia threatens to point nukes at Lithuania if it hosts allies’ weapons</title>
+      <link>https://www.arabnews.com/world/russia-threatens-to-point-nukes-at-lithuania-if-it-hosts-allies-weapons-3001354</link>
+      <guid isPermaLink="true">https://www.arabnews.com/world/russia-threatens-to-point-nukes-at-lithuania-if-it-hosts-allies-weapons-3001354</guid>
+      <pubDate>Fri, 11 Sep 2026 12:21:49 GMT</pubDate>
+      <category>World</category>
+      <description>Russia has threatened to target Lithuania with nuclear weapons if it allows NATO allies to store nuclear arsenals on its soil. Lithuania is considering lifting a constitutional ban to enhance security against Russian aggression.</description>
+      <enclosure url="https://assets.maestronewsroom.com/media/30f6532d-717b-4366-9158-9c455299fcd9/1789129250026-4125459379d8bd27.webp" type="image/jpeg" length="0"/>
+      <media:content url="https://assets.maestronewsroom.com/media/30f6532d-717b-4366-9158-9c455299fcd9/1789129250026-4125459379d8bd27.webp" medium="image"/>
+    </item>
+    <item>
+      <title>Spain sea temperatures hit record highs in summer of 2026, port authority says</title>
+      <link>https://www.arabnews.com/world/spain-sea-temperatures-hit-record-highs-in-summer-of-2026-port-authority-says-3001356</link>
+      <guid isPermaLink="true">https://www.arabnews.com/world/spain-sea-temperatures-hit-record-highs-in-summer-of-2026-port-authority-says-3001356</guid>
+      <pubDate>Fri, 11 Sep 2026 12:18:54 GMT</pubDate>
+      <category>World</category>
+      <description>Spain experienced record-high sea temperatures in the summer of 2026, attributed to human-caused climate change. This poses severe risks to marine ecosystems and coastal communities.</description>
+      <enclosure url="https://assets.maestronewsroom.com/media/shared/wires/ap/20260910/6dd8570598bc-California_Kelp_Farm_21_51--53e22.jpg" type="image/jpeg" length="0"/>
+      <media:content url="https://assets.maestronewsroom.com/media/shared/wires/ap/20260910/6dd8570598bc-California_Kelp_Farm_21_51--53e22.jpg" medium="image"/>
+    </item>
+    <item>
+      <title>Saudi Cultural Development Fund launches ‘Vouchers’ to support entrepreneurs</title>
+      <link>https://www.arabnews.com/saudi-arabia/saudi-cultural-development-fund-launches-vouchers-to-support-entrepreneurs-3001214</link>
+      <guid isPermaLink="true">https://www.arabnews.com/saudi-arabia/saudi-cultural-development-fund-launches-vouchers-to-support-entrepreneurs-3001214</guid>
+      <pubDate>Fri, 11 Sep 2026 12:15:51 GMT</pubDate>
+      <category>Saudi Arabia</category>
+      <description>The Saudi Cultural Development Fund has launched an upgraded edition of its &apos;Vouchers&apos; program, partnering with the Ministry of Culture to enhance support for micro and small cultural enterprises. The initiative offers vouchers worth up to SR50,000 each, covering key business needs across various areas, aiming to improve operational efficiency and readiness for growth.</description>
+      <enclosure url="https://assets.maestronewsroom.com/media/30f6532d-717b-4366-9158-9c455299fcd9/arabnews-import/2023/09/3989466-1699905242.jpg" type="image/jpeg" length="0"/>
+      <media:content url="https://assets.maestronewsroom.com/media/30f6532d-717b-4366-9158-9c455299fcd9/arabnews-import/2023/09/3989466-1699905242.jpg" medium="image"/>
+    </item>
+    <item>
+      <title>Myanmar airport shut after rebel drone attack: security sources</title>
+      <link>https://www.arabnews.com/world/myanmar-airport-shut-after-rebel-drone-attack-security-sources-3001355</link>
+      <guid isPermaLink="true">https://www.arabnews.com/world/myanmar-airport-shut-after-rebel-drone-attack-security-sources-3001355</guid>
+      <pubDate>Fri, 11 Sep 2026 12:15:45 GMT</pubDate>
+      <category>World</category>
+      <description>Mandalay airport, a crucial travel hub in central Myanmar, was temporarily closed following an attack by pro-democracy rebels using ‘suicide drones.’ The military-backed government quickly restored flight operations.</description>
+      <enclosure url="https://assets.maestronewsroom.com/media/shared/wires/afp/20260901/7bc794d7bc69-AFP_C6ZL8L7.jpg" type="image/jpeg" length="0"/>
+      <media:content url="https://assets.maestronewsroom.com/media/shared/wires/afp/20260901/7bc794d7bc69-AFP_C6ZL8L7.jpg" medium="image"/>
+    </item>
+    <item>
+      <title>Modi hosts Putin, Xi for BRICS summit in Delhi as US-Iran fighting escalates</title>
+      <link>https://www.arabnews.com/world/modi-hosts-putin-xi-for-brics-summit-in-delhi-as-us-iran-fighting-escalates-3001333</link>
+      <guid isPermaLink="true">https://www.arabnews.com/world/modi-hosts-putin-xi-for-brics-summit-in-delhi-as-us-iran-fighting-escalates-3001333</guid>
+      <pubDate>Fri, 11 Sep 2026 12:03:33 GMT</pubDate>
+      <category>World</category>
+      <description>NEW DELHI: Indian Prime Minister Narendra Modi is hosting the leaders of Russia, China and Iran in New Delhi this weekend for the BRICS summit, as the annual leaders’ forum takes place against the backdrop of the wars in the Middle East and Ukraine. Russian President Vladimir Putin and Iranian President Masoud Pezeshkian are meeting Modi on Friday, while Chinese President Xi Jinping and Saudi Arabia’s Minister of Foreign Affairs Prince Faisal bin Farhan are scheduled to arrive in the Indian cap</description>
+      <enclosure url="https://assets.maestronewsroom.com/media/30f6532d-717b-4366-9158-9c455299fcd9/1789123431966-953a399d14ee644c.jpg" type="image/jpeg" length="0"/>
+      <media:content url="https://assets.maestronewsroom.com/media/30f6532d-717b-4366-9158-9c455299fcd9/1789123431966-953a399d14ee644c.jpg" medium="image"/>
+    </item>
+    <item>
+      <title>Cooking was already an artform in Bronze Age Syria: study</title>
+      <link>https://www.arabnews.com/middle-east/cooking-was-already-an-artform-in-bronze-age-syria-study-3001351</link>
+      <guid isPermaLink="true">https://www.arabnews.com/middle-east/cooking-was-already-an-artform-in-bronze-age-syria-study-3001351</guid>
+      <pubDate>Fri, 11 Sep 2026 11:48:35 GMT</pubDate>
+      <category>Middle East</category>
+      <description>A study reveals that ancient Syrians in the city of Hama were engaged in sophisticated cooking practices 4,500 years ago, which included using imported ingredients and pots with different temperatures.</description>
+      <enclosure url="https://assets.maestronewsroom.com/media/shared/wires/spa/20260904/aa15ad516361-10728982.jpg" type="image/jpeg" length="0"/>
+      <media:content url="https://assets.maestronewsroom.com/media/shared/wires/spa/20260904/aa15ad516361-10728982.jpg" medium="image"/>
+    </item>
+    <item>
+      <title>Ebola outbreak in eastern Congo has now spread to the country&apos;s seventh province, officials say</title>
+      <link>https://www.arabnews.com/world/ebola-outbreak-in-eastern-congo-has-now-spread-to-the-countrys-seventh-province-officials-say-3001349</link>
+      <guid isPermaLink="true">https://www.arabnews.com/world/ebola-outbreak-in-eastern-congo-has-now-spread-to-the-countrys-seventh-province-officials-say-3001349</guid>
+      <pubDate>Fri, 11 Sep 2026 11:46:19 GMT</pubDate>
+      <category>World</category>
+      <description>An Ebola outbreak has expanded to a seventh province in the DR Congo, according to local officials. The outbreak has crossed provincial borders, raising concerns about its containment.</description>
+      <enclosure url="https://assets.maestronewsroom.com/media/shared/wires/ap/20260907/413ee1a7ecb8-Congo_Ebola_Burial_Teams_77424--bc5d6.jpg" type="image/jpeg" length="0"/>
+      <media:content url="https://assets.maestronewsroom.com/media/shared/wires/ap/20260907/413ee1a7ecb8-Congo_Ebola_Burial_Teams_77424--bc5d6.jpg" medium="image"/>
+    </item>
+    <item>
+      <title>Arsenal boss Arteta ‘very surprised’ at Jesus blast over Barcelona move</title>
+      <link>https://www.arabnews.com/sport/arsenal-boss-arteta-very-surprised-at-jesus-blast-over-barcelona-move-3001347</link>
+      <guid isPermaLink="true">https://www.arabnews.com/sport/arsenal-boss-arteta-very-surprised-at-jesus-blast-over-barcelona-move-3001347</guid>
+      <pubDate>Fri, 11 Sep 2026 11:43:27 GMT</pubDate>
+      <category>Sport</category>
+      <description>Arsenal manager Mikel Arteta expressed surprise at Gabriel Jesus’s comments regarding his isolated training and lack of communication prior to his departure to Barcelona. Jesus, now at Barcelona, highlighted his dissatisfaction with the handling of his exit from the North London club.</description>
+      <enclosure url="https://assets.maestronewsroom.com/media/shared/wires/ap/20260906/8d73f1aba2a9-Britain_Premier_League_Soccer_34452--bef12.jpg" type="image/jpeg" length="0"/>
+      <media:content url="https://assets.maestronewsroom.com/media/shared/wires/ap/20260906/8d73f1aba2a9-Britain_Premier_League_Soccer_34452--bef12.jpg" medium="image"/>
+    </item>
+    <item>
+      <title>Modi, Putin embrace before talking trade, energy and defence</title>
+      <link>https://www.arabnews.com/world/modi-putin-embrace-before-talking-trade-energy-and-defence-3001348</link>
+      <guid isPermaLink="true">https://www.arabnews.com/world/modi-putin-embrace-before-talking-trade-energy-and-defence-3001348</guid>
+      <pubDate>Fri, 11 Sep 2026 11:42:34 GMT</pubDate>
+      <category>World</category>
+      <description>Indian Prime Minister Narendra Modi and Russian President Vladimir Putin met in New Delhi to discuss key topics like trade, energy, and defense. The meeting occurred a day before the BRICS summit.</description>
+      <enclosure url="https://assets.maestronewsroom.com/media/shared/wires/ap/20260831/4f539b9d9d7e-Kyrgyzstan_SCO_Summit_16244--79acc.jpg" type="image/jpeg" length="0"/>
+      <media:content url="https://assets.maestronewsroom.com/media/shared/wires/ap/20260831/4f539b9d9d7e-Kyrgyzstan_SCO_Summit_16244--79acc.jpg" medium="image"/>
+    </item>
+    <item>
+      <title>100 games, 80 goals is the scale of Ivan Toney&apos;s impact at Al-Ahli</title>
+      <link>https://www.arabnews.com/sport/100-games-80-goals-is-the-scale-of-ivan-toneys-impact-at-al-ahli-3001340</link>
+      <guid isPermaLink="true">https://www.arabnews.com/sport/100-games-80-goals-is-the-scale-of-ivan-toneys-impact-at-al-ahli-3001340</guid>
+      <pubDate>Fri, 11 Sep 2026 11:21:29 GMT</pubDate>
+      <category>Sport</category>
+      <description>RIYADH: “Ivan Toney is an exceptional striker, in every sense of the word,” said Faisal Zaid, director of the Al-Ahli media center. “He is a player that loves to win, is not fazed by challenges, and has a strong personality on the pitch.” Zaid’s words came after Al-Ahli’s 3-2 defeat to Al-Qadsiah this week, which saw Toney reach a new milestone at the club: 80 goals in his first 100 games. After Al-Ahli fell 3-0 behind in the first half, Toney rallied his teammates and scored a brace to bring th</description>
+      <enclosure url="https://assets.maestronewsroom.com/media/30f6532d-717b-4366-9158-9c455299fcd9/arabnews-import/2025/03/4578660-1216317111.jpg" type="image/jpeg" length="0"/>
+      <media:content url="https://assets.maestronewsroom.com/media/30f6532d-717b-4366-9158-9c455299fcd9/arabnews-import/2025/03/4578660-1216317111.jpg" medium="image"/>
+    </item>
+    <item>
+      <title>DR Congo Ebola outbreak spreads to 7th province: governor</title>
+      <link>https://www.arabnews.com/world/dr-congo-ebola-outbreak-spreads-to-7th-province-governor-3001346</link>
+      <guid isPermaLink="true">https://www.arabnews.com/world/dr-congo-ebola-outbreak-spreads-to-7th-province-governor-3001346</guid>
+      <pubDate>Fri, 11 Sep 2026 11:16:08 GMT</pubDate>
+      <category>World</category>
+      <description>The Ebola outbreak in DR Congo has now extended to a seventh province, Sud-Ubangui, following the death of a patient. The outbreak is the deadliest in DR Congo’s history.</description>
+      <enclosure url="https://assets.maestronewsroom.com/media/shared/wires/ap/20260907/5dd73adfd12c-Congo_Ebola_Burial_Teams_624_6--a8f6b.jpg" type="image/jpeg" length="0"/>
+      <media:content url="https://assets.maestronewsroom.com/media/shared/wires/ap/20260907/5dd73adfd12c-Congo_Ebola_Burial_Teams_624_6--a8f6b.jpg" medium="image"/>
+    </item>
+    <item>
+      <title>Home clubs to get bill for increased policing costs at high-risk matches, German FA says</title>
+      <link>https://www.arabnews.com/sport/home-clubs-to-get-bill-for-increased-policing-costs-at-high-risk-matches-german-fa-says-3001343</link>
+      <guid isPermaLink="true">https://www.arabnews.com/sport/home-clubs-to-get-bill-for-increased-policing-costs-at-high-risk-matches-german-fa-says-3001343</guid>
+      <pubDate>Fri, 11 Sep 2026 10:51:19 GMT</pubDate>
+      <category>Sport</category>
+      <description>The German Football Association announced that home clubs would be responsible for the costs of increased policing at high-risk matches, following a court ruling holding Bundesliga clubs accountable.</description>
+      <enclosure url="https://assets.maestronewsroom.com/media/shared/wires/afp/20260829/f11f704ea08e-AFP_C6TJ8LZ.jpg" type="image/jpeg" length="0"/>
+      <media:content url="https://assets.maestronewsroom.com/media/shared/wires/afp/20260829/f11f704ea08e-AFP_C6TJ8LZ.jpg" medium="image"/>
+    </item>
+    <item>
+      <title>US attacks on ICC come from ‘misunderstanding’: prosecutor</title>
+      <link>https://www.arabnews.com/world/us-attacks-on-icc-come-from-misunderstanding-prosecutor-3001342</link>
+      <guid isPermaLink="true">https://www.arabnews.com/world/us-attacks-on-icc-come-from-misunderstanding-prosecutor-3001342</guid>
+      <pubDate>Fri, 11 Sep 2026 10:48:31 GMT</pubDate>
+      <category>World</category>
+      <description>The US has launched attacks against the International Criminal Court (ICC), which the interim prosecutor claims stem from a misunderstanding of the court’s activities.</description>
+      <enclosure url="https://assets.maestronewsroom.com/media/shared/wires/afp/20260828/ef4f715801c5-AFP_C6RK8XN.jpg" type="image/jpeg" length="0"/>
+      <media:content url="https://assets.maestronewsroom.com/media/shared/wires/afp/20260828/ef4f715801c5-AFP_C6RK8XN.jpg" medium="image"/>
+    </item>
+    <item>
+      <title>Israel gears up for more attacks on Lebanon after tunnel destruction</title>
+      <link>https://www.arabnews.com/middle-east/israel-gears-up-for-more-attacks-on-lebanon-after-tunnel-destruction-3001339</link>
+      <guid isPermaLink="true">https://www.arabnews.com/middle-east/israel-gears-up-for-more-attacks-on-lebanon-after-tunnel-destruction-3001339</guid>
+      <pubDate>Fri, 11 Sep 2026 10:30:36 GMT</pubDate>
+      <category>Middle East</category>
+      <description>Israel has announced readiness for further strikes on Hezbollah following the demolition of tunnels built by the group in southern Lebanon. Defence Minister Israel Katz emphasized the continuation of the campaign against Hezbollah.</description>
+      <enclosure url="https://assets.maestronewsroom.com/media/shared/wires/ap/20260911/905570d794dc-Lebanon_Israel_War_62699--97f89.jpg" type="image/jpeg" length="0"/>
+      <media:content url="https://assets.maestronewsroom.com/media/shared/wires/ap/20260911/905570d794dc-Lebanon_Israel_War_62699--97f89.jpg" medium="image"/>
+    </item>
+    <item>
+      <title>UK lawmakers to vote again on failed assisted dying bill</title>
+      <link>https://www.arabnews.com/world/uk-lawmakers-to-vote-again-on-failed-assisted-dying-bill-3001338</link>
+      <guid isPermaLink="true">https://www.arabnews.com/world/uk-lawmakers-to-vote-again-on-failed-assisted-dying-bill-3001338</guid>
+      <pubDate>Fri, 11 Sep 2026 10:26:33 GMT</pubDate>
+      <category>World</category>
+      <description>UK lawmakers are poised for a crucial vote on a previously rejected assisted dying bill, as protests ensue outside parliament. The bill, which seeks to legalise assisted dying, faces renewed contention after being initially approved by the lower house but rejected by the upper house.</description>
+      <enclosure url="https://assets.maestronewsroom.com/media/shared/wires/reuters/20260910/41fe1c32ba6b-2026-09-10T233152Z_1416484580_RC2E6FAJESB9_RTRMADP_3_BRITAIN-ASSISTED-DYING.JPG" type="image/jpeg" length="0"/>
+      <media:content url="https://assets.maestronewsroom.com/media/shared/wires/reuters/20260910/41fe1c32ba6b-2026-09-10T233152Z_1416484580_RC2E6FAJESB9_RTRMADP_3_BRITAIN-ASSISTED-DYING.JPG" medium="image"/>
+    </item>
+    <item>
+      <title>Is Nabatiyeh’s vocal dissent the beginning of a political shift in Hezbollah’s southern heartland?</title>
+      <link>https://www.arabnews.com/middle-east/is-nabatiyehs-vocal-dissent-the-beginning-of-a-political-shift-in-hezbollahs-southern-heartland-3001196</link>
+      <guid isPermaLink="true">https://www.arabnews.com/middle-east/is-nabatiyehs-vocal-dissent-the-beginning-of-a-political-shift-in-hezbollahs-southern-heartland-3001196</guid>
+      <pubDate>Fri, 11 Sep 2026 10:10:46 GMT</pubDate>
+      <category>Middle East</category>
+      <description>A massive explosion tore through the strategic Ali Al-Taher ridge overlooking Nabatiyeh on Thursday night after the Israeli military detonated what it said was a Hezbollah underground complex extending for more than 2 kilometers beneath the heights.Lebanon’s National News Agency said the blast was felt across Nabatiyeh and surrounding areas. Israel said it had destroyed command centers, weapons stores, living quarters, rockets, missiles, drones and other military infrastructure and had achieved</description>
+      <enclosure url="https://assets.maestronewsroom.com/media/30f6532d-717b-4366-9158-9c455299fcd9/arabnews-import/2026/06/4722426-589268071.jpg" type="image/jpeg" length="0"/>
+      <media:content url="https://assets.maestronewsroom.com/media/30f6532d-717b-4366-9158-9c455299fcd9/arabnews-import/2026/06/4722426-589268071.jpg" medium="image"/>
+    </item>
+    <item>
+      <title>Saudi Arabia shields supply chains with national war-risk insurance pool</title>
+      <link>https://www.arabnews.com/business/saudi-arabia-shields-supply-chains-with-national-war-risk-insurance-pool-3001335</link>
+      <guid isPermaLink="true">https://www.arabnews.com/business/saudi-arabia-shields-supply-chains-with-national-war-risk-insurance-pool-3001335</guid>
+      <pubDate>Fri, 11 Sep 2026 10:08:00 GMT</pubDate>
+      <category>Business</category>
+      <description>RIYADH: Trade can grind to a halt before ports close or shipping lanes are blocked. Disruption can begin elsewhere, when cargo or vessels become too costly or difficult to insure, or when markets are unable to provide adequate coverage for war-related risks. Against a backdrop of rising geopolitical risks in the region and their spillover into maritime traffic, insurance and reinsurance markets, Saudi Arabia is moving to establish a national framework to help keep trade flowing even in a highly</description>
+      <enclosure url="https://assets.maestronewsroom.com/media/shared/arabnews-import/2026/08/4744348-60880625.jpg" type="image/jpeg" length="0"/>
+      <media:content url="https://assets.maestronewsroom.com/media/shared/arabnews-import/2026/08/4744348-60880625.jpg" medium="image"/>
+    </item>
+    <item>
+      <title>At least 46,000 flee escalating fighting in Yemen: UN</title>
+      <link>https://www.arabnews.com/middle-east/at-least-46000-flee-escalating-fighting-in-yemen-un-3001334</link>
+      <guid isPermaLink="true">https://www.arabnews.com/middle-east/at-least-46000-flee-escalating-fighting-in-yemen-un-3001334</guid>
+      <pubDate>Fri, 11 Sep 2026 10:01:58 GMT</pubDate>
+      <category>Middle East</category>
+      <description>The United Nations reports that escalating conflicts in Yemen have displaced at least 46,000 people recently. The fighting between Houthi forces and pro-government troops is intensifying.</description>
+      <enclosure url="https://assets.maestronewsroom.com/media/shared/wires/ap/20260910/14d857fbb12b-Yemen_War_94_27--f1a43.jpg" type="image/jpeg" length="0"/>
+      <media:content url="https://assets.maestronewsroom.com/media/shared/wires/ap/20260910/14d857fbb12b-Yemen_War_94_27--f1a43.jpg" medium="image"/>
+    </item>
+    <item>
+      <title>Russian drone strike on Kyiv gas station kills 2: mayor</title>
+      <link>https://www.arabnews.com/world/russian-drone-strike-on-kyiv-gas-station-kills-2-mayor-3001329</link>
+      <guid isPermaLink="true">https://www.arabnews.com/world/russian-drone-strike-on-kyiv-gas-station-kills-2-mayor-3001329</guid>
+      <pubDate>Fri, 11 Sep 2026 09:31:10 GMT</pubDate>
+      <category>World</category>
+      <description>A Russian drone strike on a gas station in Kyiv resulted in two fatalities and four injuries, heightening concerns about a targeted campaign against fuel stations. Kyiv’s mayor confirmed the deaths in the attack.</description>
+      <enclosure url="https://assets.maestronewsroom.com/media/shared/wires/ap/20260911/72d50d569ba1-Russia_Ukraine_War_93289--fa1fb.jpg" type="image/jpeg" length="0"/>
+      <media:content url="https://assets.maestronewsroom.com/media/shared/wires/ap/20260911/72d50d569ba1-Russia_Ukraine_War_93289--fa1fb.jpg" medium="image"/>
+    </item>
+    <item>
+      <title>IMF says global growth on track to reach 3% in 2026, but risks remain high</title>
+      <link>https://www.arabnews.com/business/imf-says-global-growth-on-track-to-reach-3-in-2026-but-risks-remain-high-3001326</link>
+      <guid isPermaLink="true">https://www.arabnews.com/business/imf-says-global-growth-on-track-to-reach-3-in-2026-but-risks-remain-high-3001326</guid>
+      <pubDate>Fri, 11 Sep 2026 08:13:12 GMT</pubDate>
+      <category>Business</category>
+      <description>The IMF forecasts global growth to hit 3% by 2026, but warns of high risks due to energy shocks and rising public debt. Central bankers are advised to focus on price stability.</description>
+      <enclosure url="https://assets.maestronewsroom.com/media/30f6532d-717b-4366-9158-9c455299fcd9/arabnews-import/2023/09/048197989553340204.jpg" type="image/jpeg" length="0"/>
+      <media:content url="https://assets.maestronewsroom.com/media/30f6532d-717b-4366-9158-9c455299fcd9/arabnews-import/2023/09/048197989553340204.jpg" medium="image"/>
+    </item>
+    <item>
+      <title>Philippine Coast Guard finds bodies aboard ferry after blaze</title>
+      <link>https://www.arabnews.com/world/philippine-coast-guard-finds-bodies-aboard-ferry-after-blaze-3001325</link>
+      <guid isPermaLink="true">https://www.arabnews.com/world/philippine-coast-guard-finds-bodies-aboard-ferry-after-blaze-3001325</guid>
+      <pubDate>Fri, 11 Sep 2026 07:42:52 GMT</pubDate>
+      <category>World</category>
+      <description>Firefighters in the Philippines have entered a burned ferry following a fire that resulted in five deaths and 84 people missing. The ferry was near Coron, Palawan province, at the time of the incident.</description>
+      <enclosure url="https://assets.maestronewsroom.com/media/shared/wires/ap/20260911/94ca5108f390-Philippines_Ferry_Fire_6_17--003c8.jpg" type="image/jpeg" length="0"/>
+      <media:content url="https://assets.maestronewsroom.com/media/shared/wires/ap/20260911/94ca5108f390-Philippines_Ferry_Fire_6_17--003c8.jpg" medium="image"/>
+    </item>
+    <item>
+      <title>Aez Alkhatir to feature in JCSA Sprint Cup</title>
+      <link>https://www.arabnews.com/sport/aez-alkhatir-to-feature-in-jcsa-sprint-cup-3001312</link>
+      <guid isPermaLink="true">https://www.arabnews.com/sport/aez-alkhatir-to-feature-in-jcsa-sprint-cup-3001312</guid>
+      <pubDate>Fri, 11 Sep 2026 07:34:27 GMT</pubDate>
+      <category>Sport</category>
+      <description>DUBAI: Aez Alkhatir (KSA) will make his debut for new owners this Friday when facing 14 rivals in the SR150,000 ($40,000) JCSA Sprint Cup at King Khalid Racecourse in Taif. Formerly owned by Qemat Twaiq Stable, the gelding remains in the care of Homoud Alshamari. But will now sport the colors of the White Stable of King Abdullah bin Abdulaziz &amp; Sons in the 1,200-meter feature when he aims to follow up last month’s Alhada Cup success under Fahad Alfouraidi. Runner-up in the Sarawat Cup on The Sau</description>
+      <enclosure url="https://assets.maestronewsroom.com/media/30f6532d-717b-4366-9158-9c455299fcd9/1789102858922-d90e0a4702721d17.png" type="image/jpeg" length="0"/>
+      <media:content url="https://assets.maestronewsroom.com/media/30f6532d-717b-4366-9158-9c455299fcd9/1789102858922-d90e0a4702721d17.png" medium="image"/>
+    </item>
+    <item>
+      <title>Why do ‘temporary’ weapons depots keep exploding in northwestern Syria?</title>
+      <link>https://www.arabnews.com/middle-east/why-do-temporary-weapons-depots-keep-exploding-in-northwestern-syria-3001324</link>
+      <guid isPermaLink="true">https://www.arabnews.com/middle-east/why-do-temporary-weapons-depots-keep-exploding-in-northwestern-syria-3001324</guid>
+      <pubDate>Fri, 11 Sep 2026 07:29:15 GMT</pubDate>
+      <category>Middle East</category>
+      <description>IDLIB: The latest explosion in the city of Sarmada in northern Idlib province has renewed attention on the threat posed by weapons depots and explosive remnants of war across northwestern Syria. Such explosions have increasingly endangered civilians and undermined stability, prompting growing calls from residents and local groups to dismantle the depots that have long caused anxiety and move them away from populated areas. Fourteen people were killed and 11 others wounded in Wednesday’s explo</description>
+      <enclosure url="https://assets.maestronewsroom.com/media/shared/wires/ap/20260909/3b977867cb79-Syria_Explosion_4_2--bfc26.jpg" type="image/jpeg" length="0"/>
+      <media:content url="https://assets.maestronewsroom.com/media/shared/wires/ap/20260909/3b977867cb79-Syria_Explosion_4_2--bfc26.jpg" medium="image"/>
+    </item>
+    <item>
+      <title>Art Week Syria launches inaugural edition in Damascus</title>
+      <link>https://www.arabnews.com/art-culture/art-week-syria-launches-inaugural-edition-in-damascus-3001321</link>
+      <guid isPermaLink="true">https://www.arabnews.com/art-culture/art-week-syria-launches-inaugural-edition-in-damascus-3001321</guid>
+      <pubDate>Fri, 11 Sep 2026 07:23:44 GMT</pubDate>
+      <category>Art &amp; Culture</category>
+      <description>DUBAI: Art Week Syria opens its first edition in Damascus on Friday, bringing together around 47 Syrian artists across generations at Massar Rose for eight days of exhibitions, film, music, talks and workshops. The multidisciplinary platform runs until Sept. 18 and spans painting, sculpture, photography, digital art, installation and mixed media, offering an overview of artistic practice connected to the Syrian Arab Republic and its wider cultural landscape, organizers said. It was founded by</description>
+      <enclosure url="https://assets.maestronewsroom.com/media/30f6532d-717b-4366-9158-9c455299fcd9/1789109817066-662d74e74a0e1ab7.jpeg" type="image/jpeg" length="0"/>
+      <media:content url="https://assets.maestronewsroom.com/media/30f6532d-717b-4366-9158-9c455299fcd9/1789109817066-662d74e74a0e1ab7.jpeg" medium="image"/>
+    </item>
+    <item>
+      <title>Qiddiya City signs MoUs with 5 leading travel and tourism companies</title>
+      <link>https://www.arabnews.com/art-culture/qiddiya-city-signs-mous-with-5-leading-travel-and-tourism-companies-3001323</link>
+      <guid isPermaLink="true">https://www.arabnews.com/art-culture/qiddiya-city-signs-mous-with-5-leading-travel-and-tourism-companies-3001323</guid>
+      <pubDate>Fri, 11 Sep 2026 07:09:25 GMT</pubDate>
+      <category>Art &amp; Culture</category>
+      <description>Qiddiya City has announced the signing of memoranda of understanding (MoUs) with five major travel and tourism service providers: Al Faris International Travel and Tourism, Travel Destinations Solutions, Al Matar Commercial Services Company, AlMosafer Travel and Tourism Company, and Fursan Travel and Tourism Company. The agreements form part of a strategic direction aimed at expanding Qiddiya City&apos;s network of partnerships in the travel and tourism sector, strengthening its readiness to welcom</description>
+      <enclosure url="https://assets.maestronewsroom.com/media/30f6532d-717b-4366-9158-9c455299fcd9/1789110532673-a3b8e1905afd863c.webp" type="image/jpeg" length="0"/>
+      <media:content url="https://assets.maestronewsroom.com/media/30f6532d-717b-4366-9158-9c455299fcd9/1789110532673-a3b8e1905afd863c.webp" medium="image"/>
+    </item>
+    <item>
+      <title>Red Sea Film Foundation marks record TIFF presence with 8 supported films</title>
+      <link>https://www.arabnews.com/art-culture/red-sea-film-foundation-marks-record-tiff-presence-with-8-supported-films-3001322</link>
+      <guid isPermaLink="true">https://www.arabnews.com/art-culture/red-sea-film-foundation-marks-record-tiff-presence-with-8-supported-films-3001322</guid>
+      <pubDate>Fri, 11 Sep 2026 07:06:57 GMT</pubDate>
+      <category>Art &amp; Culture</category>
+      <description>A record eight Red Sea Film Foundation-supported films are featured at the 51st Toronto International Film Festival, running 10–20 September — the highest number of Red Sea-supported titles to participate at TIFF to date. Seven have been selected for the Centerpiece program, while Angh, directed by Theja Rio and supported by the Red Sea Fund, has been selected for Platform. The Foundation will also take part in the inaugural edition of TIFF: The Market, the Festival’s first official content m</description>
+      <enclosure url="https://assets.maestronewsroom.com/media/30f6532d-717b-4366-9158-9c455299fcd9/1789110354212-751ffbbc215d0198.jpg" type="image/jpeg" length="0"/>
+      <media:content url="https://assets.maestronewsroom.com/media/30f6532d-717b-4366-9158-9c455299fcd9/1789110354212-751ffbbc215d0198.jpg" medium="image"/>
+    </item>
+    <item>
+      <title>Off the beaten track with Nouf AlDossari</title>
+      <link>https://www.arabnews.com/travel/off-the-beaten-track-with-nouf-aldossari-3001251</link>
+      <guid isPermaLink="true">https://www.arabnews.com/travel/off-the-beaten-track-with-nouf-aldossari-3001251</guid>
+      <pubDate>Fri, 11 Sep 2026 06:41:56 GMT</pubDate>
+      <category>Travel</category>
+      <description>RIYADH: Nouf AlDossari is the founder of SaudiExplorer, an Instagram page dedicated to discovering and sharing places and experiences from across the Kingdom. Since launching the page in 2019, the 27-year-old has explored numerous parts of the country while highlighting local businesses, culture, heritage and some of Saudi Arabia’s less well-known experiences. “I’ve always enjoyed trying something I haven’t tried before, visiting somewhere I haven’t been, discovering a new local business or fin</description>
+      <enclosure url="https://assets.maestronewsroom.com/media/30f6532d-717b-4366-9158-9c455299fcd9/1789108704208-62203601857e24d9.jpg" type="image/jpeg" length="0"/>
+      <media:content url="https://assets.maestronewsroom.com/media/30f6532d-717b-4366-9158-9c455299fcd9/1789108704208-62203601857e24d9.jpg" medium="image"/>
+    </item>
+    <item>
+      <title>Pedro Coelho: ‘Give me a beautiful whole fish, fire, olive oil, salt and I&apos;m happy’</title>
+      <link>https://www.arabnews.com/food-health/pedro-coelho-give-me-a-beautiful-whole-fish-fire-olive-oil-salt-and-im-happy-3001254</link>
+      <guid isPermaLink="true">https://www.arabnews.com/food-health/pedro-coelho-give-me-a-beautiful-whole-fish-fire-olive-oil-salt-and-im-happy-3001254</guid>
+      <pubDate>Fri, 11 Sep 2026 06:31:24 GMT</pubDate>
+      <category>Food &amp; Health</category>
+      <description>DUBAI: Pedro Coelho’s journey as a chef has been shaped by curiosity, experience and an enduring love of hospitality. Today, as head chef of Sexy Fish Dubai, Coelho draws on more than 14 years of international experience, including time in Michelin-starred kitchens. Since joining the Dubai outpost in October 2024, the Portuguese chef has helped translate the globally recognized Sexy Fish concept to one of the world’s most competitive dining markets, balancing creativity with the operational dema</description>
+      <enclosure url="https://assets.maestronewsroom.com/media/30f6532d-717b-4366-9158-9c455299fcd9/1789108152209-e7176fca7a94f959.jpg" type="image/jpeg" length="0"/>
+      <media:content url="https://assets.maestronewsroom.com/media/30f6532d-717b-4366-9158-9c455299fcd9/1789108152209-e7176fca7a94f959.jpg" medium="image"/>
+    </item>
+    <item>
+      <title>South Korea, Iran foreign ministers discuss Hormuz in call</title>
+      <link>https://www.arabnews.com/world/south-korea-iran-foreign-ministers-discuss-hormuz-in-call-3001317</link>
+      <guid isPermaLink="true">https://www.arabnews.com/world/south-korea-iran-foreign-ministers-discuss-hormuz-in-call-3001317</guid>
+      <pubDate>Fri, 11 Sep 2026 06:29:41 GMT</pubDate>
+      <category>World</category>
+      <description>South Korea and Iran’s foreign ministers discussed the security of the Strait of Hormuz, following US pressure on Seoul to assist in securing the vital oil passage. South Korea is considering contributing to the waterway’s security.</description>
+      <enclosure url="https://assets.maestronewsroom.com/media/shared/wires/ap/20260906/9875ed8a934e-APTOPIX_Iran_War_Strait_of_Hormuz_76_59--fce8b.jpg" type="image/jpeg" length="0"/>
+      <media:content url="https://assets.maestronewsroom.com/media/shared/wires/ap/20260906/9875ed8a934e-APTOPIX_Iran_War_Strait_of_Hormuz_76_59--fce8b.jpg" medium="image"/>
+    </item>
+    <item>
+      <title>‘The Whisper Man’ — Netflix crime thriller is a waste of talent and time </title>
+      <link>https://www.arabnews.com/entertainment/the-whisper-man-netflix-crime-thriller-is-a-waste-of-talent-and-time-3001258</link>
+      <guid isPermaLink="true">https://www.arabnews.com/entertainment/the-whisper-man-netflix-crime-thriller-is-a-waste-of-talent-and-time-3001258</guid>
+      <pubDate>Fri, 11 Sep 2026 06:25:05 GMT</pubDate>
+      <category>Entertainment</category>
+      <description>DUBAI: The days when Robert De Niro’s name was a guarantee of quality may be long gone, but with De Niro, Adam Scott, Michelle Monaghan, and Michael Keaton all starring, you’d be forgiven a little excitement about “The Whisper Man,” Netflix’s crime thriller directed by James Ashcroft and based on Alex North’s popular 2019 novel. Sadly, this is another on the increasingly long list of sub-underwhelming performances by the two-time Oscar winner. Not that anyone comes out of this looking good (alth</description>
+      <enclosure url="https://assets.maestronewsroom.com/media/30f6532d-717b-4366-9158-9c455299fcd9/1789107772714-89d4c59527d01625.jpg" type="image/jpeg" length="0"/>
+      <media:content url="https://assets.maestronewsroom.com/media/30f6532d-717b-4366-9158-9c455299fcd9/1789107772714-89d4c59527d01625.jpg" medium="image"/>
+    </item>
+    <item>
+      <title>Court postpones arraignment of Philippine VP Duterte on grave threat charges</title>
+      <link>https://www.arabnews.com/world/court-postpones-arraignment-of-philippine-vp-duterte-on-grave-threat-charges-3001315</link>
+      <guid isPermaLink="true">https://www.arabnews.com/world/court-postpones-arraignment-of-philippine-vp-duterte-on-grave-threat-charges-3001315</guid>
+      <pubDate>Fri, 11 Sep 2026 05:55:14 GMT</pubDate>
+      <category>World</category>
+      <description>The arraignment of Philippine Vice President Sara Duterte on charges of making grave threats against President Ferdinand Marcos Jr. has been postponed, potentially impacting her future political ambitions.</description>
+      <enclosure url="https://assets.maestronewsroom.com/media/shared/wires/ap/20260911/2b7bff93a761-Philippines_Vice_President_68346--5675d.jpg" type="image/jpeg" length="0"/>
+      <media:content url="https://assets.maestronewsroom.com/media/shared/wires/ap/20260911/2b7bff93a761-Philippines_Vice_President_68346--5675d.jpg" medium="image"/>
+    </item>
+  </channel>
+</rss>

@@ -1,0 +1,16 @@
+
+> osiris-file-sisi@1.0.0 test
+> vitest run
+
+[33mThe CJS build of Vite's Node API is deprecated. See https://vite.dev/guide/troubleshooting.html#vite-cjs-node-api-deprecated for more details.[39m
+
+[1m[7m[36m RUN [39m[27m[22m [36mv2.1.9 [39m[90m/home/runner/work/osiris-file-sisi/osiris-file-sisi[39m
+
+ [2m[90m↓[39m[22m src/lib/gdeltEvents.test.ts [2m([22m[2m2 tests[22m[2m | [22m[33m2 skipped[39m[2m)[22m
+ [32m✓[39m src/lib/osiris/classify.test.ts [2m([22m[2m16 tests[22m[2m)[22m[33m 332[2mms[22m[39m
+
+[2m Test Files [22m [1m[32m1 passed[39m[22m[2m | [22m[33m1 skipped[39m[90m (2)[39m
+[2m      Tests [22m [1m[32m16 passed[39m[22m[2m | [22m[33m2 skipped[39m[90m (18)[39m
+[2m   Start at [22m 14:35:11
+[2m   Duration [22m 978ms[2m (transform 354ms, setup 0ms, collect 477ms, tests 332ms, environment 0ms, prepare 204ms)[22m
+

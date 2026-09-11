@@ -1,0 +1,224 @@
+200 https://www.aljazeera.com/xml/rss/all.xml
+application/rss+xml; charset=UTF-8
+
+<rss version="2.0" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/"
+	>
+	<channel>
+		<atom:link href="https://www.aljazeera.com/xml/rss/all.xml" rel="self" type="application/rss+xml"/>
+		<title>Al Jazeera &#8211; Breaking News, World News and Video from Al Jazeera</title>
+		<link>https://www.aljazeera.com</link>
+		<managingEditor>apps.support@aljazeera.net (Apps Support)</managingEditor>
+		<webMaster>apps.support@aljazeera.net (Apps Support)</webMaster>
+		<description>Breaking News, World News and Video from Al Jazeera</description>
+		<copyright>© 2026 Al Jazeera Media Network</copyright>
+		<lastBuildDate>Fri, 11 Sep 2026 14:22:19 +0000</lastBuildDate>
+		<language>en</language>
+		<image>
+			<url>https://www.aljazeera.com/images/logo_aje.png</url>
+			<title>Al Jazeera &#8211; Breaking News, World News and Video from Al Jazeera</title>
+			<link>https://www.aljazeera.com</link>
+			<description>Breaking News, World News and Video from Al Jazeera</description>
+		</image>
+		<generator>https://wordpress.org/?v=7.0.4</generator>
+<site xmlns="com-wordpress:feed-additions:1">213497099</site>			<item>
+				<link>https://www.aljazeera.com/sports/2026/9/11/hull-city-sorba-thomas-car-crash-accident-training-ground-premier-league?traffic_source=rss</link>
+				<title>Hull City’s Sorba Thomas unharmed as car overturned in crash</title>
+				<description><![CDATA[Premier League club confirms accident, says 27-year-old Welsh international &#039;unscathed&#039;.]]></description>
+				<pubDate>Fri, 11 Sep 2026 14:22:19 +0000</pubDate>
+				<category>Sport</category>
+				<guid isPermaLink="false">https://www.aljazeera.com/?t=1789127715</guid>
+				<post-id xmlns="com-wordpress:feed-additions:1">4940260</post-id>			</item>
+					<item>
+				<link>https://www.aljazeera.com/news/2026/9/11/majority-do-not-welcome-him-trump-heads-to-ireland-amid-fury-over-gaza?traffic_source=rss</link>
+				<title>‘Majority do not welcome him’: Trump heads to Ireland amid fury over Gaza</title>
+				<description><![CDATA[Protests set to erupt across Ireland, where President Connolly has long regarded the US as an untrustworthy power.]]></description>
+				<pubDate>Fri, 11 Sep 2026 14:09:52 +0000</pubDate>
+				<category>News</category>
+				<guid isPermaLink="false">https://www.aljazeera.com/?t=1789118434</guid>
+				<post-id xmlns="com-wordpress:feed-additions:1">4940260</post-id>			</item>
+					<item>
+				<link>https://www.aljazeera.com/news-analysis/2026/9/11/why-pakistan-is-talking-to-iran-as-the-houthi-saudi-fight-escalates?traffic_source=rss</link>
+				<title>Why Pakistan is talking to Iran as the Houthi-Saudi fight escalates</title>
+				<description><![CDATA[Pakistan faces growing pressure to honour its Saudi defence commitments while keeping diplomatic channels to Iran open.]]></description>
+				<pubDate>Fri, 11 Sep 2026 14:07:00 +0000</pubDate>
+				<category>News Analysis</category>
+				<guid isPermaLink="false">https://www.aljazeera.com/?t=1789127505</guid>
+				<post-id xmlns="com-wordpress:feed-additions:1">4940260</post-id>			</item>
+					<item>
+				<link>https://www.aljazeera.com/features/longform/2026/9/11/the-vanishing-pharmacy-of-the-sundarbans?traffic_source=rss</link>
+				<title>The vanishing pharmacy of the Sundarbans</title>
+				<description><![CDATA[As rising seas push salt into the world&#039;s largest mangrove, traditional medicinal plants are being lost.]]></description>
+				<pubDate>Fri, 11 Sep 2026 13:29:29 +0000</pubDate>
+				<category>Features</category>
+				<guid isPermaLink="false">https://www.aljazeera.com/?t=1789115876</guid>
+				<post-id xmlns="com-wordpress:feed-additions:1">4940260</post-id>			</item>
+					<item>
+				<link>https://www.aljazeera.com/opinions/2026/9/11/the-dystopian-legal-architecture-of-the-war-on-terror-must-be-dismantled?traffic_source=rss</link>
+				<title>The dystopian legal architecture of the ‘war on terror’ must be dismantled</title>
+				<description><![CDATA[A quarter-century after 9/11, we are still living under the security order it unleashed.]]></description>
+				<pubDate>Fri, 11 Sep 2026 13:24:58 +0000</pubDate>
+				<category>Opinions</category>
+				<guid isPermaLink="false">https://www.aljazeera.com/?t=1789120967</guid>
+				<post-id xmlns="com-wordpress:feed-additions:1">4940260</post-id>			</item>
+					<item>
+				<link>https://www.aljazeera.com/sports/2026/9/11/arsenal-manager-arteta-very-surprised-at-jesus-blast-over-barcelona-move?traffic_source=rss</link>
+				<title>Arsenal manager Arteta ‘very surprised’ at Jesus blast over Barcelona move</title>
+				<description><![CDATA[Gabriel Jesus claims he was forced to train alone before Barcelona move, but Arsenal &#039;surprised&#039; by criticism.]]></description>
+				<pubDate>Fri, 11 Sep 2026 13:18:47 +0000</pubDate>
+				<category>Sport</category>
+				<guid isPermaLink="false">https://www.aljazeera.com/?t=1789127160</guid>
+				<post-id xmlns="com-wordpress:feed-additions:1">4940260</post-id>			</item>
+					<item>
+				<link>https://www.aljazeera.com/news/2026/9/11/russian-strikes-kill-two-in-kyiv-as-moscow-targets-capitals-fuel-stations?traffic_source=rss</link>
+				<title>Russian strikes kill two in Kyiv as Moscow targets capital’s fuel stations</title>
+				<description><![CDATA[Second day of strikes on fuel stations suggest a new campaign focused on civilian areas in the Ukrainian capital.]]></description>
+				<pubDate>Fri, 11 Sep 2026 13:09:44 +0000</pubDate>
+				<category>News</category>
+				<guid isPermaLink="false">https://www.aljazeera.com/?t=1789125591</guid>
+				<post-id xmlns="com-wordpress:feed-additions:1">4940260</post-id>			</item>
+					<item>
+				<link>https://www.aljazeera.com/video/newsfeed/2026/9/11/from-hunger-crisis-to-obesity-how-gazas-un-data-is-being-twisted?traffic_source=rss</link>
+				<title>From hunger crisis to ‘obesity’: how Gaza’s UN data is being twisted</title>
+				<description><![CDATA[US and Israeli officials are using a drop in acute malnutrition cases to claim Gaza has no hunger.]]></description>
+				<pubDate>Fri, 11 Sep 2026 12:30:02 +0000</pubDate>
+				<category>Show Types</category>
+				<guid isPermaLink="false">https://www.aljazeera.com/?t=1789129301</guid>
+				<post-id xmlns="com-wordpress:feed-additions:1">4940260</post-id>			</item>
+					<item>
+				<link>https://www.aljazeera.com/news/2026/9/11/myanmar-airport-closed-following-reported-drone-attack?traffic_source=rss</link>
+				<title>Myanmar airport closed following reported drone attack</title>
+				<description><![CDATA[Military government pins attack on pro-democracy rebels it has been battling since seizing power in 2021.]]></description>
+				<pubDate>Fri, 11 Sep 2026 12:22:12 +0000</pubDate>
+				<category>News</category>
+				<guid isPermaLink="false">https://www.aljazeera.com/?t=1789120861</guid>
+				<post-id xmlns="com-wordpress:feed-additions:1">4940260</post-id>			</item>
+					<item>
+				<link>https://www.aljazeera.com/news/2026/9/11/a-historic-day-spain-moves-closer-to-citizenship-for-western-saharans?traffic_source=rss</link>
+				<title>‘A historic day’: Spain moves closer to citizenship for Western Saharans</title>
+				<description><![CDATA[Spain’s parliament backs citizenship for Sahrawis amid tense relations with Morocco after the Ceuta crossing. ]]></description>
+				<pubDate>Fri, 11 Sep 2026 12:09:50 +0000</pubDate>
+				<category>News</category>
+				<guid isPermaLink="false">https://www.aljazeera.com/?t=1789117173</guid>
+				<post-id xmlns="com-wordpress:feed-additions:1">4940260</post-id>			</item>
+					<item>
+				<link>https://www.aljazeera.com/sports/2026/9/11/fifa-rebukes-morocco-claim-they-will-host-2030-world-cup-final?traffic_source=rss</link>
+				<title>FIFA rebukes Morocco’s claim it will host 2030 World Cup final</title>
+				<description><![CDATA[Morocco to co-host 2030 ​tournament with Spain and Portugal, but FIFA denies final will be in North Africa.]]></description>
+				<pubDate>Fri, 11 Sep 2026 11:27:30 +0000</pubDate>
+				<category>Sport</category>
+				<guid isPermaLink="false">https://www.aljazeera.com/?t=1789122065</guid>
+				<post-id xmlns="com-wordpress:feed-additions:1">4940260</post-id>			</item>
+					<item>
+				<link>https://www.aljazeera.com/news/2026/9/11/swiss-police-report-five-killed-in-dutch-tour-bus-crash?traffic_source=rss</link>
+				<title>Swiss police report five killed in Dutch tour bus crash</title>
+				<description><![CDATA[Bus carrying 45 Dutch tourists overturned and landed in a construction zone near an Alpine village.]]></description>
+				<pubDate>Fri, 11 Sep 2026 11:18:08 +0000</pubDate>
+				<category>News</category>
+				<guid isPermaLink="false">https://www.aljazeera.com/?t=1789114339</guid>
+				<post-id xmlns="com-wordpress:feed-additions:1">4940260</post-id>			</item>
+					<item>
+				<link>https://www.aljazeera.com/video/newsfeed/2026/9/11/republican-midterm-message-democrats-are-the-threat?traffic_source=rss</link>
+				<title>Republican midterm message: Democrats are the threat</title>
+				<description><![CDATA[ Republican speakers portrayed Democrats as a threat to America on night two of their midterm convention in Dallas.]]></description>
+				<pubDate>Fri, 11 Sep 2026 10:50:33 +0000</pubDate>
+				<category>Show Types</category>
+				<guid isPermaLink="false">https://www.aljazeera.com/?t=1789123278</guid>
+				<post-id xmlns="com-wordpress:feed-additions:1">4940260</post-id>			</item>
+					<item>
+				<link>https://www.aljazeera.com/video/newsfeed/2026/9/11/09-11-reported-israel-hezb-tunnels-lebanon-mp4?traffic_source=rss</link>
+				<title>Al Jazeera explains massive Israeli blasts on south Lebanon hill</title>
+				<description><![CDATA[Israeli forces say they used more than 1,100 tonnes of explosives to demolish alleged Hezbollah tunnels in south Lebanon]]></description>
+				<pubDate>Fri, 11 Sep 2026 10:48:30 +0000</pubDate>
+				<category>Show Types</category>
+				<guid isPermaLink="false">https://www.aljazeera.com/?t=1789123493</guid>
+				<post-id xmlns="com-wordpress:feed-additions:1">4940260</post-id>			</item>
+					<item>
+				<link>https://www.aljazeera.com/news/2026/9/11/blew-the-hell-out-of-it-how-iran-damaged-us-bases-in-bahrain-jordan?traffic_source=rss</link>
+				<title>‘Blew the hell out of it’: How Iran damaged US bases in Bahrain, Jordan</title>
+				<description><![CDATA[US official admits the naval base near Manama sustained heavy damage in the war with Iran. ]]></description>
+				<pubDate>Fri, 11 Sep 2026 10:41:35 +0000</pubDate>
+				<category>News</category>
+				<guid isPermaLink="false">https://www.aljazeera.com/?t=1789118124</guid>
+				<post-id xmlns="com-wordpress:feed-additions:1">4940260</post-id>			</item>
+					<item>
+				<link>https://www.aljazeera.com/video/newsfeed/2026/9/11/family-members-wait-after-deadly-philippines-ferry-fire?traffic_source=rss</link>
+				<title>Family members wait after deadly Philippines ferry fire</title>
+				<description><![CDATA[Dozens of passengers are missing after a fire tore through a ferry in the Philippines, killing at least 5 people.]]></description>
+				<pubDate>Fri, 11 Sep 2026 10:29:53 +0000</pubDate>
+				<category>Show Types</category>
+				<guid isPermaLink="false">https://www.aljazeera.com/?t=1789122159</guid>
+				<post-id xmlns="com-wordpress:feed-additions:1">4940260</post-id>			</item>
+					<item>
+				<link>https://www.aljazeera.com/news/2026/9/11/houthis-take-control-of-yemens-red-sea-coast-key-shipping-route?traffic_source=rss</link>
+				<title>Houthis control key shipping route after gains along Yemen’s Red Sea coast</title>
+				<description><![CDATA[Rapid advance of Iran-backed force threatens key alternative shipping route to Strait of Hormuz.]]></description>
+				<pubDate>Fri, 11 Sep 2026 10:11:17 +0000</pubDate>
+				<category>News</category>
+				<guid isPermaLink="false">https://www.aljazeera.com/?t=1789117679</guid>
+				<post-id xmlns="com-wordpress:feed-additions:1">4940260</post-id>			</item>
+					<item>
+				<link>https://www.aljazeera.com/news/2026/9/11/japan-india-ukraine-why-some-countries-are-uneasy-about-new-un-map?traffic_source=rss</link>
+				<title>Japan, India, Ukraine: Why some countries are uneasy about new UN map</title>
+				<description><![CDATA[The countries are not opposed to a new map per se; they&#039;re testy about the colour shades.]]></description>
+				<pubDate>Fri, 11 Sep 2026 09:11:42 +0000</pubDate>
+				<category>News</category>
+				<guid isPermaLink="false">https://www.aljazeera.com/?t=1789112526</guid>
+				<post-id xmlns="com-wordpress:feed-additions:1">4940260</post-id>			</item>
+					<item>
+				<link>https://www.aljazeera.com/sports/2026/9/11/world-athletics-ultimate-championship-opens-with-record-10m-prize-pot?traffic_source=rss</link>
+				<title>World Athletics Ultimate Championship opens with record $10m prize pot</title>
+				<description><![CDATA[The inaugural Ultimate Championship opens with Olympic Games champions competing for a record prize pot of $10m.]]></description>
+				<pubDate>Fri, 11 Sep 2026 08:50:40 +0000</pubDate>
+				<category>Sport</category>
+				<guid isPermaLink="false">https://www.aljazeera.com/?t=1789020849</guid>
+				<post-id xmlns="com-wordpress:feed-additions:1">4940260</post-id>			</item>
+					<item>
+				<link>https://www.aljazeera.com/news/2026/9/11/pro-palestine-student-suspended-by-kings-college-london-returns-to-campus?traffic_source=rss</link>
+				<title>Pro-Palestine student suspended by King’s College London returns to campus</title>
+				<description><![CDATA[College lifts suspension amid criticism from student groups over crackdown on pro-Palestine sentiments.]]></description>
+				<pubDate>Fri, 11 Sep 2026 08:22:02 +0000</pubDate>
+				<category>News</category>
+				<guid isPermaLink="false">https://www.aljazeera.com/?t=1789074775</guid>
+				<post-id xmlns="com-wordpress:feed-additions:1">4940260</post-id>			</item>
+					<item>
+				<link>https://www.aljazeera.com/video/by-the-numbers-3/2026/9/11/what-did-25-years-of-the-war-on-terror-leave-behind?traffic_source=rss</link>
+				<title>What did 25 years of the “war on terror” leave behind?</title>
+				<description><![CDATA[US forces have bombed somewhere every year since 2001. AJLabs maps the so-called “war on terror”.]]></description>
+				<pubDate>Fri, 11 Sep 2026 08:20:32 +0000</pubDate>
+				<category>Show Types</category>
+				<guid isPermaLink="false">https://www.aljazeera.com/?t=1789114653</guid>
+				<post-id xmlns="com-wordpress:feed-additions:1">4940260</post-id>			</item>
+					<item>
+				<link>https://www.aljazeera.com/opinions/2026/9/11/how-9-11-helped-israel-sell-its-war-on-palestinians-to?traffic_source=rss</link>
+				<title>How 9/11 helped Israel sell its war on Palestinians to America</title>
+				<description><![CDATA[The &#039;war on terror&#039; made Israeli repression easier to present as part of a shared struggle against a common enemy.]]></description>
+				<pubDate>Fri, 11 Sep 2026 08:18:18 +0000</pubDate>
+				<category>Opinions</category>
+				<guid isPermaLink="false">https://www.aljazeera.com/?t=1789045912</guid>
+				<post-id xmlns="com-wordpress:feed-additions:1">4940260</post-id>			</item>
+					<item>
+				<link>https://www.aljazeera.com/news/2026/9/11/anthropic-warns-of-bids-to-use-ai-to-build-biological-weapons?traffic_source=rss</link>
+				<title>Anthropic warns of bids to use AI to build biological weapons</title>
+				<description><![CDATA[Experts urge stricter access to AI models as Anthropic reports rising misuse cases, including biological research risks.]]></description>
+				<pubDate>Fri, 11 Sep 2026 08:08:43 +0000</pubDate>
+				<category>News</category>
+				<guid isPermaLink="false">https://www.aljazeera.com/?t=1789109105</guid>
+				<post-id xmlns="com-wordpress:feed-additions:1">4940260</post-id>			</item>
+					<item>
+				<link>https://www.aljazeera.com/news/2026/9/11/hong-kong-court-hands-stiff-jail-sentences-to-tiananmen-vigil-activists?traffic_source=rss</link>
+				<title>Hong Kong court hands stiff jail sentences to Tiananmen vigil activists</title>
+				<description><![CDATA[Convictions came under draconian national security law imposed on Hong Kong in 2020 following huge protests.]]></description>
+				<pubDate>Fri, 11 Sep 2026 08:00:28 +0000</pubDate>
+				<category>News</category>
+				<guid isPermaLink="false">https://www.aljazeera.com/?t=1789108085</guid>
+				<post-id xmlns="com-wordpress:feed-additions:1">4940260</post-id>			</item>
+					<item>
+				<link>https://www.aljazeera.com/sports/2026/9/11/fifa-want-fifa-subsidiaries-blocked-from-infantino-discovery-fight-in-us?traffic_source=rss</link>
+				<title>UEFA wants FIFA subsidiaries’ blocked from Infantino discovery fight in US</title>
+				<description><![CDATA[UEFA urges US court to deny FIFA subsidiaries&#039; bid to join Gianni Infantino discovery fight as president battle rumbles.]]></description>
+				<pubDate>Fri, 11 Sep 2026 07:57:55 +0000</pubDate>
+				<category>Sport</category>
+				<guid isPermaLink="false">https://www.aljazeera.com/?t=1789111060</guid>
+				<post-id xmlns="com-wordpress:feed-additions:1">4940260</post-id>			</item>
+			</channel>
+</rss>

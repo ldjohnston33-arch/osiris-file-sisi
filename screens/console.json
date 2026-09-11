@@ -1,0 +1,42 @@
+[
+  {
+    "name": "desktop",
+    "type": "warning",
+    "text": "[.WebGL-0x3b2c001a4200]GL Driver Message (OpenGL, Performance, GL_CLOSE_PATH_NV, High): GPU stall due to ReadPixels"
+  },
+  {
+    "name": "desktop",
+    "type": "warning",
+    "text": "[.WebGL-0x3b2c001a4200]GL Driver Message (OpenGL, Performance, GL_CLOSE_PATH_NV, High): GPU stall due to ReadPixels"
+  },
+  {
+    "name": "desktop",
+    "type": "warning",
+    "text": "[.WebGL-0x3b2c001a4200]GL Driver Message (OpenGL, Performance, GL_CLOSE_PATH_NV, High): GPU stall due to ReadPixels"
+  },
+  {
+    "name": "desktop",
+    "type": "warning",
+    "text": "[.WebGL-0x3b2c001a4200]GL Driver Message (OpenGL, Performance, GL_CLOSE_PATH_NV, High): GPU stall due to ReadPixels (this message will no longer repeat)"
+  },
+  {
+    "name": "desktop",
+    "type": "warning",
+    "text": "Image \"circle-11\" could not be loaded. Please make sure you have added the image before it is needed with map.addImage(), resolved it with map.setMissingStyleImageResolver(), or included it in a \"sprite\" property in your style."
+  },
+  {
+    "name": "desktop",
+    "type": "script",
+    "text": "TimeoutError: locator.click: Timeout 30000ms exceeded.\nCall log:\n  - waiting for locator('.tl-dot[style*=\"--dot: #ff4d5e\"]').first()\n    - locator resolved to <button class=\"tl-dot\" aria-label=\"11 Sept 2026: 'You have two million targets in Gaza': Israeli soldier details killings of Palestinians\"></button>\n  - attempting click action\n    2 × waiting for element to be visible, enabled and stable\n      - element is visible, enabled and stable\n      - scrolling into view if needed\n      - done scrolling\n      - <div class=\"scrim\"></div> intercepts pointer events\n    - retrying click action\n    - waiting 20ms\n    - waiting for element to be visible, enabled and stable\n    - element is visible, enabled and stable\n    - scrolling into view if needed\n    - done scrolling\n    - <div class=\"scrim\">"
+  },
+  {
+    "name": "phone",
+    "type": "warning",
+    "text": "Image \"circle-11\" could not be loaded. Please make sure you have added the image before it is needed with map.addImage(), resolved it with map.setMissingStyleImageResolver(), or included it in a \"sprite\" property in your style."
+  },
+  {
+    "name": "phone",
+    "type": "metric",
+    "text": "horizontal overflow px: 0"
+  }
+]

@@ -1,0 +1,110 @@
+depth=0 CN = *.sis.gov.eg
+verify error:num=20:unable to get local issuer certificate
+verify return:1
+depth=0 CN = *.sis.gov.eg
+verify error:num=21:unable to verify the first certificate
+verify return:1
+depth=0 CN = *.sis.gov.eg
+verify return:1
+CONNECTED(00000003)
+---
+Certificate chain
+ 0 s:CN = *.sis.gov.eg
+   i:C = GB, O = Sectigo Limited, CN = Sectigo Public Server Authentication CA DV R36
+   a:PKEY: rsaEncryption, 2048 (bit); sigalg: RSA-SHA256
+   v:NotBefore: Mar  3 00:00:00 2026 GMT; NotAfter: Mar  5 23:59:59 2027 GMT
+-----BEGIN CERTIFICATE-----
+MIIGjTCCBPWgAwIBAgIQA0KmvjpSaLcxh/KyqPMjYDANBgkqhkiG9w0BAQsFADBg
+MQswCQYDVQQGEwJHQjEYMBYGA1UEChMPU2VjdGlnbyBMaW1pdGVkMTcwNQYDVQQD
+Ey5TZWN0aWdvIFB1YmxpYyBTZXJ2ZXIgQXV0aGVudGljYXRpb24gQ0EgRFYgUjM2
+MB4XDTI2MDMwMzAwMDAwMFoXDTI3MDMwNTIzNTk1OVowFzEVMBMGA1UEAwwMKi5z
+aXMuZ292LmVnMIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEA2pAmue5G
+XunyAMsg7/HMucKgdh/I7BJLA/gWpRHODNRMRUpYwDbG8hNqHDlmPOIPEU2GtLa0
+fU8Vc5/P0j2Zak83cKYPTZedV3xNZqHcuF0t2oBI5o59Oi3APOpQ12IEiNVLvzu6
+M+gworvc/9CVDQQcGgNZiEOHorD4XG22P963TC7jmwwTQpstA/ghecJ0mR4Ln0YL
+RugQf6y+gipJbRpE0f+0TyJnv9whS6qSoACocug6sSgJDtP84JM7brgy087v8e+1
+QlU019GBbOBicyPdcznrrM/VX+n0EwuJTt4jxznDDGlFxW/HcbqE0TmxR+RzVPGe
+4IhOcp6CrpLy6wIDAQABo4IDCjCCAwYwHwYDVR0jBBgwFoAUaMASFhgOr872h6Yy
+V6NGUV3LBycwHQYDVR0OBBYEFDAao3OCUSIlOe91q7J/LHMBA1fDMA4GA1UdDwEB
+/wQEAwIFoDAMBgNVHRMBAf8EAjAAMB0GA1UdJQQWMBQGCCsGAQUFBwMBBggrBgEF
+BQcDAjBJBgNVHSAEQjBAMDQGCysGAQQBsjEBAgIHMCUwIwYIKwYBBQUHAgEWF2h0
+dHBzOi8vc2VjdGlnby5jb20vQ1BTMAgGBmeBDAECATCBhAYIKwYBBQUHAQEEeDB2
+ME8GCCsGAQUFBzAChkNodHRwOi8vY3J0LnNlY3RpZ28uY29tL1NlY3RpZ29QdWJs
+aWNTZXJ2ZXJBdXRoZW50aWNhdGlvbkNBRFZSMzYuY3J0MCMGCCsGAQUFBzABhhdo
+dHRwOi8vb2NzcC5zZWN0aWdvLmNvbTAjBgNVHREEHDAaggwqLnNpcy5nb3YuZWeC
+CnNpcy5nb3YuZWcwggGOBgorBgEEAdZ5AgQCBIIBfgSCAXoBeAB2AByfaCzp+vBF
+aVD4G5aKh93bMhDYTObIsuOCUkrEz1mfAAABnLMYossAAAQDAEcwRQIgOT9mZFmp
+Yrrk5pROVjCj1M8p6s2Aza0AUqBCIAyDlTUCIQCdDvBQACy93S39E/CnX3Qmixmd
+dXRjuNYiaBPc0WdwQAB+AI7KRwus3mrzogawpHqEt0b+H8a/lT4l5ptO5AJI88bo
+AAABnLMYpTYACAAABQADAYlYBAMARzBFAiEArKjjhlxQBNW+OhAm7Oe1rOg2AMov
+ohbGafdXUs0eZAQCIBAyyttA5FSF24N2iLygbdgAiPw6+QG/xKBC0we8cNLXAH4A
+WW5sM4aUsllyolbIoOjdkEp26Ag92oc7AQg4KBQ87lkAAAGcsxiiUgAIAAAFAAAw
+1AkEAwBHMEUCIE5ihR8/miLF1KZkpaUhMWDrX0Ja3bpLK8DyTW/KQBMzAiEAquTf
+NSS/S8D2T875eNLu7p0CIgGHqbZes3kw3mCI1lkwDQYJKoZIhvcNAQELBQADggGB
+AIlmmh+324OSlD8CPlG/DaLPgot4+DMu5psuL3i7CV5HTiyn8RdM2SKwnMxFU2AS
+4DD9/OUYr8wtmfia7WceKfasqbc+jadQ77wspYPK9N1XD3XpnInYrxZVXR0oFoNK
+/gP99DYPatthGAOJ/7jIeSBPK+W5Ooh27h3MC9WogfwGAF53Z22YvZ8CVGmAU81O
+FPqYo9LkBqbRMFkoTAM2bnR7pv0y8Fx/KQJlUarQ9J5msJ2UgOyJwPuaUordc5UB
+0Ftc1TZHrffYte2wL4lKVEb5NLtzTHQaWNwstLqBN0+m55coaiTUdLzevylLh9Lj
+pYI9Yk5iWv+taozI/5YNuPdgvpv72igKdlqAR9jG2RXYIkSdg6alBO2aTuKgBBtW
+AuY9zVeZMxcFSJSZzW9yr5r/K4bO6P3X0LBi1G+1uVNEb6t0L+hrdsgzHPptTQ1V
+c2C0eISzeg6bUQksTypmW1aKPpICkSvAatKFB1gVaLr5VdY6pe9aTyHXvRVZ/40E
+LQ==
+-----END CERTIFICATE-----
+---
+Server certificate
+subject=CN = *.sis.gov.eg
+issuer=C = GB, O = Sectigo Limited, CN = Sectigo Public Server Authentication CA DV R36
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: RSA-PSS
+Server Temp Key: X25519, 253 bits
+---
+SSL handshake has read 2342 bytes and written 409 bytes
+Verification error: unable to verify the first certificate
+---
+New, TLSv1.2, Cipher is ECDHE-RSA-AES256-GCM-SHA384
+Server public key is 2048 bit
+Secure Renegotiation IS supported
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+SSL-Session:
+    Protocol  : TLSv1.2
+    Cipher    : ECDHE-RSA-AES256-GCM-SHA384
+    Session-ID: DC79908BB89A0396EE2D1817EB8B7CF95AA31C8E6DC8C665F8DA731434839855
+    Session-ID-ctx: 
+    Master-Key: DD742BB2841DC2557DCDCD748E67390655CE76A78BCEAF8D1220FB12C2E74B8FB1CA75DAADAE687363708FE04D1A39B1
+    PSK identity: None
+    PSK identity hint: None
+    SRP username: None
+    TLS session ticket lifetime hint: 7200 (seconds)
+    TLS session ticket:
+    0000 - f2 bb 0e 6d ed 68 6c f9-a2 0e c9 f0 d8 c2 04 56   ...m.hl........V
+    0010 - c3 ba b2 40 98 5f 17 e1-8d 9f cd 4c 93 d1 30 9a   ...@._.....L..0.
+    0020 - f9 64 fe 1a ef b0 0c da-c3 dd ea 5d 6e 66 e1 db   .d.........]nf..
+    0030 - 39 72 4e ae fe c2 6a 5e-b0 39 da 59 06 16 46 ea   9rN...j^.9.Y..F.
+    0040 - 9a 7e ab 92 11 fc a0 be-7a 25 b5 38 e6 b1 e8 ce   .~......z%.8....
+    0050 - ae 8f 73 8a 71 c8 f7 7a-2a 5a ab 28 48 22 17 a6   ..s.q..z*Z.(H"..
+    0060 - bd 85 eb ab ba 6f 52 e8-5c 0c b0 6b e4 8a 0d 69   .....oR.\..k...i
+    0070 - a1 c9 26 73 c1 ec b0 ae-cd 2c 80 f1 e8 76 ea 31   ..&s.....,...v.1
+    0080 - af 21 c4 42 fc 53 df 17-3e 4d 88 75 ce 70 df 54   .!.B.S..>M.u.p.T
+    0090 - bd 4d 52 49 cc a0 6f 59-f2 2a 9c 69 77 56 4a be   .MRI..oY.*.iwVJ.
+    00a0 - c1 66 54 8f db 72 12 37-7e 48 a7 5f cd b6 6f 65   .fT..r.7~H._..oe
+    00b0 - d9 24 29 64 6f 42 bc a9-67 b1 fc 40 b6 87 e9 7a   .$)doB..g..@...z
+
+    Start Time: 1789137309
+    Timeout   : 7200 (sec)
+    Verify return code: 21 (unable to verify the first certificate)
+    Extended master secret: yes
+---
+DONE
+        Issuer: C = GB, O = Sectigo Limited, CN = Sectigo Public Server Authentication CA DV R36
+        Validity
+            Not Before: Mar  3 00:00:00 2026 GMT
+--
+            Authority Information Access: 
+                CA Issuers - URI:http://crt.sectigo.com/SectigoPublicServerAuthenticationCADVR36.crt
+                OCSP - URI:http://ocsp.sectigo.com
+            X509v3 Subject Alternative Name: 

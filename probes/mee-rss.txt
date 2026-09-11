@@ -1,0 +1,2186 @@
+200 https://www.middleeasteye.net/rss
+application/rss+xml; charset=utf-8
+
+<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:og="http://ogp.me/ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:schema="http://schema.org/" xmlns:sioc="http://rdfs.org/sioc/ns#" xmlns:sioct="http://rdfs.org/sioc/types#" xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:xsd="http://www.w3.org/2001/XMLSchema#" version="2.0" xml:base="https://www.middleeasteye.net/">
+  <channel>
+    <title>Section Feed</title>
+    <link>https://www.middleeasteye.net/</link>
+    <description/>
+    <language>en</language>
+    
+    <item>
+  <title>Kosovo needed international law to survive. Now it's helping Israel bypass it in Gaza</title>
+  <link>https://www.middleeasteye.net/news/kosovo-once-needed-international-law-survive-now-its-helping-israel-bypass-it-gaza</link>
+  <description>
+  
+
+&lt;article data-history-node-id="447465" about="https://www.middleeasteye.net/news/kosovo-once-needed-international-law-survive-now-its-helping-israel-bypass-it-gaza" class="story default clearfix"&gt;
+
+  
+      &lt;h2&gt;
+      &lt;a href="https://www.middleeasteye.net/news/kosovo-once-needed-international-law-survive-now-its-helping-israel-bypass-it-gaza" rel="bookmark"&gt;
+&lt;span class="field field-title"&gt;Kosovo needed international law to survive. Now it's helping Israel bypass it in Gaza&lt;/span&gt;
+&lt;/a&gt;
+    &lt;/h2&gt;
+    
+
+          &lt;footer&gt;
+      
+      &lt;div class="author"&gt;
+        Submitted by 
+&lt;span class="field field-uid"&gt;&lt;a title="View user profile." href="https://www.middleeasteye.net/users/elis-gjevori" lang about="https://www.middleeasteye.net/users/elis-gjevori" typeof="schema:Person" property="schema:name" datatype&gt;Elis Gjevori&lt;/a&gt;&lt;/span&gt;
+ on 
+&lt;span class="field field-created"&gt;&lt;time datetime="2026-09-10T11:22:33+01:00" title="10 September 2026 11:22 BST"&gt;Thu, 09/10/2026 - 11:22&lt;/time&gt;
+&lt;/span&gt;
+        
+      &lt;/div&gt;
+    &lt;/footer&gt;
+      
+    &lt;div class="content"&gt;
+                &lt;div class="field field-field-subhead"&gt;Pristina's gamble on Trump and Israel carries serious moral and political risks&lt;/div&gt;
+                  &lt;div class="field field-field-main-image"&gt;    &lt;picture&gt;
+                  &lt;source srcset="https://www.middleeasteye.net/sites/default/files/styles/crop_16_9/public/images-story/MEE%20Illustration%20_Image%20Sep%2010%2C%202026%2C%2012_27_28%20PM.jpg.webp?itok=HBjZ9pCx 1x" type="image/webp" width="1400" height="788"&gt;
+                  &lt;img srcset="https://www.middleeasteye.net/sites/default/files/styles/crop_16_9/public/images-story/MEE%20Illustration%20_Image%20Sep%2010%2C%202026%2C%2012_27_28%20PM.jpg.webp?itok=HBjZ9pCx 1x" width="1400" height="788" src="https://www.middleeasteye.net/sites/default/files/styles/crop_16_9/public/images-story/MEE%20Illustration%20_Image%20Sep%2010%2C%202026%2C%2012_27_28%20PM.jpg.jpg?itok=HBjZ9pCx" alt typeof="foaf:Image" fetchpriority="high"&gt;
+
+  &lt;/picture&gt;
+
+&lt;/div&gt;
+                  &lt;div class="field field-field-cutline"&gt;US President Donald Trump meets Israeli Prime Minister Benjamin Netanyahu, as people in Gaza mourn a loved one and a Kosovo flag flies over soldiers amid the ruins (Middle East Eye illustration/AFP)&lt;/div&gt;
+                  &lt;div class="field field-field-wide-photo-video"&gt;Off&lt;/div&gt;
+                  &lt;div class="field field-body clearfix"&gt;&lt;p&gt;After&amp;nbsp;&lt;a href="https://www.middleeasteye.net/countries/israel"&gt;Israel’s&lt;/a&gt; approval, Kosovo on Monday officially signed up to &lt;a href="https://www.middleeasteye.net/countries/us"&gt;US&lt;/a&gt;&amp;nbsp;President Donald Trump’s controversial so-called Board of Peace and the International Stabilisation Force (ISF) for &lt;a href="https://www.middleeasteye.net/topics/israel-genocide-gaza"&gt;Gaza&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;In a &lt;a href="https://x.com/BoardOfPeace/status/2096930721013060052?s=20"&gt;statement&lt;/a&gt; on X, the Board of Peace called the signing ceremony a “landmark” event that underscored “Kosovo's commitment to the ISF mission and its continued support for the strategic objectives in President Trump's 20-Point Peace Plan”.&lt;/p&gt;
+
+&lt;p&gt;The Board of Peace went on to say that Kosovo had deployed soldiers to Israel in early spring, far earlier than publicly stated, and that they were “leading planning across logistics, civil affairs”, as well as operating in Gaza and clearing “unexploded ordnance”.&lt;/p&gt;
+
+&lt;p&gt;The Kosovo mission, however, has proved controversial in the majority-Muslim country, where people have held pro-&lt;a href="https://www.middleeasteye.net/countries/palestine"&gt;Palestine&lt;/a&gt; protests and shown clear sympathy for the plight of Palestinians amid the ongoing &lt;a href="https://www.middleeasteye.net/topics/israel-genocide-gaza"&gt;genocide in Gaza&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;In contrast, Kosovo’s political establishment, either out of fear or for ideological reasons, has acquiesced to demands from the Trump administration that align with Israeli interests.&lt;/p&gt;&lt;div class="block-adsense block-adsense-managed-ad-block"&gt;&lt;div&gt;
+  &lt;div class="adsense responsive"&gt;
+    &lt;script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-6114695881218027" crossorigin="anonymous"&gt;&lt;/script&gt;
+&lt;!-- responsive --&gt;
+&lt;ins class="adsbygoogle mee-auto-ad-wrapper " style="display:block" data-ad-client="ca-pub-6114695881218027" data-ad-slot="8690493793" data-ad-format="horizontal" data-full-width-responsive="true"&gt;&lt;/ins&gt;
+&lt;script&gt;
+     (adsbygoogle = window.adsbygoogle || []).push({});
+&lt;/script&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+
+&lt;p&gt;On 30 March, Kosovo’s left-leaning prime minister, Albin Kurti, said: “We are ready to participate and help the people of Gaza, because we ourselves have been and are beneficiaries of international forces since 1999.”&lt;/p&gt;
+
+&lt;p&gt;In 1999, international forces led by the US bombed Serbia for two and a half months in an attempt to halt its ethnic cleansing of Kosovo’s ethnic Albanian population.&lt;/p&gt;
+
+&lt;p&gt;Kurti’s equivalence between the two might prove politically useful in convincing a domestic audience that firmly opposes the genocide in Gaza.&amp;nbsp;However, it may also raise eyebrows.&lt;/p&gt;
+
+  &lt;figure role="group" class="media-block"&gt;
+  &lt;div class="group-inner"&gt;
+    &lt;div alt="Kosovo" data-embed-button="file_browser" data-entity-embed-display="image:image" data-entity-embed-display-settings="{" data-entity-type="file" data-entity-uuid="443de165-56af-4bc2-bac7-2bc0f61f3f03" data-langcode="en" class="embedded-entity"&gt;  &lt;img loading="lazy" src="https://www.middleeasteye.net/sites/default/files/HRnLXzFWsAAIbzM.jpg" width="1159" height="652" alt="Kosovo" typeof="foaf:Image"&gt;
+
+&lt;/div&gt;
+
+    &lt;figcaption&gt;Major General Jasper Jeffers (L), commander of the ISF, and Lieutenant General Bashkim Jashari (R), commander of the Kosovo Security Force, sign the inclusion of Kosovo into the ISF on 7 September 2026 (Board of Peace/X)&lt;/figcaption&gt;
+  &lt;/div&gt;
+&lt;/figure&gt;
+
+
+&lt;p&gt;&lt;span style="background:rgba(220,220,220,0.5);background-image:url(https://www.middleeasteye.net/modules/contrib/ckeditor/vendor/plugins/widget/images/handle.png);display:none;"&gt;&lt;img height="15" role="presentation" src="data:image/gif;base64,R0lGODlhAQABAPABAP///wAAACH5BAEKAAAALAAAAAABAAEAAAICRAEAOw==" title="Click and drag to move" width="15" loading="lazy"&gt;&lt;/span&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;span style="background: url(&amp;quot;https://www.middleeasteye.net/modules/contrib/ckeditor/vendor/plugins/widget/images/handle.png&amp;quot;) rgba(220, 220, 220, 0.5); top: -15px; left: 0px;"&gt;&lt;img alt height="15" role="presentation" src="data:image/gif;base64,R0lGODlhAQABAPABAP///wAAACH5BAEKAAAALAAAAAABAAEAAAICRAEAOw==" title="Click and drag to move" width="15" loading="lazy"&gt;&lt;/span&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;span style="background:rgba(220,220,220,0.5);background-image:url(https://www.middleeasteye.net/modules/contrib/ckeditor/vendor/plugins/widget/images/handle.png);display:none;"&gt;&lt;img alt height="15" role="presentation" src="data:image/gif;base64,R0lGODlhAQABAPABAP///wAAACH5BAEKAAAALAAAAAABAAEAAAICRAEAOw==" title="Click and drag to move" width="15" loading="lazy"&gt;&lt;/span&gt;&lt;/p&gt;&lt;div class="block-adsense block-adsense-managed-ad-block"&gt;&lt;div&gt;
+  &lt;div class="adsense responsive"&gt;
+    &lt;script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-6114695881218027" crossorigin="anonymous"&gt;&lt;/script&gt;
+&lt;!-- responsive --&gt;
+&lt;ins class="adsbygoogle mee-auto-ad-wrapper " style="display:block" data-ad-client="ca-pub-6114695881218027" data-ad-slot="8690493793" data-ad-format="horizontal" data-full-width-responsive="true"&gt;&lt;/ins&gt;
+&lt;script&gt;
+     (adsbygoogle = window.adsbygoogle || []).push({});
+&lt;/script&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+
+&lt;p&gt;&lt;span style="background:rgba(220,220,220,0.5);background-image:url(https://www.middleeasteye.net/modules/contrib/ckeditor/vendor/plugins/widget/images/handle.png);display:none;"&gt;&lt;img alt height="15" role="presentation" src="data:image/gif;base64,R0lGODlhAQABAPABAP///wAAACH5BAEKAAAALAAAAAABAAEAAAICRAEAOw==" title="Click and drag to move" width="15" loading="lazy"&gt;&lt;/span&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;span style="background:rgba(220,220,220,0.5);background-image:url(https://www.middleeasteye.net/modules/contrib/ckeditor/vendor/plugins/widget/images/handle.png);display:none;"&gt;&lt;img alt height="15" role="presentation" src="data:image/gif;base64,R0lGODlhAQABAPABAP///wAAACH5BAEKAAAALAAAAAABAAEAAAICRAEAOw==" title="Click and drag to move" width="15" loading="lazy"&gt;&lt;/span&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;span style="background: url(&amp;quot;https://www.middleeasteye.net/modules/contrib/ckeditor/vendor/plugins/widget/images/handle.png&amp;quot;) rgba(220, 220, 220, 0.5); top: -15px; left: 0px;"&gt;&lt;img alt height="15" role="presentation" src="data:image/gif;base64,R0lGODlhAQABAPABAP///wAAACH5BAEKAAAALAAAAAABAAEAAAICRAEAOw==" title="Click and drag to move" width="15" loading="lazy"&gt;&lt;/span&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;span style="background: url(&amp;quot;https://www.middleeasteye.net/modules/contrib/ckeditor/vendor/plugins/widget/images/handle.png&amp;quot;) rgba(220, 220, 220, 0.5); top: -15px; left: 0px;"&gt;&lt;img alt height="15" role="presentation" src="data:image/gif;base64,R0lGODlhAQABAPABAP///wAAACH5BAEKAAAALAAAAAABAAEAAAICRAEAOw==" title="Click and drag to move" width="15" loading="lazy"&gt;&lt;/span&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;span style="background: url(&amp;quot;https://www.middleeasteye.net/modules/contrib/ckeditor/vendor/plugins/widget/images/handle.png&amp;quot;) rgba(220, 220, 220, 0.5); top: -15px; left: 0px;"&gt;&lt;img alt height="15" role="presentation" src="data:image/gif;base64,R0lGODlhAQABAPABAP///wAAACH5BAEKAAAALAAAAAABAAEAAAICRAEAOw==" title="Click and drag to move" width="15" loading="lazy"&gt;&lt;/span&gt;&lt;/p&gt;&lt;div class="block-adsense block-adsense-managed-ad-block"&gt;&lt;div&gt;
+  &lt;div class="adsense responsive"&gt;
+    &lt;script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-6114695881218027" crossorigin="anonymous"&gt;&lt;/script&gt;
+&lt;!-- responsive --&gt;
+&lt;ins class="adsbygoogle mee-auto-ad-wrapper " style="display:block" data-ad-client="ca-pub-6114695881218027" data-ad-slot="8690493793" data-ad-format="horizontal" data-full-width-responsive="true"&gt;&lt;/ins&gt;
+&lt;script&gt;
+     (adsbygoogle = window.adsbygoogle || []).push({});
+&lt;/script&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+
+&lt;p&gt;“The comparison is, in my view, fundamentally unconvincing,” said Brunilda Pali, an assistant professor of conflict dynamics and resolution in the Department of Political Science at the University of Amsterdam.&lt;/p&gt;
+
+&lt;p&gt;“The international intervention in Kosovo followed a genocidal war in which the international community had identified a grave humanitarian catastrophe,” Pali told Middle East Eye.&lt;/p&gt;
+
+&lt;p&gt;“Gaza presents a fundamentally different problem,” she said, adding that “as a main supporter of Israel’s genocide in Gaza, the US is not at all credible as a peacekeeper.”&lt;span style="background: url(&amp;quot;https://www.middleeasteye.net/modules/contrib/ckeditor/vendor/plugins/widget/images/handle.png&amp;quot;) rgba(220, 220, 220, 0.5); top: -15px; left: 0px;"&gt;&lt;img alt height="15" role="presentation" src="data:image/gif;base64,R0lGODlhAQABAPABAP///wAAACH5BAEKAAAALAAAAAABAAEAAAICRAEAOw==" title="Click and drag to move" width="15" loading="lazy"&gt;&lt;/span&gt;&lt;/p&gt;
+
+&lt;h3&gt;Aiding a controversial project&lt;/h3&gt;
+
+&lt;p&gt;Like Serbia before it, Israel faces a genocide case at the International Court of Justice (ICJ) over Gaza.&lt;/p&gt;
+
+&lt;p&gt;In 2024, the ICJ, a court Kosovo has relied on to reinforce its own sovereignty, found that Israel’s &lt;a href="https://www.middleeasteye.net/topics/occupation"&gt;occupation&lt;/a&gt;&amp;nbsp;of the West Bank and East Jerusalem was unlawful under international law.&lt;/p&gt;
+
+&lt;p&gt;The International Criminal Court has also issued arrest warrants for Israel’s Prime Minister Benjamin Netanyahu and former defence minister Yoav Gallant for war crimes and crimes against humanity in Gaza.&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;'Participation could expose both Kosovar soldiers and the Kosovo government to significant legal and reputational risks'&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;- Brunilda Pali, assistant professor&amp;nbsp;of conflict dynamics&lt;/em&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Unlike Serbia however, Israel has a veto over who enters Gaza and who participates in the International Stabilisation Force.&lt;/p&gt;
+
+&lt;p&gt;“Participation could expose both Kosovar soldiers and the Kosovo government to significant legal and reputational risks, particularly if the international deployment were to facilitate forced displacement, consolidate Israeli control over Gaza, or otherwise contribute to internationally wrongful conduct,” said Pali.&lt;/p&gt;
+
+&lt;p&gt;Nor do Albanian politicians in Kosovo appear particularly concerned that Israeli ministers have laid out detailed &lt;a href="https://www.middleeasteye.net/news/ben-gvir-set-unveil-20-billion-plan-ethnically-cleanse-gaza-within-seven-years"&gt;plans&lt;/a&gt;&amp;nbsp;to ethnically cleanse Gaza of its indigenous population and replace them with Jewish-only settlements.&lt;/p&gt;
+
+&lt;p&gt;While Albanians welcomed international forces in 1999 for the protection they would provide, the US- and Israeli-backed ISF has entered Gaza for a decidedly different purpose.&lt;/p&gt;
+
+  &lt;figure role="group" class="media-block"&gt;
+  &lt;div class="group-inner"&gt;
+    &lt;div alt="gaza" data-embed-button="file_browser" data-entity-embed-display="image:image" data-entity-embed-display-settings="{" data-entity-type="file" data-entity-uuid="18d46181-4783-4f07-b8f9-ced19d91943f" data-langcode="en" class="embedded-entity"&gt;  &lt;img loading="lazy" src="https://www.middleeasteye.net/sites/default/files/000_33YV3MG.jpg" width="1024" height="576" alt="gaza" typeof="foaf:Image"&gt;
+
+&lt;/div&gt;
+
+    &lt;figcaption&gt;Protesters hold placards during a pro-Palestinian rally in support of Gaza in Pristina, Kosovo's capital, on 21 October 2023 (Armend Nimani/AFP)&lt;/figcaption&gt;
+  &lt;/div&gt;
+&lt;/figure&gt;
+
+
+&lt;p&gt;&lt;span style="background:rgba(220,220,220,0.5);background-image:url(https://www.middleeasteye.net/modules/contrib/ckeditor/vendor/plugins/widget/images/handle.png);display:none;"&gt;&lt;img height="15" role="presentation" src="data:image/gif;base64,R0lGODlhAQABAPABAP///wAAACH5BAEKAAAALAAAAAABAAEAAAICRAEAOw==" title="Click and drag to move" width="15" loading="lazy"&gt;&lt;/span&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;span style="background: url(&amp;quot;https://www.middleeasteye.net/modules/contrib/ckeditor/vendor/plugins/widget/images/handle.png&amp;quot;) rgba(220, 220, 220, 0.5); top: -15px; left: 0px;"&gt;&lt;img alt height="15" role="presentation" src="data:image/gif;base64,R0lGODlhAQABAPABAP///wAAACH5BAEKAAAALAAAAAABAAEAAAICRAEAOw==" title="Click and drag to move" width="15" loading="lazy"&gt;&lt;/span&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;span style="background:rgba(220,220,220,0.5);background-image:url(https://www.middleeasteye.net/modules/contrib/ckeditor/vendor/plugins/widget/images/handle.png);display:none;"&gt;&lt;img alt height="15" role="presentation" src="data:image/gif;base64,R0lGODlhAQABAPABAP///wAAACH5BAEKAAAALAAAAAABAAEAAAICRAEAOw==" title="Click and drag to move" width="15" loading="lazy"&gt;&lt;/span&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;span style="background: url(&amp;quot;https://www.middleeasteye.net/modules/contrib/ckeditor/vendor/plugins/widget/images/handle.png&amp;quot;) rgba(220, 220, 220, 0.5); top: -15px; left: 0px;"&gt;&lt;img alt height="15" role="presentation" src="data:image/gif;base64,R0lGODlhAQABAPABAP///wAAACH5BAEKAAAALAAAAAABAAEAAAICRAEAOw==" title="Click and drag to move" width="15" loading="lazy"&gt;&lt;/span&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;span style="background:rgba(220,220,220,0.5);background-image:url(https://www.middleeasteye.net/modules/contrib/ckeditor/vendor/plugins/widget/images/handle.png);display:none;"&gt;&lt;img alt height="15" role="presentation" src="data:image/gif;base64,R0lGODlhAQABAPABAP///wAAACH5BAEKAAAALAAAAAABAAEAAAICRAEAOw==" title="Click and drag to move" width="15" loading="lazy"&gt;&lt;/span&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;span style="background: url(&amp;quot;https://www.middleeasteye.net/modules/contrib/ckeditor/vendor/plugins/widget/images/handle.png&amp;quot;) rgba(220, 220, 220, 0.5); top: -15px; left: 0px;"&gt;&lt;img alt height="15" role="presentation" src="data:image/gif;base64,R0lGODlhAQABAPABAP///wAAACH5BAEKAAAALAAAAAABAAEAAAICRAEAOw==" title="Click and drag to move" width="15" loading="lazy"&gt;&lt;/span&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;span style="background: url(&amp;quot;https://www.middleeasteye.net/modules/contrib/ckeditor/vendor/plugins/widget/images/handle.png&amp;quot;) rgba(220, 220, 220, 0.5); top: -15px; left: 0px;"&gt;&lt;img alt height="15" role="presentation" src="data:image/gif;base64,R0lGODlhAQABAPABAP///wAAACH5BAEKAAAALAAAAAABAAEAAAICRAEAOw==" title="Click and drag to move" width="15" loading="lazy"&gt;&lt;/span&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;span style="background: url(&amp;quot;https://www.middleeasteye.net/modules/contrib/ckeditor/vendor/plugins/widget/images/handle.png&amp;quot;) rgba(220, 220, 220, 0.5); top: -15px; left: 0px;"&gt;&lt;img alt height="15" role="presentation" src="data:image/gif;base64,R0lGODlhAQABAPABAP///wAAACH5BAEKAAAALAAAAAABAAEAAAICRAEAOw==" title="Click and drag to move" width="15" loading="lazy"&gt;&lt;/span&gt;&lt;/p&gt;
+
+&lt;p&gt;“By participating in the ISF, Kosovo is effectively asking Palestinians to accept an international security architecture in which one of the principal parties responsible for the genocide in Gaza, which is the US, retains substantial influence over the security environment, while the Palestinian population has limited control over the institution determining its political future,” said Pali.&lt;/p&gt;
+
+&lt;p&gt;Eight independent UN experts jointly described the Board of Peace as an “illegal and illegitimate manoeuvre by powerful states driven by nostalgia and avarice”.&lt;/p&gt;
+
+&lt;p&gt;The board, they said, violated Palestinians’ right to self-determination and represented nothing short of a colonial administration.&lt;/p&gt;
+
+&lt;p&gt;The Palestinian human rights group Al-Haq described the board and the ISF as a “blueprint for the indefinite alien occupation and de facto annexation of large parts of Gaza”.&lt;span style="background: url(&amp;quot;https://www.middleeasteye.net/modules/contrib/ckeditor/vendor/plugins/widget/images/handle.png&amp;quot;) rgba(220, 220, 220, 0.5); top: -15px; left: 0px;"&gt;&lt;img alt height="15" role="presentation" src="data:image/gif;base64,R0lGODlhAQABAPABAP///wAAACH5BAEKAAAALAAAAAABAAEAAAICRAEAOw==" title="Click and drag to move" width="15" loading="lazy"&gt;&lt;/span&gt;&lt;/p&gt;
+
+&lt;h3&gt;'Hoping to preserve its own security'&lt;/h3&gt;
+
+&lt;p&gt;Shpend Kursani, a lecturer in international relations at the Johan Skytte Institute of Political Studies at the University of Tartu, in Estonia, noted that Kosovo, Albania and &lt;a href="https://www.middleeasteye.net/countries/morocco"&gt;Morocco&lt;/a&gt;&amp;nbsp;were “carefully handpicked Muslim majority countries … with full Israeli approval”.&lt;/p&gt;
+
+&lt;p&gt;In addition to maintaining good relations with Israel, these countries are there to “sugarcoat” the deployment “and tell Gazans that these are the … Muslim countries that have come to Gaza to help Gaza”, Kursani told MEE.&lt;/p&gt;
+
+&lt;p&gt;“This is Trump's private initiative. The Board of Peace has no international standing whatsoever,” said Kursani. “It is viewed as Trump's private initiative, actually almost like a parallel initiative to the United Nations efforts and its main mission of peacekeeping.”&lt;/p&gt;
+
+&lt;p&gt;Kosovo has not yet gained admission to the UN, primarily because of&lt;strong&gt; &lt;/strong&gt;&lt;a href="https://www.middleeasteye.net/countries/china"&gt;Chinese&lt;/a&gt;&amp;nbsp;and &lt;a href="https://www.middleeasteye.net/countries/russia"&gt;Russian &lt;/a&gt;opposition. In the age of a capricious Trump presidency, Kosovo finds itself with few choices.&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;'With few other natural allies in the region, both Kosovo and Albania are stuck between a rock and a hard place, and their political elites are choosing to follow perceived geopolitical interests'&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;- Sidita Kushi, assistant professor&amp;nbsp;of politics&lt;/em&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;If Trump can threaten to invade Greenland or revisit the UK’s claim over the &lt;a href="https://www.middleeasteye.net/explainers/falklands-dispute-uk-argentina-us-israel"&gt;Falklands&lt;/a&gt;, some in Kosovo wonder what he could do to the small Balkan nation, precariously placed in the international pecking order.&lt;/p&gt;
+
+&lt;p&gt;“Kosovo appears to be prioritising its alliance with the US, hoping to preserve its own security and sovereignty by following US foreign policy initiatives, like the Board of Peace,” said Sidita Kushi, an assistant professor of politics at Mount Holyoke College in the US.&lt;/p&gt;
+
+&lt;p&gt;Kosovo hosts Camp Bondsteel, the largest military base in the Balkans, which houses around 1,000 US troops. The force is largely seen as the only bulwark against Serb revanchism.&lt;/p&gt;
+
+&lt;p&gt;Trump has already threatened to upend the European security order by withdrawing troops from Germany over its reluctance to participate in the Israeli-US &lt;a href="https://www.middleeasteye.net/topics/war-on-iran"&gt;war&lt;/a&gt;&amp;nbsp;on &lt;a href="https://www.middleeasteye.net/countries/iran"&gt;Iran&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;“But, of course, its dutiful allyship and gratefulness do not guarantee Kosovo long-term favourable standing with the US, as recent history has shown,” Kushi noted, referring to Greenland and the Falklands.&lt;/p&gt;
+
+&lt;p&gt;“Yet with few other natural allies in the region, both Kosovo and Albania are stuck between a rock and a hard place, and their political elites are choosing to follow perceived geopolitical interests and the status quo over undeniable human rights considerations,” she added.&lt;/p&gt;
+&lt;/div&gt;
+                  &lt;div class="field field-field-topic"&gt;&lt;a href="https://www.middleeasteye.net/topics/balkans" hreflang="en"&gt;Balkans&lt;/a&gt;&lt;/div&gt;
+            &lt;div class="field field-field-coauthor-location"&gt;
+              &lt;div&gt; &lt;/div&gt;
+              &lt;div&gt; &lt;/div&gt;
+              &lt;div&gt; &lt;/div&gt;
+              &lt;div&gt; &lt;/div&gt;
+          &lt;/div&gt;
+              &lt;div class="field field-field-article-location"&gt; &lt;/div&gt;
+                  &lt;div class="field field-field-section"&gt;&lt;a href="https://www.middleeasteye.net/news/all" hreflang="en"&gt;News&lt;/a&gt;&lt;/div&gt;
+        &lt;div class="field field-field-post-date-override"&gt;
+    &lt;div&gt;Post Date Override&lt;/div&gt;
+              &lt;div&gt;0&lt;/div&gt;
+          &lt;/div&gt;
+  &lt;div class="field field-field-update-date-override"&gt;
+    &lt;div&gt;Update Date&lt;/div&gt;
+              &lt;div&gt;&lt;time datetime="2020-05-04T21:19:45+01:00"&gt;Mon, 05/04/2020 - 21:19&lt;/time&gt;
+&lt;/div&gt;
+          &lt;/div&gt;
+  &lt;div class="field field-field-update-date-check"&gt;
+    &lt;div&gt;Update Date Override&lt;/div&gt;
+              &lt;div&gt;0&lt;/div&gt;
+          &lt;/div&gt;
+
+  &lt;/div&gt;
+  
+&lt;/article&gt;
+</description>
+  <pubDate>Fri, 11 Sep 2026 15:05:30 +0100</pubDate>
+    <dc:creator>Elis Gjevori</dc:creator>
+    <guid isPermaLink="false">447465 at https://www.middleeasteye.net/</guid>
+    </item>
+<item>
+  <title>UAE-directed campaign used Claude to target Muslim Brotherhood and Sudan</title>
+  <link>https://www.middleeasteye.net/live-blog/live-blog-update/uae-directed-campaign-used-claude-target-muslim-brotherhood-and-sudan</link>
+  <description>
+  
+
+&lt;article data-history-node-id="447536" about="https://www.middleeasteye.net/live-blog/live-blog-update/uae-directed-campaign-used-claude-target-muslim-brotherhood-and-sudan" class="live-blog-update default clearfix"&gt;
+
+  
+      &lt;h2&gt;
+      &lt;a href="https://www.middleeasteye.net/live-blog/live-blog-update/uae-directed-campaign-used-claude-target-muslim-brotherhood-and-sudan" rel="bookmark"&gt;
+&lt;span class="field field-title"&gt;UAE-directed campaign used Claude to target Muslim Brotherhood and Sudan&lt;/span&gt;
+&lt;/a&gt;
+    &lt;/h2&gt;
+    
+
+        
+    &lt;div class="content"&gt;
+                &lt;div class="field field-field-text"&gt;&lt;p&gt;Anthropic detected and disrupted a UAE-directed influence operation targeting the Muslim Brotherhood, the artificial intelligence (AI) company said in its September intelligence threat report.&lt;/p&gt;
+
+&lt;p&gt;The company said that a “single actor” used Anthropic’s AI assistant, Claude, to conduct a “coordinated transatlantic and regional operation to dismantle the Muslim Brotherhood globally.”&lt;/p&gt;
+
+&lt;p&gt;The campaign built a network of approximately 300 “inauthentic influencer social media accounts” to try and shape discourse around the Muslim Brotherhood, the war in Sudan – where the UAE backs the paramilitary Rapid Support Forces – and the United Nations, which was trying to hold Abu Dhabi to account for its role in the war.&lt;/p&gt;
+
+&lt;p&gt;The actor used Claude to create a “front NGO that coped a real Swiss organisation’s identity and published state-authored human rights reports under it,” Anthropic said.&lt;/p&gt;
+
+&lt;p&gt;They also ghost wrote official testimonies with the “goal of having them delivered by two people at the 62nd session of the UN Human Rights Council”.&amp;nbsp;&lt;/p&gt;
+
+&lt;p&gt;“The content was engineered with specific restrictions ensuring that neither speech mentioned the UAE,” Anthropic said in its report.&lt;/p&gt;
+
+&lt;p&gt;The operation used Claude to research and profile 18 members of the European parliament and prominent journalists. “They compiled counter-accountability dossiers on UN Special Rapporteurs who had criticized the conduct of the UAE in Sudan,” the AI company said of the Emirati-directed actor.&lt;/p&gt;
+
+&lt;p&gt;Anthropic said that though the operation was built not to be traced, its investigation “linked it with high confidence to UAE government officials”. Senior Emirati officials were named as intended recipients of the work.&lt;/p&gt;
+&lt;/div&gt;
+      
+  &lt;/div&gt;
+
+&lt;/article&gt;
+</description>
+  <pubDate>Fri, 11 Sep 2026 14:56:33 +0100</pubDate>
+    <dc:creator>Oscar Rickett</dc:creator>
+    <guid isPermaLink="false">447536 at https://www.middleeasteye.net/</guid>
+    </item>
+<item>
+  <title>'You have two million targets in Gaza': Israeli soldier details killings of Palestinians</title>
+  <link>https://www.middleeasteye.net/news/you-have-two-million-targets-gaza-israeli-soldier-describes-mass-killings-palestinians</link>
+  <description>
+  
+
+&lt;article data-history-node-id="447535" about="https://www.middleeasteye.net/news/you-have-two-million-targets-gaza-israeli-soldier-describes-mass-killings-palestinians" class="story default clearfix"&gt;
+
+  
+      &lt;h2&gt;
+      &lt;a href="https://www.middleeasteye.net/news/you-have-two-million-targets-gaza-israeli-soldier-describes-mass-killings-palestinians" rel="bookmark"&gt;
+&lt;span class="field field-title"&gt;'You have two million targets in Gaza': Israeli soldier details killings of Palestinians&lt;/span&gt;
+&lt;/a&gt;
+    &lt;/h2&gt;
+    
+
+          &lt;footer&gt;
+      
+      &lt;div class="author"&gt;
+        Submitted by 
+&lt;span class="field field-uid"&gt;&lt;a title="View user profile." href="https://www.middleeasteye.net/users/nadav-rapaport" lang about="https://www.middleeasteye.net/users/nadav-rapaport" typeof="schema:Person" property="schema:name" datatype&gt;Nadav Rapaport&lt;/a&gt;&lt;/span&gt;
+ on 
+&lt;span class="field field-created"&gt;&lt;time datetime="2026-09-11T14:03:53+01:00" title="11 September 2026 14:03 BST"&gt;Fri, 09/11/2026 - 14:03&lt;/time&gt;
+&lt;/span&gt;
+        
+      &lt;/div&gt;
+    &lt;/footer&gt;
+      
+    &lt;div class="content"&gt;
+                &lt;div class="field field-field-subhead"&gt;Drone operator tells Haaretz that soldiers are encouraged to kill Palestinians without rules or accountability&lt;/div&gt;
+                  &lt;div class="field field-field-main-image"&gt;    &lt;picture&gt;
+                  &lt;source srcset="https://www.middleeasteye.net/sites/default/files/styles/crop_16_9/public/images-story/2025-11-05T180049Z_1522563791_RC29QHAFDYVS_RTRMADP_3_ISRAEL-PALESTINIANS-GAZA-EMBED%20%281%29.jpg.webp?itok=sL8Vkv1N 1x" type="image/webp" width="1400" height="788"&gt;
+                  &lt;img srcset="https://www.middleeasteye.net/sites/default/files/styles/crop_16_9/public/images-story/2025-11-05T180049Z_1522563791_RC29QHAFDYVS_RTRMADP_3_ISRAEL-PALESTINIANS-GAZA-EMBED%20%281%29.jpg.webp?itok=sL8Vkv1N 1x" width="1400" height="788" src="https://www.middleeasteye.net/sites/default/files/styles/crop_16_9/public/images-story/2025-11-05T180049Z_1522563791_RC29QHAFDYVS_RTRMADP_3_ISRAEL-PALESTINIANS-GAZA-EMBED%20%281%29.jpg.jpg?itok=sL8Vkv1N" alt="Israeli soldiers enter the Gaza Strip in a military vehicle 5 November 2025 (Nir Elias/Reuters)" typeof="foaf:Image" fetchpriority="high"&gt;
+
+  &lt;/picture&gt;
+
+&lt;/div&gt;
+                  &lt;div class="field field-field-cutline"&gt;Israeli soldiers enter the Gaza Strip in a military vehicle on 5 November 2025 (Nir Elias/Reuters)&lt;/div&gt;
+                  &lt;div class="field field-field-wide-photo-video"&gt;Off&lt;/div&gt;
+                  &lt;div class="field field-body clearfix"&gt;&lt;p&gt;An &lt;a href="https://www.middleeasteye.net/countries/israel"&gt;Israeli&lt;/a&gt; reservist has said that army officers treat Gaza’s entire population of two million &lt;a href="https://www.middleeasteye.net/countries/palestine"&gt;Palestinians&lt;/a&gt; as targets, describing widespread killings and a collapse of rules of engagement during the genocide.&lt;/p&gt;
+
+&lt;p&gt;The drone operator, who spoke to &lt;a href="https://www.haaretz.com/israel-news/israel-security/2026-09-10/ty-article-magazine/.premium/confessions-of-an-israeli-army-drone-operator/000001a0-8a3f-d5d9-a5f7-8abf30920000?fromLogin=success"&gt;Haaretz &lt;/a&gt;on condition of anonymity in an article published on Thursday, described a range of alleged crimes against Palestinian civilians.&lt;/p&gt;
+
+&lt;p&gt;He said he joined the army in 2008 and has killed at least 54 Palestinians up until October 2023, including unarmed civilians.&lt;/p&gt;
+
+&lt;p&gt;During the genocide in Gaza, he served in a drone attack cell until leaving the army in July.&lt;/p&gt;
+
+&lt;p&gt;“In the first days, there were no rules,” he said, describing an army with no clear rules of engagement when it came to Palestinians.&lt;/p&gt;&lt;div class="block-adsense block-adsense-managed-ad-block"&gt;&lt;div&gt;
+  &lt;div class="adsense responsive"&gt;
+    &lt;script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-6114695881218027" crossorigin="anonymous"&gt;&lt;/script&gt;
+&lt;!-- responsive --&gt;
+&lt;ins class="adsbygoogle mee-auto-ad-wrapper " style="display:block" data-ad-client="ca-pub-6114695881218027" data-ad-slot="8690493793" data-ad-format="horizontal" data-full-width-responsive="true"&gt;&lt;/ins&gt;
+&lt;script&gt;
+     (adsbygoogle = window.adsbygoogle || []).push({});
+&lt;/script&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+
+&lt;p&gt;The reservist also witnessed the Israeli army’s attack on clearly marked ambulances in the Tel al-Sultan neighbourhood of Rafah in March 2025, which killed 15 Palestinian aid and medical workers.&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;'Anyone could kill whoever they wanted, as much as they wanted, and they wouldn't be held accountable for it'&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;- Israeli&amp;nbsp;reservist&lt;/em&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;The Israeli army initially denied wrongdoing. After a mass grave containing the victims was discovered, it promised an investigation. No Israeli soldier had been put on trial over the killings.&lt;/p&gt;
+
+&lt;p&gt;“These were clearly identifiable as emergency vehicles, even when ground fire opened on them,” the reservist told Haaretz, describing the night of the attack.&lt;/p&gt;
+
+&lt;p&gt;“Without any apparent reason, the ground troops stormed the convoy. They shot at the first vehicle. The medical staff exited, hid behind the ambulances and pleaded for their lives, and the soldiers shot them, one after another,” he said.&amp;nbsp;&lt;/p&gt;
+
+&lt;p&gt;“After this incident, I realised that anyone could kill whoever they wanted, as much as they wanted, and they wouldn’t be held accountable for it."&lt;/p&gt;
+
+&lt;h3&gt;'Two million targets in Gaza'&lt;/h3&gt;
+
+&lt;p&gt;Despite witnessing the Rafah killings, the reservist continued to serve in Gaza. After taking five days’ leave in Georgia this year, he returned to duty in late April.&lt;/p&gt;
+
+&lt;div class="mee-readmore mee-readmore-article-opinion mee-readmore-type-image align-right"&gt;
+  &lt;a class="mee-readmore-img-link" href="https://www.middleeasteye.net/opinion/cannibal-capitalism-how-gaza-genocide-portends-dark-global-future"&gt;&lt;img class="mee-readmore-image" src="https://www.middleeasteye.net/sites/default/files/styles/read_more/public/images-story/palestine-food-aid-gaza-city-july-2025-omar-al-qattaa-afp.jpg.webp?itok=1un3uXUe" width="400" height="250" alt loading="lazy" typeof="foaf:Image"&gt;
+
+&lt;/a&gt;  &lt;div class="mee-readmore-description"&gt;'Cannibal capitalism': How the Gaza genocide portends a dark global future&lt;/div&gt;
+    &lt;a class="mee-readmore-link" href="https://www.middleeasteye.net/opinion/cannibal-capitalism-how-gaza-genocide-portends-dark-global-future"&gt;Read More »&lt;/a&gt;
+&lt;/div&gt;
+
+&lt;p&gt;When he returned, he said: “Everyone was already talking about killing.&lt;/p&gt;
+
+&lt;p&gt;“I asked to meet with the intelligence officer to upload targets to the computer,” he said.&lt;/p&gt;
+
+&lt;p&gt;The officer told him: “You have two million targets in Gaza.”&lt;/p&gt;
+
+&lt;p&gt;The reservist said the officer meant Gaza’s entire population of two million people.&lt;/p&gt;
+
+&lt;p&gt;Israeli forces have killed at least 73,658 Palestinians in Gaza since October 2023, according to Palestinian authorities, with more than 1,300 killed since a ceasefire was signed last October.&lt;/p&gt;
+
+&lt;h3&gt;'They fire at anyone they see'&lt;/h3&gt;
+
+&lt;p&gt;The reservist also described how senior Israeli army commanders move the so-called "Yellow Line" at will.&lt;/p&gt;
+
+&lt;p&gt;The Yellow Line is a demarcation established under the ceasefire to mark the limits of Israeli military deployments inside Gaza.&lt;/p&gt;
+
+&lt;p&gt;“The division commander decided, on his own, to push them westwards, sometimes by hundreds of metres, creating a new border,” the reservist said, referring to the concrete barriers that marked the line.&lt;/p&gt;
+
+&lt;p&gt;Palestinians in Gaza had no way of knowing where the new boundary began, he said, adding&amp;nbsp;that army commanders had encouraged soldiers to kill anyone who approached the line.&lt;/p&gt;
+
+&lt;p&gt;“They try to incriminate people without intelligence and without proof, retroactively, just to create a justification for an attack,” he said, describing pressure placed on him and his colleagues to open fire on Palestinians approaching the line.&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;'Just like they shout to a player, "Come on, score a goal", they shout to a soldier, "Kill him, attack him"'&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;-&amp;nbsp;Israeli reservist&lt;/em&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;The reservist said the concept of “collateral damage” quickly disappeared from consideration.&lt;/p&gt;
+
+&lt;p&gt;“They fire at anyone they see,” he said, describing what he compares to a football stadium atmosphere inside his attack cell.&lt;/p&gt;
+
+&lt;p&gt;“Just like they shout to a player, ‘Come on, score a goal’, they shout to a soldier, ‘Kill him, attack him’.”&lt;/p&gt;
+
+&lt;p&gt;The reservist also told Haaretz that he witnessed Israeli forces monitoring criminal acts carried out by army-backed militias, without intervening.&lt;/p&gt;
+
+&lt;p&gt;“They burn rows of houses, and we watch them from above. Arson, looting, shooting,” he said.&lt;/p&gt;
+
+&lt;p&gt;Last month, Haaretz reported that the Israeli army is allowing mercenaries, criminal gangs and drug dealers to commit war crimes in Gaza, in conduct it describes as “reminiscent of the Sabra and Shatila massacre”, which occurred in the Lebanese refugee camps and neighbourhood in 1982.&lt;/p&gt;
+&lt;/div&gt;
+                  &lt;div class="field field-field-topic"&gt;&lt;a href="https://www.middleeasteye.net/topics/israel-genocide-gaza" hreflang="en"&gt;Israel's genocide in Gaza&lt;/a&gt;&lt;/div&gt;
+            &lt;div class="field field-field-coauthor-location"&gt;
+              &lt;div&gt; &lt;/div&gt;
+              &lt;div&gt; &lt;/div&gt;
+              &lt;div&gt; &lt;/div&gt;
+              &lt;div&gt; &lt;/div&gt;
+          &lt;/div&gt;
+              &lt;div class="field field-field-article-location"&gt; &lt;/div&gt;
+                  &lt;div class="field field-field-section"&gt;&lt;a href="https://www.middleeasteye.net/news/all" hreflang="en"&gt;News&lt;/a&gt;&lt;/div&gt;
+        &lt;div class="field field-field-post-date-override"&gt;
+    &lt;div&gt;Post Date Override&lt;/div&gt;
+              &lt;div&gt;0&lt;/div&gt;
+          &lt;/div&gt;
+  &lt;div class="field field-field-update-date-override"&gt;
+    &lt;div&gt;Update Date&lt;/div&gt;
+              &lt;div&gt;&lt;time datetime="2020-05-04T21:19:45+01:00"&gt;Mon, 05/04/2020 - 21:19&lt;/time&gt;
+&lt;/div&gt;
+          &lt;/div&gt;
+  &lt;div class="field field-field-update-date-check"&gt;
+    &lt;div&gt;Update Date Override&lt;/div&gt;
+              &lt;div&gt;0&lt;/div&gt;
+          &lt;/div&gt;
+
+  &lt;/div&gt;
+  
+&lt;/article&gt;
+</description>
+  <pubDate>Fri, 11 Sep 2026 14:46:01 +0100</pubDate>
+    <dc:creator>Nadav Rapaport</dc:creator>
+    <guid isPermaLink="false">447535 at https://www.middleeasteye.net/</guid>
+    </item>
+<item>
+  <title>Israel threatens further strikes after demolishing parts of Hezbollah’s tunnel network under Ali al-Taher</title>
+  <link>https://www.middleeasteye.net/live-blog/live-blog-update/israel-threatens-further-strikes-after-demolishing-parts-hezbollahs</link>
+  <description>
+  
+
+&lt;article data-history-node-id="447534" about="https://www.middleeasteye.net/live-blog/live-blog-update/israel-threatens-further-strikes-after-demolishing-parts-hezbollahs" class="live-blog-update default clearfix"&gt;
+
+  
+      &lt;h2&gt;
+      &lt;a href="https://www.middleeasteye.net/live-blog/live-blog-update/israel-threatens-further-strikes-after-demolishing-parts-hezbollahs" rel="bookmark"&gt;
+&lt;span class="field field-title"&gt;Israel threatens further strikes after demolishing parts of Hezbollah’s tunnel network under Ali al-Taher&lt;/span&gt;
+&lt;/a&gt;
+    &lt;/h2&gt;
+    
+
+        
+    &lt;div class="content"&gt;
+                &lt;div class="field field-field-text"&gt;&lt;p&gt;Israel said Friday it was prepared to launch further strikes on Hezbollah after demolishing what it described as a vast tunnel network beneath the strategic Ali al-Taher ridge in southern Lebanon.&lt;br&gt;
+&lt;br&gt;
+Defence Minister Israel Katz said Israel was ready to “continue striking Hezbollah and at additional locations”, claiming the operation had created a stronger security zone protecting communities in northern Israel and allowing Israeli forces to threaten Hezbollah deeper inside Lebanon.&lt;br&gt;
+&lt;br&gt;
+The Israeli army said the tunnel network, which it claimed had been built over two decades with Iranian assistance, extended for more than two kilometres and contained dozens of Iranian-made rockets, missiles, drones and other weapons, as well as a command centre and living quarters. Israel detonated the network late Thursday in a massive explosion that produced a large fireball and was recorded by the US Geological Survey as a tremor equivalent to a 4.1-magnitude earthquake.&lt;br&gt;
+&lt;br&gt;
+The blast came about a week after Israeli troops said they had seized the strategic ridge as part of efforts to consolidate a security zone in southern Lebanon. Army chief Eyal Zamir warned that any Hezbollah attack on northern Israeli communities or Israeli troops would receive an “immediate and forceful response”, while urging the Lebanese army to demonstrate its effectiveness in southern Lebanon. He warned that failure to do so could prevent progress on an agreement between Israel and Lebanon concerning the deployment of Lebanese forces. Ali al-Taher lies near the edge of Israel’s self-declared security zone and close to the strategic Beaufort Castle.&lt;/p&gt;
+&lt;/div&gt;
+      
+  &lt;/div&gt;
+
+&lt;/article&gt;
+</description>
+  <pubDate>Fri, 11 Sep 2026 13:50:05 +0100</pubDate>
+    <dc:creator>Adam Chamseddine</dc:creator>
+    <guid isPermaLink="false">447534 at https://www.middleeasteye.net/</guid>
+    </item>
+<item>
+  <title>Exclusive: UK sanctions on Israeli settlements to include those in Syria's Golan Heights</title>
+  <link>https://www.middleeasteye.net/news/uk-sanctions-israeli-settlements-include-those-syrias-golan-heights</link>
+  <description>
+  
+
+&lt;article data-history-node-id="447533" about="https://www.middleeasteye.net/news/uk-sanctions-israeli-settlements-include-those-syrias-golan-heights" class="story default clearfix"&gt;
+
+  
+      &lt;h2&gt;
+      &lt;a href="https://www.middleeasteye.net/news/uk-sanctions-israeli-settlements-include-those-syrias-golan-heights" rel="bookmark"&gt;
+&lt;span class="field field-title"&gt;Exclusive: UK sanctions on Israeli settlements to include those in Syria's Golan Heights&lt;/span&gt;
+&lt;/a&gt;
+    &lt;/h2&gt;
+    
+
+          &lt;footer&gt;
+      
+      &lt;div class="author"&gt;
+        Submitted by 
+&lt;span class="field field-uid"&gt;&lt;a title="View user profile." href="https://www.middleeasteye.net/users/daniel-tester" lang about="https://www.middleeasteye.net/users/daniel-tester" typeof="schema:Person" property="schema:name" datatype&gt;Daniel Tester&lt;/a&gt;&lt;/span&gt;
+ on 
+&lt;span class="field field-created"&gt;&lt;time datetime="2026-09-11T12:46:43+01:00" title="11 September 2026 12:46 BST"&gt;Fri, 09/11/2026 - 12:46&lt;/time&gt;
+&lt;/span&gt;
+        
+      &lt;/div&gt;
+    &lt;/footer&gt;
+      
+    &lt;div class="content"&gt;
+                &lt;div class="field field-field-subhead"&gt;UK government sources tell MEE that the new measures will cover the occupied Golan Heights and East Jerusalem&lt;/div&gt;
+                  &lt;div class="field field-field-main-image"&gt;    &lt;picture&gt;
+                  &lt;source srcset="https://www.middleeasteye.net/sites/default/files/styles/crop_16_9/public/images-story/000_C7T86LM%20%281%29.jpg.webp?itok=agfnUcnk 1x" type="image/webp" width="1024" height="576"&gt;
+                  &lt;img srcset="https://www.middleeasteye.net/sites/default/files/styles/crop_16_9/public/images-story/000_C7T86LM%20%281%29.jpg.webp?itok=agfnUcnk 1x" width="1024" height="576" src="https://www.middleeasteye.net/sites/default/files/styles/crop_16_9/public/images-story/000_C7T86LM%20%281%29.jpg.jpg?itok=agfnUcnk" alt="Britain's Prime Minister Andy Burnham and Britain's Foreign Secretary Ed Miliband during Prime Minister's Questions (PMQs) in the House of Commons, central London, on September 9, 2026." typeof="foaf:Image" fetchpriority="high"&gt;
+
+  &lt;/picture&gt;
+
+&lt;/div&gt;
+                  &lt;div class="field field-field-cutline"&gt;UK Prime Minister Andy Burnham and Foreign Secretary Ed Miliband during Prime Minister's Questions in the House of Commons, London, on 9 September 2026 (AFP)&lt;/div&gt;
+                  &lt;div class="field field-field-wide-photo-video"&gt;Off&lt;/div&gt;
+                  &lt;div class="field field-body clearfix"&gt;&lt;p&gt;The &lt;a href="https://www.middleeasteye.net/countries/uk"&gt;UK&lt;/a&gt;'s new sanctions on illegal Israeli settlements include those in the occupied Golan Heights as well as in occupied Palestinian territory, Middle East Eye understands.&lt;/p&gt;
+
+&lt;p&gt;On Tuesday, the&amp;nbsp;&lt;a href="https://www.middleeasteye.net/countries/uk" target="_blank"&gt;British&lt;/a&gt;&amp;nbsp;government&amp;nbsp;declared the Israeli occupation of Palestinian territory illegal and announced comprehensive sanctions on illegal&amp;nbsp;&lt;a href="https://www.middleeasteye.net/countries/israel" target="_blank"&gt;Israeli&lt;/a&gt;&amp;nbsp;settlements.&lt;/p&gt;
+
+&lt;p&gt;However, the announced measures did not clarify whether Israeli settlements in the occupied Golan Heights in &lt;a href="https://www.middleeasteye.net/countries/syria"&gt;Syria&lt;/a&gt; would be affected by the sanctions, leading campaigners to &lt;a href="https://www.thenationalnews.com/news/uk/2026/09/08/uk-leads-multi-country-ban-on-israeli-illegal-settlement-goods/"&gt;call&lt;/a&gt; for the ban to be extended.&lt;/p&gt;
+
+&lt;p&gt;Government sources confirmed to MEE on Thursday night that Israeli settlements in the Golan Heights and in East Jerusalem will be covered by the UK's new measures, as well as those in the occupied West Bank.&lt;/p&gt;
+
+&lt;p&gt;A strategic plateau straddling Israel and Syria and overlooking southern Lebanon, the Golan Heights was occupied by Israel in 1967 and annexed in a move which has never been recognised by the international community.&lt;/p&gt;&lt;div class="block-adsense block-adsense-managed-ad-block"&gt;&lt;div&gt;
+  &lt;div class="adsense responsive"&gt;
+    &lt;script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-6114695881218027" crossorigin="anonymous"&gt;&lt;/script&gt;
+&lt;!-- responsive --&gt;
+&lt;ins class="adsbygoogle mee-auto-ad-wrapper " style="display:block" data-ad-client="ca-pub-6114695881218027" data-ad-slot="8690493793" data-ad-format="horizontal" data-full-width-responsive="true"&gt;&lt;/ins&gt;
+&lt;script&gt;
+     (adsbygoogle = window.adsbygoogle || []).push({});
+&lt;/script&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+
+&lt;p&gt;&lt;a href="https://digitallibrary.un.org/record/90717?ln=en&amp;amp;v=pdf" target="_blank"&gt;UN Resolution 242&amp;nbsp;&lt;/a&gt;calls for Israel to withdraw from the Golan Heights and other occupied territories, including the Gaza Strip and the West Bank.&lt;/p&gt;
+
+&lt;p&gt;Some 20,000 Israeli settlers currently live in the Golan, alongside about 26,000 of the territory’s native inhabitants, who are predominantly Druze and identify as Syrian.&lt;/p&gt;
+
+&lt;div class="mee-readmore mee-readmore-article-story mee-readmore-type-image align-right"&gt;
+  &lt;a class="mee-readmore-img-link" href="https://www.middleeasteye.net/news/how-us-response-shows-uk-sanctions-israeli-settlements-are-much-more-hollow-symbolism"&gt;&lt;img class="mee-readmore-image" src="https://www.middleeasteye.net/sites/default/files/styles/read_more/public/images-story/000_C78Y6GE%20%281%29.jpg.webp?itok=ryeYj-Fv" width="400" height="250" alt loading="lazy" typeof="foaf:Image"&gt;
+
+&lt;/a&gt;  &lt;div class="mee-readmore-description"&gt;How US response shows UK sanctions on Israeli settlements are much more than hollow symbolism&lt;/div&gt;
+    &lt;a class="mee-readmore-link" href="https://www.middleeasteye.net/news/how-us-response-shows-uk-sanctions-israeli-settlements-are-much-more-hollow-symbolism"&gt;Read More »&lt;/a&gt;
+&lt;/div&gt;
+
+&lt;p&gt;UK Foreign Secretary Ed Miliband announced: "I do not believe the British people want us supporting the occupation by accepting products from settlements in our shops and supermarkets, so I can announce today that we will introduce an import ban on goods from illegal settlements in the occupied territories."&lt;/p&gt;
+
+&lt;p&gt;The foreign secretary said there would be "a new comprehensive sanctions regime… with appropriate religious exemptions".&lt;/p&gt;
+
+&lt;p&gt;He added: "We will take action against specific companies and individuals who provide services such as construction, infrastructure financing or real estate for settlement expansion.&lt;/p&gt;
+
+&lt;p&gt;"So to those who finance or facilitate illegal settlements, let me say this: you will face the full force of UK sanctions. Settlements are illegal. They should not be promoted in our country."&lt;/p&gt;
+
+&lt;p&gt;Eleven other countries - Canada, Denmark, Finland, France, Iceland, Ireland, Norway, Poland, Portugal, Spain and Sweden - signed a joint statement with Britain, published on Tuesday, saying they "confirm their intention to introduce national and/or support European restrictions on trade in goods with settlements which are illegal under international law, or that they are actively considering these and other measures, in accordance with their national procedures".&lt;/p&gt;
+
+&lt;p&gt;In response, Israeli&amp;nbsp;Foreign Minister Gideon Saar&amp;nbsp;&lt;a href="https://www.middleeasteye.net/news/israel-lashes-out-uk-sanctions-and-announces-consulate-closure" target="_blank"&gt;announced&lt;/a&gt;&amp;nbsp;that Israel would close the British consulate in East Jerusalem and ban 11 British MPs, among other sanctions.&lt;/p&gt;
+&lt;/div&gt;
+                  &lt;div class="field field-field-topic"&gt;&lt;a href="https://www.middleeasteye.net/topics/uk-politics" hreflang="en"&gt;UK Politics&lt;/a&gt;&lt;/div&gt;
+            &lt;div class="field field-field-coauthor"&gt;
+              &lt;div&gt;&lt;a href="https://www.middleeasteye.net/users/imran-mulla" hreflang="en"&gt;Imran Mulla&lt;/a&gt;&lt;/div&gt;
+          &lt;/div&gt;
+        &lt;div class="field field-field-coauthor-location"&gt;
+              &lt;div&gt; &lt;/div&gt;
+              &lt;div&gt; &lt;/div&gt;
+              &lt;div&gt; &lt;/div&gt;
+              &lt;div&gt; &lt;/div&gt;
+          &lt;/div&gt;
+              &lt;div class="field field-field-article-location"&gt; &lt;/div&gt;
+                  &lt;div class="field field-field-section"&gt;&lt;a href="https://www.middleeasteye.net/news/all" hreflang="en"&gt;News&lt;/a&gt;&lt;/div&gt;
+        &lt;div class="field field-field-post-date-override"&gt;
+    &lt;div&gt;Post Date Override&lt;/div&gt;
+              &lt;div&gt;0&lt;/div&gt;
+          &lt;/div&gt;
+  &lt;div class="field field-field-update-date-override"&gt;
+    &lt;div&gt;Update Date&lt;/div&gt;
+              &lt;div&gt;&lt;time datetime="2020-05-04T21:19:45+01:00"&gt;Mon, 05/04/2020 - 21:19&lt;/time&gt;
+&lt;/div&gt;
+          &lt;/div&gt;
+  &lt;div class="field field-field-update-date-check"&gt;
+    &lt;div&gt;Update Date Override&lt;/div&gt;
+              &lt;div&gt;0&lt;/div&gt;
+          &lt;/div&gt;
+
+  &lt;/div&gt;
+  
+&lt;/article&gt;
+</description>
+  <pubDate>Fri, 11 Sep 2026 13:16:26 +0100</pubDate>
+    <dc:creator>Daniel Tester</dc:creator>
+    <guid isPermaLink="false">447533 at https://www.middleeasteye.net/</guid>
+    </item>
+<item>
+  <title>Israeli jets raid Mansouri and areas near Tyre, Lebanese media says</title>
+  <link>https://www.middleeasteye.net/live-blog/live-blog-update/israeli-jets-raid-mansouri-areas-near-tyre-lebanese-media-says</link>
+  <description>
+  
+
+&lt;article data-history-node-id="447532" about="https://www.middleeasteye.net/live-blog/live-blog-update/israeli-jets-raid-mansouri-areas-near-tyre-lebanese-media-says" class="live-blog-update default clearfix"&gt;
+
+  
+      &lt;h2&gt;
+      &lt;a href="https://www.middleeasteye.net/live-blog/live-blog-update/israeli-jets-raid-mansouri-areas-near-tyre-lebanese-media-says" rel="bookmark"&gt;
+&lt;span class="field field-title"&gt;Israeli jets raid Mansouri and areas near Tyre, Lebanese media says&lt;/span&gt;
+&lt;/a&gt;
+    &lt;/h2&gt;
+    
+
+        
+    &lt;div class="content"&gt;
+                &lt;div class="field field-field-text"&gt;&lt;p&gt;Israeli forces carried out several air raids on southern Lebanon, targeting Mansouri and areas near the coastal city of Tyre, Lebanon’s National News Agency (NNA) reported.&lt;/p&gt;
+
+&lt;p&gt;The attacks on Mansouri targeted “infrastructure and residential neighbourhoods”, while another air raid south of Tyre also struck residential areas, according to the state news agency.&lt;/p&gt;
+
+&lt;p&gt;NNA also reported that Israeli forces fired artillery near the southern Lebanese town of Meiss Ej Jabal.&lt;/p&gt;
+
+&lt;p&gt;The reported attacks came as Israeli Prime Minister Benjamin Netanyahu said Israeli forces had destroyed what he described as a Hezbollah underground facility near Nabatieh, claiming the site contained weapons and military infrastructure.&lt;/p&gt;
+&lt;/div&gt;
+      
+  &lt;/div&gt;
+
+&lt;/article&gt;
+</description>
+  <pubDate>Fri, 11 Sep 2026 12:57:13 +0100</pubDate>
+    <dc:creator>Qazi Zaid</dc:creator>
+    <guid isPermaLink="false">447532 at https://www.middleeasteye.net/</guid>
+    </item>
+<item>
+  <title>Satellite images show smoke near Saudi Arabia’s critical East-West oil pipeline</title>
+  <link>https://www.middleeasteye.net/live-blog/live-blog-update/satellite-images-show-smoke-near-saudi-arabias-critical-east-west-oil</link>
+  <description>
+  
+
+&lt;article data-history-node-id="447531" about="https://www.middleeasteye.net/live-blog/live-blog-update/satellite-images-show-smoke-near-saudi-arabias-critical-east-west-oil" class="live-blog-update default clearfix"&gt;
+
+  
+      &lt;h2&gt;
+      &lt;a href="https://www.middleeasteye.net/live-blog/live-blog-update/satellite-images-show-smoke-near-saudi-arabias-critical-east-west-oil" rel="bookmark"&gt;
+&lt;span class="field field-title"&gt;Satellite images show smoke near Saudi Arabia’s critical East-West oil pipeline&lt;/span&gt;
+&lt;/a&gt;
+    &lt;/h2&gt;
+    
+
+        
+    &lt;div class="content"&gt;
+                &lt;div class="field field-field-text"&gt;&lt;p&gt;Satellite images showed smoke rising near Saudi Arabia’s East-West oil pipeline, one of the kingdom’s key energy assets, Reuters has reported.&lt;/p&gt;
+
+&lt;p&gt;The news agency said Saudi authorities did not immediately report any incident at the site.&lt;/p&gt;
+
+&lt;p&gt;The East-West Pipeline has become increasingly important for Saudi Arabia during the Iran war, enabling state oil giant Aramco to ship crude from the kingdom’s eastern coast to the Red Sea on its western coast.&lt;/p&gt;
+
+&lt;p&gt;It offers an alternative route for sending crude through the Strait of Hormuz, a strategic global energy chokepoint.&lt;/p&gt;
+
+&lt;blockquote class="twitter-tweet"&gt;
+&lt;p dir="ltr" lang="en"&gt;BIG: Satellite imagery shows a massive smoke plume (~100 km long) and sustained thermal hotspots along Saudi Arabia's East-West Pipeline corridor southeast of Medina.&lt;br&gt;
+&lt;br&gt;
+NASA fire data shows heat signatures above 70 MW lasting hours across multiple points — well beyond a normal… &lt;a href="https://t.co/B8BmX1FoYZ"&gt;pic.twitter.com/B8BmX1FoYZ&lt;/a&gt;&lt;/p&gt;
+— Clash Report (@clashreport) &lt;a href="https://x.com/clashreport/status/2098284307945005241?ref_src=twsrc%5Etfw"&gt;September 11, 2026&lt;/a&gt;&lt;/blockquote&gt;
+&lt;script async src="https://platform.x.com/widgets.js" charset="utf-8"&gt;&lt;/script&gt;&lt;/div&gt;
+      
+  &lt;/div&gt;
+
+&lt;/article&gt;
+</description>
+  <pubDate>Fri, 11 Sep 2026 12:24:37 +0100</pubDate>
+    <dc:creator>Qazi Zaid</dc:creator>
+    <guid isPermaLink="false">447531 at https://www.middleeasteye.net/</guid>
+    </item>
+<item>
+  <title>At least 46,000 displaced as renewed fighting intensifies across Yemen, UN agency says</title>
+  <link>https://www.middleeasteye.net/live-blog/live-blog-update/yemen-fighting-displaces-least-46000-un-migration-agency-says</link>
+  <description>
+  
+
+&lt;article data-history-node-id="447529" about="https://www.middleeasteye.net/live-blog/live-blog-update/yemen-fighting-displaces-least-46000-un-migration-agency-says" class="live-blog-update default clearfix"&gt;
+
+  
+      &lt;h2&gt;
+      &lt;a href="https://www.middleeasteye.net/live-blog/live-blog-update/yemen-fighting-displaces-least-46000-un-migration-agency-says" rel="bookmark"&gt;
+&lt;span class="field field-title"&gt;At least 46,000 displaced as renewed fighting intensifies across Yemen, UN agency says&lt;/span&gt;
+&lt;/a&gt;
+    &lt;/h2&gt;
+    
+
+        
+    &lt;div class="content"&gt;
+                &lt;div class="field field-field-text"&gt;&lt;p&gt;At least 46,000 people have been displaced by renewed fighting in Yemen since last week, with the number “rising by the hour”, the UN’s International Organisation for Migration (IOM) said.&lt;/p&gt;
+
+&lt;p&gt;IOM Director General Amy Pope said: “Families are being forced to flee for the second or third time in this conflict, with almost nothing left,” Pope said in a statement.&lt;/p&gt;
+
+&lt;p&gt;“As fighting spreads, reaching people with lifesaving assistance is becoming harder. We urgently need safe, unimpeded access.”&lt;/p&gt;
+
+&lt;p&gt;She added: “All parties must protect civilians and humanitarian workers, and safeguard the supplies, vehicles and facilities we depend on to deliver help.”&lt;/p&gt;
+&lt;/div&gt;
+      
+  &lt;/div&gt;
+
+&lt;/article&gt;
+</description>
+  <pubDate>Fri, 11 Sep 2026 12:04:24 +0100</pubDate>
+    <dc:creator>Qazi Zaid</dc:creator>
+    <guid isPermaLink="false">447529 at https://www.middleeasteye.net/</guid>
+    </item>
+<item>
+  <title>Britain's settlement trade ban is cosmetic. For it to work, it must sanction Israel</title>
+  <link>https://www.middleeasteye.net/opinion/milibands-settlement-trade-ban-cosmetic-work-must-sanction-israel</link>
+  <description>
+  
+
+&lt;article data-history-node-id="447484" about="https://www.middleeasteye.net/opinion/milibands-settlement-trade-ban-cosmetic-work-must-sanction-israel" class="opinion default clearfix"&gt;
+
+  
+      &lt;h2&gt;
+      &lt;a href="https://www.middleeasteye.net/opinion/milibands-settlement-trade-ban-cosmetic-work-must-sanction-israel" rel="bookmark"&gt;
+&lt;span class="field field-title"&gt;Britain's settlement trade ban is cosmetic. For it to work, it must sanction Israel&lt;/span&gt;
+&lt;/a&gt;
+    &lt;/h2&gt;
+    
+
+          &lt;footer&gt;
+      
+      &lt;div class="author"&gt;
+        Submitted by 
+&lt;span class="field field-uid"&gt;&lt;a title="View user profile." href="https://www.middleeasteye.net/users/jonathan-cook" lang about="https://www.middleeasteye.net/users/jonathan-cook" typeof="schema:Person" property="schema:name" datatype&gt;Jonathan Cook&lt;/a&gt;&lt;/span&gt;
+ on 
+&lt;span class="field field-created"&gt;&lt;time datetime="2026-09-10T19:06:19+01:00" title="10 September 2026 19:06 BST"&gt;Thu, 09/10/2026 - 19:06&lt;/time&gt;
+&lt;/span&gt;
+        
+      &lt;/div&gt;
+    &lt;/footer&gt;
+      
+    &lt;div class="content"&gt;
+                &lt;div class="field field-field-subhead"&gt;The UK may end up assisting Tel Aviv by reinforcing a preposterous distinction between 'illegal' Jewish settlements and a supposedly 'law-abiding' Israel&amp;nbsp;&lt;/div&gt;
+                  &lt;div class="field field-field-main-image"&gt;    &lt;picture&gt;
+                  &lt;source srcset="https://www.middleeasteye.net/sites/default/files/styles/crop_16_9/public/images-story/A%20man%20walks%20past%20placards%20set%20up%20by%20a%20small%20group%20of%20people%20holding%20an%20anti-Israel%20demonstration%20outside%20the%20Houses%20of%20Parliament%20in%20central%20London%20on%20September%209%2C%202026.-afp.jpg.webp?itok=vcKiQjM6 1x" type="image/webp" width="1400" height="788"&gt;
+                  &lt;img srcset="https://www.middleeasteye.net/sites/default/files/styles/crop_16_9/public/images-story/A%20man%20walks%20past%20placards%20set%20up%20by%20a%20small%20group%20of%20people%20holding%20an%20anti-Israel%20demonstration%20outside%20the%20Houses%20of%20Parliament%20in%20central%20London%20on%20September%209%2C%202026.-afp.jpg.webp?itok=vcKiQjM6 1x" width="1400" height="788" src="https://www.middleeasteye.net/sites/default/files/styles/crop_16_9/public/images-story/A%20man%20walks%20past%20placards%20set%20up%20by%20a%20small%20group%20of%20people%20holding%20an%20anti-Israel%20demonstration%20outside%20the%20Houses%20of%20Parliament%20in%20central%20London%20on%20September%209%2C%202026.-afp.jpg.jpg?itok=vcKiQjM6" alt typeof="foaf:Image" fetchpriority="high"&gt;
+
+  &lt;/picture&gt;
+
+&lt;/div&gt;
+                  &lt;div class="field field-field-cutline"&gt;A man walks past placards set up by a small group of people holding an anti-Israel demonstration outside the Houses of Parliament in central London on 9 September, 2026 (AFP)&lt;/div&gt;
+                  &lt;div class="field field-field-wide-photo-video"&gt;On&lt;/div&gt;
+                  &lt;div class="field field-body clearfix"&gt;&lt;p&gt;Ed Miliband, Britain’s foreign secretary, this week announced &lt;a href="https://www.middleeasteye.net/news/uk-announce-trade-sanctions-israeli-settlements"&gt;plans for a ban&lt;/a&gt; on trade and services with &lt;a href="https://www.middleeasteye.net/countries/israel"&gt;Israel&lt;/a&gt;’s illegal Jewish settlements, in a move the government &lt;a href="https://www.theguardian.com/politics/2026/sep/01/ed-miliband-promises-reset-of-uk-policy-toward-israel"&gt;has hyped&lt;/a&gt; as a “comprehensive reset” of relations with Israel.&amp;nbsp;&lt;/p&gt;
+
+&lt;p&gt;The &lt;a href="https://www.middleeasteye.net/countries/uk"&gt;UK&lt;/a&gt; was joined by &lt;a href="https://www.canada.ca/en/global-affairs/news/2026/09/joint-statement-of-the-foreign-ministers-of-canada-denmark-finland-france-iceland-ireland-norway-poland-portugal-spain-sweden-and-the-uk-on-the-two.html"&gt;11 other western states&lt;/a&gt; unveiling or proposing similar sanctions: Canada, Denmark, Finland, France, Iceland, Ireland, Norway, Poland, Portugal, Spain and Sweden.&amp;nbsp;&lt;/p&gt;
+
+&lt;p&gt;They presumably hope it will look like they are &lt;a href="https://x.com/Ed_Miliband/status/2097350193679127012"&gt;amassing strength&lt;/a&gt; through numbers, upping the pressure on Israel to end the &lt;a href="https://www.middleeasteye.net/topics/occupation"&gt;occupation&lt;/a&gt; and clear the way for &lt;a href="https://www.middleeasteye.net/countries/palestine"&gt;Palestinian&lt;/a&gt; statehood.&amp;nbsp;&lt;/p&gt;
+
+&lt;p&gt;More realistically, each is hoping it will prove harder for the Trump administration and Israel to single them out as a target in the inevitable backlash against these all-too-modest measures.&amp;nbsp;In quick retaliation, Israel took the unprecedented step of &lt;a href="https://www.bbc.co.uk/news/live/cmp8djn8983gt"&gt;shuttering&lt;/a&gt; the British consulate in East Jerusalem - that is, in territory it occupies in violation of &lt;a href="https://www.middleeasteye.net/topics/international-law"&gt;international law&lt;/a&gt;.&amp;nbsp;&lt;/p&gt;
+
+&lt;p&gt;But the idea that these sanctions will amount to a “reset” for UK-Israeli relations looks more like wishful thinking. Shortly before Miliband’s announcement, Bloomberg reported that British diplomats had been privately reassuring Washington that the trade ban on settlements was “largely symbolic”.&amp;nbsp;&lt;/p&gt;&lt;div class="block-adsense block-adsense-managed-ad-block"&gt;&lt;div&gt;
+  &lt;div class="adsense responsive"&gt;
+    &lt;script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-6114695881218027" crossorigin="anonymous"&gt;&lt;/script&gt;
+&lt;!-- responsive --&gt;
+&lt;ins class="adsbygoogle mee-auto-ad-wrapper " style="display:block" data-ad-client="ca-pub-6114695881218027" data-ad-slot="8690493793" data-ad-format="horizontal" data-full-width-responsive="true"&gt;&lt;/ins&gt;
+&lt;script&gt;
+     (adsbygoogle = window.adsbygoogle || []).push({});
+&lt;/script&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+
+&lt;p&gt;According to &lt;a href="https://x.com/alexwickham/status/2097206668350104006"&gt;Alex Wickham&lt;/a&gt;, the news agency’s UK political editor, the government’s measures would “have no material impact on the UK’s wider relationship with Israel on trade or security”.&amp;nbsp;&lt;/p&gt;
+
+&lt;p&gt;The UK’s trade with Israel’s Jewish settlements is a tiny fraction of its £6 billion ($8bn) &lt;a href="https://www.aljazeera.com/news/2026/9/8/uk-bans-goods-from-israeli-west-bank-settlements-what-that-really-means"&gt;overall trade&lt;/a&gt; with Israel. And after two decades of largely ineffectual “threats” from Europe to start labelling settlement goods, Israel long ago devised ways to conceal the provenance of such trade. It simply &lt;a href="https://jonathancook.substack.com/p/the-west-wont-punish-the-settlements"&gt;relabels items&lt;/a&gt; from the settlements as “made in Israel”.&amp;nbsp;&lt;/p&gt;
+
+&lt;p&gt;This is why the Foreign Office has &lt;a href="https://www.theguardian.com/politics/2026/sep/07/ed-miliband-reset-uk-relations-israel-palestine"&gt;long argued&lt;/a&gt; a ban on trade with settlements would be impossible to implement. The “material impact”, as British diplomats are reportedly telling Washington, will be virtually non-existent.&amp;nbsp;&lt;/p&gt;
+
+&lt;h3&gt;Dishonest reasoning&lt;/h3&gt;
+
+&lt;p&gt;Similarly, British Prime Minister Andy Burnham’s officials have been downplaying the significance to Labour MPs.&amp;nbsp;&lt;/p&gt;
+
+&lt;p&gt;The night before Miliband’s speech, Newsnight reported that backbenchers had been told the government would carefully avoid any echo of the longstanding Palestinian demand for boycott, divestment and sanctions (&lt;a href="https://www.middleeasteye.net/topics/bds"&gt;BDS&lt;/a&gt;) against both Israel and the settlements.&lt;/p&gt;&lt;div class="block-adsense block-adsense-managed-ad-block"&gt;&lt;div&gt;
+  &lt;div class="adsense responsive"&gt;
+    &lt;script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-6114695881218027" crossorigin="anonymous"&gt;&lt;/script&gt;
+&lt;!-- responsive --&gt;
+&lt;ins class="adsbygoogle mee-auto-ad-wrapper " style="display:block" data-ad-client="ca-pub-6114695881218027" data-ad-slot="8690493793" data-ad-format="horizontal" data-full-width-responsive="true"&gt;&lt;/ins&gt;
+&lt;script&gt;
+     (adsbygoogle = window.adsbygoogle || []).push({});
+&lt;/script&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+
+&lt;p&gt;A decade ago, Burnham &lt;a href="https://www.jewishnews.co.uk/burnham-declines-call-to-label-gaza-as-a-genocide/"&gt;described&lt;/a&gt; the BDS movement - backed by leading members of Palestinian civil society - as “spiteful”. During his speech, Miliband similarly went out of his way to emphasise his “wholehearted” &lt;a href="https://www.gov.uk/government/speeches/foreign-secretary-oral-statement-on-israel-palestine"&gt;opposition&lt;/a&gt; to BDS.&amp;nbsp;&lt;/p&gt;
+
+&lt;p&gt;But there is something fundamentally, and transparently, dishonest about this approach.&amp;nbsp;&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;His 'decisive action' on settlement trade is, in truth, cover for the government's continuing 'decisive inaction' on Israel's genocidal crimes and British collusion in them&amp;nbsp;&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;The British public is being told that the UK needs to take “&lt;a href="https://www.theguardian.com/world/2026/sep/07/un-francesca-albanese-miliband-israel-palestine-settlements-trade"&gt;decisive action&lt;/a&gt;” in the form of sanctions against West Bank settlements, while Israel itself is to be left untouched.&amp;nbsp;And the government justifies its very limited measures on the grounds that the settlements are the chief threat to a two-state solution.&amp;nbsp;&lt;/p&gt;
+
+&lt;p&gt;But neither argument makes the slightest sense.&amp;nbsp;&lt;/p&gt;
+
+&lt;p&gt;Of particular concern to the British government is a recent decision by Israel to advance a large settlement project &lt;a href="https://www.bbc.com/news/videos/cy5zpze3qe3o"&gt;called E1&lt;/a&gt;, on Palestinian land close to Jerusalem. It is seen as the final nail in the coffin for Palestinian statehood.&amp;nbsp;&lt;/p&gt;
+
+&lt;p&gt;The truth, however, is that Israel has been expanding its illegal West Bank settlements for decades, using armed militias to drive Palestinians &lt;a href="https://www.middleeasteye.net/opinion/settler-terrorism-modern-incarnation-zionist-dream"&gt;off their land&lt;/a&gt;. This is nothing new.&amp;nbsp;&lt;/p&gt;
+
+&lt;p&gt;If the UK were really serious about punishing Israel for its lawbreaking, it would have “reset” relations over the even graver matter of Israel &lt;a href="https://www.middleeasteye.net/topics/israel-genocide-gaza"&gt;levelling Gaza&lt;/a&gt; and slaughtering and maiming tens of thousands of children over the past three years.&amp;nbsp;&lt;/p&gt;
+
+&lt;p&gt;It is quite preposterous for Burnham’s government to engage in public handwringing over the damage being done to the chances of a two-state solution by Israel building &lt;a href="https://www.timesofisrael.com/government-opens-bidding-to-build-1200-homes-in-controversial-e1-settlement-project/"&gt;1,200 homes&lt;/a&gt; in the heart of a future Palestinian state.&amp;nbsp;Britain, after all, has just spent three years helping Israel erase half of that potential state - the half comprising Gaza.&lt;/p&gt;
+
+&lt;p&gt;Israel’s wholesale destruction of the tiny enclave ought to be front and centre of any justification for a change of policy, were Burnham really intending to punish Israel and end British complicity.&amp;nbsp;Instead, Israel’s &lt;a href="https://www.middleeasteye.net/explainers/meaning-definition-what-genocide-israel-gaza"&gt;genocide&lt;/a&gt; has been shunted into the background, while the spotlight is turned on longstanding settler violence.&lt;/p&gt;
+
+&lt;p&gt;This isn’t “decisive action”. This is more smoke and mirrors.&lt;/p&gt;
+
+&lt;h3&gt;No 'law-abiding' Israel&lt;/h3&gt;
+
+&lt;p&gt;More worrying still, the UK may actually assist Israel by reinforcing a laughable distinction between “illegal” settlements, on the one hand, and a supposedly “law-biding” Israel, on the other.&amp;nbsp;&lt;/p&gt;&lt;div class="block-adsense block-adsense-managed-ad-block"&gt;&lt;div&gt;
+  &lt;div class="adsense responsive"&gt;
+    &lt;script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-6114695881218027" crossorigin="anonymous"&gt;&lt;/script&gt;
+&lt;!-- responsive --&gt;
+&lt;ins class="adsbygoogle mee-auto-ad-wrapper " style="display:block" data-ad-client="ca-pub-6114695881218027" data-ad-slot="8690493793" data-ad-format="horizontal" data-full-width-responsive="true"&gt;&lt;/ins&gt;
+&lt;script&gt;
+     (adsbygoogle = window.adsbygoogle || []).push({});
+&lt;/script&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+
+&lt;p&gt;The effect will be to suggest, quite falsely, that the settlements are somehow discrete from Israel itself. But it is Israel establishing the settlements on stolen Palestinian land. It is Israel servicing them with infrastructure, from roads and electricity to schools and public transport.&amp;nbsp;&lt;/p&gt;
+
+&lt;div class="mee-readmore mee-readmore-article-opinion mee-readmore-type-image align-right"&gt;
+  &lt;a class="mee-readmore-img-link" href="https://www.middleeasteye.net/opinion/uk-settlement-trade-ban-offers-lifeline-palestine-and-israel-on-brink"&gt;&lt;img class="mee-readmore-image" src="https://www.middleeasteye.net/sites/default/files/styles/read_more/public/images-story/belgium-protest-israel-sanctions-brussels-may-2025-hatim-kaghat-belga-afp.jpg.webp?itok=qKjTyQF4" width="400" height="250" alt loading="lazy" typeof="foaf:Image"&gt;
+
+&lt;/a&gt;  &lt;div class="mee-readmore-description"&gt;UK settlement trade ban offers a lifeline to Palestine, and to an Israel on the brink&lt;/div&gt;
+    &lt;a class="mee-readmore-link" href="https://www.middleeasteye.net/opinion/uk-settlement-trade-ban-offers-lifeline-palestine-and-israel-on-brink"&gt;Read More »&lt;/a&gt;
+&lt;/div&gt;
+
+&lt;p&gt;It is Israel encouraging Jews to move into the illegal settlements through housing and other subsidies. It is Israel sending soldiers to protect the settlements and crush any opposition from Palestinians.&amp;nbsp;&lt;/p&gt;
+
+&lt;p&gt;And it is Israel arming settler militias to &lt;a href="https://www.middleeasteye.net/news/ein-al-auja-how-settler-attacks-and-water-diversion-erased-palestinian-community"&gt;terrorise Palestinians&lt;/a&gt; off land desired by Israel for further colonisation.&lt;/p&gt;
+
+&lt;p&gt;It is the Israeli state - hiding behind its self-declared “Jewish” status - responsible for this decades-long process of ethnic cleansing, designed to eradicate any chance of a Palestinian state emerging.&amp;nbsp;&lt;/p&gt;
+
+&lt;p&gt;Despite Miliband’s &lt;a href="https://www.timesofisrael.com/full-speech-ed-miliband-lays-out-uks-new-approach-to-support-two-state-solution/"&gt;references&lt;/a&gt; to the “conduct of the Israeli government” - meaning the far-right government of Prime Minister Benjamin Netanyahu - there is cross-party support in Israel for the expansion of the settlements and the thwarting of Palestinian statehood.&lt;/p&gt;
+
+&lt;p&gt;Yair Lapid, the Israeli opposition leader, seen as on the centre-left in Israel, lambasted the UK sanctions against the settlements, &lt;a href="http://ynetnews.com/article/3o9gui808"&gt;calling them&lt;/a&gt; “a boost for Hamas and terror organisations”.&amp;nbsp;&lt;/p&gt;
+
+&lt;p&gt;If Britain wants to stop the criminal settlements, it has to wield its stick not just against these visible symptoms of the occupation, but against the root cause: the Israeli state.&amp;nbsp;&lt;/p&gt;
+
+&lt;h3&gt;An apartheid ally&lt;/h3&gt;
+
+&lt;p&gt;Indisputably, there were welcome aspects to Miliband’s address to the House of Commons - not least, the government’s decision to finally accept a 2024 ruling from the &lt;a href="https://www.timesofisrael.com/full-speech-ed-miliband-lays-out-uks-new-approach-to-support-two-state-solution/"&gt;International Court of Justice&lt;/a&gt; (ICJ) that Israel’s occupation of the state of Palestine is itself unlawful, not just the settlements.&lt;/p&gt;
+
+&lt;p&gt;His use of the term "ethnic cleansing” in reference to the West Bank - though not, it appears, to Gaza - sets a precedent that is already liberating &lt;a href="https://x.com/LBC/status/2097385730662109466"&gt;some prominent journalists &lt;/a&gt;to speak up against the occupation, if&amp;nbsp;very belatedly.&amp;nbsp;&lt;/p&gt;
+
+&lt;p&gt;The government’s inclusion&amp;nbsp;in its measures&amp;nbsp;of financial services funding settlement expansion gives it a potential tool for sanctioning foreign companies and Israeli banks that operate in the UK, should it wish to use it.&lt;/p&gt;
+
+&lt;p&gt;There was a forthrightness in Miliband’s description of the settlers currently carrying out pogroms in Palestinian communities across the occupied West Bank as “terrorists”.&amp;nbsp;Such language sounds bold only because all previous British governments have shied away from naming a longstanding reality.&amp;nbsp;&lt;/p&gt;
+
+&lt;p&gt;But Miliband downplayed the fact that all Israeli governments have backed these settler terrorists.&amp;nbsp;It was a convenient fiction for Miliband to suggest instead that the violence was largely a result of Netanyahu’s far-right government turning a “blind eye” to this criminality.&amp;nbsp;&lt;/p&gt;
+
+&lt;p&gt;&lt;iframe allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen frameborder="0" height="315" referrerpolicy="strict-origin-when-cross-origin" src="https://www.youtube.com/embed/_ZPf76tthZg?si=Nz_1Riu2fko9QiA5" title="YouTube video player" width="560"&gt;&lt;/iframe&gt;&lt;/p&gt;
+
+&lt;p&gt;Other aspects of Miliband’s speech were even more troubling. He &lt;a href="https://www.gov.uk/government/speeches/foreign-secretary-oral-statement-on-israel-palestine"&gt;declared&lt;/a&gt; that he was “unwavering in my support for the state of Israel”.&amp;nbsp;&lt;/p&gt;
+
+&lt;p&gt;But the ICJ, the world’s highest court, also concluded in 2024 that Israel had &lt;a href="https://www.middleeasteye.net/opinion/icj-clears-fog-hiding-western-support-israel-rogue-state"&gt;imposed a system&lt;/a&gt; of apartheid rule over the Palestinian people for more than half a century. How can Britain claim to be taking the moral high ground, and carrying out a “reset” in relations, when it expresses “unwavering support” for an Israeli state engaged in apartheid?&amp;nbsp;&lt;/p&gt;
+
+&lt;p&gt;Miliband also stated: “Our argument is not with the people of Israel, with whom the UK has unshakeable bonds. Our argument is with the conduct of its government.”&lt;/p&gt;
+
+&lt;p&gt;But how, if we continue to have “unshakeable bonds” with the people of Israel, do we pressure that society - one steeped in the Jewish supremacist ideology of Zionism - to stop electing governments, year after year, decade after decade, that seek the ethnic cleansing of Palestinians from their historic homeland?&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;Culpability rests not with a few rogue elements in the settlements, but with the entirety of a society that has chosen apartheid, ethnic cleansing and finally genocide&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Poll after poll shows Israel’s Jewish population overwhelmingly &lt;a href="https://www.jpost.com/israel-news/article-874235"&gt;against the creation&lt;/a&gt; of a Palestinian state - the explicit goal of Britain’s new sanctions policy - and in favour of the &lt;a href="https://x.com/AJEnglish/status/1925980414570623141"&gt;expulsion&lt;/a&gt; of Palestinians from all parts of their homeland. In the midst of the Gaza genocide, almost half of Israelis &lt;a href="https://www.middleeasteye.net/news/majority-israelis-support-expulsion-palestinians-gaza-poll"&gt;expressed support&lt;/a&gt; for killing the enclave’s entire population, including its children.&lt;/p&gt;
+
+&lt;p&gt;How would apartheid in South Africa have been brought to an end if Britain and other western states had preferred to maintain “unshakeable bonds” with the white population, rather than impose boycotts and sanctions on the whole society?&amp;nbsp;&lt;/p&gt;
+
+&lt;p&gt;Miliband’s aim is to treat Israel as discrete from its settler militias and the more fanatical members of the current government - figures such as National Security Minister Itamar Ben Gvir and Finance Minister Bezalel Smotrich.&lt;/p&gt;
+
+&lt;p&gt;But it is a distinction without a meaningful difference. It falsely regards the crude, open and relatively small-scale violence of settler terrorists as categorically more important than the controlled, covert, incremental and far larger-scale violence wielded against Palestinians by every government in Israel’s history.&amp;nbsp;&lt;/p&gt;
+
+&lt;p&gt;Culpability rests not with a few rogue elements in the settlements, but with the entirety of a society that has chosen apartheid, ethnic cleansing and finally genocide, as its “solutions” to silence the claim of the native Palestinian people to sovereignty over part of their historic homeland.&amp;nbsp;&lt;/p&gt;
+
+&lt;h3&gt;Elephant in the room&lt;/h3&gt;
+
+&lt;p&gt;The elephant marauding through the room, the one we are supposed to ignore, is the UK’s three years of complicity in Gaza’s destruction.&amp;nbsp;&lt;/p&gt;
+
+&lt;p&gt;The Labour Party has burned its credibility on the single most important moral foreign policy issue of our time by allowing Britain to actively collude in Israeli atrocities. The new prime minister understands this problem only too well.&amp;nbsp;&lt;/p&gt;
+
+&lt;p&gt;Shortly before he took over from Keir Starmer, Burnham issued a public apology via social media in an attempt to distance himself from his predecessor.&amp;nbsp;&lt;/p&gt;
+
+&lt;div class="mee-readmore mee-readmore-article-opinion mee-readmore-type-image align-right"&gt;
+  &lt;a class="mee-readmore-img-link" href="https://www.middleeasteye.net/opinion/banning-trade-illegal-israeli-settlements-start-labour-party-must-not-stop-there"&gt;&lt;img class="mee-readmore-image" src="https://www.middleeasteye.net/sites/default/files/styles/read_more/public/images-story/Pro-Palestinian%20protesters%20take%20part%20in%20the%20%2522National%20March%20to%20Labour%27s%20in%20Liverpool%20on%2021%20September%2C%202024%20%28AFP%29.jpg.webp?itok=nuUrU38h" width="400" height="250" alt loading="lazy" typeof="foaf:Image"&gt;
+
+&lt;/a&gt;  &lt;div class="mee-readmore-description"&gt;Banning trade with illegal Israeli settlements is a start, but Labour must not stop there&lt;/div&gt;
+    &lt;a class="mee-readmore-link" href="https://www.middleeasteye.net/opinion/banning-trade-illegal-israeli-settlements-start-labour-party-must-not-stop-there"&gt;Read More »&lt;/a&gt;
+&lt;/div&gt;
+
+&lt;p&gt;In a three-minute monologue to camera, he offered vague contrition for Labour “getting it wrong” on Gaza, without specifying how. He feebly noted that war crimes “appear to have been committed”, and lamented the “humanitarian” &lt;a href="https://x.com/andyburnham/status/2075254210728202286"&gt;suffering of Palestinians&lt;/a&gt; in the enclave.&amp;nbsp;&lt;/p&gt;
+
+&lt;p&gt;Burnham also committed the UK to upholding the vision of a &lt;a href="https://www.theguardian.com/commentisfree/2026/sep/08/uk-sanctions-israel-two-state-solution-middle-east-palestinians-andy-burnham"&gt;two-state solution&lt;/a&gt;, with a Palestinian state alongside a self-declared Jewish state.&amp;nbsp;But Starmer stole Burnham’s potential thunder by recognising &lt;a href="https://www.middleeasteye.net/opinion/recognition-palestine-repeat-wests-oslo-peace-fraud"&gt;Palestinian statehood&lt;/a&gt; nearly a year ago - though predictably, the declaration had negligible effect.&amp;nbsp;&lt;/p&gt;
+
+&lt;p&gt;That recognition - hailed as momentous too - has turned out to be utterly inconsequential. So much so that, as John Whitbeck, a long-time legal adviser to Palestinian negotiators, pointed out in an email, Miliband repeatedly made reference to settler violence in the “occupied territories” rather than - as official UK policy should dictate - the “occupied state of Palestine”.&lt;/p&gt;
+
+&lt;p&gt;With a Labour Party conference looming, Burnham has needed his own rabbit to pull out of the hat and demonstrate his seriousness.&amp;nbsp;He found it in trade sanctions on settlements in the occupied West Bank. They appear to punish Israel, while having minimal practical impact.&lt;/p&gt;
+
+&lt;p&gt;The noisy backlash from Israel, the Trump administration and Israel’s plentiful apologists at home, Burnham assesses, &lt;a href="https://www.middleeasteye.net/opinion/uk-burnham-must-break-starmer-dishonest-politics-fail-like-him"&gt;will win back&lt;/a&gt; leftwing voters hounded out of Labour by Starmer and into the arms of Zack Polanski’s Green Party. Those voters are needed if Burnham and Labour are to stand any chance of winning the next general election.&amp;nbsp;&lt;/p&gt;
+
+&lt;p&gt;But at the same time, the lack of real teeth from his government’s settlement sanctions are designed to forestall meaningful retaliation from Washington. That may explain Secretary of State Marco Rubio’s unexpectedly &lt;a href="https://www.timesofisrael.com/liveblog_entry/rubio-obviously-us-will-not-be-joining-uk-sanctions-on-west-bank-settlements/"&gt;tepid response&lt;/a&gt; in the immediate wake of Miliband’s speech.&amp;nbsp;&lt;/p&gt;
+
+&lt;h3&gt;Active role in genocide&lt;/h3&gt;
+
+&lt;p&gt;Burnham knows he needs to be seen doing something. And there are signs that the British public may be swayed by all the furore over his settlement sanctions into assuming significant action has been taken.&amp;nbsp;&lt;/p&gt;
+
+&lt;p&gt;An &lt;a href="https://ecfr.eu/article/britons-back-ban-on-trade-with-israeli-settlements-by-more-than-two-to-one/"&gt;opinion poll&lt;/a&gt; published this week shows nearly half of Britons favour a trade ban on settlement goods, with only 18 percent opposed. But sadly, Miliband’s speech gave every impression of preferring to change the rhetoric - and optics - rather than the substance of British foreign policy towards Israel.&amp;nbsp;&lt;/p&gt;
+
+&lt;p&gt;Miliband &lt;a href="https://www.timesofisrael.com/full-speech-ed-miliband-lays-out-uks-new-approach-to-support-two-state-solution/"&gt;noted&lt;/a&gt; “the most unimaginable trauma and suffering” of Palestinians in Gaza, as if they had endured an act of God rather than a campaign of genocide by Israel.&amp;nbsp;He acknowledged a “deep sense of shame” over the international community’s failure to act sooner, while ignoring the active part Britain played - and is still playing - in the Gaza genocide.&amp;nbsp;&lt;/p&gt;
+
+&lt;p&gt;The UK may soon bar British shops from selling “Israeli” wine from vines cultivated on stolen Palestinian land. But Britain continues to provide the trade and services needed by Israel to further erase the tiny &lt;a href="https://www.aljazeera.com/news/2026/5/28/israels-netanyahu-directs-army-to-seize-70-percent-of-gaza-strip"&gt;enclave of Gaza&lt;/a&gt;, where some two million surviving Palestinians are now confined to less than a third of its ruins.&amp;nbsp;&lt;/p&gt;
+
+&lt;p&gt;&lt;iframe allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen frameborder="0" height="315" referrerpolicy="strict-origin-when-cross-origin" src="https://www.youtube.com/embed/lnawdKCBfkc?si=eNzLn3-p8kjPSNS2" title="YouTube video player" width="560"&gt;&lt;/iframe&gt;&lt;/p&gt;
+
+&lt;p&gt;The UK continues to &lt;a href="https://www.declassifieduk.org/exposed-the-uk-firms-supplying-elbit-systems/"&gt;sell arms&lt;/a&gt; to Israel, including components for its F-35 warplanes and killer drones. Britain &lt;a href="https://www.aljazeera.com/video/newsfeed/2024/10/24/how-us-and-uk-military-airlifts-have-supported-israels-war-on-gaza"&gt;continues&lt;/a&gt; to transfer &lt;a href="https://www.middleeasteye.net/opinion/real-crimes-are-taking-place-gaza-not-glastonbury-or-brize-norton"&gt;US and German arms&lt;/a&gt; via a Royal Air Force base on Cyprus, and to carry out surveillance flights over Gaza and provide Israel with intelligence.&amp;nbsp;&lt;/p&gt;
+
+&lt;p&gt;The UK continues to stay silent as Washington &lt;a href="https://www.bbc.co.uk/news/articles/cnvnl0elz47o"&gt;wages war&lt;/a&gt; on the International Criminal Court for seeking to hold Israel accountable for the crimes of an occupation the Burnham government says it wants to end.&amp;nbsp;&lt;/p&gt;
+
+&lt;p&gt;Britai&lt;wbr&gt;n is similarly quiet on &lt;a href="https://www.aljazeera.com/news/2026/5/28/us-returns-palestinian-rights-expert-francesca-albanese-to-sanctions-list"&gt;the continuing abuses&lt;/a&gt; by the US of the United Nations’ expert on the occupied territories, Francesca Albanese.&amp;nbsp;&lt;/p&gt;
+
+&lt;p&gt;At home, the government continues to outlaw as a terrorist organisation &lt;a href="https://www.middleeasteye.net/topics/palestine-action"&gt;Palestine Action&lt;/a&gt;, and it &lt;a href="https://www.theguardian.com/politics/2026/sep/01/almost-half-of-terrorism-arrests-in-great-britain-since-911-have-been-in-past-year"&gt;arrests and jails&lt;/a&gt; those who protest too loudly against British collusion in genocide.&amp;nbsp;&lt;/p&gt;
+
+&lt;p&gt;By contrast, the same government refuses to investigate the actions of &lt;a href="https://www.declassifieduk.org/over-2000-britons-served-for-israel-amid-gaza-genocide/"&gt;British citizens&lt;/a&gt; - at least 2,000 of them - who reportedly participated or assisted in the Gaza genocide. They continue to freely move in and out of the UK.&amp;nbsp;&lt;/p&gt;
+
+&lt;p&gt;Israel’s lobby groups in Britain, shamefully all too ready to excuse Israel’s crimes and incite against Palestinians, continue to attract &lt;a href="https://www.declassifieduk.org/israel-lobby-funded-half-of-keir-starmers-cabinet/"&gt;British politicians&lt;/a&gt;, including Labour government ministers, as members.&amp;nbsp;&lt;/p&gt;
+
+&lt;p&gt;Were Burnham really serious about changing Britain’s relations with Israel, all of this would have to be addressed, not swept under the carpet. His “decisive action” on settlement trade is, in truth, cover for the government’s continuing “decisive inaction” on Israel’s genocidal crimes and British collusion in them.&amp;nbsp;&lt;/p&gt;
+
+&lt;h3&gt;Horrifying subtext&lt;/h3&gt;
+
+&lt;p&gt;But one final, horrifying subtext to Miliband’s speech should not go unremarked.&amp;nbsp;&lt;/p&gt;
+
+&lt;p&gt;In desperately trying to keep alive the West’s two-state solution, Burnham’s government is not just ignoring reality: the fact that there is no partner in Israel - electable or otherwise - to implement such a vision.&amp;nbsp;&lt;/p&gt;
+
+&lt;p&gt;Burnham and Miliband are also insisting, in the entirely improbable event that a Palestinian state can be extracted from Israel, that the Palestinian people should be required to make peace with an unrepentant, heavily militarised, racist state that has recently committed genocide in Gaza.&lt;/p&gt;
+
+&lt;p&gt;None of the 11 states that joined the UK this week in sanctioning the settlements can apparently imagine Palestinians ever living in anything more than a small, demilitarised, economically dependent pseudo-state, with no real choice over its leaders, or control over its borders and economy.&amp;nbsp;&lt;/p&gt;
+
+&lt;p&gt;Similarly, there is no suggestion that a neighbouring, territorially reduced Israeli state would need to be reformed ideologically, or made to engage in any kind of truth and reconciliation process, or face sanctions until it sees the error of its ways.&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;Israel isn't some Frankenstein's monster. It is doing exactly what it was set up to do: serve as a western colonial implant - a militarised fortress state&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;The Jewish supremacist ideology of Zionism, the dehumanising logic of the Israeli settler-colonial mindset, and the religious fundamentalism of large swaths of the Israeli population - all critical to the rationalisation of the Gaza genocide - would remain unchallenged.&amp;nbsp;&lt;/p&gt;
+
+&lt;p&gt;On this view, it seems, long-established impulses towards apartheid and genocide would simply evaporate, even as the West continues to indulge Israel’s every whim.&amp;nbsp;&lt;/p&gt;
+
+&lt;p&gt;This isn’t a recipe for peace, even of the flawed kind. It is a demand that the Palestinian lamb continue to dwell with the Israeli wolf.&amp;nbsp;&lt;/p&gt;
+
+&lt;p&gt;The truth that Burnham’s government refuses to face, as with every government before it, is that peace won’t magically arrive with Palestinian statehood.&amp;nbsp;A Palestinian state - or, more likely, a single state embracing Palestinians and Israeli Jews - can emerge only when Israel has been dismantled as a heavily armed settler-colonial state, as happened with apartheid South Africa.&amp;nbsp;&lt;/p&gt;
+
+&lt;p&gt;Israeli society will need to be re-educated through a painful &lt;a href="https://www.britannica.com/topic/Truth-and-Reconciliation-Commission-South-Africa"&gt;truth and reconciliation process&lt;/a&gt;, as also happened in apartheid South Africa. Israelis will have to be made to confront the facts about a century of atrocities committed against the native Palestinian people.&lt;/p&gt;
+
+&lt;p&gt;Britain is not contemplating doing any of this - because the threads from unravelling the crimes of Israel and the Zionist movement would lead straight to the door of 10 Downing Street and other western powers.&amp;nbsp;&lt;/p&gt;
+
+&lt;p&gt;Israel isn’t some Frankenstein’s monster. It is doing exactly what it was set up to do: serve as a western colonial implant - a militarised fortress state - projecting power into the oil-rich Middle East.&amp;nbsp;&lt;/p&gt;
+
+&lt;p&gt;Israel wants to be nothing less - and, rhetoric aside, the British establishment is not about to do anything practical to cut it down to size.&lt;/p&gt;
+
+&lt;p&gt;&lt;i&gt;The views expressed in this article belong to the author and do not necessarily reflect the editorial policy of Middle East Eye.&lt;/i&gt;&lt;/p&gt;
+&lt;/div&gt;
+                  &lt;div class="field field-field-topic"&gt;&lt;a href="https://www.middleeasteye.net/topics/occupation" hreflang="en"&gt;Occupation&lt;/a&gt;&lt;/div&gt;
+                  &lt;div class="field field-field-landing-title"&gt;Britain’s sanctions are trying to save Israel from itself. What about the Palestinians?&lt;/div&gt;
+                  &lt;div class="field field-field-section"&gt;&lt;a href="https://www.middleeasteye.net/opinion/all" hreflang="en"&gt;Opinion&lt;/a&gt;&lt;/div&gt;
+        &lt;div class="field field-field-post-date-override"&gt;
+    &lt;div&gt;Post Date Override&lt;/div&gt;
+              &lt;div&gt;0&lt;/div&gt;
+          &lt;/div&gt;
+  &lt;div class="field field-field-update-date-override"&gt;
+    &lt;div&gt;Update Date&lt;/div&gt;
+              &lt;div&gt;&lt;time datetime="2020-05-04T21:29:16+01:00"&gt;Mon, 05/04/2020 - 21:29&lt;/time&gt;
+&lt;/div&gt;
+          &lt;/div&gt;
+  &lt;div class="field field-field-update-date-check"&gt;
+    &lt;div&gt;Update Date Override&lt;/div&gt;
+              &lt;div&gt;0&lt;/div&gt;
+          &lt;/div&gt;
+
+  &lt;/div&gt;
+  
+&lt;/article&gt;
+</description>
+  <pubDate>Fri, 11 Sep 2026 11:59:22 +0100</pubDate>
+    <dc:creator>Jonathan Cook</dc:creator>
+    <guid isPermaLink="false">447484 at https://www.middleeasteye.net/</guid>
+    </item>
+<item>
+  <title>Jabaroot: Behind the hacker group's claim of a 70,000‑name leak in Morocco's police and intelligence</title>
+  <link>https://www.middleeasteye.net/news/jabaroot-behind-hacker-group-claim-70000%E2%80%91name-leak-Morocco-police-intelligence</link>
+  <description>
+  
+
+&lt;article data-history-node-id="447520" about="https://www.middleeasteye.net/news/jabaroot-behind-hacker-group-claim-70000%E2%80%91name-leak-Morocco-police-intelligence" class="story default clearfix"&gt;
+
+  
+      &lt;h2&gt;
+      &lt;a href="https://www.middleeasteye.net/news/jabaroot-behind-hacker-group-claim-70000%E2%80%91name-leak-Morocco-police-intelligence" rel="bookmark"&gt;
+&lt;span class="field field-title"&gt;Jabaroot: Behind the hacker group's claim of a 70,000‑name leak in Morocco's police and intelligence&lt;/span&gt;
+&lt;/a&gt;
+    &lt;/h2&gt;
+    
+
+          &lt;footer&gt;
+      
+      &lt;div class="author"&gt;
+        Submitted by 
+&lt;span class="field field-uid"&gt;&lt;a title="View user profile." href="https://www.middleeasteye.net/users/hugo-martin" lang about="https://www.middleeasteye.net/users/hugo-martin" typeof="schema:Person" property="schema:name" datatype&gt;Hugo Martin&lt;/a&gt;&lt;/span&gt;
+ on 
+&lt;span class="field field-created"&gt;&lt;time datetime="2026-09-11T09:47:15+01:00" title="11 September 2026 09:47 BST"&gt;Fri, 09/11/2026 - 09:47&lt;/time&gt;
+&lt;/span&gt;
+        
+      &lt;/div&gt;
+    &lt;/footer&gt;
+      
+    &lt;div class="content"&gt;
+                &lt;div class="field field-field-subhead"&gt;Alleged breach raises security concerns and unanswered questions about the collective's identity and motives at a critical time for Rabat&lt;/div&gt;
+                  &lt;div class="field field-field-main-image"&gt;    &lt;picture&gt;
+                  &lt;source srcset="https://www.middleeasteye.net/sites/default/files/styles/crop_16_9/public/images-story/Morocco-DGST-special-forces-DGSN-open-days-Fes-21-May-2023-Senna-AFP.jpg.webp?itok=pc8bELKY 1x" type="image/webp" width="1024" height="682"&gt;
+                  &lt;img srcset="https://www.middleeasteye.net/sites/default/files/styles/crop_16_9/public/images-story/Morocco-DGST-special-forces-DGSN-open-days-Fes-21-May-2023-Senna-AFP.jpg.webp?itok=pc8bELKY 1x" width="1024" height="682" src="https://www.middleeasteye.net/sites/default/files/styles/crop_16_9/public/images-story/Morocco-DGST-special-forces-DGSN-open-days-Fes-21-May-2023-Senna-AFP.jpg.jpg?itok=pc8bELKY" alt typeof="foaf:Image" fetchpriority="high"&gt;
+
+  &lt;/picture&gt;
+
+&lt;/div&gt;
+                  &lt;div class="field field-field-cutline"&gt;A member of the special forces of Morocco’s General Directorate of Territorial Surveillance of (DGST) during the General Directorate of National Security's (DGSN) open days in Fes, Morocco, on 21 May 2023 (Fadel Senna/AFP)&lt;/div&gt;
+                  &lt;div class="field field-field-wide-photo-video"&gt;Off&lt;/div&gt;
+                  &lt;div class="field field-body clearfix"&gt;&lt;p style="margin-bottom:11px"&gt;&lt;a href="https://www.middleeasteye.net/countries/morocco"&gt;Morocco&lt;/a&gt; suffered an alleged security breach on 24 August, when hacker collective Jabaroot claimed to have released 70,000 names from the country’s police and intelligence network stationed in Europe “and within strategic Moroccan institutions”.&amp;nbsp;&lt;/p&gt;
+
+&lt;p&gt;Compiled in four spreadsheets, the list mostly consists of unknown individuals within Morocco’s General Directorate of National Security (DGSN), the national police, and the General Directorate of Territorial Surveillance (DGST), the domestic intelligence. It&amp;nbsp;details personal information such as birth dates, bank account numbers and supposed professional ranking.&lt;/p&gt;
+
+&lt;p&gt;The list also names some high-ranking officials, including the head of the DGSN and DGST, Abdellatif Hammouchi.&lt;/p&gt;
+
+&lt;p&gt;Morocco &lt;a href="https://en.hespress.com/144471-dgsn-dgst-deny-cyberattack-on-security-databases.html"&gt;denied the attack&lt;/a&gt;, saying the data came from old information obtained from databases operated by insurance companies.&lt;/p&gt;
+
+&lt;p&gt;Jabaroot, which means “power” or “domination” in Arabic, released the data on Telegram, calling it a “gift to Spain”, coming weeks after the migrant crisis in which &lt;a href="https://www.middleeasteye.net/news/were-happy-be-here-thousands-make-dramatic-sea-crossings-ceuta-morocco"&gt;72,000 people&lt;/a&gt; crossed into the Spanish enclave of Ceuta from Morocco.&amp;nbsp;&lt;/p&gt;&lt;div class="block-adsense block-adsense-managed-ad-block"&gt;&lt;div&gt;
+  &lt;div class="adsense responsive"&gt;
+    &lt;script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-6114695881218027" crossorigin="anonymous"&gt;&lt;/script&gt;
+&lt;!-- responsive --&gt;
+&lt;ins class="adsbygoogle mee-auto-ad-wrapper " style="display:block" data-ad-client="ca-pub-6114695881218027" data-ad-slot="8690493793" data-ad-format="horizontal" data-full-width-responsive="true"&gt;&lt;/ins&gt;
+&lt;script&gt;
+     (adsbygoogle = window.adsbygoogle || []).push({});
+&lt;/script&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+
+&lt;p&gt;According to &lt;a href="https://www.lemonde.fr/afrique/article/2026/08/26/au-maroc-les-hackeurs-du-groupe-jabaroot-publient-les-noms-de-70-000-agents-des-services-de-securite-et-de-renseignement_6757367_3212.html?srsltid=AfmBOoo8ZEcUa1ljyBaYJ-ZhgvmUHJgUQudulHdqgekCb0QCF9tc75T2"&gt;Le Monde&lt;/a&gt;, while many suspect Jabaroot to be an &lt;a href="https://www.middleeasteye.net/countries/algeria"&gt;Algerian&lt;/a&gt; group, the leak could actually be the work of five former DGST agents, living in exile in Europe.&amp;nbsp;&lt;/p&gt;
+
+&lt;p&gt;Currently, nothing proves that these 70,000 people are all Moroccan spies. Some files may concern police officers, administrative staff or civil servants with no clandestine activity.&lt;/p&gt;
+
+&lt;p&gt;Dr Bassant Hassib, assistant professor of political science in the University of London Programmes at the European Universities in Egypt (EUE), with expertise in cybersecurity, says Jabaroot’s announcement should be treated with caution.&lt;/p&gt;
+
+&lt;p&gt;There are several methods to assess and authenticate a leak, she told Middle East Eye, including checking whether the recruitment dates are plausible.&lt;/p&gt;
+
+&lt;p&gt;“This leak’s most recent hire date was reportedly 2020, suggesting outdated information. It is also necessary to check if the names on the list are intelligence/security agents or admin employees,” Hassib said. An indicator that the data is old is the mention of Abdelhak Khiame, the first director of the Central Bureau of Judicial Investigations, part of the DGST, who died in 2022.&lt;/p&gt;&lt;div class="block-adsense block-adsense-managed-ad-block"&gt;&lt;div&gt;
+  &lt;div class="adsense responsive"&gt;
+    &lt;script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-6114695881218027" crossorigin="anonymous"&gt;&lt;/script&gt;
+&lt;!-- responsive --&gt;
+&lt;ins class="adsbygoogle mee-auto-ad-wrapper " style="display:block" data-ad-client="ca-pub-6114695881218027" data-ad-slot="8690493793" data-ad-format="horizontal" data-full-width-responsive="true"&gt;&lt;/ins&gt;
+&lt;script&gt;
+     (adsbygoogle = window.adsbygoogle || []).push({});
+&lt;/script&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+
+&lt;h3&gt;Informant network exposed&lt;/h3&gt;
+
+&lt;p&gt;MEE learned from a former Moroccan overseas intelligence officer that some of the names on the list are in fact correct. The anonymous source said that after partially going through the data, they identified at least one entire informant family whose details and job ranking were authentic.&amp;nbsp;&lt;/p&gt;
+
+&lt;p&gt;“Usually informants are placed within embassies; it is common practice for the entire family to be hired and moved to the country to reduce any suspicion within the family,” they said.&amp;nbsp;&lt;/p&gt;
+
+&lt;p&gt;“[The leak] will cause chaos within the system; all those named are now burnt contacts, and will need to return to Morocco,”&amp;nbsp;the former intelligence agent said.&lt;/p&gt;
+
+&lt;p&gt;They added that the job of any foreign agent is purely to collect information: “We listen, and we pass it back; we are trained on how to do this.”&amp;nbsp;&amp;nbsp;&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;‘[The leak] will cause chaos within the system; all those named are now burned contacts, and will need to return to Morocco’&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;- Former Moroccan intelligence agent&lt;/em&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;With potentially hundreds or thousands of contacts “burned”, the intelligence source says previously deployed staff will probably be called back overseas to replace those implicated in the leak.&amp;nbsp;&lt;/p&gt;
+
+&lt;p&gt;Even if the data is only partially correct, the leak endangers the agents, Hassib said.&lt;/p&gt;
+
+&lt;p&gt;“It poses a physical safety risk to name individuals and their families, especially if they are covert personnel, given that their name and bank details are enough for targeting or harassment,” she said.&amp;nbsp;&lt;/p&gt;
+
+&lt;p&gt;Jabaroot can benefit from publishing data even if it is outdated or incorrect. The collective can claim it is the result of a new breach while reusing older data from previous attacks, Hassib explained.&amp;nbsp;&lt;/p&gt;
+
+&lt;p&gt;“This can inflate the appearance of ongoing access and capability, boosting its standing on their main operational platforms like Telegram and increasing its value and leverage for future attacks,” she said.&amp;nbsp;&lt;/p&gt;
+
+&lt;h3&gt;The mysterious Jabaroot&lt;/h3&gt;
+
+&lt;p&gt;This is not the first time Jabaroot has claimed &lt;a href="https://cybelangel.com/blog/a-cnss-breach-update/"&gt;a leak&lt;/a&gt;&amp;nbsp;of sensitive information about Moroccan officials.&amp;nbsp;&lt;/p&gt;
+
+&lt;p&gt;In April 2025, the group &lt;a href="https://cybelangel.com/blog/a-cnss-breach-update/"&gt;breached&lt;/a&gt; the&amp;nbsp;National Social Security Fund&amp;nbsp;(CNSS) and reportedly leaked more than 54,000 files containing sensitive identity, employment and banking details, compromising the data of nearly two million people, including palace employees.&amp;nbsp;&lt;/p&gt;&lt;div class="block-adsense block-adsense-managed-ad-block"&gt;&lt;div&gt;
+  &lt;div class="adsense responsive"&gt;
+    &lt;script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-6114695881218027" crossorigin="anonymous"&gt;&lt;/script&gt;
+&lt;!-- responsive --&gt;
+&lt;ins class="adsbygoogle mee-auto-ad-wrapper " style="display:block" data-ad-client="ca-pub-6114695881218027" data-ad-slot="8690493793" data-ad-format="horizontal" data-full-width-responsive="true"&gt;&lt;/ins&gt;
+&lt;script&gt;
+     (adsbygoogle = window.adsbygoogle || []).push({});
+&lt;/script&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+
+&lt;p&gt;Two months later, Jabaroot &lt;a href="https://cybelangel.com/blog/ancfcc-data-leak-flash-report/"&gt;said&lt;/a&gt; it&amp;nbsp;hacked the National Agency for Land Conservation&amp;nbsp;(ANCFCC), leaking roughly 4 TB of data containing more than 10,000 property certificates and 20,000 civil records files.&lt;/p&gt;
+
+&lt;p&gt;Another alleged breach came days later, when&amp;nbsp;Jabaroot &lt;a href="https://medias24.com/2025/06/09/cybersecurite-jabaroot-justice-marocaine/"&gt;said&lt;/a&gt;&amp;nbsp;it had compromised the justice ministry’s digital infrastructure and exfiltrated sensitive personal records belonging to roughly 40,000 judicial officials and magistrates.&lt;/p&gt;
+
+&lt;p&gt;The&amp;nbsp;Moroccan authorities denied every leak.&amp;nbsp;&lt;/p&gt;
+
+&lt;p&gt;In the CNSS hack, those who claimed responsibility initially presented themselves as “Algerian patriots”, though it is impossible to say for certain whether these were the same individuals as in the latest leak.&lt;/p&gt;
+
+&lt;p&gt;The claim that Jabaroot is Algerian is commonly supported by Morocco’s “propaganda apparatus” as investigative journalist Jose Bautista, with extensive knowledge of the topic, told MEE.&amp;nbsp;&lt;/p&gt;
+
+&lt;p&gt;The association with Algeria is “politically useful”, said Alec Barcenilla, a researcher specialised in North Africa geopolitics, who has worked at the Spanish embassy in Rabat.&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;‘What does seem clear is that whoever is behind Jabaroot holds highly professional profile(s), significant technical capabilities, and they have access to super sensitive data’&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;- Jose Bautista, investigative journalist&lt;/em&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Morocco and Algeria have a &lt;a href="https://www.middleeasteye.net/news/algeria-morocco-relationship-tense-history"&gt;long-standing rivalry&lt;/a&gt; that centres on the disputed territory of &lt;a href="https://www.middleeasteye.net/topics/western-sahara"&gt;Western Sahara&lt;/a&gt;, where Algiers backs the pro-independence Polisario Front against Morocco's claims of sovereignty.&lt;/p&gt;
+
+&lt;p&gt;Both countries have come under cyberattacks. In 2025, the X account of the Algerian state news agency APS was compromised and renamed “Moroccan Sahara” to target Algiers's stance on the disputed territory. The hackers are suspected to be Moroccan.&lt;/p&gt;
+
+&lt;p&gt;For Morocco, it is beneficial if Jabaroot is known as Algerian because “it may then instrumentalise these digital attacks to shift blame and public focus away, in a rather opportunistic way”, Barcenilla said.&amp;nbsp;&lt;/p&gt;
+
+&lt;p&gt;The reality, however, is there is very little known about Jabaroot.&lt;/p&gt;
+
+&lt;p&gt;“There is no solid evidence on who they are, where they get their information from, and what the objectives are,” Bautista said.&amp;nbsp;&lt;/p&gt;
+
+&lt;p&gt;“What does seem clear is that whoever is behind Jabaroot holds highly professional profile(s), significant technical capabilities, and they have access to super sensitive data,” he added, saying that his sources believe that the latest leak could be a result of a hack of the Moroccan finance ministry or social security databases.&lt;/p&gt;
+
+&lt;p&gt;The journalist outlined that there are plausible theories about the collective, which he said come from reputable media outlets and those with extensive knowledge, yet no hard evidence exists.&lt;/p&gt;
+
+&lt;p&gt;Many of Bautista’s sources believe several people are behind Jabaroot, rather than a single person. He cited the theory published in Le Monde that Jabaroot could be a group of Moroccan hackers angry about corruption, nepotism and problems within the Moroccan establishment.&amp;nbsp;&lt;/p&gt;
+
+&lt;p&gt;On the other hand, Bautista noted that other well-informed people have pointed the finger at Algerian and even Spanish intelligence as a kind of revenge against Morocco.&amp;nbsp;&amp;nbsp;&lt;/p&gt;
+
+&lt;h3&gt;Ceuta and Pegasus leaks threats&lt;/h3&gt;
+
+&lt;p&gt;Bautista formed part of a network of journalists who produced, on 16 July, &lt;a href="https://forbiddenstories.org/how-did-morocco-become-addicted-to-tracking-down-its-opponents-with-spyware/"&gt;an investigation&lt;/a&gt;&amp;nbsp;on Morocco’s use of &lt;a href="https://www.middleeasteye.net/topics/pegasus-spyware"&gt;Pegasus&lt;/a&gt;, an &lt;a href="https://www.middleeasteye.net/countries/morocco"&gt;Israeli&lt;/a&gt; spy software.&lt;/p&gt;
+
+&lt;p&gt;In July 2021, the Pegasus Project - an international investigation by Forbidden Stories and Amnesty International - accused Rabat of targeting more than 10,000 phone numbers with NSO Group’s spyware.&lt;/p&gt;
+
+&lt;p&gt;These hacks affected Moroccan journalists and dissidents, but also senior foreign officials, including &lt;a href="https://www.middleeasteye.net/countries/france"&gt;French&lt;/a&gt; President Emmanuel Macron, Belgian Prime Minister Charles Michel and Algerian Chief of Staff Said Chengriha.&lt;/p&gt;
+
+&lt;p&gt;Although Moroccan authorities have consistently denied the accusations, new waves of technical evidence have continued to emerge over the years - including in July, following &lt;a href="https://www.middleeasteye.net/news/whistleblower-reveals-morocco-spied-dissidents-pegasus"&gt;revelations&lt;/a&gt; from an intelligence‑service whistleblower.&lt;/p&gt;
+
+&lt;p&gt;The 2026 report &lt;a href="https://www.theguardian.com/news/2026/jul/16/morocco-intelligence-insider-reveals-widespread-use-hacking-software-pegasus"&gt;directly links&lt;/a&gt; the DGST to high-level international spying, including the targeting of top Spanish cabinet ministers and Guardia Civil officers. It also reveals that Morocco’s surveillance programme began as early as September 2017 with internal system testing before rapidly expanding beyond its borders.&lt;/p&gt;
+
+&lt;div class="mee-readmore mee-readmore-article-story mee-readmore-type-image align-right"&gt;
+  &lt;a class="mee-readmore-img-link" href="https://www.middleeasteye.net/news/whistleblower-reveals-morocco-spied-dissidents-pegasus"&gt;&lt;img class="mee-readmore-image" src="https://www.middleeasteye.net/sites/default/files/styles/read_more/public/images-story/Morocco_Spain_Laftit_Grande-Marlaske_2020.jpg.webp?itok=qdXeinBh" width="400" height="250" alt loading="lazy" typeof="foaf:Image"&gt;
+
+&lt;/a&gt;  &lt;div class="mee-readmore-description"&gt;Moroccan whistleblower reveals how Rabat used Israel's Pegasus spyware for surveillance&lt;/div&gt;
+    &lt;a class="mee-readmore-link" href="https://www.middleeasteye.net/news/whistleblower-reveals-morocco-spied-dissidents-pegasus"&gt;Read More »&lt;/a&gt;
+&lt;/div&gt;
+
+&lt;p&gt;Bautista noted that Jabaroot has claimed to have information &lt;a href="https://forbiddenstories.org/how-did-morocco-become-addicted-to-tracking-down-its-opponents-with-spyware/"&gt;about how Morocco uses Pegasus&lt;/a&gt; and has threatened to reveal it, “including how Rabat spied on Spanish PM Pedro Sanchez”.&lt;/p&gt;
+
+&lt;p&gt;Yet again there is nothing concrete to support its claims, Bautista said, noting that Jabaroot has not always followed through on threats in the past.&lt;/p&gt;
+
+&lt;p&gt;In the new release, dubbed “OpCeuta”, Jabaroot has also threatened to publish "agent mission orders" allegedly proving the collusion of Moroccan security and intelligence services in organising the mass departures to Ceuta, &lt;a href="https://www.middleeasteye.net/news/ceuta-migrant-disaster-death-toll-rises-morocco-deadliest-recent-history"&gt;which resulted&lt;/a&gt; in 141 deaths.&amp;nbsp;&lt;/p&gt;
+
+&lt;p&gt;An &lt;a href="https://www.lemonde.fr/international/article/2026/09/07/crise-de-ceuta-la-justice-espagnole-ouvre-une-enquete-sur-l-afflux-massif-de-migrants-fin-juillet_6767957_3210.html" target="_blank"&gt;investigation&lt;/a&gt; has been opened in Spain after a police report&amp;nbsp;&lt;a href="https://www.lemonde.fr/international/article/2026/09/03/crise-de-ceuta-pedro-sanchez-continue-d-ecarter-la-responsabilite-du-maroc-mais-nuance-sa-position_6765204_3210.html" target="_blank"&gt;described&lt;/a&gt;&amp;nbsp;Moroccan law enforcement as broadly permissive and even facilitating the mass crossing. Rabat has &lt;a href="https://www.aljazeera.com/news/2026/9/10/morocco-denies-involvement-in-migrant-surge-into-spains-ceuta"&gt;denied&lt;/a&gt; any involvement.&lt;/p&gt;
+
+&lt;p&gt;Jabaroot, meanwhile, has not yet followed through on this threat.&lt;/p&gt;
+
+&lt;p&gt;Professor Hassib called Jabaroot’s framing “a way to embarrass Rabat and reinforce a narrative of Moroccan state involvement in the Ceuta crisis, thereby undermining its credibility”, especially with Morocco's elections approaching, on 23 September.&lt;/p&gt;
+
+&lt;p&gt;She believes the latest leak, which comes at a critical time, aims “to cause internal disruption, psychological impact, reputational damage and political leverage”.&amp;nbsp;&lt;/p&gt;
+
+&lt;p&gt;Reflecting on his discussions with both Moroccan and Spanish intelligence, Bautista said that what happened in Ceuta “must be understood in the context of hidden fights between Moroccan and Spanish intelligence, and in relation to what we published in the Pegasus report”.&lt;/p&gt;
+
+&lt;p&gt;“Moroccan intelligence did not like what we reported [about Pegasus]; they thought that Spain was somehow behind the access that we had to sensitive Moroccan intelligence officers,” he said.&lt;/p&gt;
+
+&lt;h3&gt;‘Embarrassing for Hammouchi’&lt;/h3&gt;
+
+&lt;p&gt;Hammouchi, who became head of the DGST in 2005 and then DGSN in 2015, is a key target of the latest leak. Amid the release, Jabaroot said the “king must act and dismiss Hammouchi”.&amp;nbsp;&lt;/p&gt;
+
+&lt;p&gt;Hammouchi, described in the press as King Mohammed VI's “supercop”, has faced &lt;a href="https://www.bbc.com/news/world-europe-26360224"&gt;repeated complaints&lt;/a&gt; from human rights groups, including Amnesty International and Action by Christians for the Abolition of Torture, regarding alleged torture and secret detention practices at DGST sites.&lt;/p&gt;
+
+  &lt;figure role="group" class="media-block"&gt;
+  &lt;div class="group-inner"&gt;
+    &lt;div alt="Abdellatif Hammouchi, head of the DGST and DGSN, walks during a visit to the COP22 international climate conference in Marrakesh on 8 November 2016 (Fadel Senna/AFP)" data-embed-button="file_browser" data-entity-embed-display="image:image" data-entity-embed-display-settings="{" data-entity-type="file" data-entity-uuid="9a3d8231-a552-4e69-a96e-f304a4e9803d" data-langcode="en" class="embedded-entity"&gt;  &lt;img loading="lazy" src="https://www.middleeasteye.net/sites/default/files/Morocco-Abdellatif-Hammouchi-head-DGST-DGSN-COP22-Marrakesh-8-November-2016-Senna-AFP.jpg" width="1024" height="681" alt="Abdellatif Hammouchi, head of the DGST and DGSN, walks during a visit to the COP22 international climate conference in Marrakesh on 8 November 2016 (Fadel Senna/AFP)" typeof="foaf:Image"&gt;
+
+&lt;/div&gt;
+
+    &lt;figcaption&gt;Abdellatif Hammouchi, head of the DGST and DGSN, pictured in 2016 (Fadel Senna/AFP)&lt;/figcaption&gt;
+  &lt;/div&gt;
+&lt;/figure&gt;
+
+
+&lt;p&gt;&lt;span style="background:rgba(220,220,220,0.5);background-image:url(https://www.middleeasteye.net/modules/contrib/ckeditor/vendor/plugins/widget/images/handle.png);display:none;"&gt;&lt;img height="15" role="presentation" src="data:image/gif;base64,R0lGODlhAQABAPABAP///wAAACH5BAEKAAAALAAAAAABAAEAAAICRAEAOw==" title="Click and drag to move" width="15" loading="lazy"&gt;&lt;/span&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;span style="background:rgba(220,220,220,0.5);background-image:url(https://www.middleeasteye.net/modules/contrib/ckeditor/vendor/plugins/widget/images/handle.png);display:none;"&gt;&lt;img alt height="15" role="presentation" src="data:image/gif;base64,R0lGODlhAQABAPABAP///wAAACH5BAEKAAAALAAAAAABAAEAAAICRAEAOw==" title="Click and drag to move" width="15" loading="lazy"&gt;&lt;/span&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;span style="background: url(&amp;quot;https://www.middleeasteye.net/modules/contrib/ckeditor/vendor/plugins/widget/images/handle.png&amp;quot;) rgba(220, 220, 220, 0.5); top: -15px; left: 0px;"&gt;&lt;img alt height="15" role="presentation" src="data:image/gif;base64,R0lGODlhAQABAPABAP///wAAACH5BAEKAAAALAAAAAABAAEAAAICRAEAOw==" title="Click and drag to move" width="15" loading="lazy"&gt;&lt;/span&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;span style="background: url(&amp;quot;https://www.middleeasteye.net/modules/contrib/ckeditor/vendor/plugins/widget/images/handle.png&amp;quot;) rgba(220, 220, 220, 0.5); top: -15px; left: 0px;"&gt;&lt;img alt height="15" role="presentation" src="data:image/gif;base64,R0lGODlhAQABAPABAP///wAAACH5BAEKAAAALAAAAAABAAEAAAICRAEAOw==" title="Click and drag to move" width="15" loading="lazy"&gt;&lt;/span&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;span style="background:rgba(220,220,220,0.5);background-image:url(https://www.middleeasteye.net/modules/contrib/ckeditor/vendor/plugins/widget/images/handle.png);display:none;"&gt;&lt;img alt height="15" role="presentation" src="data:image/gif;base64,R0lGODlhAQABAPABAP///wAAACH5BAEKAAAALAAAAAABAAEAAAICRAEAOw==" title="Click and drag to move" width="15" loading="lazy"&gt;&lt;/span&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;span style="background:rgba(220,220,220,0.5);background-image:url(https://www.middleeasteye.net/modules/contrib/ckeditor/vendor/plugins/widget/images/handle.png);display:none;"&gt;&lt;img alt height="15" role="presentation" src="data:image/gif;base64,R0lGODlhAQABAPABAP///wAAACH5BAEKAAAALAAAAAABAAEAAAICRAEAOw==" title="Click and drag to move" width="15" loading="lazy"&gt;&lt;/span&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;span style="background:rgba(220,220,220,0.5);background-image:url(https://www.middleeasteye.net/modules/contrib/ckeditor/vendor/plugins/widget/images/handle.png);display:none;"&gt;&lt;img alt height="15" role="presentation" src="data:image/gif;base64,R0lGODlhAQABAPABAP///wAAACH5BAEKAAAALAAAAAABAAEAAAICRAEAOw==" title="Click and drag to move" width="15" loading="lazy"&gt;&lt;/span&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;span style="background: url(&amp;quot;https://www.middleeasteye.net/modules/contrib/ckeditor/vendor/plugins/widget/images/handle.png&amp;quot;) rgba(220, 220, 220, 0.5); top: -15px; left: 0px;"&gt;&lt;img alt height="15" role="presentation" src="data:image/gif;base64,R0lGODlhAQABAPABAP///wAAACH5BAEKAAAALAAAAAABAAEAAAICRAEAOw==" title="Click and drag to move" width="15" loading="lazy"&gt;&lt;/span&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;span style="background: url(&amp;quot;https://www.middleeasteye.net/modules/contrib/ckeditor/vendor/plugins/widget/images/handle.png&amp;quot;) rgba(220, 220, 220, 0.5); top: -15px; left: 0px;"&gt;&lt;img alt height="15" role="presentation" src="data:image/gif;base64,R0lGODlhAQABAPABAP///wAAACH5BAEKAAAALAAAAAABAAEAAAICRAEAOw==" title="Click and drag to move" width="15" loading="lazy"&gt;&lt;/span&gt;&lt;/p&gt;
+
+&lt;p&gt;In 2014, a French judge issued a warrant to question him while he was visiting Paris, triggering a major diplomatic rift between France and Morocco.&lt;/p&gt;
+
+&lt;p&gt;According to Le Monde, the five former DGST agents allegedly behind the leak say they have witnessed the misuse of personal information gathered via wiretaps and background checks.&lt;/p&gt;
+
+&lt;p&gt;Barah Mikail, an associate professor of political science and international relations at Saint Louis University in Madrid, called the leak undoubtedly “embarrassing for Hammouchi and the institutions that he leads”.&amp;nbsp;&lt;/p&gt;
+
+&lt;p&gt;Yet, there is no actual evidence that his position within the palace has been seriously weakened, he added.&amp;nbsp;&amp;nbsp;&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;‘If the reporting that former DGST officers are involved is accurate, that would point to a problem of defection and grievance within the apparatus’&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;- Barah Mikail, associate professor at Saint Louis University&lt;/em&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;The more important issue, Mikail said, is internal loyalty.&lt;/p&gt;
+
+&lt;p&gt;“If the reporting that former DGST officers are involved is accurate, that would point to a problem of defection and grievance within the apparatus.”&lt;/p&gt;
+
+&lt;p&gt;Researcher Barcenilla said Hammouchi’s national and international “brand” is that of control, anticipation and reliability. “Jabaroot’s attack is therefore also an attack on his capacity and reliability.”&amp;nbsp;&lt;/p&gt;
+
+&lt;p&gt;If the data is real, he added, it could cause reputational and political damage for Hammouchi.&amp;nbsp;&lt;/p&gt;
+
+&lt;p&gt;Mikail sees the fact that some of the published data has been proven to be outdated as an indication that it “may be substantially authentic, but without necessarily having resulted from a recent intrusion into the security services’ own systems”.&amp;nbsp;&lt;/p&gt;
+
+&lt;p&gt;So far, Morocco has been clear in its stance against the leak’s validity. This denial has a damage-control function, Mikail noted. “But this does not necessarily mean the data is false,” he said.&amp;nbsp;&lt;/p&gt;
+&lt;/div&gt;
+                  &lt;div class="field field-field-topic"&gt;&lt;a href="https://www.middleeasteye.net/topics/inside-morocco" hreflang="en"&gt;Inside Morocco&lt;/a&gt;&lt;/div&gt;
+            &lt;div class="field field-field-coauthor-location"&gt;
+              &lt;div&gt; &lt;/div&gt;
+              &lt;div&gt; &lt;/div&gt;
+              &lt;div&gt; &lt;/div&gt;
+              &lt;div&gt; &lt;/div&gt;
+          &lt;/div&gt;
+              &lt;div class="field field-field-article-location"&gt; &lt;/div&gt;
+                  &lt;div class="field field-field-section"&gt;&lt;a href="https://www.middleeasteye.net/news/all" hreflang="en"&gt;News&lt;/a&gt;&lt;/div&gt;
+        &lt;div class="field field-field-post-date-override"&gt;
+    &lt;div&gt;Post Date Override&lt;/div&gt;
+              &lt;div&gt;0&lt;/div&gt;
+          &lt;/div&gt;
+  &lt;div class="field field-field-update-date-override"&gt;
+    &lt;div&gt;Update Date&lt;/div&gt;
+              &lt;div&gt;&lt;time datetime="2020-05-04T21:19:45+01:00"&gt;Mon, 05/04/2020 - 21:19&lt;/time&gt;
+&lt;/div&gt;
+          &lt;/div&gt;
+  &lt;div class="field field-field-update-date-check"&gt;
+    &lt;div&gt;Update Date Override&lt;/div&gt;
+              &lt;div&gt;0&lt;/div&gt;
+          &lt;/div&gt;
+
+  &lt;/div&gt;
+  
+&lt;/article&gt;
+</description>
+  <pubDate>Fri, 11 Sep 2026 11:53:48 +0100</pubDate>
+    <dc:creator>Hugo Martin</dc:creator>
+    <guid isPermaLink="false">447520 at https://www.middleeasteye.net/</guid>
+    </item>
+<item>
+  <title>Houthis used Anthropic AI to develop ballistic missile software, says report</title>
+  <link>https://www.middleeasteye.net/live-blog/live-blog-update/houthis-used-anthropic-ai-develop-ballistic-missile-software-says-report</link>
+  <description>
+  
+
+&lt;article data-history-node-id="447527" about="https://www.middleeasteye.net/live-blog/live-blog-update/houthis-used-anthropic-ai-develop-ballistic-missile-software-says-report" class="live-blog-update default clearfix"&gt;
+
+  
+      &lt;h2&gt;
+      &lt;a href="https://www.middleeasteye.net/live-blog/live-blog-update/houthis-used-anthropic-ai-develop-ballistic-missile-software-says-report" rel="bookmark"&gt;
+&lt;span class="field field-title"&gt;Houthis used Anthropic AI to develop ballistic missile software, says report&lt;/span&gt;
+&lt;/a&gt;
+    &lt;/h2&gt;
+    
+
+        
+    &lt;div class="content"&gt;
+                &lt;div class="field field-field-text"&gt;&lt;p&gt;A Yemen-based threat actor cell has tried to use Anthropic’s Claude AI model to create guidance, navigation, and control software for ballistic missiles, a US artificial intelligence company’s intelligence threat report said.&lt;/p&gt;
+
+&lt;p&gt;The Financial Times &lt;a href="https://www.ft.com/content/8310cf56-ce60-4e6e-8254-5bb470e9a880"&gt;said &lt;/a&gt;Anthropic didn’t name the group but described a cell operating from northern Yemen, most of which is controlled by the Houthi movement, that was running three weapons development programmes.&lt;/p&gt;
+
+&lt;p&gt;The cell was trying to build a multi-stage ballistic missile, a multi-variant missile and a guided rocket using a phone-class flight computer, Anthropic said.&lt;/p&gt;
+
+&lt;p&gt;Anthropic said its safeguards prevented “many of their requests, but not all of them” as the actors tried to circumvent protections by hiding their goals and splitting their work across multiple sessions.&lt;/p&gt;
+
+&lt;p&gt;The report comes as the Houthis have rapidly expanded their military presence along Yemen's Red Sea coast and moved toward the strategic Bab al-Mandeb Strait.&lt;/p&gt;
+
+&lt;blockquote class="twitter-tweet"&gt;
+&lt;p dir="ltr" lang="en"&gt;We're publishing our most detailed threat intelligence report to date.&lt;br&gt;
+&lt;br&gt;
+It covers how people tried to misuse Claude—for cyberattacks, influence operations, surveillance, biology, and building weapons—and how we found and stopped them.&lt;br&gt;
+&lt;br&gt;
+We disrupted every operation in the report,…&lt;/p&gt;
+— Anthropic (@AnthropicAI) &lt;a href="https://x.com/AnthropicAI/status/2098097512544444447?ref_src=twsrc%5Etfw"&gt;September 10, 2026&lt;/a&gt;&lt;/blockquote&gt;
+&lt;script async src="https://platform.x.com/widgets.js" charset="utf-8"&gt;&lt;/script&gt;&lt;/div&gt;
+      
+  &lt;/div&gt;
+
+&lt;/article&gt;
+</description>
+  <pubDate>Fri, 11 Sep 2026 11:23:10 +0100</pubDate>
+    <dc:creator>Qazi Zaid</dc:creator>
+    <guid isPermaLink="false">447527 at https://www.middleeasteye.net/</guid>
+    </item>
+<item>
+  <title>Iran president says he does not favour continuing the war </title>
+  <link>https://www.middleeasteye.net/live-blog/live-blog-update/iran-president-says-he-does-not-favour-continuing-war</link>
+  <description>
+  
+
+&lt;article data-history-node-id="447526" about="https://www.middleeasteye.net/live-blog/live-blog-update/iran-president-says-he-does-not-favour-continuing-war" class="live-blog-update default clearfix"&gt;
+
+  
+      &lt;h2&gt;
+      &lt;a href="https://www.middleeasteye.net/live-blog/live-blog-update/iran-president-says-he-does-not-favour-continuing-war" rel="bookmark"&gt;
+&lt;span class="field field-title"&gt;Iran president says he does not favour continuing the war &lt;/span&gt;
+&lt;/a&gt;
+    &lt;/h2&gt;
+    
+
+        
+    &lt;div class="content"&gt;
+                &lt;div class="field field-field-text"&gt;&lt;p&gt;Iranian President Masoud Pezeshkian said he does not support continuing the war, but he stressed that Iran needs to improve its resistance to future challenges so that it does not have to negotiate from a position of weakness.&lt;/p&gt;
+
+&lt;p&gt;Speaking to heads of the country’s leading universities, Pezeshkian said universities should support the government across areas including the economy, management, culture and literature, ISNA reported.&lt;/p&gt;
+
+&lt;p&gt;Pezeshkian also called for greater involvement of students in tackling national issues.&lt;/p&gt;
+
+&lt;p&gt;“We must make sure that instead of engaging in protest, they engage in solving problems,” he said.&lt;/p&gt;
+
+&lt;p&gt;The president said he had “no political angle with anyone”, adding, “Whoever helps us solve the country’s problems, with whatever political viewpoint, I accept.”&lt;/p&gt;
+
+&lt;p&gt;“Economic measures must take into account the country’s conditions, otherwise they will lead to negative results and losses instead of addressing the issues,” Pezeshkian said.&lt;/p&gt;
+&lt;/div&gt;
+      
+  &lt;/div&gt;
+
+&lt;/article&gt;
+</description>
+  <pubDate>Fri, 11 Sep 2026 11:01:59 +0100</pubDate>
+    <dc:creator>Qazi Zaid</dc:creator>
+    <guid isPermaLink="false">447526 at https://www.middleeasteye.net/</guid>
+    </item>
+<item>
+  <title>Egyptian detainees issue call for government to apply new caps to pretrial detention</title>
+  <link>https://www.middleeasteye.net/news/egyptian-detainees-issue-call-government-apply-new-caps-pretrial-detention</link>
+  <description>
+  
+
+&lt;article data-history-node-id="447135" about="https://www.middleeasteye.net/news/egyptian-detainees-issue-call-government-apply-new-caps-pretrial-detention" class="story default clearfix"&gt;
+
+  
+      &lt;h2&gt;
+      &lt;a href="https://www.middleeasteye.net/news/egyptian-detainees-issue-call-government-apply-new-caps-pretrial-detention" rel="bookmark"&gt;
+&lt;span class="field field-title"&gt;Egyptian detainees issue call for government to apply new caps to pretrial detention&lt;/span&gt;
+&lt;/a&gt;
+    &lt;/h2&gt;
+    
+
+          &lt;footer&gt;
+      
+      &lt;div class="author"&gt;
+        Submitted by 
+&lt;span class="field field-uid"&gt;&lt;a title="View user profile." href="https://www.middleeasteye.net/users/katherine-hearst" lang about="https://www.middleeasteye.net/users/katherine-hearst" typeof="schema:Person" property="schema:name" datatype&gt;Katherine Hearst&lt;/a&gt;&lt;/span&gt;
+ on 
+&lt;span class="field field-created"&gt;&lt;time datetime="2026-09-04T16:41:38+01:00" title="4 September 2026 16:41 BST"&gt;Fri, 09/04/2026 - 16:41&lt;/time&gt;
+&lt;/span&gt;
+        
+      &lt;/div&gt;
+    &lt;/footer&gt;
+      
+    &lt;div class="content"&gt;
+                &lt;div class="field field-field-subhead"&gt;The new Criminal Procedure Code, adopted in November and set to take effect in October this year, promises to place limits on periods of pretrial detention&lt;/div&gt;
+                  &lt;div class="field field-field-main-image"&gt;    &lt;picture&gt;
+                  &lt;source srcset="https://www.middleeasteye.net/sites/default/files/styles/crop_16_9/public/images-story/egypt-badr-prison-afp_0.jpeg.webp?itok=C_ilhOxp 1x" type="image/webp" width="1400" height="788"&gt;
+                  &lt;img srcset="https://www.middleeasteye.net/sites/default/files/styles/crop_16_9/public/images-story/egypt-badr-prison-afp_0.jpeg.webp?itok=C_ilhOxp 1x" width="1400" height="788" src="https://www.middleeasteye.net/sites/default/files/styles/crop_16_9/public/images-story/egypt-badr-prison-afp_0.jpeg.jpg?itok=C_ilhOxp" alt="A picture taken on 16 January 2022 shows the Correctional and Rehabilitation Centre in Badr city, 65 kms east of the Egyptian capital Cairo (AFP/Khaled Desouki)" typeof="foaf:Image" fetchpriority="high"&gt;
+
+  &lt;/picture&gt;
+
+&lt;/div&gt;
+                  &lt;div class="field field-field-cutline"&gt;A picture taken on 16 January 2022 shows the Correctional and Rehabilitation Centre in Badr city, 65 kms east of the Egyptian capital Cairo (AFP/Khaled Desouki)&lt;/div&gt;
+                  &lt;div class="field field-field-wide-photo-video"&gt;Off&lt;/div&gt;
+                  &lt;div class="field field-body clearfix"&gt;&lt;p style="line-height:1.38"&gt;&lt;a href="http://middleeasteye.net/countries/egypt"&gt;Egyptian&lt;/a&gt; prisoners held in pretrial detention have called for the government to apply new statutory limits to their cases, which are set to be introduced next month.&lt;/p&gt;
+
+&lt;p&gt;The new Criminal Procedure Code, adopted in November and set to take effect in October this year, promises to place limits on periods of pretrial detention.&lt;/p&gt;
+
+&lt;p&gt;In a letter seen by MEE and addressed to the Egyptian government, the anonymous group said that they had been held in pretrial detention for “many years”, and that they welcomed the new legislation.&lt;/p&gt;
+
+&lt;p&gt;“We hope that it will allow us once again to enjoy freedom and the rights of citizenship,” the letter reads. “And that each of us may return to making a positive contribution, with dedication and sincerity, to the advancement of our country and society in every sphere of life, within what is possible and legally permitted”.&lt;/p&gt;
+
+&lt;p&gt;Rights defenders have backed the detainees' demands.&lt;/p&gt;&lt;div class="block-adsense block-adsense-managed-ad-block"&gt;&lt;div&gt;
+  &lt;div class="adsense responsive"&gt;
+    &lt;script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-6114695881218027" crossorigin="anonymous"&gt;&lt;/script&gt;
+&lt;!-- responsive --&gt;
+&lt;ins class="adsbygoogle mee-auto-ad-wrapper " style="display:block" data-ad-client="ca-pub-6114695881218027" data-ad-slot="8690493793" data-ad-format="horizontal" data-full-width-responsive="true"&gt;&lt;/ins&gt;
+&lt;script&gt;
+     (adsbygoogle = window.adsbygoogle || []).push({});
+&lt;/script&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+
+&lt;p&gt;“They’re trying to get a step ahead,” Samar Elhussieny, executive director of the Egyptian Human Rights Forum, told MEE.&lt;/p&gt;
+
+&lt;p&gt;“They’re saying we’re committed to doing whatever you want, just don’t exclude us from the pretrial detention cap."&lt;/p&gt;
+
+&lt;p&gt;The letter further noted that the prisoners had “turned the page on the past and all its ambiguous and unfavourable circumstances”.&lt;/p&gt;
+
+&lt;p&gt;A source who wished to remain anonymous for fear of reprisals, told MEE that one of the letter’s signatories is a 70-year-old doctor who has been held in pretrial detention for over six years. During that time, his health has deteriorated rapidly, having undergone open-heart surgery.&lt;/p&gt;
+
+&lt;p&gt;“He does not leave his cell and is suffering from weakness, emaciation and difficulty moving, without the necessary medical care,” the source said.&lt;/p&gt;&lt;div class="block-adsense block-adsense-managed-ad-block"&gt;&lt;div&gt;
+  &lt;div class="adsense responsive"&gt;
+    &lt;script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-6114695881218027" crossorigin="anonymous"&gt;&lt;/script&gt;
+&lt;!-- responsive --&gt;
+&lt;ins class="adsbygoogle mee-auto-ad-wrapper " style="display:block" data-ad-client="ca-pub-6114695881218027" data-ad-slot="8690493793" data-ad-format="horizontal" data-full-width-responsive="true"&gt;&lt;/ins&gt;
+&lt;script&gt;
+     (adsbygoogle = window.adsbygoogle || []).push({});
+&lt;/script&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+
+&lt;p&gt;The letter was shortly followed by another statement, entitled “Enough is enough”, signed by a different cohort of prisoners from across several prisons, protesting their detention conditions.&lt;/p&gt;
+
+&lt;p&gt;The statement demands “release for all detainees,” condemning “the imprisonment of women, prolonged pretrial, detention, the arbitrary recycling of charges (tadweer) following release orders or served sentences, the detention of children, extrajudicial arrests, and enforced disappearances”.&lt;/p&gt;
+
+&lt;p&gt;Political researcher and former prisoner Saif Alislam Eid, who is in contact with the group, told MEE that the group intends to conduct a prison strike if their demands were not met.&lt;/p&gt;
+
+&lt;p&gt;He added that one of the letters’ signatories is in his mid-thirties and has been in prison for 11 years.&lt;/p&gt;
+
+&lt;h3&gt;‘High expectations’&lt;/h3&gt;
+
+&lt;p&gt;Elhussieny said she is sceptical as to whether the changes will result in the release of the estimated 60,000 political detainees currently behind bars.&lt;/p&gt;&lt;div class="block-adsense block-adsense-managed-ad-block"&gt;&lt;div&gt;
+  &lt;div class="adsense responsive"&gt;
+    &lt;script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-6114695881218027" crossorigin="anonymous"&gt;&lt;/script&gt;
+&lt;!-- responsive --&gt;
+&lt;ins class="adsbygoogle mee-auto-ad-wrapper " style="display:block" data-ad-client="ca-pub-6114695881218027" data-ad-slot="8690493793" data-ad-format="horizontal" data-full-width-responsive="true"&gt;&lt;/ins&gt;
+&lt;script&gt;
+     (adsbygoogle = window.adsbygoogle || []).push({});
+&lt;/script&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+
+&lt;p&gt;“Supposedly, when the law comes into effect, they have to review everyone who has been in pretrial detention for the maximum time and then release them,” Elhussieny said, noting that this process should already have been underway prior to implementation.&lt;/p&gt;
+
+&lt;p&gt;The fledgling legislation has already come under fierce scrutiny by rights groups, as well as the EU and the UN, who wrote letters expressing concerns regarding the draft bill.&lt;/p&gt;
+
+&lt;div class="mee-readmore mee-readmore-article-story mee-readmore-type-image align-right"&gt;
+  &lt;a class="mee-readmore-img-link" href="https://www.middleeasteye.net/news/cairo-accused-punishment-proxy-against-british-egyptian-family"&gt;&lt;img class="mee-readmore-image" src="https://www.middleeasteye.net/sites/default/files/styles/read_more/public/images-story/000_9WB4PU.jpg.webp?itok=g3xjEI5y" width="400" height="250" alt loading="lazy" typeof="foaf:Image"&gt;
+
+&lt;/a&gt;  &lt;div class="mee-readmore-description"&gt;Cairo accused of ‘punishment by proxy’ after British-Egyptian woman arrested over sister's activism&lt;/div&gt;
+    &lt;a class="mee-readmore-link" href="https://www.middleeasteye.net/news/cairo-accused-punishment-proxy-against-british-egyptian-family"&gt;Read More »&lt;/a&gt;
+&lt;/div&gt;
+
+&lt;p&gt;In September last year, Egyptian President Abdel Fattah al-Sisi sent back an initial draft of the legislation to parliament for revision, following outcry from &lt;a href="https://www.amnesty.org/en/documents/mde12/0339/2025/en/"&gt;rights groups&lt;/a&gt;, the Egyptian Lawyers' and Journalists’ Syndicates, and UN experts.&lt;/p&gt;
+
+&lt;p&gt;Critics warned it would vastly expand police and prosecutorial powers and threaten to entrench existing violations such as arbitrary detention, limiting access to legal counsel, travel bans and expedited trials.&amp;nbsp;&lt;/p&gt;
+
+&lt;p&gt;Elhussieny said that the revised version adopted by the government in November last year is similarly flawed, with the only promising amendment being the pretrial detention cap.&lt;/p&gt;
+
+&lt;p&gt;“When Sisi sent the draft bill back we were expecting a better version. This didn’t happen,” she said. “It was more of a gesture from the president that I'm listening to your concerns.&lt;/p&gt;
+
+&lt;p&gt;“This law was supposed to be fixing the issues in the current law, but it’s actually more problematic."&lt;/p&gt;
+
+&lt;p&gt;The final draft of the legislation does not address the &lt;a href="https://cihrs.org/egypt-judicial-authorities-condemned-for-recycling-political-prisoners-into-new-cases-after-the-end-of-their-prison-term/?lang=en"&gt;practice of “recycling” charges&lt;/a&gt; against detainees- which involves the authorities filing identical or fresh charges against detainees when their prison sentence concludes, trapping them indefinitely behind bars.&lt;/p&gt;
+
+&lt;p&gt;Additionally she said, the new code authorises police interrogations to be conducted without the presence of a lawyer. Under the &lt;a href="https://www.ohchr.org/en/professionalinterest/pages/ccpr.aspx"&gt;International Covenant on Civil and Political Rights&lt;/a&gt; (ICCPR), the right to timely access to legal counsel is guaranteed “during all stages of the criminal justice process”.&lt;/p&gt;
+
+&lt;p&gt;Prior to passing the law, between October 2024 and January 2025, the Egyptian government &lt;a href="https://zawia3.com/referrals/"&gt;referred thousands of people to trial&lt;/a&gt;,&amp;nbsp;meaning they are no longer formally categorised as “pre-trial detainees”.&amp;nbsp;&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;'The Egyptian government for many years now has been manipulating this idea of releasing pretrial detainees'&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;-Samar Elhussieny, Egyptian Human Rights Forum&lt;/em&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Elhussieny said the detainees’ letter is a sign of “desperation” to ensure they’re not excluded from the impending reforms.&lt;/p&gt;
+
+&lt;p&gt;“The Egyptian government for many years now has been manipulating this idea of releasing pretrial detainees,” she said.&lt;/p&gt;
+
+&lt;p&gt;Previous pledges by the Egyptian authorities to address the issue of pretrial detention, including the establishing of a Presidential Pardon Committee, which periodically releases batches of detainees, have had little impact.&lt;/p&gt;
+
+&lt;p&gt;Elhussieny said the committee had facilitated “dozens” of releases while an estimated 60,000 pretrial detainees remain behind bars.&lt;/p&gt;
+
+&lt;p&gt;While the government does not release figures relating to pretrial detainees, a 2022 US State Department estimate put Egypt's prison population at around 120,000, with pretrial prisoners thought to represent 33.3 percent of that figure.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href="https://www.cfjustice.org/egypt-sisi-government-issued-fake-pardon-lists-for-political-prisoners/"&gt;Rights groups&lt;/a&gt; have pointed to the lack of transparency around the pardon committee’s work, accusing its members of&amp;nbsp; producing “fake pardon lists”, confirming the release of political detainees who had in reality had their detention renewed by prosecutors.&lt;/p&gt;
+
+&lt;p&gt;Elhussieny said the new legislation was presented by Egypt to pacify concerns raised by the EU and the United Nations over its burgeoning population of pretrial detainees.&lt;/p&gt;
+
+&lt;p&gt;“I think there are high expectations that once this law is in force, thousands of people will be released,” Elhussieny said. “I’m sceptical."&lt;/p&gt;
+
+&lt;p&gt;The final disbursement of an unprecedented EU payout to boost Egypt’s flailing economy is due in December this year, months after the legislation will take effect.&lt;/p&gt;
+
+&lt;p&gt;Rights activists &lt;a href="https://www.middleeasteye.net/news/eu-deliberately-botched-assessment-egypt-human-rights-violations-expedite-eu1bn-payment"&gt;criticised&lt;/a&gt; the move, saying the EU had made a slew of concessions in order to give Cairo a “clean bill of health on human rights” and ram through the aid package aimed at stymieing migration flows to Europe.&lt;/p&gt;
+
+&lt;p&gt;Nonetheless, Elhussieny said that the EU was likely to examine pretrial detainee numbers before making its final disbursement.&lt;/p&gt;
+
+&lt;h3&gt;A black box&lt;/h3&gt;
+
+&lt;p&gt;The letters come amid a blackout on information regarding conditions within Egypt’s prisons.&lt;/p&gt;
+
+&lt;p&gt;Elhussieny said that, since mid-2024 following reports of hunger strikes by detainees over their conditions at Egypt’s notorious Badr prison and escalating numbers of prisoner deaths, the authorities have targeted prisoners’ rights advocates and family members of detainees.&lt;/p&gt;
+
+&lt;p&gt;She said that since then, Egypt’s prisons have become a “black box” with scarce communication from detainees.&lt;/p&gt;
+
+&lt;p&gt;“Lawyers don’t have any access, families of detainees that are deemed to be a risk are banned from visiting,” she said.&lt;/p&gt;
+&lt;/div&gt;
+                  &lt;div class="field field-field-topic"&gt;&lt;a href="https://www.middleeasteye.net/topics/human-rights" hreflang="en"&gt;Human Rights&lt;/a&gt;&lt;/div&gt;
+            &lt;div class="field field-field-coauthor-location"&gt;
+              &lt;div&gt; &lt;/div&gt;
+              &lt;div&gt; &lt;/div&gt;
+              &lt;div&gt; &lt;/div&gt;
+              &lt;div&gt; &lt;/div&gt;
+          &lt;/div&gt;
+              &lt;div class="field field-field-article-location"&gt; &lt;/div&gt;
+                  &lt;div class="field field-field-section"&gt;&lt;a href="https://www.middleeasteye.net/news/all" hreflang="en"&gt;News&lt;/a&gt;&lt;/div&gt;
+        &lt;div class="field field-field-post-date-override"&gt;
+    &lt;div&gt;Post Date Override&lt;/div&gt;
+              &lt;div&gt;0&lt;/div&gt;
+          &lt;/div&gt;
+  &lt;div class="field field-field-update-date-override"&gt;
+    &lt;div&gt;Update Date&lt;/div&gt;
+              &lt;div&gt;&lt;time datetime="2020-05-04T21:19:45+01:00"&gt;Mon, 05/04/2020 - 21:19&lt;/time&gt;
+&lt;/div&gt;
+          &lt;/div&gt;
+  &lt;div class="field field-field-update-date-check"&gt;
+    &lt;div&gt;Update Date Override&lt;/div&gt;
+              &lt;div&gt;0&lt;/div&gt;
+          &lt;/div&gt;
+
+  &lt;/div&gt;
+  
+&lt;/article&gt;
+</description>
+  <pubDate>Fri, 11 Sep 2026 10:47:01 +0100</pubDate>
+    <dc:creator>Katherine Hearst</dc:creator>
+    <guid isPermaLink="false">447135 at https://www.middleeasteye.net/</guid>
+    </item>
+<item>
+  <title>Iran faces strategic dilemma as war of attrition drags on</title>
+  <link>https://www.middleeasteye.net/live-blog/live-blog-update/iran-faces-strategic-dilemma-war-attrition-drags</link>
+  <description>
+  
+
+&lt;article data-history-node-id="447525" about="https://www.middleeasteye.net/live-blog/live-blog-update/iran-faces-strategic-dilemma-war-attrition-drags" class="live-blog-update default clearfix"&gt;
+
+  
+      &lt;h2&gt;
+      &lt;a href="https://www.middleeasteye.net/live-blog/live-blog-update/iran-faces-strategic-dilemma-war-attrition-drags" rel="bookmark"&gt;
+&lt;span class="field field-title"&gt;Iran faces strategic dilemma as war of attrition drags on&lt;/span&gt;
+&lt;/a&gt;
+    &lt;/h2&gt;
+    
+
+        
+    &lt;div class="content"&gt;
+                &lt;div class="field field-field-text"&gt;&lt;p&gt;Iran and the United States have entered another limited but dangerous phase of confrontation, with mounting military and economic pressure forcing Tehran to weigh escalation against the narrowing possibility of a negotiated settlement.&lt;/p&gt;
+
+&lt;p&gt;The latest flare-up began with a US strike on Iranian Islamic Revolutionary Guard Corps forces in southern Iran, according to Iranian accounts. Washington then said it believed Iranian forces were preparing to deploy rockets carrying mines in the Strait, one of the world’s most important energy chokepoints.&lt;/p&gt;
+
+&lt;p&gt;Iran responded by attacking US bases in the United Arab Emirates, Jordan, Kuwait and Bahrain.&lt;/p&gt;
+
+&lt;p&gt;The military escalation comes as Iran has already spent weeks under a de facto US siege of its ports, placing additional pressure on an economy that was struggling even before the latest crisis.&lt;/p&gt;
+
+&lt;p&gt;The Iranian rial has suffered a sharp depreciation, trading at around 2.2 million rials to the dollar, compared with roughly 1.8 million before the siege began.&lt;/p&gt;
+
+&lt;p&gt;Yet despite the pressure, the government appears, at least so far, to have avoided the kind of widespread shortages that could trigger a domestic crisis. There has been no broad collapse in the supply of essential goods. But another vulnerability is becoming increasingly difficult to ignore: gasoline.&lt;/p&gt;
+
+&lt;h3&gt;Read more: &lt;a href="https://www.middleeasteye.net/news/under-siege-iran-strategy-crossroads-war-attrition"&gt;Iran faces strategic dilemma as war of attrition drags on&lt;/a&gt;&amp;nbsp; &amp;nbsp;&amp;nbsp;&lt;/h3&gt;
+
+  &lt;figure role="group" class="media-block"&gt;
+  &lt;div class="group-inner"&gt;
+    &lt;div alt="An F/A-18 Super Hornet is seen parked on the flight deck of aircraft carrier USS George Washington in the Arabian Sea on 4 September 2026 (AFP/US Navy)" data-embed-button="file_browser" data-entity-embed-display="image:image" data-entity-embed-display-settings="{" data-entity-type="file" data-entity-uuid="3ed31783-a3bc-4a8b-9596-ec8285e5efd8" data-langcode="en" class="embedded-entity"&gt;  &lt;img loading="lazy" src="https://www.middleeasteye.net/sites/default/files/images-story/us-super-hornet-nimitz-aircraft-carrier-4-sep-2026-afp.jpg" width="2500" height="1420" alt="An F/A-18 Super Hornet is seen parked on the flight deck of aircraft carrier USS George Washington in the Arabian Sea on 4 September 2026 (AFP/US Navy)" typeof="foaf:Image"&gt;
+
+&lt;/div&gt;
+
+    &lt;figcaption&gt;An F/A-18 Super Hornet is seen parked on the flight deck of aircraft carrier USS George Washington in the Arabian Sea on 4 September 2026 (AFP/US Navy)&lt;/figcaption&gt;
+  &lt;/div&gt;
+&lt;/figure&gt;
+
+
+&lt;p&gt;&lt;span style="background: url(&amp;quot;https://www.middleeasteye.net/modules/contrib/ckeditor/vendor/plugins/widget/images/handle.png&amp;quot;) rgba(220, 220, 220, 0.5); top: -15px; left: 0px;"&gt;&lt;img height="15" role="presentation" src="data:image/gif;base64,R0lGODlhAQABAPABAP///wAAACH5BAEKAAAALAAAAAABAAEAAAICRAEAOw==" title="Click and drag to move" width="15" loading="lazy"&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;/div&gt;
+      
+  &lt;/div&gt;
+
+&lt;/article&gt;
+</description>
+  <pubDate>Fri, 11 Sep 2026 10:46:58 +0100</pubDate>
+    <dc:creator>Qazi Zaid</dc:creator>
+    <guid isPermaLink="false">447525 at https://www.middleeasteye.net/</guid>
+    </item>
+<item>
+  <title>Pakistan says no plans for military action in Yemen after attacks on Saudi Arabia</title>
+  <link>https://www.middleeasteye.net/news/pakistan-officials-say-no-plans-military-action-yemen-after-attacks-saudi-arabia</link>
+  <description>
+  
+
+&lt;article data-history-node-id="447523" about="https://www.middleeasteye.net/news/pakistan-officials-say-no-plans-military-action-yemen-after-attacks-saudi-arabia" class="story default clearfix"&gt;
+
+  
+      &lt;h2&gt;
+      &lt;a href="https://www.middleeasteye.net/news/pakistan-officials-say-no-plans-military-action-yemen-after-attacks-saudi-arabia" rel="bookmark"&gt;
+&lt;span class="field field-title"&gt;Pakistan says no plans for military action in Yemen after attacks on Saudi Arabia&lt;/span&gt;
+&lt;/a&gt;
+    &lt;/h2&gt;
+    
+
+          &lt;footer&gt;
+      
+      &lt;div class="author"&gt;
+        Submitted by 
+&lt;span class="field field-uid"&gt;&lt;a title="View user profile." href="https://www.middleeasteye.net/users/mee-staff" lang about="https://www.middleeasteye.net/users/mee-staff" typeof="schema:Person" property="schema:name" datatype&gt;MEE staff&lt;/a&gt;&lt;/span&gt;
+ on 
+&lt;span class="field field-created"&gt;&lt;time datetime="2026-09-11T10:17:01+01:00" title="11 September 2026 10:17 BST"&gt;Fri, 09/11/2026 - 10:17&lt;/time&gt;
+&lt;/span&gt;
+        
+      &lt;/div&gt;
+    &lt;/footer&gt;
+      
+    &lt;div class="content"&gt;
+                &lt;div class="field field-field-subhead"&gt;Islamabad and Riyadh recently signed a trilateral pact with Turkey in Mecca, pledging mutual defence against military attack&lt;/div&gt;
+                  &lt;div class="field field-field-main-image"&gt;    &lt;picture&gt;
+                  &lt;source srcset="https://www.middleeasteye.net/sites/default/files/styles/crop_16_9/public/images-story/turkey-erdogan-saudi-bin-salman-pakistan-sharif-mecca-august-2026-turkish-presidency-press-office-afp.jpg.webp?itok=kkerJ6PN 1x" type="image/webp" width="1024" height="576"&gt;
+                  &lt;img srcset="https://www.middleeasteye.net/sites/default/files/styles/crop_16_9/public/images-story/turkey-erdogan-saudi-bin-salman-pakistan-sharif-mecca-august-2026-turkish-presidency-press-office-afp.jpg.webp?itok=kkerJ6PN 1x" width="1024" height="576" src="https://www.middleeasteye.net/sites/default/files/styles/crop_16_9/public/images-story/turkey-erdogan-saudi-bin-salman-pakistan-sharif-mecca-august-2026-turkish-presidency-press-office-afp.jpg.jpg?itok=kkerJ6PN" alt typeof="foaf:Image" fetchpriority="high"&gt;
+
+  &lt;/picture&gt;
+
+&lt;/div&gt;
+                  &lt;div class="field field-field-cutline"&gt;Turkey’s President Recep Tayyip Erdogan, Saudi Arabia’s Crown Prince Mohammed bin Salman and Pakistan’s Prime Minister Shehbaz Sharif meet in Mecca, Saudi Arabia, on 7 August (AFP)&lt;/div&gt;
+                  &lt;div class="field field-field-wide-photo-video"&gt;Off&lt;/div&gt;
+                  &lt;div class="field field-body clearfix"&gt;&lt;p&gt;&lt;a href="https://www.middleeasteye.net/countries/pakistan"&gt;Pakistan &lt;/a&gt;said on Thursday that no military response by Islamabad was currently being discussed under its joint defence agreement with &lt;a href="https://www.middleeasteye.net/countries/saudi-arabia"&gt;Saudi Arabia&lt;/a&gt; and &lt;a href="https://www.middleeasteye.net/countries/turkey"&gt;Turkey &lt;/a&gt;following attacks by &lt;a href="https://www.middleeasteye.net/countries/yemen"&gt;Yemen's &lt;/a&gt;Houthis on Saudi Arabia.&lt;/p&gt;
+
+&lt;p&gt;Foreign ministry spokesperson Sajjad Haider Khan said Pakistan would act under the agreement if and when the circumstances required it.&lt;/p&gt;
+
+&lt;p&gt;“There is no such thing under discussion right now,"&amp;nbsp;Khan told reporters at a weekly media briefing. The question followed Houthi attacks on Saudi cities and energy infrastructure this week.&lt;/p&gt;
+
+&lt;p&gt;He added that Pakistan may act when the "time comes".&lt;/p&gt;
+
+&lt;p&gt;The defence agreement, signed last month, states that an armed attack on any one of the three countries would be treated as an attack on all of them, Reuters reported.&lt;/p&gt;&lt;div class="block-adsense block-adsense-managed-ad-block"&gt;&lt;div&gt;
+  &lt;div class="adsense responsive"&gt;
+    &lt;script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-6114695881218027" crossorigin="anonymous"&gt;&lt;/script&gt;
+&lt;!-- responsive --&gt;
+&lt;ins class="adsbygoogle mee-auto-ad-wrapper " style="display:block" data-ad-client="ca-pub-6114695881218027" data-ad-slot="8690493793" data-ad-format="horizontal" data-full-width-responsive="true"&gt;&lt;/ins&gt;
+&lt;script&gt;
+     (adsbygoogle = window.adsbygoogle || []).push({});
+&lt;/script&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+
+&lt;p&gt;Pakistan has condemned the Houthi attacks and warned &lt;a href="https://www.middleeasteye.net/countries/iran"&gt;Iran &lt;/a&gt;to rein in its Yemeni allies, while Islamabad has also been mediating between the United States and Iran.&lt;/p&gt;
+
+&lt;p&gt;Khan said there were no plans to expand the Mecca alliance as regional tensions continued to disrupt energy supplies, Reuters reported.&amp;nbsp;&lt;/p&gt;
+
+&lt;h3&gt;Houthi advances&lt;/h3&gt;
+
+&lt;p&gt;Yemen's Houthi fighters have advanced rapidly along the Red Sea coast as the country's previously dormant war against Saudi-backed government forces resumed in the summer.&lt;/p&gt;
+
+&lt;p&gt;The advances have put the Houthis in a prime position to control shipping in the Bab el-Mandeb choke point, while bolstering Iran’s leverage against the US, experts told Middle East Eye.&lt;/p&gt;
+
+&lt;p&gt;“The Houthis have pulled off a military victory that puts them one step closer to be in full control of the Bab el-Mandeb,” Corey Ranslem, CEO of maritime security group Dryad Global, told MEE.&lt;/p&gt;
+
+&lt;blockquote class="twitter-tweet"&gt;
+&lt;p dir="ltr" lang="en"&gt;As fighting intensifies across Yemen, images released by the Houthis show what they say is the wreckage of a Saudi military reconnaissance drone shot down over Hajjah province in northwestern Yemen. &lt;a href="https://t.co/4l70benmAF"&gt;pic.twitter.com/4l70benmAF&lt;/a&gt;&lt;/p&gt;
+— Middle East Eye (@MiddleEastEye) &lt;a href="https://x.com/MiddleEastEye/status/2098206019146977683?ref_src=twsrc%5Etfw"&gt;September 11, 2026&lt;/a&gt;&lt;/blockquote&gt;
+&lt;script async src="https://platform.x.com/widgets.js" charset="utf-8"&gt;&lt;/script&gt;
+
+&lt;p&gt;“I think it will actually be easier for the Houthis to exert control in Bab el-Mandeb than it is for Iran in the Strait of Hormuz because the US doesn’t have tangible military assets in the area,” he added.&lt;/p&gt;&lt;div class="block-adsense block-adsense-managed-ad-block"&gt;&lt;div&gt;
+  &lt;div class="adsense responsive"&gt;
+    &lt;script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-6114695881218027" crossorigin="anonymous"&gt;&lt;/script&gt;
+&lt;!-- responsive --&gt;
+&lt;ins class="adsbygoogle mee-auto-ad-wrapper " style="display:block" data-ad-client="ca-pub-6114695881218027" data-ad-slot="8690493793" data-ad-format="horizontal" data-full-width-responsive="true"&gt;&lt;/ins&gt;
+&lt;script&gt;
+     (adsbygoogle = window.adsbygoogle || []).push({});
+&lt;/script&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+
+&lt;p&gt;After days of heavy fighting along a narrow plain known as the Tihama, on Thursday the Houthis routed Yemeni forces loyal to Saudi Arabia and seized the historic and strategic Red Sea port city of Mocha.&lt;/p&gt;
+
+&lt;p&gt;Arab media reported that the Houthis made further gains throughout the day.&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;Additional reporting by Sean Matthews&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+                  &lt;div class="field field-field-topic"&gt;&lt;a href="https://www.middleeasteye.net/topics/yemen-war" hreflang="en"&gt;Yemen War&lt;/a&gt;&lt;/div&gt;
+            &lt;div class="field field-field-coauthor-location"&gt;
+              &lt;div&gt; &lt;/div&gt;
+              &lt;div&gt; &lt;/div&gt;
+              &lt;div&gt; &lt;/div&gt;
+              &lt;div&gt; &lt;/div&gt;
+          &lt;/div&gt;
+              &lt;div class="field field-field-article-location"&gt; &lt;/div&gt;
+                  &lt;div class="field field-field-section"&gt;&lt;a href="https://www.middleeasteye.net/news/all" hreflang="en"&gt;News&lt;/a&gt;&lt;/div&gt;
+        &lt;div class="field field-field-post-date-override"&gt;
+    &lt;div&gt;Post Date Override&lt;/div&gt;
+              &lt;div&gt;0&lt;/div&gt;
+          &lt;/div&gt;
+  &lt;div class="field field-field-update-date-override"&gt;
+    &lt;div&gt;Update Date&lt;/div&gt;
+              &lt;div&gt;&lt;time datetime="2020-05-04T21:19:45+01:00"&gt;Mon, 05/04/2020 - 21:19&lt;/time&gt;
+&lt;/div&gt;
+          &lt;/div&gt;
+  &lt;div class="field field-field-update-date-check"&gt;
+    &lt;div&gt;Update Date Override&lt;/div&gt;
+              &lt;div&gt;0&lt;/div&gt;
+          &lt;/div&gt;
+
+  &lt;/div&gt;
+  
+&lt;/article&gt;
+</description>
+  <pubDate>Fri, 11 Sep 2026 10:42:17 +0100</pubDate>
+    <dc:creator>MEE staff</dc:creator>
+    <guid isPermaLink="false">447523 at https://www.middleeasteye.net/</guid>
+    </item>
+<item>
+  <title>Pakistan says no military action planned over Houthi attacks on Saudi Arabia</title>
+  <link>https://www.middleeasteye.net/live-blog/live-blog-update/pakistan-says-no-military-action-planned-over-houthi-attacks-saudi</link>
+  <description>
+  
+
+&lt;article data-history-node-id="447522" about="https://www.middleeasteye.net/live-blog/live-blog-update/pakistan-says-no-military-action-planned-over-houthi-attacks-saudi" class="live-blog-update default clearfix"&gt;
+
+  
+      &lt;h2&gt;
+      &lt;a href="https://www.middleeasteye.net/live-blog/live-blog-update/pakistan-says-no-military-action-planned-over-houthi-attacks-saudi" rel="bookmark"&gt;
+&lt;span class="field field-title"&gt;Pakistan says no military action planned over Houthi attacks on Saudi Arabia&lt;/span&gt;
+&lt;/a&gt;
+    &lt;/h2&gt;
+    
+
+        
+    &lt;div class="content"&gt;
+                &lt;div class="field field-field-text"&gt;&lt;p&gt;Pakistan said on Thursday that no military response by Islamabad was currently being discussed under its joint defence agreement with Saudi Arabia and Turkey following Houthi attacks on Saudi Arabia.&lt;/p&gt;
+
+&lt;p&gt;Foreign ministry spokesperson Sajjad Haider Khan said Pakistan would act under the agreement if and when the circumstances required it.&lt;/p&gt;
+
+&lt;p&gt;“There is no such thing under discussion right now ... When time comes (we) will act under the agreement,” Khan told reporters at a weekly media briefing. The question followed Houthi attacks on Saudi cities and energy infrastructure this week.&lt;/p&gt;
+
+&lt;p&gt;The defence agreement, signed last month, states that an armed attack on any one of the three countries would be treated as an attack on all of them, Reuters reported.&lt;/p&gt;
+
+&lt;p&gt;Pakistan has condemned the Houthi attacks and warned Iran to rein in its Yemeni allies, while Islamabad has also been mediating between the United States and Iran.&lt;/p&gt;
+
+&lt;p&gt;Khan said there were no plans to expand the Mecca alliance as regional tensions continued to disrupt energy supplies, Reuters reported.&amp;nbsp;&lt;/p&gt;
+
+  &lt;figure role="group" class="media-block"&gt;
+  &lt;div class="group-inner"&gt;
+    &lt;div alt="Wreckage of what Houthi authorities said was a Saudi Karayel drone shot down over Hajjah governorate, Yemen, 10 September 2026. (Ansarullah Media Centre/AFP)" data-embed-button="file_browser" data-entity-embed-display="image:image" data-entity-embed-display-settings="{" data-entity-type="file" data-entity-uuid="c8db7f8f-c9b6-4d2d-817e-555639752d6f" data-langcode="en" class="embedded-entity"&gt;  &lt;img src="https://www.middleeasteye.net/sites/default/files/Wreckage%20of%20what%20Houthi%20authorities%20said%20was%20a%20Saudi%20Karayel%20drone%20shot%20down%20over%20Hajjah%20governorate%2C%20Yemen%2C%2010%20September%202026%20%28Ansarullah%20Media%20Centre%20AFP%29.jpg" width="1341" height="754" alt="Wreckage of what Houthi authorities said was a Saudi Karayel drone shot down over Hajjah governorate, Yemen, 10 September 2026. (Ansarullah Media Centre/AFP)" typeof="foaf:Image" fetchpriority="high"&gt;
+
+&lt;/div&gt;
+
+    &lt;figcaption&gt;Wreckage of what Houthi authorities said was a Saudi Karayel drone shot down over Hajjah governorate, Yemen, 10 September 2026. (Ansarullah Media Centre/AFP)&lt;/figcaption&gt;
+  &lt;/div&gt;
+&lt;/figure&gt;
+
+
+&lt;p&gt;&lt;span style="background: url(&amp;quot;https://www.middleeasteye.net/modules/contrib/ckeditor/vendor/plugins/widget/images/handle.png&amp;quot;) rgba(220, 220, 220, 0.5); top: -15px; left: 0px;"&gt;&lt;img height="15" role="presentation" src="data:image/gif;base64,R0lGODlhAQABAPABAP///wAAACH5BAEKAAAALAAAAAABAAEAAAICRAEAOw==" title="Click and drag to move" width="15" loading="lazy"&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;/div&gt;
+      
+  &lt;/div&gt;
+
+&lt;/article&gt;
+</description>
+  <pubDate>Fri, 11 Sep 2026 10:13:48 +0100</pubDate>
+    <dc:creator>Qazi Zaid</dc:creator>
+    <guid isPermaLink="false">447522 at https://www.middleeasteye.net/</guid>
+    </item>
+<item>
+  <title>In a significant strategic gain, Houthis claim control of Yemen’s entire Red Sea coastline</title>
+  <link>https://www.middleeasteye.net/live-blog/live-blog-update/significant-strategic-gain-houthis-claim-control-yemens-entire-red-sea</link>
+  <description>
+  
+
+&lt;article data-history-node-id="447521" about="https://www.middleeasteye.net/live-blog/live-blog-update/significant-strategic-gain-houthis-claim-control-yemens-entire-red-sea" class="live-blog-update default clearfix"&gt;
+
+  
+      &lt;h2&gt;
+      &lt;a href="https://www.middleeasteye.net/live-blog/live-blog-update/significant-strategic-gain-houthis-claim-control-yemens-entire-red-sea" rel="bookmark"&gt;
+&lt;span class="field field-title"&gt;In a significant strategic gain, Houthis claim control of Yemen’s entire Red Sea coastline&lt;/span&gt;
+&lt;/a&gt;
+    &lt;/h2&gt;
+    
+
+        
+    &lt;div class="content"&gt;
+                &lt;div class="field field-field-text"&gt;&lt;p&gt;Houthi forces have swept through the last government-held stretch of Yemen’s Red Sea coastline and taken control of the entire coast after an 18-hour offensive, Al Jazeera reported.&lt;/p&gt;
+
+&lt;p&gt;The advance came after government forces pulled back from Mocha, allowing Houthi fighters to sweep south with little resistance and take Dhubab and Murad, which was described as the last coastal town still in government hands.&lt;/p&gt;
+
+&lt;p&gt;Houthi forces had also reached Dhubaba, near the strategic Bab al-Mandeb Strait, Reuters said.&lt;/p&gt;
+
+&lt;p&gt;According to multiple news agency reports, Houthi naval forces then moved offshore, capturing Mayyun Island in the Bab al-Mandeb Strait and pushing into Zuqar Island, where fighting was still ongoing.&lt;/p&gt;
+
+&lt;p&gt;The moves give the Yemeni movement control of a strategically vital stretch of coastline and bring them closer to controlling the Bab al-Mandeb, a key maritime chokepoint linking the Red Sea with the Gulf of Aden.&lt;/p&gt;
+&lt;/div&gt;
+      
+  &lt;/div&gt;
+
+&lt;/article&gt;
+</description>
+  <pubDate>Fri, 11 Sep 2026 09:53:46 +0100</pubDate>
+    <dc:creator>Qazi Zaid</dc:creator>
+    <guid isPermaLink="false">447521 at https://www.middleeasteye.net/</guid>
+    </item>
+<item>
+  <title>Romania's secret CIA prison: Two decades of denial and unanswered questions</title>
+  <link>https://www.middleeasteye.net/news/romania-secret-cia-prison-two-decades-denial-and-unanswered-questions</link>
+  <description>
+  
+
+&lt;article data-history-node-id="447480" about="https://www.middleeasteye.net/news/romania-secret-cia-prison-two-decades-denial-and-unanswered-questions" class="story default clearfix"&gt;
+
+  
+      &lt;h2&gt;
+      &lt;a href="https://www.middleeasteye.net/news/romania-secret-cia-prison-two-decades-denial-and-unanswered-questions" rel="bookmark"&gt;
+&lt;span class="field field-title"&gt;Romania's secret CIA prison: Two decades of denial and unanswered questions&lt;/span&gt;
+&lt;/a&gt;
+    &lt;/h2&gt;
+    
+
+          &lt;footer&gt;
+      
+      &lt;div class="author"&gt;
+        Submitted by 
+&lt;span class="field field-uid"&gt;&lt;a title="View user profile." href="https://www.middleeasteye.net/users/andrei-popoviciu" lang about="https://www.middleeasteye.net/users/andrei-popoviciu" typeof="schema:Person" property="schema:name" datatype&gt;Andrei Popoviciu&lt;/a&gt;&lt;/span&gt;
+ on 
+&lt;span class="field field-created"&gt;&lt;time datetime="2026-09-10T18:45:57+01:00" title="10 September 2026 18:45 BST"&gt;Thu, 09/10/2026 - 18:45&lt;/time&gt;
+&lt;/span&gt;
+        
+      &lt;/div&gt;
+    &lt;/footer&gt;
+      
+    &lt;div class="content"&gt;
+                &lt;div class="field field-field-subhead"&gt;As the long-delayed 9/11 case moves towards trial, evidence of torture at a CIA black site in Bucharest is putting Romania's role in the 'war on terror' under scrutiny&lt;/div&gt;
+                  &lt;div class="field field-field-main-image"&gt;    &lt;picture&gt;
+                  &lt;source srcset="https://www.middleeasteye.net/sites/default/files/styles/crop_16_9/public/images-story/romania-orniss-bucharest-8-dec-2011-afp.jpg.webp?itok=jsWm3VRe 1x" type="image/webp" width="1400" height="788"&gt;
+                  &lt;img srcset="https://www.middleeasteye.net/sites/default/files/styles/crop_16_9/public/images-story/romania-orniss-bucharest-8-dec-2011-afp.jpg.webp?itok=jsWm3VRe 1x" width="1400" height="788" src="https://www.middleeasteye.net/sites/default/files/styles/crop_16_9/public/images-story/romania-orniss-bucharest-8-dec-2011-afp.jpg.jpg?itok=jsWm3VRe" alt="The Romanian agency Orniss, pictured here on 8 December 2011, sits on a leafy street in northern Bucharest close to a set of train tracks. The agency has denied hosting a CIA prison (Stringer/AFP)" typeof="foaf:Image" fetchpriority="high"&gt;
+
+  &lt;/picture&gt;
+
+&lt;/div&gt;
+                  &lt;div class="field field-field-cutline"&gt;The Romanian agency Orniss, pictured here on 8 December 2011, sits on a leafy street in northern Bucharest close to a set of train tracks. The agency has denied hosting a CIA prison (Stringer/AFP)&lt;/div&gt;
+                  &lt;div class="field field-field-wide-photo-video"&gt;Off&lt;/div&gt;
+                  &lt;div class="field field-body clearfix"&gt;&lt;p&gt;Ammar al-Baluchi remembers the cold most of all.&lt;/p&gt;
+
+&lt;p&gt;Held nearly naked in a cell lit around the clock by fluorescent bulbs, he referred to his detention "as if I was living in a refrigerator".&lt;/p&gt;
+
+&lt;p&gt;The nephew of self-declared 9/11 mastermind Khalid Sheikh Mohammed, Baluchi was one of six to a dozen men believed to be held and tortured in a secret CIA prison in Bucharest between 2003 and 2005.&lt;/p&gt;
+
+&lt;p&gt;The treatment of detainees at the facility, formally known as "Detention Site Black", is described in detail in Guantanamo court filings.&amp;nbsp;&lt;/p&gt;
+
+&lt;p&gt;Solitary confinement under lights that never switched off, sleep deprivation that at times meant being forced to stand shackled for days, repeated dousing with icy water, and forced shaving and physical handling that interrogators euphemistically logged as "attention grasps" and "facial holds" were common practice.&lt;/p&gt;&lt;div class="block-adsense block-adsense-managed-ad-block"&gt;&lt;div&gt;
+  &lt;div class="adsense responsive"&gt;
+    &lt;script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-6114695881218027" crossorigin="anonymous"&gt;&lt;/script&gt;
+&lt;!-- responsive --&gt;
+&lt;ins class="adsbygoogle mee-auto-ad-wrapper " style="display:block" data-ad-client="ca-pub-6114695881218027" data-ad-slot="8690493793" data-ad-format="horizontal" data-full-width-responsive="true"&gt;&lt;/ins&gt;
+&lt;script&gt;
+     (adsbygoogle = window.adsbygoogle || []).push({});
+&lt;/script&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+
+&lt;p&gt;A photo released by Baluchi's lawyers to the press in 2024 shows him stripped naked and photographed. It is believed to be the first published image - of tens of thousands - of a "war on terror" detainee in a CIA black site.&lt;/p&gt;
+
+&lt;p&gt;"We know they were tortured horrifically," Ben Keith, a British barrister representing Baluchi outside the US, told Middle East Eye.&lt;/p&gt;
+
+&lt;p&gt;"It's not always possible to say which bit of torture took place because they were tortured for days and weeks, but you don’t detain somebody in a black site with the purpose of just talking to them."&lt;/p&gt;
+
+&lt;div class="mee-readmore mee-readmore-article-the-big-story mee-readmore-type-image align-right"&gt;
+  &lt;a class="mee-readmore-img-link" href="https://www.middleeasteye.net/big-story/guantanamo-bay-i-was-18-when-they-sent-me-there-system-allowed-it-never-went-away"&gt;&lt;img class="mee-readmore-image" src="https://www.middleeasteye.net/sites/default/files/styles/read_more/public/images-story/mansoor-adayfi-former-guantanamo-bay-detainee-provided.jpg.webp?itok=gjbgYE2a" width="400" height="250" alt loading="lazy" typeof="foaf:Image"&gt;
+
+&lt;/a&gt;  &lt;div class="mee-readmore-description"&gt;I was 18 when they sent me to Guantanamo. The system that allowed it never went away&lt;/div&gt;
+    &lt;a class="mee-readmore-link" href="https://www.middleeasteye.net/big-story/guantanamo-bay-i-was-18-when-they-sent-me-there-system-allowed-it-never-went-away"&gt;Read More »&lt;/a&gt;
+&lt;/div&gt;
+
+&lt;p&gt;A quarter-century after the 9/11 attacks, which triggered the so-called "war on terror" and devastating US invasions of Afghanistan and Iraq that directly killed at least 940,000 people, a US military judge has finally set a trial date for Baluchi: 5 June 2028.&lt;/p&gt;
+
+&lt;p&gt;Lieutenant Colonel Michael Schrama ruled this month that the case against Mohammed, Baluchi, Walid bin Attash and Mustafa al-Hawsawi will begin on that date.&lt;/p&gt;
+
+&lt;p&gt;Schrama is the fifth military judge to preside over a case that has been trapped for more than a decade in disputes over evidence, national security secrecy and, above all, whether confessions obtained under torture before the men ever reached Guantanamo can be used at trial.&lt;/p&gt;
+
+&lt;p&gt;That question runs directly through a basement in Bucharest, where the accused are believed to have been detained and tortured.&lt;/p&gt;
+
+&lt;p&gt;In April 2025, a Guantanamo military judge ruled that statements Baluchi gave the FBI in 2007 were involuntary and inadmissible, tainted by what the court called torture and cruel, inhuman and degrading treatment inflicted on him in CIA custody, including in Romania.&lt;/p&gt;
+
+&lt;p&gt;The judge found that Guantanamo's "modestly changed confinement circumstances" had not been enough to remove the “lingering taint” of what happened before he arrived there.&lt;/p&gt;
+
+&lt;h3&gt;A gesture of courtesy&lt;/h3&gt;
+
+&lt;p&gt;The Romanian site was part of a network of secret prisons the CIA ran across three continents in the years after 9/11 - in Thailand, Poland, Lithuania and Romania - as part of a rendition, detention and interrogation programme that was formally shut down in 2009.&lt;/p&gt;
+
+&lt;p&gt;Romania's site opened in the autumn of 2003, according to court documents and NGO reports reviewed by MEE.&amp;nbsp;&lt;/p&gt;&lt;div class="block-adsense block-adsense-managed-ad-block"&gt;&lt;div&gt;
+  &lt;div class="adsense responsive"&gt;
+    &lt;script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-6114695881218027" crossorigin="anonymous"&gt;&lt;/script&gt;
+&lt;!-- responsive --&gt;
+&lt;ins class="adsbygoogle mee-auto-ad-wrapper " style="display:block" data-ad-client="ca-pub-6114695881218027" data-ad-slot="8690493793" data-ad-format="horizontal" data-full-width-responsive="true"&gt;&lt;/ins&gt;
+&lt;script&gt;
+     (adsbygoogle = window.adsbygoogle || []).push({});
+&lt;/script&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+
+&lt;p&gt;According to a 2019 report by the Rendition Project, the CIA struck its agreement with Romanian authorities to host a black site in mid-October 2002.&lt;/p&gt;
+
+&lt;p&gt;By January 2003, the CIA's Bucharest station was already discussing how to show Romania that "we deeply appreciate the cooperation and support".&amp;nbsp;&lt;/p&gt;
+
+&lt;div class="mee-readmore mee-readmore-article-story mee-readmore-type-image align-right"&gt;
+  &lt;a class="mee-readmore-img-link" href="https://www.middleeasteye.net/news/911-museum-america-remembers-only-its-own"&gt;&lt;img class="mee-readmore-image" src="https://www.middleeasteye.net/sites/default/files/styles/read_more/public/images-story/ny-9-11-afp.jpg.webp?itok=KjEis6Zn" width="400" height="250" alt loading="lazy" typeof="foaf:Image"&gt;
+
+&lt;/a&gt;  &lt;div class="mee-readmore-description"&gt;At the 9/11 museum, America remembers only its own&lt;/div&gt;
+    &lt;a class="mee-readmore-link" href="https://www.middleeasteye.net/news/911-museum-america-remembers-only-its-own"&gt;Read More »&lt;/a&gt;
+&lt;/div&gt;
+
+&lt;p&gt;That appreciation had a price: $8m, followed by "millions more", according to the same Rendition Project report. By autumn, the first batch of five prisoners had arrived.&lt;/p&gt;
+
+&lt;p&gt;The late Romanian president Ion Iliescu confirmed the outlines of the arrangement in a 2015 interview with Der Spiegel, describing a request that came "around the turn of the year 2002, 2003" from "our US allies" who asked Romania "for a site".&lt;/p&gt;
+
+&lt;p&gt;He said he approved it in principle as "a gesture of courtesy ahead of our accession to Nato", and that he deliberately did not ask for details.&lt;/p&gt;
+
+&lt;p&gt;"We did not interfere with the activities of the USA on this site," he said. "This request seemed like a minor issue to me as the head of state."&lt;/p&gt;
+
+&lt;p&gt;The details, Iliescu said, were handled by Ioan Talpes, his national security adviser then.&amp;nbsp;&lt;/p&gt;
+
+&lt;p&gt;Talpes could not be reached for comment but gave a candid account to Der Spiegel in a 2014 interview, saying he discussed "a more intense cooperation" with the CIA from 2003 and understood that it involved detaining people at "one or two locations in Romania".&lt;/p&gt;
+
+&lt;p&gt;He admitted to personally approving the leasing of a government building to the American intelligence agency.&lt;/p&gt;
+
+&lt;p&gt;Talpes put it more bluntly in Romanian media, saying his country "did not have the interest to know what the Americans were doing" at the site it provided, to prove to Washington that Romania could be trusted.&lt;/p&gt;
+
+&lt;p&gt;Crofton Black, a former investigator with the Rendition Project who spent close to a decade tracing the CIA’s rendition network through flight logs and declassified documents, told MEE that he thinks Romania "made the decision [to host the black site] because it was in their interest, and thought the US would cover for them".&lt;/p&gt;&lt;div class="block-adsense block-adsense-managed-ad-block"&gt;&lt;div&gt;
+  &lt;div class="adsense responsive"&gt;
+    &lt;script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-6114695881218027" crossorigin="anonymous"&gt;&lt;/script&gt;
+&lt;!-- responsive --&gt;
+&lt;ins class="adsbygoogle mee-auto-ad-wrapper " style="display:block" data-ad-client="ca-pub-6114695881218027" data-ad-slot="8690493793" data-ad-format="horizontal" data-full-width-responsive="true"&gt;&lt;/ins&gt;
+&lt;script&gt;
+     (adsbygoogle = window.adsbygoogle || []).push({});
+&lt;/script&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+
+&lt;h3&gt;'The highest state authorities were aware'&lt;/h3&gt;
+
+&lt;p&gt;Swiss Senator Dick Marty, whose 2007 report to the Council of Europe was one of the earliest and most detailed independent reconstructions of the CIA's black-site network, concluded that while "very few people" in the countries involved likely knew the centres existed, "the highest state authorities were aware of the CIA’s illegal activities on their territories".&lt;/p&gt;
+
+&lt;p&gt;His report named Romania and Poland specifically as having hosted secret CIA detention facilities.&lt;/p&gt;
+
+&lt;p&gt;The Council of Europe's list of Romanians who knew, according to Marty and later research by the Rendition Project, extends beyond Iliescu and Talpeş to a few other officials, including Traian Basescu, who succeeded Iliescu as president in 2004.&amp;nbsp;&lt;/p&gt;
+
+&lt;p&gt;MEE reached out to Basescu for comment but did not receive a response by the time of publication.&lt;/p&gt;
+
+&lt;p&gt;The 2019 report adds a detail Marty did not fully spell out.&amp;nbsp;&lt;/p&gt;
+
+&lt;p&gt;After September 2004, Romanian officials were formally briefed by the US ambassador and the CIA's Bucharest station chief on the programme, in a presentation that "clearly described" the use of torture.&lt;/p&gt;
+
+&lt;p&gt;"It's definitively the case - the allegations of torture, the money, the people who were held there - it's definitively the case that that’s Romania in the court files," said Black, who co-authored the Rendition Project report.&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;'We know from the ruling in al-Nashiri the Romanians knew about it; they might have not known exactly what was happening, but they facilitated the CIA to create a black site to torture these men'&lt;/p&gt;
+
+&lt;p&gt;-&amp;nbsp;&lt;em&gt;Ben Keith, British barrister&lt;/em&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Unlike the black sites in Lithuania and Poland, which are believed to have been in more remote locations, Romania's site is believed to have been located in central Bucharest.&lt;/p&gt;
+
+&lt;p&gt;An AP and ARD Panorama investigation in 2011 narrowed down the location of the site in Bucharest to the government building of the country's National Registry Office for Classified Information, also known as Orniss, on a quiet, leafy street in northern Bucharest close to a set of train tracks.&lt;/p&gt;
+
+&lt;p&gt;Orniss "categorically denied" speculation that there had been a CIA prison on the premises, telling MEE that it rejected any association between the institution and "the so-called CIA detention centres".&lt;/p&gt;
+
+&lt;p&gt;While the site's location is disputed, concurring testimonies in court records reveal details of the conditions inside it.&lt;/p&gt;
+
+&lt;p&gt;The site consisted of six prefabricated cells painted white and tiled with impact-resistant glass, while the cells themselves were mounted on springs, engineered to keep detainees slightly off balance and disoriented.&amp;nbsp;&lt;/p&gt;
+
+&lt;p&gt;The site is sometimes referred to as "Bright Light" because of the fluorescent, continuous light inside.&lt;/p&gt;
+
+&lt;p&gt;Another detainee held there was Abd al-Rahim al-Nashiri, accused of being the mastermind of the 12&amp;nbsp; October 2000 bombing of the USS Cole. He is believed to have been held in Romania between April 2004 and November 2005.&lt;/p&gt;
+
+&lt;p&gt;His case reached the European Court of Human Rights, which later found in a landmark 2018 ruling that his detention in Romania involved an "extremely harsh" regime, including blindfolding, total isolation, exposure to loud noise and unbroken light, and leg shackles during every movement. The Court and related records also document sleep deprivation, painful stress positions, slapping and, at one point, forced rectal feeding.&lt;/p&gt;
+
+&lt;p&gt;A 2014 US Senate Intelligence Committee report found that the CIA's "enhanced interrogation" programme in the black sites did not produce unique, life-saving intelligence that could not have been obtained by other means.&lt;/p&gt;
+
+&lt;p&gt;A US Senate &lt;a href="https://www.intelligence.senate.gov/wp-content/uploads/2024/08/sites-default-filesations-crpt-113srpt288.pdf"&gt;report on CIA torture&lt;/a&gt; revealed that the CIA held at least 119 detainees in its secret detention programme, with at least 39 of them subjected to the agency's "enhanced interrogation techniques,"&amp;nbsp;often without proper authorisation.&lt;/p&gt;
+
+&lt;p&gt;The CIA also misled oversight bodies and the public about the programme’s brutality, while there was little accountability for the abuses.&lt;/p&gt;
+
+&lt;h3&gt;Continued denial&lt;/h3&gt;
+
+&lt;p&gt;For two decades, Romania's official position has been one of denial.&lt;/p&gt;
+
+&lt;p&gt;The country's foreign intelligence service replied to an MEE inquiry that "the matters had already been thoroughly examined by the competent judicial authorities, both nationally and within international bodies" and that it could not comment further.&lt;/p&gt;
+
+&lt;p&gt;Despite that, the European Court of Human Rights ruled in 2018 that Romania had violated Nashiri's rights, including by allowing his torture, both through what happened to him and through the state’s failure to properly investigate it.&lt;/p&gt;
+
+&lt;p&gt;The Court found that a secret detention centre had operated in Romania and that Romanian authorities had "cooperated in the preparation and execution" of the CIA's rendition and detention programme, fully aware of its nature and purpose even if they were not privy to everything that happened inside.&lt;/p&gt;
+
+&lt;p&gt;Romania responded by closing the domestic criminal investigation.&lt;/p&gt;
+
+&lt;p&gt;A case opened in 2012 after a complaint from Nashiri's lawyers, represented by the Open Society Justice Initiative, had by 2014 been formally classified as an inquiry into unlawful deprivation of liberty and torture.&lt;/p&gt;
+
+&lt;p&gt;Lawyers who represented Nashiri in Strasbourg and Romania did not agree to interview requests before publication.&lt;/p&gt;
+
+&lt;p&gt;But according to a Romanian parliamentary question answered by the foreign ministry in 2018, the Open Society complaint originally filed sought far more than charges of torture and unlawful detention. It asked prosecutors to investigate complicity in murder, unlawful arrest, abuse of office, and failure to report a crime, among other allegations.&lt;/p&gt;
+
+&lt;p&gt;Prosecutors narrowed that down in 2014 to two counts: unlawful deprivation of liberty and torture.&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;'There's been years of compelling evidence that Romania hosted a black site and the more it has grown, the government continued to deny it was involved'&lt;/p&gt;
+
+&lt;p&gt;-&amp;nbsp;&lt;em&gt;Crofton Black, former investigator&lt;/em&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;The investigation went nowhere. In any case, by 2016, the statute of limitations on the alleged crimes had already expired because no investigative steps had been taken that would have suspended the clock, and no suspect had ever been formally identified.&lt;/p&gt;
+
+&lt;p&gt;Romania's public prosecutor's office told MEE in an official response that the file was closed in March 2021, with the perpetrator classified as "unknown" despite what it described as the use of international cooperation mechanisms to gather evidence.&lt;/p&gt;
+
+&lt;p&gt;The same year, the Council of Europe's Committee of Ministers expressed "profound regret" that Romania could not show it had used all possible means to establish the facts, three years after the Strasbourg ruling required it to.&lt;/p&gt;
+
+&lt;p&gt;Keith, Baluchi's counsel, said senior Romanian officials acted with direct intent in 2003 and 2004 to allow the CIA to detain, torture and later transfer Baluchi to Lithuania.&lt;/p&gt;
+
+&lt;p&gt;"We know from the ruling in al-Nashiri the Romanians knew about it; they might have not known exactly what was happening, but they facilitated the CIA to create a black site to torture these men," Keith said.&lt;/p&gt;
+
+&lt;p&gt;"Our contention is that Romania not only facilitated the CIA black site but knew they were being used to torture individuals."&lt;/p&gt;
+
+&lt;p&gt;MEE reached out to Romania's Ministry of Foreign Affairs and Ministry of Justice for comment but did not receive a response by the time of publication.&lt;/p&gt;
+
+&lt;p&gt;Romania's domestic intelligence service, SRI, also declined to comment, telling MEE that it lacked legal standing to address claims "circulating in the public space".&lt;/p&gt;
+
+&lt;p&gt;With a trial date now set for June 2028, the confessions extracted under torture at CIA "black sites" – including the facility in Bucharest – have become central to the 9/11 case.&lt;/p&gt;
+
+&lt;p&gt;So, too, has the role of the governments that allowed the CIA to operate these secret detention and interrogation sites on their territory.&lt;/p&gt;
+
+&lt;p&gt;Romania, for its part, is still refusing to talk about what happened in its basement, despite the body of evidence that has emerged.&lt;/p&gt;
+
+&lt;p&gt;"There's been years of compelling evidence that Romania hosted a black sit,&amp;nbsp; and the more it has grown, the government continued to deny it was involved," said Black.&lt;/p&gt;
+
+&lt;p&gt;"It's ridiculous, it's nonsense."&lt;/p&gt;
+&lt;/div&gt;
+                  &lt;div class="field field-field-topic"&gt;&lt;a href="https://www.middleeasteye.net/topics/september-11-attacks" hreflang="en"&gt;9/11 Attacks&lt;/a&gt;&lt;/div&gt;
+            &lt;div class="field field-field-coauthor-location"&gt;
+              &lt;div&gt; &lt;/div&gt;
+              &lt;div&gt; &lt;/div&gt;
+              &lt;div&gt; &lt;/div&gt;
+              &lt;div&gt; &lt;/div&gt;
+          &lt;/div&gt;
+              &lt;div class="field field-field-article-location"&gt;Bucharest&lt;/div&gt;
+                  &lt;div class="field field-field-section"&gt;&lt;a href="https://www.middleeasteye.net/news/all" hreflang="en"&gt;News&lt;/a&gt;&lt;/div&gt;
+        &lt;div class="field field-field-post-date-override"&gt;
+    &lt;div&gt;Post Date Override&lt;/div&gt;
+              &lt;div&gt;0&lt;/div&gt;
+          &lt;/div&gt;
+  &lt;div class="field field-field-update-date-override"&gt;
+    &lt;div&gt;Update Date&lt;/div&gt;
+              &lt;div&gt;&lt;time datetime="2020-05-04T21:19:45+01:00"&gt;Mon, 05/04/2020 - 21:19&lt;/time&gt;
+&lt;/div&gt;
+          &lt;/div&gt;
+  &lt;div class="field field-field-update-date-check"&gt;
+    &lt;div&gt;Update Date Override&lt;/div&gt;
+              &lt;div&gt;0&lt;/div&gt;
+          &lt;/div&gt;
+
+  &lt;/div&gt;
+  
+&lt;/article&gt;
+</description>
+  <pubDate>Fri, 11 Sep 2026 08:10:51 +0100</pubDate>
+    <dc:creator>Andrei Popoviciu</dc:creator>
+    <guid isPermaLink="false">447480 at https://www.middleeasteye.net/</guid>
+    </item>
+<item>
+  <title>Protest march held in Slovenian capital against opening of Israeli embassy</title>
+  <link>https://www.middleeasteye.net/live-blog/live-blog-update/protest-march-held-slovenian-capital-against-opening-israeli-embassy</link>
+  <description>
+  
+
+&lt;article data-history-node-id="447519" about="https://www.middleeasteye.net/live-blog/live-blog-update/protest-march-held-slovenian-capital-against-opening-israeli-embassy" class="live-blog-update default clearfix"&gt;
+
+  
+      &lt;h2&gt;
+      &lt;a href="https://www.middleeasteye.net/live-blog/live-blog-update/protest-march-held-slovenian-capital-against-opening-israeli-embassy" rel="bookmark"&gt;
+&lt;span class="field field-title"&gt;Protest march held in Slovenian capital against opening of Israeli embassy&lt;/span&gt;
+&lt;/a&gt;
+    &lt;/h2&gt;
+    
+
+        
+    &lt;div class="content"&gt;
+                &lt;div class="field field-field-text"&gt;&lt;p&gt;A protest march was held in the Slovenian capital, Ljubljana, against the opening of Israel’s embassy, coinciding with a visit by Israeli foreign minister Gideon Sa’ar, Quds News Network reported.&lt;/p&gt;
+
+&lt;p&gt;The protesters chanted “no embassy for genocide” and waved Palestinian flags during the march.&lt;/p&gt;
+
+&lt;blockquote class="twitter-tweet"&gt;
+&lt;p dir="ltr" lang="en"&gt;Thousands of protesters marched through the Slovenian capital against the opening of Israel’s embassy, coinciding with a visit by Israeli Foreign Minister Gideon Sa’ar. Protesters chanted “No embassy for genocide” and showed support for Palestine. &lt;a href="https://t.co/GO6fZFz2Ij"&gt;pic.twitter.com/GO6fZFz2Ij&lt;/a&gt;&lt;/p&gt;
+— Quds News Network (@QudsNen) &lt;a href="https://x.com/QudsNen/status/2098074847087579268?ref_src=twsrc%5Etfw"&gt;September 10, 2026&lt;/a&gt;&lt;/blockquote&gt;
+&lt;script async src="https://platform.x.com/widgets.js" charset="utf-8"&gt;&lt;/script&gt;&lt;/div&gt;
+      
+  &lt;/div&gt;
+
+&lt;/article&gt;
+</description>
+  <pubDate>Fri, 11 Sep 2026 07:53:29 +0100</pubDate>
+    <dc:creator>Hilal Saki</dc:creator>
+    <guid isPermaLink="false">447519 at https://www.middleeasteye.net/</guid>
+    </item>
+<item>
+  <title>Hind Rajab Foundation files genocide incitement complaint against Israeli minister</title>
+  <link>https://www.middleeasteye.net/live-blog/live-blog-update/israeli-minister-faces-genocide-incitement-complaint-italy-hind-rajab</link>
+  <description>
+  
+
+&lt;article data-history-node-id="447518" about="https://www.middleeasteye.net/live-blog/live-blog-update/israeli-minister-faces-genocide-incitement-complaint-italy-hind-rajab" class="live-blog-update default clearfix"&gt;
+
+  
+      &lt;h2&gt;
+      &lt;a href="https://www.middleeasteye.net/live-blog/live-blog-update/israeli-minister-faces-genocide-incitement-complaint-italy-hind-rajab" rel="bookmark"&gt;
+&lt;span class="field field-title"&gt;Hind Rajab Foundation files genocide incitement complaint against Israeli minister&lt;/span&gt;
+&lt;/a&gt;
+    &lt;/h2&gt;
+    
+
+        
+    &lt;div class="content"&gt;
+                &lt;div class="field field-field-text"&gt;&lt;p&gt;The Hind Rajab Foundation (HRF) has filed a criminal complaint in Italy against Israel's minister of environmental protection, Idit Silman, accusing her of incitement to commit genocide against Palestinians in Gaza.&lt;/p&gt;
+
+&lt;p&gt;In a statement, HRF said the complaint was lodged after Silman arrived in Italy on 6 September 2026 with her husband, Shmuel Silman, and documents a "sustained and escalating campaign" of public statements made over roughly two years.&lt;/p&gt;
+
+&lt;p&gt;At a rally in Jerusalem on 27 February 2025, Silman said "the only solution for Gaza was to empty Gaza of Gazans”.&lt;/p&gt;
+
+&lt;p&gt;She repeated the line almost verbatim on Israel's Reshet Bet radio on 11 March 2025, describing the proposal as "realistic".&lt;/p&gt;
+
+&lt;p&gt;HRF said these were not statements aimed at Hamas fighters but at Gazans as a civilian population.&lt;/p&gt;
+
+&lt;p&gt;The complaint also documents Silman's call for cutting off humanitarian assistance to Gaza as well as her statements in which denied the existence of Palestinians as a people.&amp;nbsp;&amp;nbsp;&lt;/p&gt;
+
+&lt;p&gt;Dyab Abou Jahjah, HRF's director general, said: "Genocide does not begin with killing. It begins when a people is declared to have no right to exist, when its presence is portrayed as the problem, and when its removal is presented as the solution."&amp;nbsp;&lt;/p&gt;
+
+&lt;p&gt;Natacha Bracq, head of litigation at HRF, added: “The question before the Italian authorities is not whether these words are shocking. It is whether a government official who publicly advocates the elimination of a protected group can be held criminally accountable. That question demands an investigation, not impunity.&lt;/p&gt;
+
+&lt;blockquote class="twitter-tweet"&gt;
+&lt;p dir="ltr" lang="en"&gt;🚨🇮🇹 The &lt;a href="https://x.com/hashtag/HindRajabFoundation?src=hash&amp;amp;ref_src=twsrc%5Etfw"&gt;#HindRajabFoundation&lt;/a&gt; has filed a criminal complaint in Italy against Idit Silman, Israel’s Minister of Environmental Protection, for direct and public incitement to commit genocide against the Palestinian population of Gaza. Silman arrived in Italy on 6 September with… &lt;a href="https://t.co/Lt8hM5oFLH"&gt;pic.twitter.com/Lt8hM5oFLH&lt;/a&gt;&lt;/p&gt;
+— The Hind Rajab Foundation (@HindRFoundation) &lt;a href="https://x.com/HindRFoundation/status/2098018171424793081?ref_src=twsrc%5Etfw"&gt;September 10, 2026&lt;/a&gt;&lt;/blockquote&gt;
+&lt;script async src="https://platform.x.com/widgets.js" charset="utf-8"&gt;&lt;/script&gt;
+
+
+
+
+&lt;/div&gt;
+      
+  &lt;/div&gt;
+
+&lt;/article&gt;
+</description>
+  <pubDate>Fri, 11 Sep 2026 07:41:44 +0100</pubDate>
+    <dc:creator>Hilal Saki</dc:creator>
+    <guid isPermaLink="false">447518 at https://www.middleeasteye.net/</guid>
+    </item>
+
+  </channel>
+</rss>

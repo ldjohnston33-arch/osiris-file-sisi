@@ -1,0 +1,39 @@
+presidency-rss-index         403  text/html; charset=UTF-8
+presidency-feed-news-en      403  text/html; charset=UTF-8
+presidency-feed-events-en    403  text/html; charset=UTF-8
+presidency-feed-news-ar      403  text/html; charset=UTF-8
+presidency-feed-events-ar    200 FEED text/xml; charset=utf-8
+presidency-listing-news-en   200  text/html; charset=utf-8
+presidency-home-en           403  text/html; charset=UTF-8
+sis-feed                     ERR  fetch failed | cause: UNABLE_TO_VERIFY_LEAF_SIGNATURE
+sis-feed-www                 ERR  fetch failed | cause: UNABLE_TO_VERIFY_LEAF_SIGNATURE
+sis-news-feed                ERR  fetch failed | cause: UNABLE_TO_VERIFY_LEAF_SIGNATURE
+sis-listing                  ERR  fetch failed | cause: UNABLE_TO_VERIFY_LEAF_SIGNATURE
+sis-wpjson                   ERR  fetch failed | cause: UNABLE_TO_VERIFY_LEAF_SIGNATURE
+sis-home                     ERR  fetch failed | cause: UNABLE_TO_VERIFY_LEAF_SIGNATURE
+mena-home-en                 403  text/html; charset=UTF-8
+mena-rss-en                  403  text/html; charset=UTF-8
+mena-home                    403  text/html; charset=UTF-8
+ahram-foreign                403  text/html; charset=UTF-8
+ahram-politics               403  text/html; charset=UTF-8
+ahram-rss                    403  text/html; charset=UTF-8
+ahram-rss-ui                 403  text/html; charset=UTF-8
+aljazeera-rss                200 FEED application/rss+xml; charset=UTF-8
+bbc-me-rss                   200 FEED text/xml; charset=utf-8
+almonitor-rss                200 FEED application/rss+xml; charset=utf-8
+mee-rss                      200 FEED application/rss+xml; charset=utf-8
+national-rss                 200 FEED application/xml; charset=utf-8
+arabnews-rss                 200  text/html; charset=utf-8
+gdelt-doc                    ERR  fetch failed | cause: UND_ERR_CONNECT_TIMEOUT
+gdelt-lastupdate             200  text/plain
+openfreemap-dark             200  application/json
+arabnews-rss2                200 FEED application/rss+xml; charset=utf-8
+arabnews-rss3                200 FEED application/rss+xml; charset=utf-8
+presidency-api-get           200  text/html; charset=utf-8
+presidency-api-get2          403  text/html; charset=UTF-8
+gdelt-doc-sis                ERR  fetch failed | cause: UND_ERR_CONNECT_TIMEOUT
+gdelt-doc-presidency         429  
+gdelt-doc-ahram              ERR  fetch failed | cause: UND_ERR_CONNECT_TIMEOUT
+crt-sectigo-dv-r36           200  application/pkix-cert
+presidency-api-post-form     403  text/html; charset=UTF-8
+presidency-api-post-json     403  text/html; charset=UTF-8
