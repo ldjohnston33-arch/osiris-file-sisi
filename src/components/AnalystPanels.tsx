@@ -60,7 +60,7 @@ function RiskPanel({ store }: { store: Store }) {
   }, [store.risk]);
   const eg = store.risk.find(r => r.code === 'EG');
   return (
-    <section className="card card-pad" aria-label="Risk breakdown">
+    <section id="risk-panel" className="card card-pad" aria-label="Risk breakdown">
       <div className="card-head">
         <div>
           <div className="eyebrow">Analyst Mode</div>
@@ -114,7 +114,7 @@ function SourcingPanel({ store }: { store: Store }) {
   }, [store.events]);
   const pct = s.sisi ? Math.round((s.corroborated / s.sisi) * 100) : 0;
   return (
-    <section className="card card-pad" aria-label="Sourcing detail">
+    <section id="sourcing-panel" className="card card-pad" aria-label="Sourcing detail">
       <div className="card-head">
         <div>
           <div className="eyebrow">Analyst Mode</div>

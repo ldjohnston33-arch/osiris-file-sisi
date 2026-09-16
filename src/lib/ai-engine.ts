@@ -74,13 +74,19 @@ export async function generateJson<T>(system: string, prompt: string, maxOutputT
   throw lastErr instanceof Error ? lastErr : new Error(String(lastErr));
 }
 
-/** House style: no em dashes in anything L4 publishes. */
+/**
+ * House style: no em dashes in anything L4 publishes. Collapses runs of
+ * horizontal whitespace only ([ \t], never newlines) so callers that pass
+ * multi-line markdown (headings, paragraph breaks) keep their structure;
+ * multiple blank lines are tidied to a single one.
+ */
 export function houseStyle(s: string): string {
   return s
     .replace(/\s*—\s*/g, ', ')
     .replace(/\s+–\s+/g, ', ')
     .replace(/,\s*,/g, ',')
-    .replace(/\s{2,}/g, ' ')
+    .replace(/[ \t]{2,}/g, ' ')
+    .replace(/\n{3,}/g, '\n\n')
     .trim();
 }
 

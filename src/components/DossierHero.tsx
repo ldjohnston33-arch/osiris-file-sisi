@@ -2,6 +2,7 @@
 
 import type { Store } from '@/lib/osiris/types';
 import { fmtDate, fmtDateTime, relTime } from '@/lib/osiris/ui';
+import Markdown from './Markdown';
 
 export default function DossierHero({ store, now, onSelect }: { store: Store; now: number; onSelect: (id: string) => void }) {
   const { lastAppearance, lastStatement, nextEngagement } = store.status;
@@ -31,7 +32,7 @@ export default function DossierHero({ store, now, onSelect }: { store: Store; no
           <span className="eyebrow" style={{ color: 'var(--accent)' }}>The L4 Briefing</span>
           <span className={`pill ${b.method === 'gemini' ? 'tag-ai' : ''}`}>{b.method === 'gemini' ? 'AI-assisted' : 'Rules-based'}</span>
         </div>
-        <p className="briefing-text">{b.text}</p>
+        <Markdown text={b.text} className="briefing-text" />
         <div className="briefing-foot">
           <span>Generated {fmtDateTime(b.generatedAt)}</span>
           <span>·</span>

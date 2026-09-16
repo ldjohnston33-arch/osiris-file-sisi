@@ -1,0 +1,159 @@
+/* ── DashboardGrid ──────────────────────────────────────────────
+   Draggable/resizable 12-column layout for the dossier's top-level
+   sections. Visual language matches the rest of the app: .card/.glass
+   surfaces, --border-soft outlines, --accent (#00aaff) highlights.
+   See the comment block atop DashboardGrid.tsx for the unit system.
+   ────────────────────────────────────────────────────────────── */
+
+.dgrid-toolbar {
+  display: flex;
+  align-items: center;
+  justify-content: flex-end;
+  gap: 12px;
+  margin-top: 24px;
+  flex-wrap: wrap;
+}
+.dgrid-edit-hint { font-size: 12px; }
+
+.dgrid-edit-toggle {
+  display: inline-flex;
+  align-items: center;
+  gap: 7px;
+  padding: 7px 13px;
+  border-radius: 9px;
+  font-size: 12.5px;
+  font-weight: 700;
+  letter-spacing: 0.02em;
+  color: var(--text-2);
+  background: var(--panel);
+  border: 1px solid var(--border-soft);
+  cursor: pointer;
+  transition: color 0.2s var(--ease), border-color 0.2s var(--ease), background 0.2s var(--ease), box-shadow 0.2s var(--ease);
+}
+.dgrid-edit-toggle:hover { color: var(--text); border-color: var(--border); }
+.dgrid-edit-toggle.is-active {
+  color: var(--text);
+  border-color: var(--accent);
+  background: var(--accent-soft);
+  box-shadow: 0 0 18px rgba(0, 170, 255, 0.25);
+}
+
+.dgrid {
+  position: relative;
+  display: grid;
+  grid-template-columns: repeat(12, minmax(0, 1fr));
+  grid-auto-rows: minmax(24px, auto);
+  gap: 20px;
+  margin-top: 10px;
+}
+.dgrid.is-editing {
+  border-radius: var(--radius);
+  background-image:
+    linear-gradient(rgba(58, 74, 106, 0.22) 1px, transparent 1px),
+    linear-gradient(90deg, rgba(58, 74, 106, 0.22) 1px, transparent 1px);
+  background-size: calc((100% - 20px * 11) / 12 + 20px) 44px;
+}
+
+.dgrid-widget {
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  min-width: 0;
+}
+/* Neutralize each widget's own root margin-top (.hero, .tiles, .section, …)
+   now that vertical rhythm comes from the grid's `gap` instead — otherwise
+   spacing would double up. Only margin-top is touched. */
+.dgrid-widget-body > :first-child { margin-top: 0; }
+.dgrid-widget-body { min-width: 0; flex: 1 1 auto; }
+
+.dgrid-widget.is-editable {
+  border-radius: var(--radius);
+  outline: 1px dashed var(--border-soft);
+  outline-offset: 6px;
+  transition: outline-color 0.2s var(--ease);
+}
+.dgrid-widget.is-editable:hover,
+.dgrid-widget.is-editable.is-dragging {
+  outline-color: rgba(0, 170, 255, 0.6);
+}
+.dgrid-widget.is-dragging { z-index: 5; }
+
+.dgrid-widget-head {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  margin-bottom: 8px;
+  padding: 5px 10px;
+  border-radius: var(--radius-sm);
+  background: var(--glass);
+  border: 1px solid var(--border-soft);
+  backdrop-filter: blur(12px) saturate(140%);
+  -webkit-backdrop-filter: blur(12px) saturate(140%);
+  align-self: flex-start;
+  max-width: 100%;
+}
+.dgrid-drag-handle {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  width: 26px;
+  height: 22px;
+  flex: 0 0 auto;
+  border-radius: 6px;
+  border: 1px solid var(--border-soft);
+  background: rgba(8, 12, 20, 0.6);
+  color: var(--text-2);
+  cursor: grab;
+  touch-action: none;
+}
+.dgrid-drag-handle:hover { color: var(--accent); border-color: var(--accent); }
+.dgrid-drag-handle:active { cursor: grabbing; }
+.dgrid-widget-title {
+  font-size: 12px;
+  font-weight: 700;
+  letter-spacing: 0.02em;
+  color: var(--text-2);
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+}
+
+.dgrid-resize-handle {
+  position: absolute;
+  right: -8px;
+  bottom: -8px;
+  z-index: 2;
+  width: 22px;
+  height: 22px;
+  display: grid;
+  place-items: center;
+  border-radius: 7px;
+  border: 1px solid var(--border-soft);
+  background: var(--glass-strong);
+  color: var(--text-3);
+  cursor: nwse-resize;
+  touch-action: none;
+}
+.dgrid-resize-handle:hover { color: var(--accent); border-color: var(--accent); }
+
+/* ── narrow screens: stack plainly, editing off ────────────────── */
+@media (max-width: 860px) {
+  .dgrid-toolbar { display: none; }
+  .dgrid {
+    display: block;
+    background-image: none;
+  }
+  .dgrid-widget {
+    display: block !important;
+    grid-column: auto !important;
+    grid-row: auto !important;
+    min-height: 0 !important;
+    margin-top: 20px;
+    outline: none !important;
+  }
+  .dgrid-widget:first-child { margin-top: 0; }
+  .dgrid-widget-head,
+  .dgrid-resize-handle {
+    display: none !important;
+  }
+}

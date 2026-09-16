@@ -17,6 +17,7 @@ import EventList from './EventList';
 import AnalystPanels from './AnalystPanels';
 import LayerToggles from './LayerToggles';
 import Footer from './Footer';
+import { DashboardGrid, DEFAULT_LAYOUT, Widget } from './DashboardGrid';
 
 const MapView = dynamic(() => import('./MapView'), {
   ssr: false,
@@ -54,6 +55,12 @@ export default function OsirisFile({ initial, coverage }: { initial: Store; cove
     };
   }, []);
   const toggleAnalyst = () => writeLocal(LS_ANALYST, analystMode ? '0' : '1');
+
+  /** Stat tiles drill into the relevant Analyst Mode panel: turn it on if needed, then scroll to it. */
+  const drillTo = useCallback((anchorId: string) => {
+    if (!analystMode) writeLocal(LS_ANALYST, '1');
+    setTimeout(() => document.getElementById(anchorId)?.scrollIntoView({ behavior: 'smooth', block: 'start' }), analystMode ? 0 : 200);
+  }, [analystMode]);
 
   // ── keep long-open tabs current (store refreshes every ~30 min) ───
   useEffect(() => {
@@ -138,9 +145,6 @@ export default function OsirisFile({ initial, coverage }: { initial: Store; cove
     <>
       <Header store={store} now={now} analystMode={analystMode} onToggleAnalyst={toggleAnalyst} />
       <main className="wrap">
-        <DossierHero store={store} now={now} onSelect={id => select(id, { from: 'status' })} />
-        <StatTiles store={store} now={now} analystMode={analystMode} />
-
         {newIds.size > 0 && (
           <div className="newbar" role="status">
             <span className="pill tag-new">NEW</span>
@@ -153,50 +157,72 @@ export default function OsirisFile({ initial, coverage }: { initial: Store; cove
           </div>
         )}
 
-        <section className="section card map-card" ref={mapRef} aria-label="Map">
-          <div className="card-pad" style={{ paddingBottom: 14 }}>
-            <div className="card-head" style={{ marginBottom: 10 }}>
-              <div>
-                <div className="eyebrow">Drill-in layer</div>
-                <h2 className="card-title">Movements and regional context</h2>
+        <DashboardGrid>
+          <Widget id="hero" title="Dossier summary" defaultPos={DEFAULT_LAYOUT.hero}>
+            <DossierHero store={store} now={now} onSelect={id => select(id, { from: 'status' })} />
+          </Widget>
+
+          <Widget id="stats" title="Headline statistics" defaultPos={DEFAULT_LAYOUT.stats}>
+            <StatTiles store={store} now={now} analystMode={analystMode} onDrill={drillTo} />
+          </Widget>
+
+          <Widget id="map" title="Movements and regional context" defaultPos={DEFAULT_LAYOUT.map}>
+            <section className="section card map-card" ref={mapRef} aria-label="Map">
+              <div className="card-pad" style={{ paddingBottom: 14 }}>
+                <div className="card-head" style={{ marginBottom: 10 }}>
+                  <div>
+                    <div className="eyebrow">Drill-in layer</div>
+                    <h2 className="card-title">Movements and regional context</h2>
+                  </div>
+                  <span className="faint" style={{ fontSize: 12.5 }}>Click any marker to open it on the timeline.</span>
+                </div>
+                <LayerToggles layers={layers} onToggle={toggleLayer} />
               </div>
-              <span className="faint" style={{ fontSize: 12.5 }}>Click any marker to open it on the timeline.</span>
-            </div>
-            <LayerToggles layers={layers} onToggle={toggleLayer} />
-          </div>
-          <div className="map-shell">
-            <MapView
-              events={mapEvents}
-              layers={layers}
-              selected={selected}
-              maritime={store.maritime.features}
-              onSelect={(id, ids) => select(id, { from: 'map', placeIds: ids })}
+              <div className="map-shell">
+                <MapView
+                  events={mapEvents}
+                  layers={layers}
+                  selected={selected}
+                  maritime={store.maritime.features}
+                  onSelect={(id, ids) => select(id, { from: 'map', placeIds: ids })}
+                />
+              </div>
+            </section>
+          </Widget>
+
+          <Widget id="timeline" title="Timeline" defaultPos={DEFAULT_LAYOUT.timeline}>
+            <Timeline
+              events={filtered}
+              allEvents={events}
+              range={range}
+              onRange={setRange}
+              cats={cats}
+              onCats={setCats}
+              rangeStart={rangeStart}
+              now={now}
+              selectedId={selectedId}
+              newIds={newIds}
+              onSelect={id => select(id, { from: 'timeline' })}
             />
-          </div>
-        </section>
+          </Widget>
 
-        <Timeline
-          events={filtered}
-          allEvents={events}
-          range={range}
-          onRange={setRange}
-          cats={cats}
-          onCats={setCats}
-          rangeStart={rangeStart}
-          now={now}
-          selectedId={selectedId}
-          newIds={newIds}
-          onSelect={id => select(id, { from: 'timeline' })}
-        />
+          <Widget id="partnersTheaters" title="Partners & theaters" defaultPos={DEFAULT_LAYOUT.partnersTheaters}>
+            <div className="section grid-2">
+              <PartnersPanel partners={store.partners} analystMode={analystMode} />
+              <TheatersPanel events={events} now={now} onSelect={id => select(id, { from: 'list' })} />
+            </div>
+          </Widget>
 
-        <div className="section grid-2">
-          <PartnersPanel partners={store.partners} analystMode={analystMode} />
-          <TheatersPanel events={events} now={now} onSelect={id => select(id, { from: 'list' })} />
-        </div>
+          <Widget id="events" title="Latest activity" defaultPos={DEFAULT_LAYOUT.events}>
+            <EventList events={filtered} selectedId={selectedId} newIds={newIds} onSelect={id => select(id, { from: 'list' })} analystMode={analystMode} />
+          </Widget>
 
-        <EventList events={filtered} selectedId={selectedId} newIds={newIds} onSelect={id => select(id, { from: 'list' })} analystMode={analystMode} />
-
-        {analystMode && <AnalystPanels store={store} />}
+          {analystMode && (
+            <Widget id="analyst" title="Analyst panels" defaultPos={DEFAULT_LAYOUT.analyst}>
+              <AnalystPanels store={store} />
+            </Widget>
+          )}
+        </DashboardGrid>
       </main>
       <Footer store={store} />
 

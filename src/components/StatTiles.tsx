@@ -8,7 +8,7 @@ import { THEATER_LABEL, fmtShort, daysBetween } from '@/lib/osiris/ui';
 const DAY = 86_400_000;
 const WATCH = ['US', 'SA', 'AE', 'QA', 'TR', 'CN', 'PS', 'JO', 'EU', 'FR', 'IN', 'RU'];
 
-export default function StatTiles({ store, now, analystMode }: { store: Store; now: number; analystMode: boolean }) {
+export default function StatTiles({ store, now, analystMode, onDrill }: { store: Store; now: number; analystMode: boolean; onDrill?: (anchorId: string) => void }) {
   const eg = store.risk.find(r => r.code === 'EG');
   const stats = useMemo(() => {
     const d14 = now - 14 * DAY;
@@ -38,12 +38,24 @@ export default function StatTiles({ store, now, analystMode }: { store: Store; n
 
   return (
     <section className={`tiles${analystMode ? " six" : ""}`} aria-label="Headline statistics">
-      <div className="tile" style={{ ['--tile-wash' as string]: 'var(--wash-diplomatic)' }}>
+      <button
+        type="button"
+        className="tile tile-clickable"
+        style={{ ['--tile-wash' as string]: 'var(--wash-diplomatic)' }}
+        title="Click for the theater-by-theater breakdown in Partners &amp; Theaters below."
+        onClick={() => onDrill?.('widget-partnersTheaters')}
+      >
         <div className="tile-k">Active diplomatic threads</div>
         <div className="tile-v">{stats.threads.length}</div>
         <div className="tile-sub">{stats.threads.length ? stats.threads.map(t => THEATER_LABEL[t]).join(' · ') : 'No theater engagement in 14 days'}</div>
-      </div>
-      <div className="tile" style={{ ['--tile-wash' as string]: 'var(--wash-conflict)' }}>
+      </button>
+      <button
+        type="button"
+        className="tile tile-clickable"
+        style={{ ['--tile-wash' as string]: 'var(--wash-conflict)' }}
+        title="Click to open the full component-by-component risk breakdown and comparison context (Analyst Mode)."
+        onClick={() => onDrill?.('risk-panel')}
+      >
         <div className="tile-k">Egypt risk score</div>
         <div className="tile-v">
           {eg?.score ?? '–'}
@@ -55,17 +67,29 @@ export default function StatTiles({ store, now, analystMode }: { store: Store; n
             {eg.context.percentile}th pct of {eg.context.n}-country set · median {eg.context.median}, IQR {eg.context.q1}–{eg.context.q3}
           </div>
         )}
-      </div>
-      <div className="tile" style={{ ['--tile-wash' as string]: 'var(--wash-diplomatic)' }}>
+      </button>
+      <button
+        type="button"
+        className="tile tile-clickable"
+        style={{ ['--tile-wash' as string]: 'var(--wash-diplomatic)' }}
+        title={stats.lastTrip ? `Click to open ${stats.lastTrip.location.name} on the timeline.` : 'Click to open the timeline.'}
+        onClick={() => onDrill?.('widget-timeline')}
+      >
         <div className="tile-k">Foreign trips · 90 days</div>
         <div className="tile-v">{stats.trips}</div>
         <div className="tile-sub">{stats.lastTrip ? `Latest: ${stats.lastTrip.location.name}, ${fmtShort(stats.lastTrip.date)}` : 'No tracked trips'}</div>
-      </div>
-      <div className="tile" style={{ ['--tile-wash' as string]: 'linear-gradient(135deg, rgba(143,123,255,0.2), rgba(0,170,255,0.06) 60%, transparent)' }}>
+      </button>
+      <button
+        type="button"
+        className="tile tile-clickable"
+        style={{ ['--tile-wash' as string]: 'linear-gradient(135deg, rgba(143,123,255,0.2), rgba(0,170,255,0.06) 60%, transparent)' }}
+        title="Click to open the full partner visit ranking below."
+        onClick={() => onDrill?.('widget-partnersTheaters')}
+      >
         <div className="tile-k">Visits to Egypt · 90 days</div>
         <div className="tile-v">{stats.visitsIn}</div>
         <div className="tile-sub">From {stats.inCountries} {stats.inCountries === 1 ? 'country' : 'countries'}</div>
-      </div>
+      </button>
       <div className="tile" style={{ ['--tile-wash' as string]: 'var(--wash-ceremonial)' }}>
         <div className="tile-k">
           Days since last Cairo visit from{' '}
@@ -79,14 +103,20 @@ export default function StatTiles({ store, now, analystMode }: { store: Store; n
         <div className="tile-sub">{pr?.lastInboundVisit ? `Last visit ${fmtShort(pr.lastInboundVisit)}` : 'No tracked visit in 90 days'}</div>
       </div>
       {analystMode && (
-        <div className="tile" style={{ ['--tile-wash' as string]: 'var(--wash-economic)', gridColumn: 'span 1' }}>
+        <button
+          type="button"
+          className="tile tile-clickable"
+          style={{ ['--tile-wash' as string]: 'var(--wash-economic)', gridColumn: 'span 1' }}
+          title="Click to open the sourcing integrity panel below."
+          onClick={() => onDrill?.('sourcing-panel')}
+        >
           <div className="tile-k">Corroboration rate</div>
           <div className="tile-v">
             {Math.round((corroborated / sisiTotal) * 100)}
             <small>%</small>
           </div>
           <div className="tile-sub">Sisi items with independent coverage</div>
-        </div>
+        </button>
       )}
     </section>
   );
