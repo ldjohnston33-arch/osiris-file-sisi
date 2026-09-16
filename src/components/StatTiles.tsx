@@ -50,6 +50,11 @@ export default function StatTiles({ store, now, analystMode }: { store: Store; n
           <small>/100</small>
         </div>
         <div className="tile-sub">{eg ? `${eg.level.charAt(0) + eg.level.slice(1).toLowerCase()} · L4 composite` : 'Unavailable'}</div>
+        {eg?.context && (
+          <div className="tile-sub" style={{ marginTop: 2 }}>
+            {eg.context.percentile}th pct of {eg.context.n}-country set · median {eg.context.median}, IQR {eg.context.q1}–{eg.context.q3}
+          </div>
+        )}
       </div>
       <div className="tile" style={{ ['--tile-wash' as string]: 'var(--wash-diplomatic)' }}>
         <div className="tile-k">Foreign trips · 90 days</div>

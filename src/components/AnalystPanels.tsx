@@ -83,7 +83,13 @@ function RiskPanel({ store }: { store: Store }) {
           </table>
         </div>
       )}
-      <p className="faint" style={{ fontSize: 11.5, margin: '10px 0 0' }}>Experimental L4 composite. Structural baselines are editorial and documented in src/lib/osiris/risk.ts; live components come from GDELT.</p>
+      {eg?.context && (
+        <p className="faint" style={{ fontSize: 12, margin: '10px 0 0', lineHeight: 1.5 }}>
+          Against a static 20-country comparison set (mean {eg.context.mean}, median {eg.context.median}, IQR {eg.context.q1}–{eg.context.q3}, range {eg.context.min}–{eg.context.max}), Egypt&rsquo;s composite of {eg.score} sits at the {eg.context.percentile}th percentile
+          {eg.score <= eg.context.q1 ? ' — below the lower quartile, calmer than most of the set.' : eg.score >= eg.context.q3 ? ' — above the upper quartile.' : ' — inside the interquartile range.'}
+        </p>
+      )}
+      <p className="faint" style={{ fontSize: 11.5, margin: '6px 0 0' }}>Experimental L4 composite. Structural baselines are editorial and documented in src/lib/osiris/risk.ts; live components come from GDELT.</p>
     </section>
   );
 }

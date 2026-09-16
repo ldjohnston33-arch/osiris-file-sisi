@@ -31,6 +31,7 @@ import { polishReads, rulesRead } from './analyst';
 import { makeBriefing } from './briefing';
 import { MARITIME_STATIC } from './geometry';
 import { aisSnapshot } from './ais';
+import { getHeroImage } from './portrait';
 import snapshot from '@/data/snapshot.json';
 
 export const STORE_TAG = 'osiris-store';
@@ -163,7 +164,7 @@ export async function buildStore(): Promise<Store> {
     if (read) e.analystRead = read;
   }
   const t1 = Date.now();
-  const [polish, brief, ais] = await Promise.all([polishReads(events), makeBriefing(events, partners, risk, nowMs), aisSnapshot()]);
+  const [polish, brief, ais, heroImage] = await Promise.all([polishReads(events), makeBriefing(events, partners, risk, nowMs), aisSnapshot(), getHeroImage()]);
   health.push({
     id: 'gemini', name: 'Gemini (briefing + Analyst Read)', ok: brief.briefing.method === 'gemini', items: polish.polished + (brief.briefing.method === 'gemini' ? 1 : 0), ms: Date.now() - t1,
     error: [brief.error, polish.error].filter(Boolean).join('; ') || undefined,
@@ -183,6 +184,7 @@ export async function buildStore(): Promise<Store> {
     maritime: { features: [...MARITIME_STATIC, ...ais.features], vesselCount: ais.vessels, vesselSource: ais.vessels ? 'aisstream.io snapshot' : 'none' },
     health,
     status,
+    heroImage,
   };
 
   if (redisEnv() && mode === 'live') await saveHistory(events);

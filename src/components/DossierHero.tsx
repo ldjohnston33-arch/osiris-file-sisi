@@ -10,6 +10,13 @@ export default function DossierHero({ store, now, onSelect }: { store: Store; no
     <section className="hero" aria-label="Dossier summary">
       <div>
         <div className="eyebrow">Osiris File 001 · Arab Republic of Egypt</div>
+        {store.heroImage && (
+          <figure className="hero-portrait">
+            {/* eslint-disable-next-line @next/next/no-img-element */}
+            <img src={store.heroImage.url} alt={store.heroImage.alt} loading="eager" />
+            <figcaption>{store.heroImage.caption}</figcaption>
+          </figure>
+        )}
         <h1 className="hero-name">Abdel Fattah el-Sisi</h1>
         <p className="hero-role">President of Egypt since 2014. Public activity, diplomatic movements and the regional files around Cairo, tracked from open sources.</p>
         <div className="status">

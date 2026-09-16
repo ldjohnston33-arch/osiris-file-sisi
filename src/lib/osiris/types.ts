@@ -91,6 +91,22 @@ export interface AnalystRead {
   generatedAt: string;
 }
 
+/** Distributional context for a score against the static comparison set. */
+export interface RiskContext {
+  /** Number of countries in the comparison set. */
+  n: number;
+  mean: number;
+  median: number;
+  /** 25th percentile. */
+  q1: number;
+  /** 75th percentile. */
+  q3: number;
+  min: number;
+  max: number;
+  /** Where this score ranks among the comparison set, 0-100. */
+  percentile: number;
+}
+
 export interface RiskBreakdown {
   code: string;
   name: string;
@@ -98,6 +114,8 @@ export interface RiskBreakdown {
   level: 'LOW' | 'ELEVATED' | 'HIGH' | 'CRITICAL';
   components: { key: string; label: string; value: number; weight: number; note: string }[];
   tags: string[];
+  /** Only set for entries this app also positions against the comparison set (Egypt). */
+  context?: RiskContext;
 }
 
 export interface PartnerRank {
@@ -155,6 +173,7 @@ export interface Store {
     lastStatement?: { id: string; title: string; date: string };
     nextEngagement?: { id: string; title: string; date: string };
   };
+  heroImage: { url: string; alt: string; caption: string; sourceUrl: string };
 }
 
 /** Raw item as a source adapter emits it, before classification. */

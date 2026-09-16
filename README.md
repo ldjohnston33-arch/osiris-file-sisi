@@ -144,7 +144,15 @@ Kept and adapted: the Next.js + MapLibre foundation (including its MapLibre work
 
 ## Egyptian state sources: access findings
 
-SOURCE_FINDINGS_PLACEHOLDER
+Confirmed against a real CI build (GitHub Actions, commit `29b82ce`), which has open internet access unlike this repo's own sandbox:
+
+- **Presidency Arabic events feed** (`presidency.eg`, `sourcelang:arabic` events RSS) — reachable directly, 200.
+- **Al Jazeera English, BBC Middle East, Al-Monitor, Middle East Eye, The National (UAE), Arab News** RSS — all reachable directly, 200.
+- **Presidency English feeds/pages, MENA (state news agency), Al-Ahram English** — blocked directly (Cloudflare 403 to datacenter IPs, i.e. any CI runner or this sandbox). Routed around via GDELT DOC's `domain:` search operator instead of a direct fetch.
+- **sis.gov.eg** (State Information Service) — still fails even after chasing the AIA certificate chain (`UNABLE_TO_VERIFY_LEAF_SIGNATURE`); the server's chain is broken in a way plain chasing doesn't fix. Left on the GDELT `domain:` fallback path rather than direct fetch.
+- **GDELT DOC API** — intermittently times out or 429s from shared/CI IPs; the client serializes requests with backoff, but expect some ingests to run with a thinner GDELT contribution than others. This mainly affects the live conflict/tone components of the risk score and the GDELT-routed fallback sources above, not the direct RSS feeds.
+
+Net effect: the dossier always has a solid base of English-language regional coverage (Al Jazeera, BBC, Al-Monitor, MEE, The National, Arab News) plus the Presidency's own Arabic events feed. Coverage of the Cloudflare-blocked Egyptian state sites depends on GDELT being reachable at ingest time, which is not guaranteed on every run.
 
 ## Assumptions made
 
