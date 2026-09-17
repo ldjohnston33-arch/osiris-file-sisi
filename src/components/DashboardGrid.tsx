@@ -108,7 +108,7 @@ interface GridContextValue {
   layout: LayoutMap;
   registerDefault: (id: string, pos: WidgetPos) => void;
   updateWidget: (id: string, pos: WidgetPos) => void;
-  containerRef: RefObject<HTMLDivElement>;
+  containerRef: RefObject<HTMLDivElement | null>;
 }
 
 const GridContext = createContext<GridContextValue | null>(null);
