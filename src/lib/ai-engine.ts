@@ -33,9 +33,14 @@ export function rotateApiKey(keys: string[]): string {
 
 export const aiEnabled = () => getEnvApiKeys().length > 0;
 
+// 'gemini-flash-latest' and 'gemini-2.5-flash' (the previous chain) both now 404 with
+// "no longer available to new users" on a freshly created API key, as of Sept 2026 Google has
+// moved new free-tier keys onto the Gemini 3 line. Chain three current stable models so a
+// single retirement doesn't take the whole AI layer down silently again; GEMINI_MODEL still
+// overrides everything when set.
 function modelChain(): string[] {
   const env = process.env.GEMINI_MODEL?.trim();
-  return [...new Set([env, 'gemini-flash-latest', 'gemini-2.5-flash'].filter((m): m is string => !!m))];
+  return [...new Set([env, 'gemini-3.8-flash', 'gemini-3.5-flash', 'gemini-3.5-flash-lite'].filter((m): m is string => !!m))];
 }
 
 interface GeminiResponse {
