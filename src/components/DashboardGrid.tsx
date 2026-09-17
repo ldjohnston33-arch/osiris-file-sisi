@@ -44,7 +44,7 @@ import './dashboard-grid.css';
 export const GRID_COLS = 12;
 export const ROW_H = 24;
 export const GRID_GAP = 20;
-export const MIN_W = 3;
+export const MIN_W = 2;
 export const MIN_H = 4;
 
 export interface WidgetPos {
@@ -58,15 +58,35 @@ export type LayoutMap = Record<string, WidgetPos>;
 
 const LS_LAYOUT = 'osiris-file:sisi:layout:v1';
 
-/** Default layout — matches the page's current vertical order/sizing. */
+/**
+ * Default layout — every one of the dossier's sections gets its own entry
+ * so each is independently draggable/resizable (nothing is grouped into a
+ * shared block anymore). Roughly matches the page's original reading order;
+ * the viewer's own saved arrangement (LS_LAYOUT) always wins once they've
+ * moved anything.
+ */
 export const DEFAULT_LAYOUT: LayoutMap = {
-  hero: { x: 1, y: 1, w: 12, h: 12 },
-  stats: { x: 1, y: 13, w: 12, h: 5 },
-  map: { x: 1, y: 18, w: 12, h: 20 },
-  timeline: { x: 1, y: 38, w: 12, h: 10 },
-  partnersTheaters: { x: 1, y: 48, w: 12, h: 10 },
-  events: { x: 1, y: 58, w: 12, h: 14 },
-  analyst: { x: 1, y: 72, w: 12, h: 10 },
+  photo: { x: 1, y: 1, w: 6, h: 18 },
+  identity: { x: 1, y: 19, w: 6, h: 10 },
+  briefing: { x: 7, y: 1, w: 6, h: 9 },
+
+  tileThreads: { x: 1, y: 30, w: 2, h: 5 },
+  tileRisk: { x: 3, y: 30, w: 2, h: 5 },
+  tileTrips: { x: 5, y: 30, w: 2, h: 5 },
+  tileVisits: { x: 7, y: 30, w: 2, h: 5 },
+  tileLastVisit: { x: 9, y: 30, w: 2, h: 5 },
+  tileCorroboration: { x: 11, y: 30, w: 2, h: 5 },
+
+  map: { x: 1, y: 36, w: 12, h: 20 },
+  timeline: { x: 1, y: 57, w: 12, h: 10 },
+  partners: { x: 1, y: 68, w: 6, h: 10 },
+  theaters: { x: 7, y: 68, w: 6, h: 10 },
+  events: { x: 1, y: 79, w: 12, h: 14 },
+
+  riskPanel: { x: 1, y: 94, w: 6, h: 10 },
+  sourcingPanel: { x: 7, y: 94, w: 6, h: 10 },
+  relationshipTable: { x: 1, y: 105, w: 12, h: 10 },
+  healthTable: { x: 1, y: 116, w: 12, h: 10 },
 };
 
 function clamp(n: number, min: number, max: number): number {

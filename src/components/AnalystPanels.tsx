@@ -10,20 +10,13 @@ Chart.register(BarController, BarElement, CategoryScale, LinearScale, Tooltip, L
 const COMPONENT_COLORS: Record<string, string> = { structural: '#3a4a6a', conflict: '#ff4d5e', tone: '#f5b942', spillover: '#8f7bff' };
 const STATE_AFFILIATED = ['ahram.org.eg', 'akhbarelyom.com', 'egypttoday.com', 'alqaheranews.net', 'extranews.tv', 'sada-elbalad.com'];
 
-export default function AnalystPanels({ store }: { store: Store }) {
-  return (
-    <>
-      <div className="section grid-2">
-        <RiskPanel store={store} />
-        <SourcingPanel store={store} />
-      </div>
-      <RelationshipTable store={store} />
-      <HealthTable store={store} />
-    </>
-  );
-}
+/**
+ * Each panel below is independently exported (instead of being rendered
+ * only through one combined <AnalystPanels> block) so the dashboard can
+ * position and resize every one of them on its own.
+ */
 
-function RiskPanel({ store }: { store: Store }) {
+export function RiskPanel({ store }: { store: Store }) {
   const canvas = useRef<HTMLCanvasElement>(null);
   useEffect(() => {
     if (!canvas.current) return;
@@ -94,7 +87,7 @@ function RiskPanel({ store }: { store: Store }) {
   );
 }
 
-function SourcingPanel({ store }: { store: Store }) {
+export function SourcingPanel({ store }: { store: Store }) {
   const s = useMemo(() => {
     const ev = store.events;
     const sisi = ev.filter(e => e.involvesSisi);
@@ -142,7 +135,7 @@ function SourcingPanel({ store }: { store: Store }) {
   );
 }
 
-function RelationshipTable({ store }: { store: Store }) {
+export function RelationshipTable({ store }: { store: Store }) {
   return (
     <section className="section card card-pad" aria-label="Relationship table">
       <div className="card-head">
@@ -172,7 +165,7 @@ function RelationshipTable({ store }: { store: Store }) {
   );
 }
 
-function HealthTable({ store }: { store: Store }) {
+export function HealthTable({ store }: { store: Store }) {
   return (
     <section className="section card card-pad" aria-label="Source health">
       <div className="card-head">

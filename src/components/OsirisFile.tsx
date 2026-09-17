@@ -7,14 +7,22 @@ import type { CoverageEntry } from '@/config/related-coverage';
 import { CATEGORY_ORDER, layerFor, type LayerId } from '@/lib/osiris/ui';
 import { useInitialLocalValue, useLocalValue, useNow, writeLocal } from './hooks';
 import Header from './Header';
-import DossierHero from './DossierHero';
-import StatTiles from './StatTiles';
+import { HeroPhoto, HeroIdentity, HeroBriefing } from './DossierHero';
+import {
+  useHeadlineStats,
+  DiplomaticThreadsTile,
+  RiskScoreTile,
+  ForeignTripsTile,
+  VisitsToEgyptTile,
+  LastCairoVisitTile,
+  CorroborationTile,
+} from './StatTiles';
 import Timeline, { type RangeKey, RANGE_DAYS } from './Timeline';
 import DetailDrawer from './DetailDrawer';
 import PartnersPanel from './PartnersPanel';
 import TheatersPanel from './TheatersPanel';
 import EventList from './EventList';
-import AnalystPanels from './AnalystPanels';
+import { RiskPanel, SourcingPanel, RelationshipTable, HealthTable } from './AnalystPanels';
 import LayerToggles from './LayerToggles';
 import Footer from './Footer';
 import { DashboardGrid, DEFAULT_LAYOUT, Widget } from './DashboardGrid';
@@ -41,6 +49,7 @@ export default function OsirisFile({ initial, coverage }: { initial: Store; cove
   const [onlyNew, setOnlyNew] = useState(false);
   const [placeIds, setPlaceIds] = useState<string[]>([]);
   const mapRef = useRef<HTMLDivElement>(null);
+  const headline = useHeadlineStats(store, now);
 
   // ── persisted per-viewer preferences ──────────────────────────────
   useEffect(() => {
@@ -158,13 +167,49 @@ export default function OsirisFile({ initial, coverage }: { initial: Store; cove
         )}
 
         <DashboardGrid>
-          <Widget id="hero" title="Dossier summary" defaultPos={DEFAULT_LAYOUT.hero}>
-            <DossierHero store={store} now={now} onSelect={id => select(id, { from: 'status' })} />
+          <Widget id="photo" title="Photo" defaultPos={DEFAULT_LAYOUT.photo}>
+            <HeroPhoto store={store} />
           </Widget>
 
-          <Widget id="stats" title="Headline statistics" defaultPos={DEFAULT_LAYOUT.stats}>
-            <StatTiles store={store} now={now} analystMode={analystMode} onDrill={drillTo} />
+          <Widget id="identity" title="Name & status" defaultPos={DEFAULT_LAYOUT.identity}>
+            <HeroIdentity store={store} now={now} onSelect={id => select(id, { from: 'status' })} />
           </Widget>
+
+          <Widget id="briefing" title="The L4 Briefing" defaultPos={DEFAULT_LAYOUT.briefing}>
+            <HeroBriefing store={store} />
+          </Widget>
+
+          <Widget id="tileThreads" title="Active diplomatic threads" defaultPos={DEFAULT_LAYOUT.tileThreads}>
+            <DiplomaticThreadsTile stats={headline.stats} onDrill={drillTo} />
+          </Widget>
+
+          <Widget id="tileRisk" title="Egypt risk score" defaultPos={DEFAULT_LAYOUT.tileRisk}>
+            <RiskScoreTile eg={headline.eg} onDrill={drillTo} />
+          </Widget>
+
+          <Widget id="tileTrips" title="Foreign trips · 90 days" defaultPos={DEFAULT_LAYOUT.tileTrips}>
+            <ForeignTripsTile stats={headline.stats} onDrill={drillTo} />
+          </Widget>
+
+          <Widget id="tileVisits" title="Visits to Egypt · 90 days" defaultPos={DEFAULT_LAYOUT.tileVisits}>
+            <VisitsToEgyptTile stats={headline.stats} onDrill={drillTo} />
+          </Widget>
+
+          <Widget id="tileLastVisit" title="Days since last Cairo visit" defaultPos={DEFAULT_LAYOUT.tileLastVisit}>
+            <LastCairoVisitTile
+              partnerOptions={headline.partnerOptions}
+              partner={headline.partner}
+              setPartner={headline.setPartner}
+              pr={headline.pr}
+              daysSince={headline.daysSince}
+            />
+          </Widget>
+
+          {analystMode && (
+            <Widget id="tileCorroboration" title="Corroboration rate" defaultPos={DEFAULT_LAYOUT.tileCorroboration}>
+              <CorroborationTile corroborated={headline.corroborated} sisiTotal={headline.sisiTotal} onDrill={drillTo} />
+            </Widget>
+          )}
 
           <Widget id="map" title="Movements and regional context" defaultPos={DEFAULT_LAYOUT.map}>
             <section className="section card map-card" ref={mapRef} aria-label="Map">
@@ -206,11 +251,12 @@ export default function OsirisFile({ initial, coverage }: { initial: Store; cove
             />
           </Widget>
 
-          <Widget id="partnersTheaters" title="Partners & theaters" defaultPos={DEFAULT_LAYOUT.partnersTheaters}>
-            <div className="section grid-2">
-              <PartnersPanel partners={store.partners} analystMode={analystMode} />
-              <TheatersPanel events={events} now={now} onSelect={id => select(id, { from: 'list' })} />
-            </div>
+          <Widget id="partners" title="Partners" defaultPos={DEFAULT_LAYOUT.partners}>
+            <PartnersPanel partners={store.partners} analystMode={analystMode} />
+          </Widget>
+
+          <Widget id="theaters" title="Theaters" defaultPos={DEFAULT_LAYOUT.theaters}>
+            <TheatersPanel events={events} now={now} onSelect={id => select(id, { from: 'list' })} />
           </Widget>
 
           <Widget id="events" title="Latest activity" defaultPos={DEFAULT_LAYOUT.events}>
@@ -218,9 +264,20 @@ export default function OsirisFile({ initial, coverage }: { initial: Store; cove
           </Widget>
 
           {analystMode && (
-            <Widget id="analyst" title="Analyst panels" defaultPos={DEFAULT_LAYOUT.analyst}>
-              <AnalystPanels store={store} />
-            </Widget>
+            <>
+              <Widget id="riskPanel" title="Risk score breakdown" defaultPos={DEFAULT_LAYOUT.riskPanel}>
+                <RiskPanel store={store} />
+              </Widget>
+              <Widget id="sourcingPanel" title="Sourcing integrity" defaultPos={DEFAULT_LAYOUT.sourcingPanel}>
+                <SourcingPanel store={store} />
+              </Widget>
+              <Widget id="relationshipTable" title="All partners, last 90 days" defaultPos={DEFAULT_LAYOUT.relationshipTable}>
+                <RelationshipTable store={store} />
+              </Widget>
+              <Widget id="healthTable" title="Source health" defaultPos={DEFAULT_LAYOUT.healthTable}>
+                <HealthTable store={store} />
+              </Widget>
+            </>
           )}
         </DashboardGrid>
       </main>

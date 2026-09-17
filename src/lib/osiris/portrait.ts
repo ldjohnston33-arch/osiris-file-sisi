@@ -22,8 +22,10 @@ export interface HeroImage {
   sourceUrl: string;
 }
 
+// Verified live (currently the infobox photo on Wikipedia's Sisi article,
+// so it's in active use and very unlikely to be deleted from Commons).
 const FALLBACK: HeroImage = {
-  url: 'https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Abdel_Fattah_al-Sisi_2019.jpg/800px-Abdel_Fattah_al-Sisi_2019.jpg',
+  url: 'https://upload.wikimedia.org/wikipedia/commons/8/85/AbdelFattah_Elsisi_%28cropped%29.jpg',
   alt: 'Abdel Fattah el-Sisi, President of Egypt',
   caption: 'Abdel Fattah el-Sisi. Source: Wikimedia Commons.',
   sourceUrl: 'https://commons.wikimedia.org/wiki/Category:Abdel_Fattah_el-Sisi',
@@ -32,7 +34,7 @@ const FALLBACK: HeroImage = {
 const COMMONS_API = 'https://commons.wikimedia.org/w/api.php';
 
 /** Filenames that are almost certainly not an event photo. */
-const NOT_A_PHOTO = /flag|logo|emblem|coat[_ ]of[_ ]arms|seal[_ .]|map[_ .]|signature|stamp|banknote|coin[_ .]|sticker|icon[_ .]|infobox|graph|chart[_ .]|cartoon|caricature|\.svg$/i;
+const NOT_A_PHOTO = /flag|logo|emblem|coat[_ ]of[_ ]arms|seal[_ .]|map[_ .]|signature|stamp|banknote|coin[_ .]|sticker|icon[_ .]|infobox|graph|chart[_ .]|cartoon|caricature|\.svg$|\.pdf$|\.webm$|\.ogv$|\.gif$/i;
 
 interface SearchHit { title: string; }
 interface SearchResp { query?: { search?: SearchHit[] } }
@@ -63,7 +65,16 @@ function isUsableLicense(license?: string): boolean {
 async function fetchHeroImage(): Promise<HeroImage> {
   try {
     // Newest-first full-text search over Commons file pages mentioning him.
-    const searchUrl = `${COMMONS_API}?action=query&list=search&srsearch=${encodeURIComponent('Abdel Fattah el-Sisi')}&srnamespace=6&srsort=create_timestamp_descending&srlimit=40&format=json&origin=*`;
+    // Two bugs fixed here that silently forced FALLBACK on every single run:
+    //  1. srsort must be "create_timestamp_desc" — "create_timestamp_descending"
+    //     is rejected outright by the API (400/badvalue), which surfaced as an
+    //     empty result set here rather than a thrown error.
+    //  2. The search phrase must be quoted, or MediaWiki treats it as an OR of
+    //     "Abdel" / "Fattah" / "el-Sisi" and newest-first sorting mostly turns
+    //     up unrelated new uploads that just happen to contain one of those
+    //     words (e.g. anything mentioning Empress "Sisi" of Austria).
+    const srsearch = `"Abdel Fattah el-Sisi"`;
+    const searchUrl = `${COMMONS_API}?action=query&list=search&srsearch=${encodeURIComponent(srsearch)}&srnamespace=6&srsort=create_timestamp_desc&srlimit=40&format=json&origin=*`;
     const search = await getJson<SearchResp>(searchUrl, { timeoutMs: 12000, browserUa: true });
     const titles = (search.query?.search ?? []).map(h => h.title).filter(t => !NOT_A_PHOTO.test(t));
     if (!titles.length) return FALLBACK;
@@ -96,4 +107,4 @@ async function fetchHeroImage(): Promise<HeroImage> {
 }
 
 /** Revalidated daily so the hero photo rotates with new Commons uploads. */
-export const getHeroImage = unstable_cache(fetchHeroImage, ['osiris-sisi-hero-image-v2'], { revalidate: 24 * 60 * 60 });
+export const getHeroImage = unstable_cache(fetchHeroImage, ['osiris-sisi-hero-image-v3'], { revalidate: 24 * 60 * 60 });
