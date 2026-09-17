@@ -43,32 +43,46 @@ interface GeminiResponse {
   promptFeedback?: { blockReason?: string };
 }
 
+// Wrong/retired model name → move on to the next model in the chain, no point retrying it.
+const MODEL_UNAVAILABLE = /\b404\b|not found|is not supported/i;
+// Transient overload/rate-limit → worth one immediate retry, then fall through to the next
+// model. Previously any non-404 error (including this) broke out of the loop entirely, so a
+// single "high demand" 503 from the first model in the chain killed the whole call even though
+// a second model (or the same model a moment later) would likely have succeeded.
+const TRANSIENT = /\b503\b|\b429\b|UNAVAILABLE|RESOURCE_EXHAUSTED|overloaded|high demand/i;
+const sleep = (ms: number) => new Promise(r => setTimeout(r, ms));
+
 /** One JSON-mode generation. Returns parsed JSON and the model that answered. */
 export async function generateJson<T>(system: string, prompt: string, maxOutputTokens = 2048): Promise<{ data: T; model: string }> {
   const keys = getEnvApiKeys();
   if (!keys.length) throw new Error('GEMINI_API_KEY not configured');
   let lastErr: unknown;
   for (const model of modelChain()) {
-    const key = rotateApiKey(keys);
-    try {
-      const res = await postJson<GeminiResponse>(
-        `https://generativelanguage.googleapis.com/v1beta/models/${model}:generateContent`,
-        {
-          systemInstruction: { parts: [{ text: system }] },
-          contents: [{ role: 'user', parts: [{ text: prompt }] }],
-          generationConfig: { temperature: 0.3, maxOutputTokens, responseMimeType: 'application/json' },
-        },
-        { 'x-goog-api-key': key },
-        60000,
-      );
-      if (res.promptFeedback?.blockReason) throw new Error(`blocked: ${res.promptFeedback.blockReason}`);
-      const text = res.candidates?.[0]?.content?.parts?.map(p => p.text ?? '').join('') ?? '';
-      const cleaned = text.replace(/^```(?:json)?\s*|\s*```$/g, '').trim();
-      return { data: JSON.parse(cleaned) as T, model };
-    } catch (e) {
-      lastErr = e;
-      // Unknown model name → try the next in the chain; anything else, stop.
-      if (!(e instanceof Error && /\b404\b|not found|is not supported/i.test(e.message))) break;
+    for (let attempt = 0; attempt < 2; attempt++) {
+      const key = rotateApiKey(keys);
+      try {
+        const res = await postJson<GeminiResponse>(
+          `https://generativelanguage.googleapis.com/v1beta/models/${model}:generateContent`,
+          {
+            systemInstruction: { parts: [{ text: system }] },
+            contents: [{ role: 'user', parts: [{ text: prompt }] }],
+            generationConfig: { temperature: 0.3, maxOutputTokens, responseMimeType: 'application/json' },
+          },
+          { 'x-goog-api-key': key },
+          60000,
+        );
+        if (res.promptFeedback?.blockReason) throw new Error(`blocked: ${res.promptFeedback.blockReason}`);
+        const text = res.candidates?.[0]?.content?.parts?.map(p => p.text ?? '').join('') ?? '';
+        const cleaned = text.replace(/^```(?:json)?\s*|\s*```$/g, '').trim();
+        return { data: JSON.parse(cleaned) as T, model };
+      } catch (e) {
+        lastErr = e;
+        if (!(e instanceof Error)) break;
+        if (MODEL_UNAVAILABLE.test(e.message)) break; // no retry, just move to the next model
+        if (TRANSIENT.test(e.message) && attempt === 0) { await sleep(800); continue; } // one quick retry
+        if (TRANSIENT.test(e.message)) break; // retry also failed; try the next model
+        throw e; // anything else (blocked content, bad request, etc.) isn't worth retrying at all
+      }
     }
   }
   throw lastErr instanceof Error ? lastErr : new Error(String(lastErr));
