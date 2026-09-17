@@ -109,6 +109,11 @@ export function mergeClusters(events: OsirisEvent[]): OsirisEvent[] {
       independentCount: independentOutlets.size,
       source: { name: lead.name, url: lead.url, tier: independentOutlets.size > 0 ? 'corroborated' : 'state' },
       firstSeen: group.reduce((m, e) => (e.firstSeen < m ? e.firstSeen : m), primary.firstSeen),
+      // A one-time Gemini polish must survive dedup even when the freshly
+      // refetched duplicate (not the historical, already-polished one) wins
+      // primaryRank — otherwise "one pass, ever" silently reverts every time
+      // this happening gets re-clustered against a same-day refetch.
+      analystRead: group.map(e => e.analystRead).find(r => r?.method === 'gemini') ?? primary.analystRead,
     });
   }
   return merged.sort((a, b) => Date.parse(b.date) - Date.parse(a.date));

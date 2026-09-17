@@ -11,7 +11,10 @@
  * into a rolling 180-day history so the store accumulates beyond what the
  * upstream feeds currently expose and "new since last visit" uses true
  * first-seen times. Without it, GDELT's 90-day window rebuilds history on
- * every ingest.
+ * every ingest. The same persistence is what makes a Gemini-polished
+ * Analyst Read (see analyst.ts) stay polished forever instead of reverting
+ * to the rules-based version the next time that event drops out of GDELT's
+ * live window and gets rebuilt from scratch.
  *
  * Fallback: if live sources return almost nothing (network outage), the
  * committed snapshot in src/data/snapshot.json keeps the page populated and
@@ -160,6 +163,9 @@ export async function buildStore(): Promise<Store> {
   const status = buildStatus(events, nowMs);
 
   for (const e of events) {
+    // One AI pass per event, ever: once Gemini has polished a read, it's
+    // frozen and never recomputed, even by the rules engine.
+    if (e.analystRead?.method === 'gemini') continue;
     const read = rulesRead(e, events, nowMs);
     if (read) e.analystRead = read;
   }

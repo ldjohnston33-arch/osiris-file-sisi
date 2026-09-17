@@ -6,9 +6,15 @@
  * sourced position records from src/config/positions.ts and, when the store
  * has one, a comparable earlier event he handled.
  *
- * Rules produce a read for every eligible event. When a Gemini key is set, the
- * top few reads per ingest are rewritten into tighter prose in one batched
- * call; the rewrite is validated and discarded if it reads like a quote.
+ * Rules produce a read for every eligible event. When a Gemini key is set,
+ * every event that hasn't already been polished gets exactly one Gemini pass
+ * in a single batched call per ingest; the rewrite is validated and discarded
+ * if it reads like a quote. Once an event's read carries method:'gemini' it
+ * is permanently skipped on every later ingest, even after its rules-based
+ * basis would otherwise change, it never gets a second AI pass. That
+ * "already polished" state only survives across ingests when Upstash/Vercel
+ * KV persistence is configured (see store.ts); without it, every ingest
+ * rebuilds the event pool from scratch with no memory of prior polishing.
  */
 
 import type { AnalystRead, OsirisEvent, PositionBasis } from './types';
@@ -73,11 +79,16 @@ Each note is a labeled analytical inference about how a live event likely fits h
 - No em dashes. Direct, pragmatic tone. No hedging beyond the likelihood framing.
 Return JSON: {"reads":[{"id":"<event id>","posture":"<text>"}]}`;
 
-/** Rewrites the top reads with Gemini in a single call. Mutates `events`. */
-export async function polishReads(events: OsirisEvent[], limit = 6): Promise<{ polished: number; model?: string; error?: string }> {
+/**
+ * Rewrites not-yet-polished reads with Gemini in a single batched call.
+ * Mutates `events`. `limit` is a safety ceiling on one ingest's batch size
+ * (token/latency budget), not a "top N only" cap — anything already at
+ * method:'gemini' is excluded up front so it never gets rewritten twice.
+ */
+export async function polishReads(events: OsirisEvent[], limit = 150): Promise<{ polished: number; model?: string; error?: string }> {
   if (!aiEnabled()) return { polished: 0 };
   const targets = events
-    .filter(e => e.analystRead)
+    .filter(e => e.analystRead && e.analystRead.method !== 'gemini')
     .sort((a, b) => Number(b.involvesSisi) - Number(a.involvesSisi) || Date.parse(b.date) - Date.parse(a.date))
     .slice(0, limit);
   if (!targets.length) return { polished: 0 };
