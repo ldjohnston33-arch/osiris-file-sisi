@@ -1,0 +1,1273 @@
+200 https://www.presidency.eg/en/%D9%82%D8%B3%D9%85-%D8%A7%D9%84%D8%A3%D8%AE%D8%A8%D8%A7%D8%B1/%D8%A3%D8%AE%D8%A8%D8%A7%D8%B1-%D8%B1%D8%A6%D8%A7%D8%B3%D9%8A%D8%A9/
+text/html; charset=utf-8
+
+
+
+<!DOCTYPE html>
+<html dir="ltr" moznomarginboxes mozdisallowselectionprint>
+<head>
+    <meta charset="utf-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <title>Presidential News</title>
+    <meta name="description" content="Presidential News" />
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <meta name="title" content="Presidential News">
+    
+    <link rel="canonical" href="https://www.presidency.eg/en/قسم-الأخبار/أخبار-رئاسية/">
+    <meta name="keywords" content="news, Sisi, al-sisi, el-sisi, abdelfattah, republic of Egypt, Arab republic of Egypt, Egypt, Youm7, presidency spokesman, Abdeen">
+
+    <meta property="og:title" content="Presidential News">
+    <meta property="og:description" content="Presidential News">
+    <meta property="og:image" content="https://www.presidency.eg/content/images/social.png" />
+    <meta property="og:url" content="https://www.presidency.eg/en/قسم-الأخبار/أخبار-رئاسية/">
+    <meta property="og:type" content="website" />
+	
+	<meta name="twitter:card" content="summary_large_image">
+    <meta name="twitter:title" content="Presidential News">
+    <meta name="twitter:description" content="Presidential News">
+    <meta name="twitter:image" content="https://www.presidency.eg/content/images/social.png">
+
+    <meta name="author" content="www.turndigital.net">
+    <meta name="format-detection" content="telephone=no">
+
+    <link href="https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" rel="stylesheet" integrity="sha384-wvfXpqpZZVQGK6TAh5PVlGOfQNHSoD2xbE+QkPxCAFlNEevoEH3Sl0sibVcOQVnN" crossorigin="anonymous">
+    <link rel="shortcut icon" href="/Content/images/logo.png" type="image/x-icon">
+    
+
+    
+
+    
+
+        <link rel="stylesheet" href="/Content/css/bootstrap.min.css" /> 
+
+    <link rel="stylesheet" href="/Content/css/font-awesome.min.css">
+    <link rel="stylesheet" href="/Content/libraries/animate/animate.css">
+    <link rel="stylesheet" href="/Content/libraries/owlcarousel/owl.carousel.min.css">
+    <link rel="stylesheet" href="/Content/css/ettoStyle.css" />
+    <link rel="stylesheet" href="/Content/libraries/rangedatepicker/daterangepicker.min.css" />
+    <link rel="stylesheet" href="/Content/libraries/pannellum/pannellum.css" />
+    <link rel="stylesheet" href="/Content/css/selectric.css" />
+    <link rel="stylesheet" href="/Content/css/style.css?v=1.14">
+
+        <link href="/Content/css/ltrStyle/css/ltrstyle.css?v=1.14" rel="stylesheet" />
+    <!-- Global site tag (gtag.js) - Google Analytics -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=UA-49598488-35"></script>
+    <script>
+        window.dataLayer = window.dataLayer || [];
+        function gtag() { dataLayer.push(arguments); }
+        gtag('js', new Date());
+
+        gtag('config', 'UA-49598488-35');
+
+            gtag('config', 'UA-171258708-1');
+    </script>
+
+    <meta name="google-site-verification" content="yrpjIW7qKB3eLbjvm2WcifL3w5mvpU_zJkKE3Mw_bJ0" />
+
+</head>
+<body>
+            <section class="fixed-social-icons">
+            <ul class="nav">
+                    <li>
+                        <a href="https://www.facebook.com/AlSisiofficial" target="_blank" data-toggle="tooltip" data-placement="right" title="The President’s Official Page" class="social-item facebook-icon">
+                            <i class="fa fa-facebook"></i>
+                        </a>
+                    </li>
+                                    <li>
+                        <a href="https://twitter.com/alsisiofficial" target="_blank" data-toggle="tooltip" data-placement="right" title="The President’s Official Account" class="social-item twitter-icon">
+                            <i class="fa fa-twitter"></i>
+                        </a>
+                    </li>
+                                    <li>
+                        <a href="https://www.instagram.com/alsisiofficial" target="_blank" data-toggle="tooltip" data-placement="right" title="The President’s Official Account" class="social-item instagram-icon">
+                            <i class="fa fa-instagram"></i>
+                        </a>
+                    </li>
+            </ul>
+        </section>
+
+    <!------------------------------------------------------------------------------->
+    <!-----------------------------Cookies and mourningMode-------------------------->
+    <!------------------------------------------------------------------------------->
+    <section class="fixed-content-items">
+        <div class="container-fluid">
+            <div class="news-section">
+                <div class="close-icon">
+                    <i class="fa fa-times-circle" aria-hidden="true"></i>
+                </div>
+                <div class="row">
+                    <div class="offset-lg-1 col-lg-10">
+
+                        <div class="news-section-container">
+                                                    </div>
+
+                    </div>
+
+                </div>
+            </div>
+        </div>
+        <div class="cookies-section">
+
+            <div class="container-fluid">
+                <div class="cookies-disclaimer">
+                    <div class="close-icon" id="cookie_notification">
+                        <i class="fa fa-times-circle" aria-hidden="true"></i>
+                    </div>
+                    <div class="row">
+                        <div class="offset-lg-1 col-lg-10">
+
+
+                            <div class="info">
+                                This site uses cookies. By continuing to browse the site, you are agreeing to our use of cookies.
+                            </div>
+
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+        </div>
+
+    </section>
+    <!------------------------------------------------------->
+    <!-------------------------Header------------------------>
+    <!------------------------------------------------------->
+    <div class="fixed-mobile-navigation">
+        <div class="mobile-scroll">
+            <div class="container-fluid">
+                <div class="row">
+                    <div class="col-md-12">
+                        <div class="header-search-mobile">
+                            <form>
+                                <div class="form-group">
+                                    <i class="fa fa-search" aria-hidden="true"></i>
+
+                                    <input type="text" class="form-control" maxlength="200" name="q" placeholder="Search using keywords">
+                                    <i class="fa fa-arrow-circle-left" aria-hidden="true"></i>
+
+                                </div>
+
+                            </form>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <div class="mobile-header-links">
+                        <div class="header-links collapsed-mobile">
+                            <h2>
+                                Egypt
+                            </h2>
+                            <ul>
+                                    <li>
+                                        <a href="/en/مصر/معلومات-أساسية/">
+                                            About Egypt
+                                        </a>
+                                    </li>
+                                    <li>
+                                        <a href="/en/مصر/السياحة-في-مصر/">
+                                            Tourism
+                                        </a>
+                                    </li>
+                                    <li>
+                                        <a href="/en/مصر/العطلات-الرسمية/">
+                                            National Holidays
+                                        </a>
+                                    </li>
+                                    <li>
+                                        <a href="/en/مصر/رؤية-مصر-2030/">
+                                            2030 Vision of Egypt
+                                        </a>
+                                    </li>
+                                    <li>
+                                        <a href="/en/مصر/الحكام/">
+                                            Former Rulers
+                                        </a>
+                                    </li>
+                                    <li>
+                                        <a href="/en/مصر/خريطة-المحافظات/">
+                                            Governorates
+                                        </a>
+                                    </li>
+                            </ul>
+                        </div>
+                        <div class="header-links collapsed-mobile">
+                            <h2>
+                                Presidency
+                            </h2>
+                            <ul>
+                                    <li>
+                                        <a href="/en/الرئاسة/الرئيس/">
+                                            The President
+                                        </a>
+                                    </li>
+                                    <li>
+                                        <a href="/en/الرئاسة/الرؤساء-السابقون/">
+                                            Former Presidents
+                                        </a>
+                                    </li>
+                                    <li>
+                                        <a href="/en/الرئاسة/ميداليات-وأوسمة/">
+                                            Medals and Decorations
+                                        </a>
+                                    </li>
+                                    <li>
+                                        <a href="/en/الرئاسة/قائمة-الشرف/">
+                                            National Honor Roll
+                                        </a>
+                                    </li>
+                                    <li>
+                                        <a href="/en/الرئاسة/تحيا-مصر/">
+                                            Tahya Misr Fund
+                                        </a>
+                                    </li>
+                                    <li>
+                                        <a href="/en/الرئاسة/متحف-مقتنيات-الرئيس/">
+                                            Presidential Museum
+                                        </a>
+                                    </li>
+                                    <li>
+                                        <a href="/en/الرئاسة/متحف-مجلس-قيادة-الثورة/">
+                                            Museum of the Revolutionary Command
+                                        </a>
+                                    </li>
+                                    <li>
+                                        <a href="/en/الرئاسة/المتحدث-الرسمي-لرئاسة-الجمهورية-1/">
+                                            Presidential Spokesman
+                                        </a>
+                                    </li>
+                            </ul>
+                        </div>
+                        <div class="header-links collapsed-mobile">
+                            <h2>
+                                News
+                            </h2>
+                            <ul>
+                                    <li>
+                                        <a href="/en/قسم-الأخبار/أخبار-رئاسية/">
+                                            Presidential News
+                                        </a>
+                                    </li>
+                                    <li>
+                                        <a href="/en/قسم-الأخبار/الفعاليات-والمؤتمرات/">
+                                            Events and Conferences
+                                        </a>
+                                    </li>
+                                    <li>
+                                        <a href="/en/قسم-الأخبار/البث-المباشر/">
+                                            Live Streaming
+                                        </a>
+                                    </li>
+                            </ul>
+                        </div>
+                        <div class="header-links collapsed-mobile">
+                            <a href="/en/القصور-الرئاسية/">Historic Palaces</a>
+                        </div>
+                        <div class="header-links collapsed-mobile">
+                            <h2 class="national-projects-header">
+
+                                <span class="national-projects-header" data-ref="/en/المشاريع-القومية/">
+                                    National Projects
+                                </span>
+                            </h2>
+                            <ul>
+                                    <li>
+
+                                        <a href="/en/المشاريع-القومية/?categoryId=78208">
+                                            Education
+                                        </a>
+
+                                    </li>
+                                    <li>
+
+                                        <a href="/en/المشاريع-القومية/?categoryId=138249">
+                                            Health
+                                        </a>
+
+                                    </li>
+                                    <li>
+
+                                        <a href="/en/المشاريع-القومية/?categoryId=138255">
+                                            Agriculture
+                                        </a>
+
+                                    </li>
+                                    <li>
+
+                                        <a href="/en/المشاريع-القومية/?categoryId=138254">
+                                            Industry
+                                        </a>
+
+                                    </li>
+                                    <li>
+
+                                        <a href="/en/المشاريع-القومية/?categoryId=138302">
+                                            Supply
+                                        </a>
+
+                                    </li>
+                                    <li>
+
+                                        <a href="/en/المشاريع-القومية/?categoryId=138583">
+                                            Culture
+                                        </a>
+
+                                    </li>
+                                    <li>
+
+                                        <a href="/en/المشاريع-القومية/?categoryId=146259">
+                                            Water Resources and Irrigation
+                                        </a>
+
+                                    </li>
+                                    <li>
+
+                                        <a href="/en/المشاريع-القومية/?categoryId=138670">
+                                            Places of Worship
+                                        </a>
+
+                                    </li>
+                                    <li>
+
+                                        <a href="/en/المشاريع-القومية/?categoryId=138253">
+                                            Youth and Sports
+                                        </a>
+
+                                    </li>
+                                    <li>
+
+                                        <a href="/en/المشاريع-القومية/?categoryId=138256">
+                                            Tourism and Antiquities
+                                        </a>
+
+                                    </li>
+                                    <li>
+
+                                        <a href="/en/المشاريع-القومية/?categoryId=187496">
+                                            Slums Development
+                                        </a>
+
+                                    </li>
+                                    <li>
+
+                                        <a href="/en/المشاريع-القومية/?categoryId=138250">
+                                            The Armed Forces
+                                        </a>
+
+                                    </li>
+                                    <li>
+
+                                        <a href="/en/المشاريع-القومية/?categoryId=78212">
+                                            Transportation
+                                        </a>
+
+                                    </li>
+                                    <li>
+
+                                        <a href="/en/المشاريع-القومية/?categoryId=138257">
+                                            Public Services
+                                        </a>
+
+                                    </li>
+                                    <li>
+
+                                        <a href="/en/المشاريع-القومية/?categoryId=138252">
+                                            Petroleum and Natural Gas
+                                        </a>
+
+                                    </li>
+                                    <li>
+
+                                        <a href="/en/المشاريع-القومية/?categoryId=138251">
+                                            Electricity and Renewable Energy
+                                        </a>
+
+                                    </li>
+                                    <li>
+
+                                        <a href="/en/المشاريع-القومية/?categoryId=138459">
+                                            Information Technology
+                                        </a>
+
+                                    </li>
+                                    <li>
+
+                                        <a href="/en/المشاريع-القومية/?categoryId=3228">
+                                            Housing and New Cities
+                                        </a>
+
+                                    </li>
+                                    <li>
+
+                                        <a href="/en/المشاريع-القومية/?categoryId=20510">
+                                            Roads, Bridges and Tunnels
+                                        </a>
+
+                                    </li>
+                                    <li>
+
+                                        <a href="/en/المشاريع-القومية/?categoryId=138341">
+                                            Livestock and Fisheries
+                                        </a>
+
+                                    </li>
+                                    <li>
+
+                                        <a href="/en/المشاريع-القومية/?categoryId=138671">
+                                            Drinking Water and Wastewater
+                                        </a>
+
+                                    </li>
+                            </ul>
+                        </div>
+            </div>
+        </div>
+
+    </div>
+    <section class="header">
+        <div class="first-header">
+            <div class="container-fluid">
+                <div class="row">
+                    <div class="col-sm-12">
+                        <div class="img-logo">
+                            <a href="https://www.presidency.eg/en">
+                                <img src="/media/132556/en.png" class="img-fluid" alt="Presidency of the Arab Republic of Egypt" />
+
+                            </a>
+                        </div>
+                            <ul class="event-list">
+                                    <li class="single-event">
+                                        <img src="/media/134495/تحيا-مصر.jpg" />
+                                    </li>
+                                                                    <li class="single-event">
+                                        <img src="/media/248447/012.jpg" />
+                                    </li>
+                            </ul>
+                        <div class="links">
+
+                            <ul class="nav links-container">
+
+                                <li class="nav-item language">
+                                    <ul class="nav">
+                                        <li class="nav-item img-link">
+                                            <a class="nav-link" href="javascript:void(0)" data-toggle="tooltip" data-placement="top" title="Invert Color">
+                                                <img src="/Content/images/contrast.svg" class="img-fluid header-invert-color" alt="Alternate Text" />
+                                            </a>
+                                        </li>
+                                        <li class="nav-item font-down" data-toggle="tooltip" data-placement="top" title="Decrease Font">
+                                            <a class="nav-link" href="javascript:void(0)">
+                                                -A
+                                            </a>
+                                        </li>
+                                        <li class="nav-item reset-font" data-toggle="tooltip" data-placement="top" title="Reset font">
+                                            <a class="nav-link" href="javascript:void(0)">
+                                                A
+                                            </a>
+                                        </li>
+                                        <li class="nav-item font-up" data-toggle="tooltip" data-placement="top" title="Increase font">
+                                            <a class="nav-link" href="javascript:void(0)">
+                                                +A
+                                            </a>
+                                        </li>
+                                    </ul>
+                                </li>
+                                <li class="header-mobile-ui d-block d-lg-none d-xl-none">
+                                    <div class="dropdown">
+
+                                        <button class="btn btn-secondary dropdown-toggle" type="button" id="dropdownMenuButton" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                                            EN
+                                            <i class="fa fa-angle-down" aria-hidden="true"></i>
+                                        </button>
+                                        <div class="dropdown-menu" aria-labelledby="dropdownMenuButton">
+                                                    <a class="languageItem dropdown-item " href="https://www.presidency.eg/AR/قسم-الأخبار/أخبار-رئاسية/">AR</a>
+                                                    <a class="languageItem dropdown-item active" href="https://www.presidency.eg/EN/قسم-الأخبار/أخبار-رئاسية/">EN</a>
+                                                    <a class="languageItem dropdown-item " href="https://www.presidency.eg/FR/قسم-الأخبار/أخبار-رئاسية/">FR</a>
+                                        </div>
+                                    </div>
+                                </li>
+                                <li class="header-mobile-ui burger-menu d-block d-lg-none d-xl-none">
+                                    <i class="fa fa-bars burger-menu-icon" aria-hidden="true"></i>
+                                    
+                                    <img class="close-icon" src="/Content/images/svgIcons/menu-close-btn.svg" alt="close icon" />
+
+                                </li>
+
+
+                                <li class="nav-item language culture-language">
+                                    <ul class="nav">
+                                                <li class="nav-item">
+                                                    <a class="nav-link languageItem " href="https://www.presidency.eg/AR/قسم-الأخبار/أخبار-رئاسية/" data-toggle="tooltip" data-placement="top" title="العربية">
+                                                        AR
+                                                    </a>
+                                                </li>
+                                                <li class="nav-item">
+                                                    <a class="nav-link languageItem active" href="https://www.presidency.eg/EN/قسم-الأخبار/أخبار-رئاسية/" data-toggle="tooltip" data-placement="top" title="English">
+                                                        EN
+                                                    </a>
+                                                </li>
+                                                <li class="nav-item">
+                                                    <a class="nav-link languageItem " href="https://www.presidency.eg/FR/قسم-الأخبار/أخبار-رئاسية/" data-toggle="tooltip" data-placement="top" title="Fran&#231;ais">
+                                                        FR
+                                                    </a>
+                                                </li>
+
+                                    </ul>
+                                </li>
+
+                                <li class="nav-item social-links">
+                                    <ul class="nav">
+                                                                                                                                                                    <li class="nav-item">
+                                                <a class="nav-link" target="_blank" href="https://www.youtube.com/channel/UCPYussIbK8uihMZcpDIXgwg/videos" data-toggle="tooltip" data-placement="top" title="Youtube">
+                                                    <i class="fa fa-youtube-play" aria-hidden="true"></i>
+                                                </a>
+                                            </li>
+                                                                                    <li class="nav-item">
+                                                <a class="nav-link" target="_blank" href="https://soundcloud.com/egyptian-presidency" data-toggle="tooltip" data-placement="top" title="Soundcloud">
+                                                    <i class="fa fa-soundcloud" aria-hidden="true"></i>
+                                                </a>
+                                            </li>
+                                                                                    <li class="nav-item">
+                                                <a class="nav-link" href="/en/rss/" data-toggle="tooltip" data-placement="top" title="RSS URL">
+                                                    <i class="fa fa-rss" aria-hidden="true"></i>
+                                                </a>
+                                            </li>
+                                    </ul>
+                                </li>
+
+                            </ul>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <!------------------------------------------------------->
+        <!-------------------------Navigation-------------------->
+        <!------------------------------------------------------->
+        <div class="main-nav">
+            <div class="container-fluid">
+                <div class="row">
+                    <div class="col-sm-12">
+                        <nav class="navbar navbar-expand-md navbar-light">
+                            <div class="search-info-header">
+                                <div class="search-close-icon">
+                                    <i class="fa fa-times-circle" aria-hidden="true"></i>
+                                </div>
+                                <div class="search-header-section">
+                                    <form class="form-inline" id="homeSearchForm">
+                                        <div class="form-group">
+                                            <input type="text" name="q" maxlength="200" class="form-control-plaintext" placeholder="Search using keywords" id="homeSearchInput">
+                                            <div class="inline-select">
+                                                <div class="select-style search-header-first-filter">
+                                                    <select name="l1">
+                                                        <option value="-1">Section</option>
+                                                            <option value="2304">Egypt</option>
+                                                            <option value="2307">Presidency</option>
+                                                            <option value="1347">News</option>
+                                                            <option value="1629">Historic Palaces</option>
+                                                            <option value="3214">National Projects</option>
+                                                    </select>
+                                                    <div class="arrow">
+                                                        <i class="fa fa-angle-down" aria-hidden="true"></i>
+                                                    </div>
+                                                </div>
+                                                <div class="select-style search-header-second-filter">
+                                                    <select name="l2">
+                                                        <option value="-1">Sub-section</option>
+                                                    </select>
+                                                    <div class="arrow">
+                                                        <i class="fa fa-angle-down" aria-hidden="true"></i>
+                                                    </div>
+                                                </div>
+                                            </div>
+
+
+                                        </div>
+                                        <button class="hidden-search-header-btn" type="submit">t</button>
+                                        
+                                    </form>
+                                </div>
+                            </div>
+
+                            <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
+                                <span class="navbar-toggler-icon"></span>
+                            </button>
+                            <div class="collapse navbar-collapse" id="navbarNav">
+                                
+                                <ul class="navbar-nav">
+                                            <li class="nav-item dropdown">
+                                                <a class="nav-link" href="/en/مصر/" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                                                    Egypt
+                                                </a>
+                                                <div class="dropdown-menu" aria-labelledby="navbarDropdown">
+                                                    <div class="dropdown-content">
+                                                        <div class="row">
+                                                            <div class="col-md-12">
+                                                                <ul>
+                                                                            <li>
+                                                                                <a href="/en/مصر/معلومات-أساسية/">
+                                                                                    <i class="fa fa-angle-left" aria-hidden="true"></i>
+                                                                                    <span>About Egypt</span>
+                                                                                </a>
+                                                                            </li>
+                                                                            <li>
+                                                                                <a href="/en/مصر/السياحة-في-مصر/">
+                                                                                    <i class="fa fa-angle-left" aria-hidden="true"></i>
+                                                                                    <span>Tourism</span>
+                                                                                </a>
+                                                                            </li>
+                                                                            <li>
+                                                                                <a href="/en/مصر/العطلات-الرسمية/">
+                                                                                    <i class="fa fa-angle-left" aria-hidden="true"></i>
+                                                                                    <span>National Holidays</span>
+                                                                                </a>
+                                                                            </li>
+                                                                            <li>
+                                                                                <a href="/en/مصر/رؤية-مصر-2030/">
+                                                                                    <i class="fa fa-angle-left" aria-hidden="true"></i>
+                                                                                    <span>2030 Vision of Egypt</span>
+                                                                                </a>
+                                                                            </li>
+                                                                            <li>
+                                                                                <a href="/en/مصر/الحكام/">
+                                                                                    <i class="fa fa-angle-left" aria-hidden="true"></i>
+                                                                                    <span>Former Rulers</span>
+                                                                                </a>
+                                                                            </li>
+                                                                            <li>
+                                                                                <a href="/en/مصر/خريطة-المحافظات/">
+                                                                                    <i class="fa fa-angle-left" aria-hidden="true"></i>
+                                                                                    <span>Governorates</span>
+                                                                                </a>
+                                                                            </li>
+                                                                </ul>
+                                                            </div>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                            </li>
+                                            <li class="nav-item dropdown">
+                                                <a class="nav-link" href="/en/الرئاسة/" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                                                    Presidency
+                                                </a>
+                                                <div class="dropdown-menu" aria-labelledby="navbarDropdown">
+                                                    <div class="dropdown-content">
+                                                        <div class="row">
+                                                            <div class="col-md-12">
+                                                                <ul>
+                                                                            <li>
+                                                                                <a href="/en/الرئاسة/الرئيس/">
+                                                                                    <i class="fa fa-angle-left" aria-hidden="true"></i>
+                                                                                    <span>The President</span>
+                                                                                </a>
+                                                                            </li>
+                                                                            <li>
+                                                                                <a href="/en/الرئاسة/الرؤساء-السابقون/">
+                                                                                    <i class="fa fa-angle-left" aria-hidden="true"></i>
+                                                                                    <span>Former Presidents</span>
+                                                                                </a>
+                                                                            </li>
+                                                                            <li>
+                                                                                <a href="/en/الرئاسة/ميداليات-وأوسمة/">
+                                                                                    <i class="fa fa-angle-left" aria-hidden="true"></i>
+                                                                                    <span>Medals and Decorations</span>
+                                                                                </a>
+                                                                            </li>
+                                                                            <li>
+                                                                                <a href="/en/الرئاسة/قائمة-الشرف/">
+                                                                                    <i class="fa fa-angle-left" aria-hidden="true"></i>
+                                                                                    <span>National Honor Roll</span>
+                                                                                </a>
+                                                                            </li>
+                                                                            <li>
+                                                                                <a href="/en/الرئاسة/تحيا-مصر/">
+                                                                                    <i class="fa fa-angle-left" aria-hidden="true"></i>
+                                                                                    <span>Tahya Misr Fund</span>
+                                                                                </a>
+                                                                            </li>
+                                                                            <li>
+                                                                                <a href="/en/الرئاسة/متحف-مقتنيات-الرئيس/">
+                                                                                    <i class="fa fa-angle-left" aria-hidden="true"></i>
+                                                                                    <span>Presidential Museum</span>
+                                                                                </a>
+                                                                            </li>
+                                                                            <li>
+                                                                                <a href="/en/الرئاسة/متحف-مجلس-قيادة-الثورة/">
+                                                                                    <i class="fa fa-angle-left" aria-hidden="true"></i>
+                                                                                    <span>Museum of the Revolutionary Command</span>
+                                                                                </a>
+                                                                            </li>
+                                                                            <li>
+                                                                                <a href="/en/الرئاسة/المتحدث-الرسمي-لرئاسة-الجمهورية-1/">
+                                                                                    <i class="fa fa-angle-left" aria-hidden="true"></i>
+                                                                                    <span>Presidential Spokesman</span>
+                                                                                </a>
+                                                                            </li>
+                                                                </ul>
+                                                            </div>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                            </li>
+                                            <li class="nav-item dropdown">
+                                                <a class="nav-link" href="/en/قسم-الأخبار/" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                                                    News
+                                                </a>
+                                                <div class="dropdown-menu" aria-labelledby="navbarDropdown">
+                                                    <div class="dropdown-content">
+                                                        <div class="row">
+                                                            <div class="col-md-12">
+                                                                <ul>
+                                                                            <li>
+                                                                                <a href="/en/قسم-الأخبار/أخبار-رئاسية/">
+                                                                                    <i class="fa fa-angle-left" aria-hidden="true"></i>
+                                                                                    <span>Presidential News</span>
+                                                                                </a>
+                                                                            </li>
+                                                                            <li>
+                                                                                <a href="/en/قسم-الأخبار/الفعاليات-والمؤتمرات/">
+                                                                                    <i class="fa fa-angle-left" aria-hidden="true"></i>
+                                                                                    <span>Events and Conferences</span>
+                                                                                </a>
+                                                                            </li>
+                                                                            <li>
+                                                                                <a href="/en/قسم-الأخبار/البث-المباشر/">
+                                                                                    <i class="fa fa-angle-left" aria-hidden="true"></i>
+                                                                                    <span>Live Streaming</span>
+                                                                                </a>
+                                                                            </li>
+                                                                </ul>
+                                                            </div>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                            </li>
+                                            <li class="nav-item">
+                                                <a class="nav-link" href="/en/القصور-الرئاسية/">Historic Palaces</a>
+                                            </li>
+                                            <li class="nav-item">
+                                                <a class="nav-link" href="/en/المشاريع-القومية/">National Projects</a>
+                                            </li>
+                                </ul>
+
+                                
+                                <form class="form-inline ml-auto search-form">
+                                    <a href="javascript:void(0)" class="header-search-btn">
+                                        <i class="fa fa-search" aria-hidden="true"></i>
+                                    </a>
+                                </form>
+                            </div>
+                        </nav>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    
+
+<section class="news-list">
+
+    <div class="breadcrumb-container">
+        <nav aria-label="breadcrumb">
+            <ol class="breadcrumb">
+                
+
+
+
+
+    <ul class="breadcrumb">
+        
+                <li><a href="/en">Home</a> <span class="divider">/&nbsp;</span></li>
+                <li class="non-clickable-breadcrumb-element"><a href="/en/قسم-الأخبار/">News</a> <span class="divider">/&nbsp;</span></li>
+
+        
+        <li class="active">Presidential News</li>
+    </ul>
+
+            </ol>
+        </nav>
+
+    </div>
+
+    <div class="news-content">
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-12">
+                    <div class="separated-header">
+                        <h1 class="subtitle fancy">
+                            <span>Presidential News</span>
+                        </h1>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="container-fluid">
+            <div class="news-listing">
+                <div class="filter-section">
+                    <div class="select-style">
+                        <select>
+                                <option value="-1">All news</option>
+                                <option value="4976">Local</option>
+                                <option value="12057">International</option>
+                                <option value="12040">The President&#39;s Speeches</option>
+                                <option value="12048">Phone Calls</option>
+                                <option value="21155">Telegram</option>
+                                <option value="22642">Foreign Visits</option>
+                                <option value="72858">First Lady</option>
+                        </select>
+                        <div class="arrow">
+                            <i class="fa fa-angle-down" aria-hidden="true"></i>
+                        </div>
+                    </div>
+                    <div class="date-style">
+                        <div id="news-date-select" size="60" value="">Choose Date</div>
+                        <div class="arrow">
+                            <i class="fa fa-angle-down" aria-hidden="true"></i>
+                        </div>
+                        <button id="date-clear" data-toggle="tooltip" data-placement="top" title="Clear Date">
+                            
+                            <span>x</span>
+                        </button>
+
+                    </div>
+                </div>
+
+                <div class="card-decks">
+                    <div class="row news-container">
+                        
+
+                    </div>
+                    <div class="lds-spinner">
+                        <div></div>
+                        <div></div>
+                        <div></div>
+                        <div></div>
+                        <div></div>
+                        <div></div>
+                        <div></div>
+                        <div></div>
+                    </div>
+
+                    <div class="message-not-found">
+                        <img src="/Content/images/svgIcons/no-search-found.svg" alt="Icon"/>
+                        <p>
+                            Sorry, there are no news!
+                        </p>
+                        <div class="separator"></div>
+                    </div>
+                </div>
+            </div>
+
+        </div>
+    </div>
+
+</section>
+
+<script>
+    var January = 'يناير';
+    var February = 'فبراير';
+    var March = 'مارس';
+    var April = 'ابريل';
+    var May = 'مايو';
+    var June = 'يونيو';
+    var July = 'يوليو';
+    var August = 'أغسطس';
+    var September = 'سبتمبر';
+    var October = 'أكتوبر';
+    var November = 'نوفمبر';
+    var December = 'ديسمبر';
+    var Sat = "السبت";
+    var Sun = "الأحد";
+    var Mon = "الإثنين";
+    var Tue = "الثلاثاء";
+    var Wed = "الأربعاء";
+    var Thu = "الخميس";
+    var Fri = "الجمعة";
+    var apiUrl = "/Surface/News/GetAll";
+    var calenderDatePick = 'Choose Date Range';
+    //debugger;
+    var culture = "en";
+    var queryCategory = '-1';
+    var queryFromDate = '';
+    var queryToDate = '';
+</script>
+
+    <!------------------------------------------------------->
+    <!-------------------------Footer------------------------>
+    <!------------------------------------------------------->
+    <section class="footer">
+        <div class="container-fluid">
+            <div class="row">
+                <div class="col-md-3 d-none d-lg-block d-xl-block">
+                    <div class="copyrights">
+                        <div class="separator"></div>
+                        <img src="/media/3446/egypt-logo.png" class="img-fluid" alt="Presidency of the Arab Republic of Egypt" />
+                        <div class="content">
+                            <p>All rights reserved to the presidency Copyright &#169; 2020</p>
+                            <ul class="nav justify-content-center">
+                                    <li class="nav-item">
+                                        <a class="nav-link" href="/en/rss/" data-toggle="tooltip" data-placement="bottom" title="RSS URL">
+                                            <i class="fa fa-rss" aria-hidden="true"></i>
+                                        </a>
+                                    </li>
+                                                                    <li class="nav-item">
+                                        <a class="nav-link" target="_blank" href="https://soundcloud.com/egyptian-presidency" data-toggle="tooltip" data-placement="bottom" title="Soundcloud">
+                                            <i class="fa fa-soundcloud" aria-hidden="true"></i>
+                                        </a>
+                                    </li>
+                                                                    <li class="nav-item">
+                                        <a class="nav-link" target="_blank" href="https://www.youtube.com/channel/UCPYussIbK8uihMZcpDIXgwg/videos" data-toggle="tooltip" data-placement="bottom" title="youtube">
+                                            <i class="fa fa-youtube-play" aria-hidden="true"></i>
+                                        </a>
+                                    </li>
+                                                                                                                            </ul>
+
+                        </div>
+
+                    </div>
+                </div>
+                    <div class="col">
+                        <div class="footer-links collapsed-mobile">
+                            <h2>
+Egypt                            </h2>
+                            <ul>
+                                        <li><i class="fa fa-angle-left" aria-hidden="true"></i><a href="/en/مصر/معلومات-أساسية/">About Egypt</a></li>
+                                        <li><i class="fa fa-angle-left" aria-hidden="true"></i><a href="/en/مصر/السياحة-في-مصر/">Tourism</a></li>
+                                        <li><i class="fa fa-angle-left" aria-hidden="true"></i><a href="/en/مصر/العطلات-الرسمية/">National Holidays</a></li>
+                                        <li><i class="fa fa-angle-left" aria-hidden="true"></i><a href="/en/مصر/رؤية-مصر-2030/">2030 Vision of Egypt</a></li>
+                                        <li><i class="fa fa-angle-left" aria-hidden="true"></i><a href="/en/مصر/الحكام/">Former Rulers</a></li>
+                                        <li><i class="fa fa-angle-left" aria-hidden="true"></i><a href="/en/مصر/خريطة-المحافظات/">Governorates</a></li>
+                                        <li><i class="fa fa-angle-left" aria-hidden="true"></i><a href="/en/مصر/فيروس-كورونا-المستجد/">Coronavirus (COVID-19)</a></li>
+
+                            </ul>
+                        </div>
+                    </div>
+                    <div class="col">
+                        <div class="footer-links collapsed-mobile">
+                            <h2>
+Presidency                            </h2>
+                            <ul>
+                                        <li><i class="fa fa-angle-left" aria-hidden="true"></i><a href="/en/الرئاسة/الرئيس/">The President</a></li>
+                                        <li><i class="fa fa-angle-left" aria-hidden="true"></i><a href="/en/الرئاسة/الرؤساء-السابقون/">Former Presidents</a></li>
+                                        <li><i class="fa fa-angle-left" aria-hidden="true"></i><a href="/en/الرئاسة/ميداليات-وأوسمة/">Medals and Decorations</a></li>
+                                        <li><i class="fa fa-angle-left" aria-hidden="true"></i><a href="/en/الرئاسة/قائمة-الشرف/">National Honor Roll</a></li>
+                                        <li><i class="fa fa-angle-left" aria-hidden="true"></i><a href="/en/الرئاسة/تحيا-مصر/">Tahya Misr Fund</a></li>
+                                        <li><i class="fa fa-angle-left" aria-hidden="true"></i><a href="/en/الرئاسة/متحف-مقتنيات-الرئيس/">Presidential Museum</a></li>
+                                        <li><i class="fa fa-angle-left" aria-hidden="true"></i><a href="/en/الرئاسة/اسأل-الرئيس-3/">The President Answers</a></li>
+                                        <li><i class="fa fa-angle-left" aria-hidden="true"></i><a href="/en/الرئاسة/متحف-مجلس-قيادة-الثورة/">Museum of the Revolutionary Command</a></li>
+
+                            </ul>
+                        </div>
+                    </div>
+                    <div class="col">
+                        <div class="footer-links collapsed-mobile">
+                            <h2>
+News                            </h2>
+                            <ul>
+                                        <li><i class="fa fa-angle-left" aria-hidden="true"></i><a href="/en/قسم-الأخبار/أخبار-رئاسية/">Presidential News</a></li>
+                                        <li><i class="fa fa-angle-left" aria-hidden="true"></i><a href="/en/قسم-الأخبار/الفعاليات-والمؤتمرات/">Events and Conferences</a></li>
+                                        <li><i class="fa fa-angle-left" aria-hidden="true"></i><a href="/en/قسم-الأخبار/البث-المباشر/">Live Streaming</a></li>
+
+                            </ul>
+                        </div>
+                    </div>
+                    <div class="col">
+                        <div class="footer-links collapsed-mobile">
+                            <h2>
+                                    <a style="color:white" href="/en/القصور-الرئاسية/">
+                                        Historic Palaces
+                                    </a>
+                            </h2>
+                            <ul>
+
+                            </ul>
+                        </div>
+                    </div>
+                    <div class="col">
+                        <div class="footer-links collapsed-mobile">
+                            <h2>
+                                    <a style="color:white" href="/en/المشاريع-القومية/">
+                                        National Projects
+                                    </a>
+                            </h2>
+                            <ul>
+                                        <li>
+
+                                            <i class="fa fa-angle-left" aria-hidden="true"></i>
+                                            <a href="/en/المشاريع-القومية/?categoryId=78208">
+                                                Education
+                                            </a>
+                                        </li>
+                                        <li>
+
+                                            <i class="fa fa-angle-left" aria-hidden="true"></i>
+                                            <a href="/en/المشاريع-القومية/?categoryId=138249">
+                                                Health
+                                            </a>
+                                        </li>
+                                        <li>
+
+                                            <i class="fa fa-angle-left" aria-hidden="true"></i>
+                                            <a href="/en/المشاريع-القومية/?categoryId=138255">
+                                                Agriculture
+                                            </a>
+                                        </li>
+                                        <li>
+
+                                            <i class="fa fa-angle-left" aria-hidden="true"></i>
+                                            <a href="/en/المشاريع-القومية/?categoryId=138254">
+                                                Industry
+                                            </a>
+                                        </li>
+                                        <li>
+
+                                            <i class="fa fa-angle-left" aria-hidden="true"></i>
+                                            <a href="/en/المشاريع-القومية/?categoryId=138302">
+                                                Supply
+                                            </a>
+                                        </li>
+                                        <li>
+
+                                            <i class="fa fa-angle-left" aria-hidden="true"></i>
+                                            <a href="/en/المشاريع-القومية/?categoryId=138583">
+                                                Culture
+                                            </a>
+                                        </li>
+                                        <li>
+
+                                            <i class="fa fa-angle-left" aria-hidden="true"></i>
+                                            <a href="/en/المشاريع-القومية/?categoryId=146259">
+                                                Water Resources and Irrigation
+                                            </a>
+                                        </li>
+                                        <li>
+
+                                            <i class="fa fa-angle-left" aria-hidden="true"></i>
+                                            <a href="/en/المشاريع-القومية/?categoryId=138670">
+                                                Places of Worship
+                                            </a>
+                                        </li>
+                                        <li>
+
+                                            <i class="fa fa-angle-left" aria-hidden="true"></i>
+                                            <a href="/en/المشاريع-القومية/?categoryId=138253">
+                                                Youth and Sports
+                                            </a>
+                                        </li>
+                                        <li>
+
+                                            <i class="fa fa-angle-left" aria-hidden="true"></i>
+                                            <a href="/en/المشاريع-القومية/?categoryId=138256">
+                                                Tourism and Antiquities
+                                            </a>
+                                        </li>
+                                        <li>
+
+                                            <i class="fa fa-angle-left" aria-hidden="true"></i>
+                                            <a href="/en/المشاريع-القومية/?categoryId=187496">
+                                                Slums Development
+                                            </a>
+                                        </li>
+                                        <li>
+
+                                            <i class="fa fa-angle-left" aria-hidden="true"></i>
+                                            <a href="/en/المشاريع-القومية/?categoryId=138250">
+                                                The Armed Forces
+                                            </a>
+                                        </li>
+                                        <li>
+
+                                            <i class="fa fa-angle-left" aria-hidden="true"></i>
+                                            <a href="/en/المشاريع-القومية/?categoryId=78212">
+                                                Transportation
+                                            </a>
+                                        </li>
+                                        <li>
+
+                                            <i class="fa fa-angle-left" aria-hidden="true"></i>
+                                            <a href="/en/المشاريع-القومية/?categoryId=138257">
+                                                Public Services
+                                            </a>
+                                        </li>
+                                        <li>
+
+                                            <i class="fa fa-angle-left" aria-hidden="true"></i>
+                                            <a href="/en/المشاريع-القومية/?categoryId=138252">
+                                                Petroleum and Natural Gas
+                                            </a>
+                                        </li>
+                                        <li>
+
+                                            <i class="fa fa-angle-left" aria-hidden="true"></i>
+                                            <a href="/en/المشاريع-القومية/?categoryId=138251">
+                                                Electricity and Renewable Energy
+                                            </a>
+                                        </li>
+                                        <li>
+
+                                            <i class="fa fa-angle-left" aria-hidden="true"></i>
+                                            <a href="/en/المشاريع-القومية/?categoryId=138459">
+                                                Information Technology
+                                            </a>
+                                        </li>
+                                        <li>
+
+                                            <i class="fa fa-angle-left" aria-hidden="true"></i>
+                                            <a href="/en/المشاريع-القومية/?categoryId=3228">
+                                                Housing and New Cities
+                                            </a>
+                                        </li>
+                                        <li>
+
+                                            <i class="fa fa-angle-left" aria-hidden="true"></i>
+                                            <a href="/en/المشاريع-القومية/?categoryId=20510">
+                                                Roads, Bridges and Tunnels
+                                            </a>
+                                        </li>
+                                        <li>
+
+                                            <i class="fa fa-angle-left" aria-hidden="true"></i>
+                                            <a href="/en/المشاريع-القومية/?categoryId=138341">
+                                                Livestock and Fisheries
+                                            </a>
+                                        </li>
+                                        <li>
+
+                                            <i class="fa fa-angle-left" aria-hidden="true"></i>
+                                            <a href="/en/المشاريع-القومية/?categoryId=138671">
+                                                Drinking Water and Wastewater
+                                            </a>
+                                        </li>
+
+                            </ul>
+                        </div>
+                    </div>
+                <div class="col-12 d-block d-lg-none d-xl-none">
+                    <div class="copyrights">
+                        <div class="content">
+                            <ul class="nav justify-content-center">
+                                    <li class="nav-item">
+                                        <a class="nav-link" href="/en/rss/">
+                                            <i class="fa fa-rss" aria-hidden="true"></i>
+                                        </a>
+                                    </li>
+                                                                    <li class="nav-item">
+                                        <a class="nav-link" target="_blank" href="https://soundcloud.com/egyptian-presidency">
+                                            <i class="fa fa-soundcloud" aria-hidden="true"></i>
+                                        </a>
+                                    </li>
+                                                                    <li class="nav-item">
+                                        <a class="nav-link" target="_blank" href="https://www.youtube.com/channel/UCPYussIbK8uihMZcpDIXgwg/videos">
+                                            <i class="fa fa-youtube-play" aria-hidden="true"></i>
+                                        </a>
+                                    </li>
+                                                                                                                            </ul>
+
+                            <img src="/media/3446/egypt-logo.png" class="img-fluid" alt="Presidency of the Arab Republic of Egypt" />
+
+                            <p>All rights reserved to the presidency Copyright &#169; 2020</p>
+
+
+                        </div>
+
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+
+    <div class="collapse-section">
+        <div class="black-area"></div>
+        <div class="collapse-button">
+            <i class="fa fa-angle-down animate-arrow-down"></i>
+            <i class="fa fa-angle-down animate-arrow-down mt-1"></i>
+        </div>
+    </div>
+
+    <div class="scrollToTop"><i class="fa fa-angle-up"></i></div>
+
+    <script src="/content/js/coreJsBundle.js"></script>
+    
+
+	<script>
+        var rvApiKey = "6kJujCis";
+    </script>
+    <script src="/Content/js/responsivevoiceUsedVersion.js"></script>
+
+    <script src="/content/js/customJsBundle.js?v=1.14"></script>
+    
+
+    
+    <script src='https://www.google.com/recaptcha/api.js?hl=en'></script>
+
+    <script>
+        var ValidateRequired = "Field can&#39;t be empty";
+        var ValidateLength ="Number must be 14 digit exactly";
+        var ValidateEmail ="You must enter a valid email";
+        var ValidateDigits ="The field must be numbers only";
+        var ValidateRechaptcha ="You must validate rechaptcha";
+        var ValidatePhone ="Phone number is incorrect";
+        var chooseDateNews ="Choose Date";
+        var validateMaxLength = "Enter 100 Characters only";
+        var customCharacters = "Enter Characters Only";
+        var somethingWentWrong = "!something went wrong";
+        var noShareIdeaTwiceInMonth = "can&#39;t submit another idea in the same month!";
+        var NoQuestionTwiceInMonth = "Can not make another question in the same month!";
+        var charactersLeft = "character left";
+        var returnIdeaMinLength = "Min Length 100";
+        var ideabreifMinLength = "Min Length 500";
+        var ideabreifMaxLength = "please enter no more than  1000 characters.";
+         var returnIdeaMaxLength = "please enter no more than 500 characters.";
+        var languageDirection = 'ltr';
+        var cultureCode = 'en';
+        var backID = "A copy of the national identity background";
+        var passport = "Passport Photo";
+        var frontID = "Copy of the national ID card (face)";
+        var searchListString = [{"Name":"Egypt","Id":2304,"Childs":[{"Name":"About Egypt","Id":3334},{"Name":"Tourism","Id":134373},{"Name":"National Holidays","Id":2720},{"Name":"2030 Vision of Egypt","Id":2310},{"Name":"Former Rulers","Id":5143},{"Name":"Governorates","Id":16790}]},{"Name":"Presidency","Id":2307,"Childs":[{"Name":"The President","Id":3347},{"Name":"Former Presidents","Id":3250},{"Name":"Medals and Decorations","Id":62785},{"Name":"National Honor Roll","Id":79189},{"Name":"Tahya Misr Fund","Id":2313},{"Name":"Presidential Museum","Id":87587},{"Name":"Museum of the Revolutionary Command","Id":247519},{"Name":"Presidential Spokesman","Id":551865}]},{"Name":"News","Id":1347,"Childs":[{"Name":"Presidential News","Id":7988},{"Name":"Events and Conferences","Id":4809},{"Name":"Live Streaming","Id":4478}]},{"Name":"Historic Palaces","Id":1629,"Childs":[]},{"Name":"National Projects","Id":3214,"Childs":[]}];
+        var mourningModeEnabled = 'False';
+        var takePhoto = 'Take a picture';
+
+        var culture = 'en';
+
+    </script>
+
+    <script>
+        $(document).ready(function () {
+            $(".collapse-button").click(function () {
+                $(".footer").toggleClass("collapse-footer");
+                $(".base-arrow-down").toggleClass("base-arrow-up");
+                $(".fixed-arrow-down").toggleClass("fixed-arrow-up");
+                $(".animate-arrow-down").toggleClass("animate-arrow-up");
+
+                var h = $(".collapse-section");
+                var off = $(h).offset().top;
+                $("body,html").animate({ scrollTop: off }, 0)
+            })
+
+            $('.social-item').tooltip({ trigger: "hover" });
+
+            setTimeout(function () {
+                $(".fixed-social-icons").addClass('fixed-social-icons-disappear');
+            }, 10000);
+
+            $(window).scroll(function () {
+                var windowScroll = $(window).scrollTop();
+
+                if (windowScroll > 200) {
+                    $(".fixed-social-icons").addClass('social-icons-animate');
+                }
+                else {
+                    $(".fixed-social-icons").removeClass('social-icons-animate');
+                }
+            })
+        })
+
+
+
+    </script>
+
+
+</body>
+<a hidden href="/wO9q0qOEAHgDpudLpvSTplvhIuwhve3bxUqoMbhpYi4=.html">wO9q0qOEAHgDpudLpvSTplvhIuwhve3bxUqoMbhpYi4=.html</a></html>

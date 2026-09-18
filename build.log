@@ -1,0 +1,47 @@
+
+> osiris-file-sisi@1.0.0 prebuild
+> node tools/prepare-map-worker.mjs
+
+
+> osiris-file-sisi@1.0.0 build
+> next build
+
+▲ Next.js 16.3.4 (Turbopack)
+✓ Running next.config.ts took 19ms
+⚠ No build cache found. Please configure build caching for faster rebuilds. Read more: https://nextjs.org/docs/messages/no-cache
+
+  Creating an optimized production build ...
+✓ Compiled successfully in 5.7s
+  Running TypeScript ...
+  Finished TypeScript in 3.8s ...
+  Collecting page data using 3 workers ...
+  Generating static pages using 3 workers (0/17) ...
+  Generating static pages using 3 workers (4/17) 
+  Generating static pages using 3 workers (8/17) 
+  Generating static pages using 3 workers (12/17) 
+✓ Generating static pages using 3 workers (17/17) in 109s
+  Finalizing page optimization ...
+
+Route (app)              Revalidate  Expire
+┌ ○ /                           15m      1y
+├ ○ /_not-found
+├ ƒ /api/ai/analyze
+├ ƒ /api/ai/briefing
+├ ƒ /api/ai/overview
+├ ƒ /api/conflicts
+├ ƒ /api/country-risk
+├ ƒ /api/events
+├ ƒ /api/frontlines
+├ ƒ /api/gdelt
+├ ƒ /api/health
+├ ƒ /api/ingest
+├ ƒ /api/ingest/health
+├ ƒ /api/live-news
+├ ƒ /api/maritime
+├ ○ /api/news                   30m      1y
+└ ƒ /api/region-dossier
+
+
+○  (Static)   prerendered as static content
+ƒ  (Dynamic)  server-rendered on demand
+

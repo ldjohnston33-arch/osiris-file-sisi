@@ -1,0 +1,3 @@
+https://www.presidency.eg/content/js/coreJsBundle.js
+https://www.presidency.eg/Content/js/responsivevoiceUsedVersion.js
+https://www.presidency.eg/content/js/customJsBundle.js?v=1.14

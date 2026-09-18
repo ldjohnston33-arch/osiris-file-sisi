@@ -1,0 +1,515 @@
+200 https://www.arabnews.com/rss.xml
+application/rss+xml; charset=utf-8
+
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:media="http://search.yahoo.com/mrss/" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Arab News</title>
+    <link>https://www.arabnews.com</link>
+    <description>Latest articles from Arab News</description>
+    <language>en</language>
+    <lastBuildDate>Fri, 18 Sep 2026 19:19:26 GMT</lastBuildDate>
+    <ttl>5</ttl>
+    <atom:link href="https://www.arabnews.com/rss.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Growing Mediterranean alliances bring military drills to Crete tourists</title>
+      <link>https://www.arabnews.com/world/growing-mediterranean-alliances-bring-military-drills-to-crete-tourists-3002281</link>
+      <guid isPermaLink="true">https://www.arabnews.com/world/growing-mediterranean-alliances-bring-military-drills-to-crete-tourists-3002281</guid>
+      <pubDate>Fri, 18 Sep 2026 19:18:03 GMT</pubDate>
+      <category>World</category>
+      <description>MALEME, Greece: Vacationers taking a morning dip or seeking shade on wooden sunbeds on the Greek island of Crete got a close-up view of a major military exercise unfolding in front of them Friday. The annual Medusa exercise, led by Greece and Egypt, ended on a strip of coastline outside the port city of Chania. It featured drone attacks and fast-boat landings with marines and special forces operators using simulated fire. France, Italy and Cyprus joined exercises that began Sept. 10 and ran</description>
+      <enclosure url="https://assets.maestronewsroom.com/media/30f6532d-717b-4366-9158-9c455299fcd9/1789759028581-028564833fea9d62.jpg" type="image/jpeg" length="0"/>
+      <media:content url="https://assets.maestronewsroom.com/media/30f6532d-717b-4366-9158-9c455299fcd9/1789759028581-028564833fea9d62.jpg" medium="image"/>
+    </item>
+    <item>
+      <title>US gives UN more time to end support for Somalia peacekeepers</title>
+      <link>https://www.arabnews.com/world/us-gives-un-more-time-to-end-support-for-somalia-peacekeepers-3002280</link>
+      <guid isPermaLink="true">https://www.arabnews.com/world/us-gives-un-more-time-to-end-support-for-somalia-peacekeepers-3002280</guid>
+      <pubDate>Fri, 18 Sep 2026 19:13:30 GMT</pubDate>
+      <category>World</category>
+      <description>MOGADISHU: The US has agreed to give the UN another year to wind down its support for African peacekeepers in Somalia, a document showed — a move that gives some breathing space to a force that feared quicker cuts, but still leaves its future in peril. Reuters reported in July that Washington — increasingly frustrated with the fragile administration in Mogadishu — said it would block the UN from supporting the African Union force which props up the government and helps it fight Al-Qaeda-linked</description>
+      <enclosure url="https://assets.maestronewsroom.com/media/30f6532d-717b-4366-9158-9c455299fcd9/1789758790374-7dd1ab68d4aaf826.jpg" type="image/jpeg" length="0"/>
+      <media:content url="https://assets.maestronewsroom.com/media/30f6532d-717b-4366-9158-9c455299fcd9/1789758790374-7dd1ab68d4aaf826.jpg" medium="image"/>
+    </item>
+    <item>
+      <title>Russian attack kills two in Balakliia in eastern Ukraine</title>
+      <link>https://www.arabnews.com/world/russian-attack-kills-two-in-balakliia-in-eastern-ukraine-3002277</link>
+      <guid isPermaLink="true">https://www.arabnews.com/world/russian-attack-kills-two-in-balakliia-in-eastern-ukraine-3002277</guid>
+      <pubDate>Fri, 18 Sep 2026 19:10:59 GMT</pubDate>
+      <category>World</category>
+      <description>A Russian attack in Balakliia, northeastern Ukraine, resulted in the deaths of two individuals and injuries to two others. The attack also caused a fire and damaged homes.</description>
+      <enclosure url="https://assets.maestronewsroom.com/media/30f6532d-717b-4366-9158-9c455299fcd9/1789758614771-dc31058699be8864.jpg" type="image/jpeg" length="0"/>
+      <media:content url="https://assets.maestronewsroom.com/media/30f6532d-717b-4366-9158-9c455299fcd9/1789758614771-dc31058699be8864.jpg" medium="image"/>
+    </item>
+    <item>
+      <title>UN chief ‘deeply regrets’ US visa refusal to Abbas for annual meeting</title>
+      <link>https://www.arabnews.com/middle-east/un-chief-deeply-regrets-us-visa-refusal-to-abbas-for-annual-meeting-3002279</link>
+      <guid isPermaLink="true">https://www.arabnews.com/middle-east/un-chief-deeply-regrets-us-visa-refusal-to-abbas-for-annual-meeting-3002279</guid>
+      <pubDate>Fri, 18 Sep 2026 19:06:20 GMT</pubDate>
+      <category>Middle East</category>
+      <description>NEW YORK: UN Secretary-General Antonio Guterres “deeply regrets” Washington’s decision to deny a visa for the second year running to Palestinian leader Mahmoud Abbas, a UN spokesman said Friday, preventing him for attending the UN General Assembly. The US State Department said Thursday it was refusing to grant visas to Abbas and other Palestinian officials for next week’s assembly. Only members of the Palestinian mission to the UN will be able to attend the meeting, which begins Tuesday. “The Se</description>
+      <enclosure url="https://assets.maestronewsroom.com/media/30f6532d-717b-4366-9158-9c455299fcd9/1789618322028-57b20ab79e97bed8.jpg" type="image/jpeg" length="0"/>
+      <media:content url="https://assets.maestronewsroom.com/media/30f6532d-717b-4366-9158-9c455299fcd9/1789618322028-57b20ab79e97bed8.jpg" medium="image"/>
+    </item>
+    <item>
+      <title>Fatal building collapse highlights dangers plaguing Gaza Strip</title>
+      <link>https://www.arabnews.com/middle-east/fatal-building-collapse-highlights-dangers-plaguing-gaza-strip-3002278</link>
+      <guid isPermaLink="true">https://www.arabnews.com/middle-east/fatal-building-collapse-highlights-dangers-plaguing-gaza-strip-3002278</guid>
+      <pubDate>Fri, 18 Sep 2026 19:00:54 GMT</pubDate>
+      <category>Middle East</category>
+      <description>DEIR AL-BALAH: The deadly collapse of a multi-story building in Gaza has drawn new attention to the hardships facing Palestinians there nearly a year after a ceasefire between Israel and Hamas promised to kick-start reconstruction. But as talks faltered, rebuilding plans stalled. Israel bars entry of almost all construction materials, making even repairs difficult. Many residents have since moved back into some of the hundreds of thousands of homes damaged by the war despite the risk of weak</description>
+      <enclosure url="https://assets.maestronewsroom.com/media/30f6532d-717b-4366-9158-9c455299fcd9/1789757886937-9f020e43c041bb2b.jpg" type="image/jpeg" length="0"/>
+      <media:content url="https://assets.maestronewsroom.com/media/30f6532d-717b-4366-9158-9c455299fcd9/1789757886937-9f020e43c041bb2b.jpg" medium="image"/>
+    </item>
+    <item>
+      <title>Syria arrests 5 Assad-era air force officers over strikes on populated areas</title>
+      <link>https://www.arabnews.com/middle-east/syria-arrests-5-assad-era-air-force-officers-over-strikes-on-populated-areas-3002275</link>
+      <guid isPermaLink="true">https://www.arabnews.com/middle-east/syria-arrests-5-assad-era-air-force-officers-over-strikes-on-populated-areas-3002275</guid>
+      <pubDate>Fri, 18 Sep 2026 18:58:11 GMT</pubDate>
+      <category>Middle East</category>
+      <description>DAMASCUS: Syrian security forces have arrested five former air force officers accused of involvement in deadly airstrikes on populated areas during the country’s civil war under ousted President Bashar Assad. The officers, including pilots, field commanders and operations room personnel, were detained by Internal Security Forces during a series of operations in the coastal province of Tartous over their alleged involvement in “planning, managing and executing airstrikes against populated areas,”</description>
+      <enclosure url="https://assets.maestronewsroom.com/media/30f6532d-717b-4366-9158-9c455299fcd9/1789757824677-664014baf3f6bb03.jpg" type="image/jpeg" length="0"/>
+      <media:content url="https://assets.maestronewsroom.com/media/30f6532d-717b-4366-9158-9c455299fcd9/1789757824677-664014baf3f6bb03.jpg" medium="image"/>
+    </item>
+    <item>
+      <title>US deportees to Equatorial Guinea were arrested and beaten by police, lawyers say</title>
+      <link>https://www.arabnews.com/world/us-deportees-to-equatorial-guinea-were-arrested-and-beaten-by-police-lawyers-say-3002276</link>
+      <guid isPermaLink="true">https://www.arabnews.com/world/us-deportees-to-equatorial-guinea-were-arrested-and-beaten-by-police-lawyers-say-3002276</guid>
+      <pubDate>Fri, 18 Sep 2026 18:32:00 GMT</pubDate>
+      <category>World</category>
+      <description>Ahmed Soliman from Egypt and Samson Birhane from Eritrea were arrested and mistreated in Equatorial Guinea after being deported from the US. Over 40 people have been deported under similar agreements, raising concerns among rights groups.</description>
+      <enclosure url="https://assets.maestronewsroom.com/media/30f6532d-717b-4366-9158-9c455299fcd9/1789756252278-264a96d61c67f29b.jpg" type="image/jpeg" length="0"/>
+      <media:content url="https://assets.maestronewsroom.com/media/30f6532d-717b-4366-9158-9c455299fcd9/1789756252278-264a96d61c67f29b.jpg" medium="image"/>
+    </item>
+    <item>
+      <title>US to ‘soon’ deport Ecuador assassination suspect: minister</title>
+      <link>https://www.arabnews.com/world/us-to-soon-deport-ecuador-assassination-suspect-minister-3002274</link>
+      <guid isPermaLink="true">https://www.arabnews.com/world/us-to-soon-deport-ecuador-assassination-suspect-minister-3002274</guid>
+      <pubDate>Fri, 18 Sep 2026 18:23:58 GMT</pubDate>
+      <category>World</category>
+      <description>Ecuadoran businessman Xavier Jordan, suspected of orchestrating the assassination of presidential candidate Fernando Villavicencio, is set to be deported from the US soon.</description>
+      <enclosure url="https://assets.maestronewsroom.com/media/30f6532d-717b-4366-9158-9c455299fcd9/1789755748926-e9d6dda70f5f76da.jpg" type="image/jpeg" length="0"/>
+      <media:content url="https://assets.maestronewsroom.com/media/30f6532d-717b-4366-9158-9c455299fcd9/1789755748926-e9d6dda70f5f76da.jpg" medium="image"/>
+    </item>
+    <item>
+      <title>New France boss Zidane confirms Mbappe as captain after naming first squad</title>
+      <link>https://www.arabnews.com/football/new-france-boss-zidane-confirms-mbappe-as-captain-after-naming-first-squad-3002273</link>
+      <guid isPermaLink="true">https://www.arabnews.com/football/new-france-boss-zidane-confirms-mbappe-as-captain-after-naming-first-squad-3002273</guid>
+      <pubDate>Fri, 18 Sep 2026 18:12:45 GMT</pubDate>
+      <category>Football</category>
+      <description>Zinedine Zidane has appointed Kylian Mbappe as captain of the French national team. This decision follows Zidane’s recent appointment as the new head coach succeeding Didier Deschamps.</description>
+      <enclosure url="https://assets.maestronewsroom.com/media/shared/wires/ap/20260918/ed37622290ba-France_Soccer_Zidane_22921--5a1ce.jpg" type="image/jpeg" length="0"/>
+      <media:content url="https://assets.maestronewsroom.com/media/shared/wires/ap/20260918/ed37622290ba-France_Soccer_Zidane_22921--5a1ce.jpg" medium="image"/>
+    </item>
+    <item>
+      <title>Germany receives first F-35 warplane at ceremony in US</title>
+      <link>https://www.arabnews.com/world/germany-receives-first-f-35-warplane-at-ceremony-in-us-3002271</link>
+      <guid isPermaLink="true">https://www.arabnews.com/world/germany-receives-first-f-35-warplane-at-ceremony-in-us-3002271</guid>
+      <pubDate>Fri, 18 Sep 2026 18:02:51 GMT</pubDate>
+      <category>World</category>
+      <description>Germany has taken delivery of the first of its F-35 stealth warplanes at a ceremony in Texas. The event marks a significant development in Germany’s defense strategy.</description>
+      <enclosure url="https://assets.maestronewsroom.com/media/30f6532d-717b-4366-9158-9c455299fcd9/1789754530730-0b3bac6172b947b6.webp" type="image/jpeg" length="0"/>
+      <media:content url="https://assets.maestronewsroom.com/media/30f6532d-717b-4366-9158-9c455299fcd9/1789754530730-0b3bac6172b947b6.webp" medium="image"/>
+    </item>
+    <item>
+      <title>‘Raseef 17,’ ‘Anis Al-Rouh’ win Red Sea’s 48-Hour Film Challenge</title>
+      <link>https://www.arabnews.com/saudi-arabia/raseef-17-anis-al-rouh-win-red-seas-48-hour-film-challenge-3002209</link>
+      <guid isPermaLink="true">https://www.arabnews.com/saudi-arabia/raseef-17-anis-al-rouh-win-red-seas-48-hour-film-challenge-3002209</guid>
+      <pubDate>Fri, 18 Sep 2026 17:59:01 GMT</pubDate>
+      <category>Saudi Arabia</category>
+      <description>JEDDAH: The Red Sea Film Foundation has named “Raseef 17” and “Anis Al-Rouh” as winners of the sixth 48-Hour Film Challenge, with “On My Behalf” receiving a special jury mention. The results were announced during an official screening and awards ceremony on Sept. 17 after the jury evaluated 13 completed short films. The judging panel comprised French director and screenwriter Houda Benyamina, Saudi actor and producer Sohayb Godus, and Saudi actor Khairia Abu Laban. The foundation selected 13 tea</description>
+      <enclosure url="https://assets.maestronewsroom.com/media/30f6532d-717b-4366-9158-9c455299fcd9/1789725910036-6403c0d0e353e176.JPG" type="image/jpeg" length="0"/>
+      <media:content url="https://assets.maestronewsroom.com/media/30f6532d-717b-4366-9158-9c455299fcd9/1789725910036-6403c0d0e353e176.JPG" medium="image"/>
+    </item>
+    <item>
+      <title>UK skills minister praises Saudi education and training model</title>
+      <link>https://www.arabnews.com/saudi-arabia/uk-skills-minister-praises-saudi-education-and-training-model-3002246</link>
+      <guid isPermaLink="true">https://www.arabnews.com/saudi-arabia/uk-skills-minister-praises-saudi-education-and-training-model-3002246</guid>
+      <pubDate>Fri, 18 Sep 2026 17:56:08 GMT</pubDate>
+      <category>Saudi Arabia</category>
+      <description>Riyadh: UK Minister of State for Skills and Member of the House of Lords Baroness Jacqui Smith praised the Saudi model for ensuring and regulating the quality of education and training. She also commended the achievements accomplished by the Kingdom through the Education and Training Evaluation Commission, or ETEC, in advancing data use in supporting education and training quality, in addition to driving sustainable improvement and facilitating evidence-based decision-making. Smith’s remarks cam</description>
+      <enclosure url="https://assets.maestronewsroom.com/media/30f6532d-717b-4366-9158-9c455299fcd9/1789748859481-298ac2cae38ceaf3.webp" type="image/jpeg" length="0"/>
+      <media:content url="https://assets.maestronewsroom.com/media/30f6532d-717b-4366-9158-9c455299fcd9/1789748859481-298ac2cae38ceaf3.webp" medium="image"/>
+    </item>
+    <item>
+      <title>6,000 runners bring Saudi National Day spirit to Historic Jeddah</title>
+      <link>https://www.arabnews.com/saudi-arabia/6000-runners-bring-saudi-national-day-spirit-to-historic-jeddah-3002264</link>
+      <guid isPermaLink="true">https://www.arabnews.com/saudi-arabia/6000-runners-bring-saudi-national-day-spirit-to-historic-jeddah-3002264</guid>
+      <pubDate>Fri, 18 Sep 2026 17:54:22 GMT</pubDate>
+      <category>Saudi Arabia</category>
+      <description>Jeddah: Historic Jeddah came alive early on Friday morning as 6,000 Saudis and expatriates from different nationalities took part in the Saudi National Day Run, combining fitness, community and a celebration of their shared home. The Green Spirit Run, organized by Masafat Club in collaboration with the Ministry of Sports, the Sports for All Federation and Jeddah Historic District (Al-Balad), featured 5-km and 2-km courses for professional and amateur runners as well as children. Participants fol</description>
+      <enclosure url="https://assets.maestronewsroom.com/media/30f6532d-717b-4366-9158-9c455299fcd9/1789749945562-e6e4ad5fe73896b4.jpg" type="image/jpeg" length="0"/>
+      <media:content url="https://assets.maestronewsroom.com/media/30f6532d-717b-4366-9158-9c455299fcd9/1789749945562-e6e4ad5fe73896b4.jpg" medium="image"/>
+    </item>
+    <item>
+      <title>Mancini calls up 34 players for his first Italy squad since returning</title>
+      <link>https://www.arabnews.com/football/mancini-calls-up-34-players-for-his-first-italy-squad-since-returning-3002270</link>
+      <guid isPermaLink="true">https://www.arabnews.com/football/mancini-calls-up-34-players-for-his-first-italy-squad-since-returning-3002270</guid>
+      <pubDate>Fri, 18 Sep 2026 17:39:08 GMT</pubDate>
+      <category>Football</category>
+      <description>Roberto Mancini has named 34 players for Italy’s squad as he returns as coach, aiming to revitalize the team following their World Cup failures. The squad features a mix of experienced players and newcomers as Italy prepares for UEFA Nations League matches.</description>
+      <enclosure url="https://assets.maestronewsroom.com/media/30f6532d-717b-4366-9158-9c455299fcd9/1789753087941-2531d81b1cc118d0.webp" type="image/jpeg" length="0"/>
+      <media:content url="https://assets.maestronewsroom.com/media/30f6532d-717b-4366-9158-9c455299fcd9/1789753087941-2531d81b1cc118d0.webp" medium="image"/>
+    </item>
+    <item>
+      <title>France to convene G7 energy summit amid soaring fuel prices</title>
+      <link>https://www.arabnews.com/world/france-to-convene-g7-energy-summit-amid-soaring-fuel-prices-3002267</link>
+      <guid isPermaLink="true">https://www.arabnews.com/world/france-to-convene-g7-energy-summit-amid-soaring-fuel-prices-3002267</guid>
+      <pubDate>Fri, 18 Sep 2026 17:35:47 GMT</pubDate>
+      <category>World</category>
+      <description>President Emmanuel Macron announced that France will organize a G7 summit focused on energy to address rising fuel prices and foster cooperation among member countries amid tensions induced by the US-Iran conflict.</description>
+      <enclosure url="https://assets.maestronewsroom.com/media/30f6532d-717b-4366-9158-9c455299fcd9/1789752629040-37a9eef07a7ec773.jpg" type="image/jpeg" length="0"/>
+      <media:content url="https://assets.maestronewsroom.com/media/30f6532d-717b-4366-9158-9c455299fcd9/1789752629040-37a9eef07a7ec773.jpg" medium="image"/>
+    </item>
+    <item>
+      <title>Bulgaria recalls envoy to UAE over alleged link to graft</title>
+      <link>https://www.arabnews.com/world/bulgaria-recalls-envoy-to-uae-over-alleged-link-to-graft-3002268</link>
+      <guid isPermaLink="true">https://www.arabnews.com/world/bulgaria-recalls-envoy-to-uae-over-alleged-link-to-graft-3002268</guid>
+      <pubDate>Fri, 18 Sep 2026 17:31:55 GMT</pubDate>
+      <category>World</category>
+      <description>Bulgaria’s government has recalled its envoy to the UAE following allegations of involvement in a corruption scheme involving a sanctioned MP. Prime Minister Rumen Radev has initiated an investigation to combat corruption effectively.</description>
+      <enclosure url="https://assets.maestronewsroom.com/media/30f6532d-717b-4366-9158-9c455299fcd9/1789752659289-78f55d1d85bc7908.webp" type="image/jpeg" length="0"/>
+      <media:content url="https://assets.maestronewsroom.com/media/30f6532d-717b-4366-9158-9c455299fcd9/1789752659289-78f55d1d85bc7908.webp" medium="image"/>
+    </item>
+    <item>
+      <title>Chinese man sentenced to prison for 2024 Switzerland knife attack on children</title>
+      <link>https://www.arabnews.com/world/chinese-man-sentenced-to-prison-for-2024-switzerland-knife-attack-on-children-3002265</link>
+      <guid isPermaLink="true">https://www.arabnews.com/world/chinese-man-sentenced-to-prison-for-2024-switzerland-knife-attack-on-children-3002265</guid>
+      <pubDate>Fri, 18 Sep 2026 17:14:37 GMT</pubDate>
+      <category>World</category>
+      <description>A Chinese man was sentenced to 15 years in prison for a knife attack on children in Switzerland in 2024. The court in Zurich found him guilty of attempted murder.</description>
+      <enclosure url="https://assets.maestronewsroom.com/media/30f6532d-717b-4366-9158-9c455299fcd9/1789751642631-11f2025b89f6fbbc.jpg" type="image/jpeg" length="0"/>
+      <media:content url="https://assets.maestronewsroom.com/media/30f6532d-717b-4366-9158-9c455299fcd9/1789751642631-11f2025b89f6fbbc.jpg" medium="image"/>
+    </item>
+    <item>
+      <title>Ronaldo named in Portugal squad for Nations League</title>
+      <link>https://www.arabnews.com/football/ronaldo-named-in-portugal-squad-for-nations-league-3002262</link>
+      <guid isPermaLink="true">https://www.arabnews.com/football/ronaldo-named-in-portugal-squad-for-nations-league-3002262</guid>
+      <pubDate>Fri, 18 Sep 2026 16:36:39 GMT</pubDate>
+      <category>Football</category>
+      <description>Cristiano Ronaldo has been selected for Portugal’s Nations League squad, marking potentially his final season in football. New coach Jorge Jesus has included him in his first squad announcement.</description>
+      <enclosure url="https://assets.maestronewsroom.com/media/30f6532d-717b-4366-9158-9c455299fcd9/arabnews-import/2017/06/933466-142775193.jpg" type="image/jpeg" length="0"/>
+      <media:content url="https://assets.maestronewsroom.com/media/30f6532d-717b-4366-9158-9c455299fcd9/arabnews-import/2017/06/933466-142775193.jpg" medium="image"/>
+    </item>
+    <item>
+      <title>Shark kills swimmer off beach in Western Australia: police</title>
+      <link>https://www.arabnews.com/world/shark-kills-swimmer-off-beach-in-western-australia-police-3002261</link>
+      <guid isPermaLink="true">https://www.arabnews.com/world/shark-kills-swimmer-off-beach-in-western-australia-police-3002261</guid>
+      <pubDate>Fri, 18 Sep 2026 16:31:04 GMT</pubDate>
+      <category>World</category>
+      <description>A fatal shark attack claimed the life of a swimmer near Perth, marking the fifth deadly incident of the year. Police confirmed the death occurred off a popular beach in Western Australia.</description>
+      <enclosure url="https://assets.maestronewsroom.com/media/30f6532d-717b-4366-9158-9c455299fcd9/1789749027426-16d041ad6addb774.jpg" type="image/jpeg" length="0"/>
+      <media:content url="https://assets.maestronewsroom.com/media/30f6532d-717b-4366-9158-9c455299fcd9/1789749027426-16d041ad6addb774.jpg" medium="image"/>
+    </item>
+    <item>
+      <title>Mbappe ends Nike partnership to join Swiss brand On</title>
+      <link>https://www.arabnews.com/football/mbappe-ends-nike-partnership-to-join-swiss-brand-on-3002260</link>
+      <guid isPermaLink="true">https://www.arabnews.com/football/mbappe-ends-nike-partnership-to-join-swiss-brand-on-3002260</guid>
+      <pubDate>Fri, 18 Sep 2026 16:22:19 GMT</pubDate>
+      <category>Football</category>
+      <description>Kylian Mbappe has left Nike to partner with Swiss brand On, marking the brand’s entry into football. This move brings a significant change in his sportswear endorsements.</description>
+      <enclosure url="https://assets.maestronewsroom.com/media/30f6532d-717b-4366-9158-9c455299fcd9/arabnews-import/2023/01/3643131-2088762076.jpg" type="image/jpeg" length="0"/>
+      <media:content url="https://assets.maestronewsroom.com/media/30f6532d-717b-4366-9158-9c455299fcd9/arabnews-import/2023/01/3643131-2088762076.jpg" medium="image"/>
+    </item>
+    <item>
+      <title>Spain coach De la Fuente offers ‘full support’ to people of Ceuta</title>
+      <link>https://www.arabnews.com/football/spain-coach-de-la-fuente-offers-full-support-to-people-of-ceuta-3002259</link>
+      <guid isPermaLink="true">https://www.arabnews.com/football/spain-coach-de-la-fuente-offers-full-support-to-people-of-ceuta-3002259</guid>
+      <pubDate>Fri, 18 Sep 2026 16:16:04 GMT</pubDate>
+      <category>Football</category>
+      <description>Spain’s national football coach, Luis de la Fuente, expressed his support for the people of Ceuta as the region deals with a significant migration crisis involving over 70,000 migrants entering from Morocco.</description>
+      <enclosure url="https://assets.maestronewsroom.com/media/shared/wires/afp/20260706/bc4f0a643f89-AFP_B9F4826.jpg" type="image/jpeg" length="0"/>
+      <media:content url="https://assets.maestronewsroom.com/media/shared/wires/afp/20260706/bc4f0a643f89-AFP_B9F4826.jpg" medium="image"/>
+    </item>
+    <item>
+      <title>FIFA urged to distribute $2.1b from reserves to member associations</title>
+      <link>https://www.arabnews.com/football/fifa-urged-to-distribute-21bn-in-reserves-to-member-associations-3002256</link>
+      <guid isPermaLink="true">https://www.arabnews.com/football/fifa-urged-to-distribute-21bn-in-reserves-to-member-associations-3002256</guid>
+      <pubDate>Fri, 18 Sep 2026 16:07:24 GMT</pubDate>
+      <category>Football</category>
+      <description>LONDON: FIFA should distribute at least $2.1 billion from its financial reserves to its 211 member associations for football development, two senior officials have urged in a letter to Gianni Infantino, the organization’s president. UEFA’s President Aleksander Ceferin and CONCACAF’s President Victor Montagliani, both FIFA vice presidents, have called for an independent review of FIFA’s finances and proposed that recommendations on releasing funds be submitted to the FIFA Council at its next meet</description>
+      <enclosure url="https://assets.maestronewsroom.com/media/shared/wires/ap/20260915/7e3559d47205-Greece_UEFA_Soccer_17248--e4c19.jpg" type="image/jpeg" length="0"/>
+      <media:content url="https://assets.maestronewsroom.com/media/shared/wires/ap/20260915/7e3559d47205-Greece_UEFA_Soccer_17248--e4c19.jpg" medium="image"/>
+    </item>
+    <item>
+      <title>Zelensky hosts first Carpathian countries summit in Ukraine</title>
+      <link>https://www.arabnews.com/world/zelensky-hosts-first-carpathian-countries-summit-in-ukraine-3002258</link>
+      <guid isPermaLink="true">https://www.arabnews.com/world/zelensky-hosts-first-carpathian-countries-summit-in-ukraine-3002258</guid>
+      <pubDate>Fri, 18 Sep 2026 15:56:04 GMT</pubDate>
+      <category>World</category>
+      <description>President Zelensky initiated the first Carpathian Summit in Ukraine, aiming to enhance economic relationships with neighboring EU countries.</description>
+      <enclosure url="https://assets.maestronewsroom.com/media/shared/wires/ap/20260918/714c93e4d03d-Russia_Ukraine_War_47221--1d49e.jpg" type="image/jpeg" length="0"/>
+      <media:content url="https://assets.maestronewsroom.com/media/shared/wires/ap/20260918/714c93e4d03d-Russia_Ukraine_War_47221--1d49e.jpg" medium="image"/>
+    </item>
+    <item>
+      <title>‘Kings League complements traditional football,’ says MENA MD Wael Al-Fayez</title>
+      <link>https://www.arabnews.com/sport/kings-league-complements-traditional-football-says-mena-md-wael-al-fayez-3002234</link>
+      <guid isPermaLink="true">https://www.arabnews.com/sport/kings-league-complements-traditional-football-says-mena-md-wael-al-fayez-3002234</guid>
+      <pubDate>Fri, 18 Sep 2026 15:53:14 GMT</pubDate>
+      <category>Sport</category>
+      <description>RIYADH: As the Kings League kicked off its first full-length season in the Middle East on Friday, all eyes were on Cool Arena at Boulevard Riyadh City as the venue welcomed the second iteration of this new format of football. Two 20-minute halves, seven players on each side, secret cards that unlock in-game bonuses and the President’s Penalty: The Kings League MENA Split 1 will take place in Riyadh throughout September and October, with the finals concluding on Oct. 30 after nine matchdays and q</description>
+      <enclosure url="https://assets.maestronewsroom.com/media/30f6532d-717b-4366-9158-9c455299fcd9/1789732679621-ab767327467a2db4.jpg" type="image/jpeg" length="0"/>
+      <media:content url="https://assets.maestronewsroom.com/media/30f6532d-717b-4366-9158-9c455299fcd9/1789732679621-ab767327467a2db4.jpg" medium="image"/>
+    </item>
+    <item>
+      <title>Russia make partial soccer return in FIFA draw for boys’ Under-15 World Cup</title>
+      <link>https://www.arabnews.com/football/russia-make-partial-soccer-return-in-fifa-draw-for-boys-under-15-world-cup-3002255</link>
+      <guid isPermaLink="true">https://www.arabnews.com/football/russia-make-partial-soccer-return-in-fifa-draw-for-boys-under-15-world-cup-3002255</guid>
+      <pubDate>Fri, 18 Sep 2026 15:46:07 GMT</pubDate>
+      <category>Football</category>
+      <description>Russia, excluded from international soccer due to its invasion of Ukraine, has been included in FIFA’s Under-15 World Cup draw. The inaugural tournament will be hosted by Azerbaijan.</description>
+      <enclosure url="https://assets.maestronewsroom.com/media/30f6532d-717b-4366-9158-9c455299fcd9/1789746328831-b6a77c1b15ae7e53.jpg" type="image/jpeg" length="0"/>
+      <media:content url="https://assets.maestronewsroom.com/media/30f6532d-717b-4366-9158-9c455299fcd9/1789746328831-b6a77c1b15ae7e53.jpg" medium="image"/>
+    </item>
+    <item>
+      <title>Mural of rapper Macklemore painted in Gaza after Sheeran tour furor</title>
+      <link>https://www.arabnews.com/art-culture/mural-of-rapper-macklemore-painted-in-gaza-after-sheeran-tour-furor-3002254</link>
+      <guid isPermaLink="true">https://www.arabnews.com/art-culture/mural-of-rapper-macklemore-painted-in-gaza-after-sheeran-tour-furor-3002254</guid>
+      <pubDate>Fri, 18 Sep 2026 15:30:01 GMT</pubDate>
+      <category>Art &amp; Culture</category>
+      <description>GAZA: Artists in Gaza have painted a mural of Macklemore wrapped in a Palestinian flag on a huge slab of concrete in the ruins of Gaza City, after the US rapper was kicked off Ed Sheeran’s upcoming tour for calling for a “Free Palestine.” The mural, on a slab that leans against ruined buildings surrounded by rubble, depicts the “Thrift Shop” rapper raising a fist in the air. “Thank you for using your voice for Palestine,” it reads. “We wanted to send a message to thank rapper Macklemore in this</description>
+      <enclosure url="https://assets.maestronewsroom.com/media/30f6532d-717b-4366-9158-9c455299fcd9/1789746222929-4347537cacd91c7f.jpg" type="image/jpeg" length="0"/>
+      <media:content url="https://assets.maestronewsroom.com/media/30f6532d-717b-4366-9158-9c455299fcd9/1789746222929-4347537cacd91c7f.jpg" medium="image"/>
+    </item>
+    <item>
+      <title>Roadside bomb kills 6 soldiers in Pakistan as troops kill 10 militants in multiple raids</title>
+      <link>https://www.arabnews.com/world/roadside-bomb-kills-6-soldiers-in-pakistan-as-troops-kill-10-militants-in-multiple-raids-3002253</link>
+      <guid isPermaLink="true">https://www.arabnews.com/world/roadside-bomb-kills-6-soldiers-in-pakistan-as-troops-kill-10-militants-in-multiple-raids-3002253</guid>
+      <pubDate>Fri, 18 Sep 2026 15:28:38 GMT</pubDate>
+      <category>World</category>
+      <description>ISLAMABAD: A roadside bomb struck a security forces convoy in northwestern Pakistan, killing six soldiers, while government troops conducted raids resulting in the deaths of militants believed to be members of the Pakistani Taliban, the military and local police said Friday. The bombing occurred Thursday in Hangu, a district in Khyber Pakhtunkhwa province, officials said. Security forces killed 10 militants Thursday during multiple intelligence-based operations on suspected hideouts in the No</description>
+      <enclosure url="https://assets.maestronewsroom.com/media/30f6532d-717b-4366-9158-9c455299fcd9/1789745236025-7c503d28d7eab3cf.jpg" type="image/jpeg" length="0"/>
+      <media:content url="https://assets.maestronewsroom.com/media/30f6532d-717b-4366-9158-9c455299fcd9/1789745236025-7c503d28d7eab3cf.jpg" medium="image"/>
+    </item>
+    <item>
+      <title>Gun-toting, sword-wielding Iranian volunteers put on show of defiance</title>
+      <link>https://www.arabnews.com/middle-east/gun-toting-sword-wielding-iranian-volunteers-put-on-show-of-defiance-3002245</link>
+      <guid isPermaLink="true">https://www.arabnews.com/middle-east/gun-toting-sword-wielding-iranian-volunteers-put-on-show-of-defiance-3002245</guid>
+      <pubDate>Fri, 18 Sep 2026 15:21:02 GMT</pubDate>
+      <category>Middle East</category>
+      <description>Iranian volunteers, including men with swords and women with guns, demonstrated their readiness to defend Iran amidst ongoing conflict. This show of defiance comes after six months of war.</description>
+      <enclosure url="https://assets.maestronewsroom.com/media/30f6532d-717b-4366-9158-9c455299fcd9/1789743641716-fd0800c92b256f09.jpg" type="image/jpeg" length="0"/>
+      <media:content url="https://assets.maestronewsroom.com/media/30f6532d-717b-4366-9158-9c455299fcd9/1789743641716-fd0800c92b256f09.jpg" medium="image"/>
+    </item>
+    <item>
+      <title>India court grants bail to US citizen accused of illegal entry</title>
+      <link>https://www.arabnews.com/world/india-court-grants-bail-to-us-citizen-accused-of-illegal-entry-3002252</link>
+      <guid isPermaLink="true">https://www.arabnews.com/world/india-court-grants-bail-to-us-citizen-accused-of-illegal-entry-3002252</guid>
+      <pubDate>Fri, 18 Sep 2026 15:16:12 GMT</pubDate>
+      <category>World</category>
+      <description>A US citizen detained for allegedly entering India illegally was granted bail by an Indian court. He was arrested along with six Ukrainians for crossing into Myanmar without permits.</description>
+      <enclosure url="https://assets.maestronewsroom.com/media/30f6532d-717b-4366-9158-9c455299fcd9/1789744474082-8e77f3c815408d9d.jpg" type="image/jpeg" length="0"/>
+      <media:content url="https://assets.maestronewsroom.com/media/30f6532d-717b-4366-9158-9c455299fcd9/1789744474082-8e77f3c815408d9d.jpg" medium="image"/>
+    </item>
+    <item>
+      <title>Saudi Media Forum expands university partnerships to prepare future talent</title>
+      <link>https://www.arabnews.com/saudi-arabia/saudi-media-forum-expands-university-partnerships-to-prepare-future-talent-3002238</link>
+      <guid isPermaLink="true">https://www.arabnews.com/saudi-arabia/saudi-media-forum-expands-university-partnerships-to-prepare-future-talent-3002238</guid>
+      <pubDate>Fri, 18 Sep 2026 15:01:24 GMT</pubDate>
+      <category>Saudi Arabia</category>
+      <description>A Saudi Media Forum scheme, Media Ambassadors, has strengthened its strategic academic partnerships with a number of Saudi universities to empower young national talent and develop a new generation of professionals capable of keeping pace with rapid industry transformations. The partnerships aim to provide students and young talent with an integrated educational and professional environment by supporting continuous learning, developing communication and technical skills, and offering training an</description>
+      <enclosure url="https://assets.maestronewsroom.com/media/30f6532d-717b-4366-9158-9c455299fcd9/arabnews-import/2019/11/1866721-1518860349.jpg" type="image/jpeg" length="0"/>
+      <media:content url="https://assets.maestronewsroom.com/media/30f6532d-717b-4366-9158-9c455299fcd9/arabnews-import/2019/11/1866721-1518860349.jpg" medium="image"/>
+    </item>
+    <item>
+      <title>UK air traffic control outage caused by software defect, says operator</title>
+      <link>https://www.arabnews.com/world/uk-air-traffic-control-outage-caused-by-software-defect-says-operator-3002250</link>
+      <guid isPermaLink="true">https://www.arabnews.com/world/uk-air-traffic-control-outage-caused-by-software-defect-says-operator-3002250</guid>
+      <pubDate>Fri, 18 Sep 2026 14:33:12 GMT</pubDate>
+      <category>World</category>
+      <description>A software defect caused a UK air traffic control outage, leading to 2,000 flight cancellations and significant disruption. Airlines incurred heavy financial losses as a result.</description>
+      <enclosure url="https://assets.maestronewsroom.com/media/30f6532d-717b-4366-9158-9c455299fcd9/1789741878712-f207a1ef62196508.jpg" type="image/jpeg" length="0"/>
+      <media:content url="https://assets.maestronewsroom.com/media/30f6532d-717b-4366-9158-9c455299fcd9/1789741878712-f207a1ef62196508.jpg" medium="image"/>
+    </item>
+    <item>
+      <title>Macron orders protection of France’s infrastructure against Russian hybrid attacks</title>
+      <link>https://www.arabnews.com/world/macron-orders-protection-of-frances-infrastructure-against-russian-hybrid-attacks-3002248</link>
+      <guid isPermaLink="true">https://www.arabnews.com/world/macron-orders-protection-of-frances-infrastructure-against-russian-hybrid-attacks-3002248</guid>
+      <pubDate>Fri, 18 Sep 2026 14:13:52 GMT</pubDate>
+      <category>World</category>
+      <description>Macron has announced measures to protect France’s infrastructure from Russian hybrid attacks, citing growing threats across Europe.</description>
+      <enclosure url="https://assets.maestronewsroom.com/media/shared/wires/ap/20260915/9eb5f0812bc5-France_Macron_8_638--542cc.jpg" type="image/jpeg" length="0"/>
+      <media:content url="https://assets.maestronewsroom.com/media/shared/wires/ap/20260915/9eb5f0812bc5-France_Macron_8_638--542cc.jpg" medium="image"/>
+    </item>
+    <item>
+      <title>The Gulf perspective on Turkiye’s terror-free initiative</title>
+      <link>https://www.arabnews.com/opinion/the-gulf-perspective-on-turkiyes-terror-free-initiative-3002124</link>
+      <guid isPermaLink="true">https://www.arabnews.com/opinion/the-gulf-perspective-on-turkiyes-terror-free-initiative-3002124</guid>
+      <pubDate>Fri, 18 Sep 2026 14:10:50 GMT</pubDate>
+      <category>Opinion</category>
+      <description>In 2025, Ankara launched an initiative designed to create a “terror-free Turkiye,” bringing to an end a decades-long conflict with the Kurdistan Workers’ Party, also known as PKK, and contributing to greater stability across the Middle East. When the PKK announced its decision to dissolve and lay down its arms, Gulf Cooperation Council member states, particularly Qatar, the UAE and Saudi Arabia, welcomed the development as a significant step toward peace, security and regional stability. All GCC</description>
+      <enclosure url="https://assets.maestronewsroom.com/media/30f6532d-717b-4366-9158-9c455299fcd9/1789740511627-6c8b1b15347b82ff.jpg" type="image/jpeg" length="0"/>
+      <media:content url="https://assets.maestronewsroom.com/media/30f6532d-717b-4366-9158-9c455299fcd9/1789740511627-6c8b1b15347b82ff.jpg" medium="image"/>
+    </item>
+    <item>
+      <title>Riyadh hosting UNESCO Global Forum affirms its advanced standing as an active partner in AI governance, ethics: ICAIRE</title>
+      <link>https://www.arabnews.com/saudi-arabia/riyadh-hosting-unesco-global-forum-affirms-its-advanced-standing-as-an-active-partner-in-ai-governance-ethics-icaire-3002228</link>
+      <guid isPermaLink="true">https://www.arabnews.com/saudi-arabia/riyadh-hosting-unesco-global-forum-affirms-its-advanced-standing-as-an-active-partner-in-ai-governance-ethics-icaire-3002228</guid>
+      <pubDate>Fri, 18 Sep 2026 14:04:34 GMT</pubDate>
+      <category>Saudi Arabia</category>
+      <description>RIYADH: Saudi Arabia hosting the 4th UNESCO Global Forum on the Ethics of Artificial Intelligence in Riyadh affirms its “advanced standing as an active international partner in AI governance and ethics,” said Jawaher Al-Oufaisan, international cooperation adviser for AI research and ethics at ICAIRE. The International Center for AI Research and Ethics, established in Riyadh and recognized as a Category 2 Center under the auspices of UNESCO, serves as a global hub for advancing AI research and et</description>
+      <enclosure url="https://assets.maestronewsroom.com/media/30f6532d-717b-4366-9158-9c455299fcd9/1789732088646-a953f70373168819.jpeg" type="image/jpeg" length="0"/>
+      <media:content url="https://assets.maestronewsroom.com/media/30f6532d-717b-4366-9158-9c455299fcd9/1789732088646-a953f70373168819.jpeg" medium="image"/>
+    </item>
+    <item>
+      <title>New coach Xavi Hernandez leaves Memphis Depay out of the Netherlands squad for Nations League</title>
+      <link>https://www.arabnews.com/football/new-coach-xavi-hernandez-leaves-memphis-depay-out-of-the-netherlands-squad-for-nations-league-3002244</link>
+      <guid isPermaLink="true">https://www.arabnews.com/football/new-coach-xavi-hernandez-leaves-memphis-depay-out-of-the-netherlands-squad-for-nations-league-3002244</guid>
+      <pubDate>Fri, 18 Sep 2026 14:02:43 GMT</pubDate>
+      <category>Football</category>
+      <description>Xavi Hernandez, the new coach for the Netherlands, has excluded top scorer Memphis Depay from the squad for the upcoming Nations League. The squad includes new call-ups like Ruben van Bommel and Gjivai Zechiël.</description>
+      <enclosure url="https://assets.maestronewsroom.com/media/30f6532d-717b-4366-9158-9c455299fcd9/1789740091273-b20fcc05d3d19835.jpg" type="image/jpeg" length="0"/>
+      <media:content url="https://assets.maestronewsroom.com/media/30f6532d-717b-4366-9158-9c455299fcd9/1789740091273-b20fcc05d3d19835.jpg" medium="image"/>
+    </item>
+    <item>
+      <title>Iranian attacks on GCC hurt Global South’s collective role</title>
+      <link>https://www.arabnews.com/opinion/iranian-attacks-on-gcc-hurt-global-souths-collective-role-3002060</link>
+      <guid isPermaLink="true">https://www.arabnews.com/opinion/iranian-attacks-on-gcc-hurt-global-souths-collective-role-3002060</guid>
+      <pubDate>Fri, 18 Sep 2026 13:58:30 GMT</pubDate>
+      <category>Opinion</category>
+      <description>The attacks by Iran and its proxies on its neighbors in the Gulf Cooperation Council have highlighted the weakness of the Global South’s geopolitical cohesion. They have shown that the emerging bloc does not yet propose or offer a cohesive alternative structure for political stability. The Western-led international order that it opposes has, for the last 80 years, provided a degree of stability to the international system. Iran may therefore have damaged the prospects of the Global South becomin</description>
+      <enclosure url="https://assets.maestronewsroom.com/media/30f6532d-717b-4366-9158-9c455299fcd9/1789739640730-230011f3ed69a6ff.jpg" type="image/jpeg" length="0"/>
+      <media:content url="https://assets.maestronewsroom.com/media/30f6532d-717b-4366-9158-9c455299fcd9/1789739640730-230011f3ed69a6ff.jpg" medium="image"/>
+    </item>
+    <item>
+      <title>Final round of 2026 FIA World Rally Championship to take place in Italy as Saudi drops out</title>
+      <link>https://www.arabnews.com/sport/final-round-of-2026-fia-world-rally-championship-to-take-place-in-italy-as-saudi-drops-out-3002236</link>
+      <guid isPermaLink="true">https://www.arabnews.com/sport/final-round-of-2026-fia-world-rally-championship-to-take-place-in-italy-as-saudi-drops-out-3002236</guid>
+      <pubDate>Fri, 18 Sep 2026 13:39:46 GMT</pubDate>
+      <category>Sport</category>
+      <description>DUBAI: The Federation Internationale de l’Automobile and WRC Promoter have confirmed that Rally Saudi Arabia, scheduled to take place from Nov. 12-15, will not form part of the 2026 FIA World Rally Championship. The FIA, the global governing body for motor sport and the federation for mobility organizations worldwide, and WRC Promoter have worked extensively in recent months with the Saudi Automobile and Motorcycle Federation, the local organizing team and championship stakeholders, to explore e</description>
+      <enclosure url="https://assets.maestronewsroom.com/media/30f6532d-717b-4366-9158-9c455299fcd9/1789736775070-21e4ec915ff40bb0.jpg" type="image/jpeg" length="0"/>
+      <media:content url="https://assets.maestronewsroom.com/media/30f6532d-717b-4366-9158-9c455299fcd9/1789736775070-21e4ec915ff40bb0.jpg" medium="image"/>
+    </item>
+    <item>
+      <title>Grief and shock in Philippines after deadly school shooting</title>
+      <link>https://www.arabnews.com/world/grief-and-shock-in-philippines-after-deadly-school-shooting-3002230</link>
+      <guid isPermaLink="true">https://www.arabnews.com/world/grief-and-shock-in-philippines-after-deadly-school-shooting-3002230</guid>
+      <pubDate>Fri, 18 Sep 2026 13:38:31 GMT</pubDate>
+      <category>World</category>
+      <description>MANILA: The Philippines was rocked on Friday by a deadly school shooting in South Cotabato province, where a student gunman killed at least two of his peers and wounded six others. The incident took place at around 1 p.m. at the Banga National High School in the southern Philippines. All the victims were students aged 14 to 17. It follows a series of violent incidents that have unfolded at Philippine schools since June, including two deadly shootings, which were previously considered rare in th</description>
+      <enclosure url="https://assets.maestronewsroom.com/media/30f6532d-717b-4366-9158-9c455299fcd9/1789731772106-ac4df7c2b13c149f.JPG" type="image/jpeg" length="0"/>
+      <media:content url="https://assets.maestronewsroom.com/media/30f6532d-717b-4366-9158-9c455299fcd9/1789731772106-ac4df7c2b13c149f.JPG" medium="image"/>
+    </item>
+    <item>
+      <title>Third of Ukraine’s land faces moisture shortages, delaying sowing, minister says</title>
+      <link>https://www.arabnews.com/world/third-of-ukraines-land-faces-moisture-shortages-delaying-sowing-minister-says-3002243</link>
+      <guid isPermaLink="true">https://www.arabnews.com/world/third-of-ukraines-land-faces-moisture-shortages-delaying-sowing-minister-says-3002243</guid>
+      <pubDate>Fri, 18 Sep 2026 13:33:53 GMT</pubDate>
+      <category>World</category>
+      <description>KYIV: About 30 percent of Ukrainian farmland is facing moisture shortages, delaying the start of winter sowing, agriculture minister Taras Vysotskyi said on Friday. Ukraine traditionally sows winter wheat, which accounts for more than 95 percent of its total wheat harvest, in autumn for harvesting in the summer of the following year. The agriculture ministry and weather forecasters said this week that conditions in September remained unfavorable for sowing ‌winter wheat, ‌although some farmer</description>
+      <enclosure url="https://assets.maestronewsroom.com/media/30f6532d-717b-4366-9158-9c455299fcd9/1789738387328-2f00faaf9968aaf5.jpg" type="image/jpeg" length="0"/>
+      <media:content url="https://assets.maestronewsroom.com/media/30f6532d-717b-4366-9158-9c455299fcd9/1789738387328-2f00faaf9968aaf5.jpg" medium="image"/>
+    </item>
+    <item>
+      <title>South Korea says it might expand Middle East naval unit</title>
+      <link>https://www.arabnews.com/middle-east/south-korea-says-it-might-expand-middle-east-naval-unit-3002241</link>
+      <guid isPermaLink="true">https://www.arabnews.com/middle-east/south-korea-says-it-might-expand-middle-east-naval-unit-3002241</guid>
+      <pubDate>Fri, 18 Sep 2026 13:15:52 GMT</pubDate>
+      <category>Middle East</category>
+      <description>South Korean President Lee Jae Myung said his government is considering expanding the operations of a naval unit deployed in the Gulf of Aden off Yemen and Somalia to protect his country’s vessels and oil shipping routes.But he stressed that South Korea would not take action that would draw it into the US-Iran conflict, pushing back against recent pressure from the Trump administration. South Korea has deployed the anti-piracy Cheonghae Unit for years.The growing threat from Iranian-backed Houth</description>
+      <enclosure url="https://assets.maestronewsroom.com/media/shared/wires/reuters/20260918/b6cb6e4d5314-2026-09-18T023006Z_1783687071_RC2DLNA951DJ_RTRMADP_3_SOUTHKOREA-POLITICS.JPG" type="image/jpeg" length="0"/>
+      <media:content url="https://assets.maestronewsroom.com/media/shared/wires/reuters/20260918/b6cb6e4d5314-2026-09-18T023006Z_1783687071_RC2DLNA951DJ_RTRMADP_3_SOUTHKOREA-POLITICS.JPG" medium="image"/>
+    </item>
+    <item>
+      <title>Saudi Arabia condemns deadly mosque attack in northwest Pakistan</title>
+      <link>https://www.arabnews.com/saudi-arabia/saudi-arabia-condemns-deadly-mosque-attack-in-northwest-pakistan-3002240</link>
+      <guid isPermaLink="true">https://www.arabnews.com/saudi-arabia/saudi-arabia-condemns-deadly-mosque-attack-in-northwest-pakistan-3002240</guid>
+      <pubDate>Fri, 18 Sep 2026 13:15:05 GMT</pubDate>
+      <category>Saudi Arabia</category>
+      <description>RIYADH: Saudi Arabia on Friday condemned a suicide attack on a mosque at a police compound in northwestern Pakistan that killed at least 21 people, including five police officers, and wounded 80 others. In a statement, the Saudi Foreign Ministry reaffirmed the Kingdom’s rejection of attacks on places of worship and civilians and expressed its “full solidarity” with Pakistan against extremism and terrorism. The attack in Kohat, Khyber Pakhtunkhwa province, began when a suicide bomber rammed an ex</description>
+      <enclosure url="https://assets.maestronewsroom.com/media/30f6532d-717b-4366-9158-9c455299fcd9/1789737251646-a2185549c7688556.jpg" type="image/jpeg" length="0"/>
+      <media:content url="https://assets.maestronewsroom.com/media/30f6532d-717b-4366-9158-9c455299fcd9/1789737251646-a2185549c7688556.jpg" medium="image"/>
+    </item>
+    <item>
+      <title>WHO sees ‘encouraging signs’ in Congo Ebola fight, but warns cases in one eastern region are surging</title>
+      <link>https://www.arabnews.com/world/who-sees-encouraging-signs-in-congo-ebola-fight-but-warns-cases-in-one-eastern-region-are-surging-3002235</link>
+      <guid isPermaLink="true">https://www.arabnews.com/world/who-sees-encouraging-signs-in-congo-ebola-fight-but-warns-cases-in-one-eastern-region-are-surging-3002235</guid>
+      <pubDate>Fri, 18 Sep 2026 12:50:06 GMT</pubDate>
+      <category>World</category>
+      <description>The World Health Organization reports positive developments in containing the Ebola outbreak in eastern Congo’s Ituri province, while cases surge in North Kivu. WHO officials urge cautious optimism as the outbreak spreads.</description>
+      <enclosure url="https://assets.maestronewsroom.com/media/shared/wires/ap/20260908/8015c5a8e3c2-APTOPIX_Congo_Ebola_Burial_Teams_47169--c14e3.jpg" type="image/jpeg" length="0"/>
+      <media:content url="https://assets.maestronewsroom.com/media/shared/wires/ap/20260908/8015c5a8e3c2-APTOPIX_Congo_Ebola_Burial_Teams_47169--c14e3.jpg" medium="image"/>
+    </item>
+    <item>
+      <title>Israeli threat forces Lebanese army to vacate new post near Deir Mimas</title>
+      <link>https://www.arabnews.com/middle-east/israeli-threat-forces-lebanese-army-to-vacate-new-post-near-deir-mimas-3002233</link>
+      <guid isPermaLink="true">https://www.arabnews.com/middle-east/israeli-threat-forces-lebanese-army-to-vacate-new-post-near-deir-mimas-3002233</guid>
+      <pubDate>Fri, 18 Sep 2026 12:44:46 GMT</pubDate>
+      <category>Middle East</category>
+      <description>Deïr Mimass, Lebanon: The Lebanese army on Friday evacuated a newly established position on the outskirts of Deir Mimas in the Marjayoun district after Israeli forces threatened to target it. A military source at the Lebanese Army Command told Arab News that the position had been established to help residents of the area reach their agricultural land, in coordination with the Mechanism Committee. However, the Israeli military claimed on Friday that the position was inside the so-called “yellow z</description>
+      <enclosure url="https://assets.maestronewsroom.com/media/30f6532d-717b-4366-9158-9c455299fcd9/1789735369423-8728b045b448c664.jpg" type="image/jpeg" length="0"/>
+      <media:content url="https://assets.maestronewsroom.com/media/30f6532d-717b-4366-9158-9c455299fcd9/1789735369423-8728b045b448c664.jpg" medium="image"/>
+    </item>
+    <item>
+      <title>Van Bommel delight as son is named in Netherlands squad</title>
+      <link>https://www.arabnews.com/football/van-bommel-delight-as-son-is-named-in-netherlands-squad-3002232</link>
+      <guid isPermaLink="true">https://www.arabnews.com/football/van-bommel-delight-as-son-is-named-in-netherlands-squad-3002232</guid>
+      <pubDate>Fri, 18 Sep 2026 12:42:38 GMT</pubDate>
+      <category>Football</category>
+      <description>Mark van Bommel was pleased to learn his son Ruben was called up to the Netherlands squad while announcing his own squad for Belgium. Ruben, a PSV Eindhoven winger, joins the team for upcoming Nations League matches.</description>
+      <enclosure url="https://assets.maestronewsroom.com/media/shared/wires/ap/20260910/c97457966bf0-Netherlands_Champions_League_Soccer_63177--5950c.jpg" type="image/jpeg" length="0"/>
+      <media:content url="https://assets.maestronewsroom.com/media/shared/wires/ap/20260910/c97457966bf0-Netherlands_Champions_League_Soccer_63177--5950c.jpg" medium="image"/>
+    </item>
+    <item>
+      <title>Vanuatu ends search for 37 people missing in ferry sinking</title>
+      <link>https://www.arabnews.com/world/vanuatu-ends-search-for-37-people-missing-in-ferry-sinking-3002231</link>
+      <guid isPermaLink="true">https://www.arabnews.com/world/vanuatu-ends-search-for-37-people-missing-in-ferry-sinking-3002231</guid>
+      <pubDate>Fri, 18 Sep 2026 12:28:07 GMT</pubDate>
+      <category>World</category>
+      <description>WELLINGTON: A search has ended for those missing after a passenger ferry sank in rough seas off the coast of Vanuatu, with 39 people believed dead, an official told The Associated Press on Friday. No more people have been pulled from the water since last weekend, when 14 survivors and two bodies were found. The ferry MV Matui was traveling between the islands of Santo and Ambae with 53 people on board when it sank Sept. 11, a deputy commissioner of Vanuatu’s Maritime Safety Authority Lloyd M. Fi</description>
+      <enclosure url="https://assets.maestronewsroom.com/media/30f6532d-717b-4366-9158-9c455299fcd9/1789734477504-b440b44ce9cadfdd.jpg" type="image/jpeg" length="0"/>
+      <media:content url="https://assets.maestronewsroom.com/media/30f6532d-717b-4366-9158-9c455299fcd9/1789734477504-b440b44ce9cadfdd.jpg" medium="image"/>
+    </item>
+    <item>
+      <title>Yemeni forces battle Houthi assaults on strategic heights overlooking Bab Al-Mandab</title>
+      <link>https://www.arabnews.com/middle-east/yemeni-forces-battle-houthi-assaults-on-strategic-heights-overlooking-bab-al-mandab-3002208</link>
+      <guid isPermaLink="true">https://www.arabnews.com/middle-east/yemeni-forces-battle-houthi-assaults-on-strategic-heights-overlooking-bab-al-mandab-3002208</guid>
+      <pubDate>Fri, 18 Sep 2026 12:13:47 GMT</pubDate>
+      <category>Middle East</category>
+      <description>AL-MUKALLA: Heavy fighting between Yemeni government forces and the Iran-backed Houthis continued on Thursday for a fourth consecutive day around a strategic mountain in Al-Madaribah Wa Al-Aarah overlooking the Bab Al-Mandab Strait, as the militia seeks to seize high ground dominating the vital Red Sea waterway. A Yemeni government official familiar with the situation along the Red Sea coast told Arab News that the Houthis had launched intense assaults on government troops defending positions in</description>
+      <enclosure url="https://assets.maestronewsroom.com/media/shared/wires/ap/20260915/01c9a9453daf-Mideast_Wars_Yemen_21321--d46cc.jpg" type="image/jpeg" length="0"/>
+      <media:content url="https://assets.maestronewsroom.com/media/shared/wires/ap/20260915/01c9a9453daf-Mideast_Wars_Yemen_21321--d46cc.jpg" medium="image"/>
+    </item>
+    <item>
+      <title>The five keys of global shipping in the 21st century</title>
+      <link>https://www.arabnews.com/opinion/the-five-keys-of-global-shipping-in-the-21st-century-3002074</link>
+      <guid isPermaLink="true">https://www.arabnews.com/opinion/the-five-keys-of-global-shipping-in-the-21st-century-3002074</guid>
+      <pubDate>Fri, 18 Sep 2026 12:10:10 GMT</pubDate>
+      <category>Opinion</category>
+      <description>Back in 1904, when Adm. Sir John “Jacky” Fisher became Britain’s First Sea Lord, he set about modernizing the Royal Navy. He looked across Britain’s global empire, understood that he had finite resources and a limited number of ships, and had to think creatively and strategically about how to organize the force. His assessment could be summed up in a few memorable sentences. “Five keys lock up the world. Singapore, the Cape, Alexandria, Gibraltar, Dover. These five keys belong to England,” he re</description>
+      <enclosure url="https://assets.maestronewsroom.com/media/30f6532d-717b-4366-9158-9c455299fcd9/1789733140885-6a3b749039021179.jpg" type="image/jpeg" length="0"/>
+      <media:content url="https://assets.maestronewsroom.com/media/30f6532d-717b-4366-9158-9c455299fcd9/1789733140885-6a3b749039021179.jpg" medium="image"/>
+    </item>
+    <item>
+      <title>CPJ slams Israeli plan for citizenship revocation</title>
+      <link>https://www.arabnews.com/media/cpj-slams-israeli-plan-for-citizenship-revocation-3002215</link>
+      <guid isPermaLink="true">https://www.arabnews.com/media/cpj-slams-israeli-plan-for-citizenship-revocation-3002215</guid>
+      <pubDate>Fri, 18 Sep 2026 12:07:53 GMT</pubDate>
+      <category>Media</category>
+      <description>LONDON: The Committee to Protect Journalists has condemned Israeli government plans to revoke the citizenship of those who “defame” Israeli soldiers abroad. The CPJ described it as a “dangerous escalation” in the government’s efforts to “intimidate and punish journalists.” Prime Minister Benjamin Netanyahu’s plans come amid the fallout of the release of the documentary NAZA, which catalogs a litany of violations committed by the Israeli military in its war on Gaza, with senior officials issuing</description>
+      <enclosure url="https://assets.maestronewsroom.com/media/shared/wires/ap/20260915/e3998c8f225e-Mideast_Wars_Gaza_Documentary_3413_--9d78e.jpg" type="image/jpeg" length="0"/>
+      <media:content url="https://assets.maestronewsroom.com/media/shared/wires/ap/20260915/e3998c8f225e-Mideast_Wars_Gaza_Documentary_3413_--9d78e.jpg" medium="image"/>
+    </item>
+    <item>
+      <title>Breaking waves and taboos, Bangladeshi girl surfers enter global stage</title>
+      <link>https://www.arabnews.com/world/breaking-waves-and-taboos-bangladeshi-girl-surfers-enter-global-stage-3002212</link>
+      <guid isPermaLink="true">https://www.arabnews.com/world/breaking-waves-and-taboos-bangladeshi-girl-surfers-enter-global-stage-3002212</guid>
+      <pubDate>Fri, 18 Sep 2026 12:04:36 GMT</pubDate>
+      <category>World</category>
+      <description>DHAKA: Fatema Akhter knew nothing about surfing when she was younger, until she saw people riding the waves for the first time on the beach of Cox’s Bazar, a fishing town in southeastern Bangladesh. As a young girl watching them take on the waves and moving as one with their boards, she could not help but feel the excitement. By the time she started learning how to surf at nine years old, she discovered for herself a joy that was like no other. “When I finally tried it, I fell in love with the f</description>
+      <enclosure url="https://assets.maestronewsroom.com/media/30f6532d-717b-4366-9158-9c455299fcd9/1789726354500-058cf66cd6a299a4.jpg" type="image/jpeg" length="0"/>
+      <media:content url="https://assets.maestronewsroom.com/media/30f6532d-717b-4366-9158-9c455299fcd9/1789726354500-058cf66cd6a299a4.jpg" medium="image"/>
+    </item>
+    <item>
+      <title>Israel must release Palestinian-American journalist: CPJ</title>
+      <link>https://www.arabnews.com/media/israel-must-release-palestinian-american-journalist-cpj-3002214</link>
+      <guid isPermaLink="true">https://www.arabnews.com/media/israel-must-release-palestinian-american-journalist-cpj-3002214</guid>
+      <pubDate>Fri, 18 Sep 2026 11:57:26 GMT</pubDate>
+      <category>Media</category>
+      <description>The Committee to Protect Journalists has demanded that Israeli authorities release Palestinian-American journalist Naqaa Hamed, who was arrested on Tuesday at a temporary army checkpoint near Bethlehem. Returning from a work assignment near Hebron for Turkish state broadcaster TRT, Hamed and three other crew members were stopped and photographed by soldiers, before she was separately interrogated over her reporting and led away. Reports in Israel accused Hamed of espionage and cooperating with “</description>
+      <enclosure url="https://assets.maestronewsroom.com/media/30f6532d-717b-4366-9158-9c455299fcd9/1789732578967-d1da12507f8a7bcd.png" type="image/jpeg" length="0"/>
+      <media:content url="https://assets.maestronewsroom.com/media/30f6532d-717b-4366-9158-9c455299fcd9/1789732578967-d1da12507f8a7bcd.png" medium="image"/>
+    </item>
+  </channel>
+</rss>

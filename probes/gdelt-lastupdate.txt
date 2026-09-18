@@ -1,0 +1,6 @@
+200 https://data.gdeltproject.org/gdeltv2/lastupdate.txt
+text/plain
+
+71623 542e65dd1f2330d09baf99ccce92fd15 http://data.gdeltproject.org/gdeltv2/20260918193000.export.CSV.zip
+114161 a5bb50385ca2a020abe065054ac63332 http://data.gdeltproject.org/gdeltv2/20260918193000.mentions.CSV.zip
+6007050 5216853884fa180463bf10bc4b603bf9 http://data.gdeltproject.org/gdeltv2/20260918193000.gkg.csv.zip

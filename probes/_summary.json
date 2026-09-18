@@ -1,0 +1,321 @@
+{
+  "presidency-rss-index": {
+    "url": "https://www.presidency.eg/en/rss/",
+    "status": 403,
+    "finalUrl": "https://www.presidency.eg/en/rss/",
+    "type": "text/html; charset=UTF-8",
+    "bytes": 4256,
+    "ms": 252,
+    "looksLikeFeed": false
+  },
+  "presidency-feed-news-en": {
+    "url": "https://www.presidency.eg/en/%D8%A7%D9%84%D8%A3%D8%AE%D8%A8%D8%A7%D8%B1-%D8%A7%D9%84%D8%B1%D8%A6%D8%A7%D8%B3%D9%8A%D8%A9/",
+    "status": 403,
+    "finalUrl": "https://www.presidency.eg/en/%D8%A7%D9%84%D8%A3%D8%AE%D8%A8%D8%A7%D8%B1-%D8%A7%D9%84%D8%B1%D8%A6%D8%A7%D8%B3%D9%8A%D8%A9/",
+    "type": "text/html; charset=UTF-8",
+    "bytes": 4648,
+    "ms": 116,
+    "looksLikeFeed": false
+  },
+  "presidency-feed-events-en": {
+    "url": "https://www.presidency.eg/en/rss-%D8%A7%D9%84%D8%A3%D8%AD%D8%AF%D8%A7%D8%AB/",
+    "status": 403,
+    "finalUrl": "https://www.presidency.eg/en/rss-%D8%A7%D9%84%D8%A3%D8%AD%D8%AF%D8%A7%D8%AB/",
+    "type": "text/html; charset=UTF-8",
+    "bytes": 4449,
+    "ms": 114,
+    "looksLikeFeed": false
+  },
+  "presidency-feed-news-ar": {
+    "url": "https://www.presidency.eg/%D8%A7%D9%84%D8%A3%D8%AE%D8%A8%D8%A7%D8%B1-%D8%A7%D9%84%D8%B1%D8%A6%D8%A7%D8%B3%D9%8A%D8%A9/",
+    "status": 403,
+    "finalUrl": "https://www.presidency.eg/%D8%A7%D9%84%D8%A3%D8%AE%D8%A8%D8%A7%D8%B1-%D8%A7%D9%84%D8%B1%D8%A6%D8%A7%D8%B3%D9%8A%D8%A9/",
+    "type": "text/html; charset=UTF-8",
+    "bytes": 4639,
+    "ms": 69,
+    "looksLikeFeed": false
+  },
+  "presidency-feed-events-ar": {
+    "url": "https://www.presidency.eg/rss-%D8%A7%D9%84%D8%A3%D8%AD%D8%AF%D8%A7%D8%AB/",
+    "status": 200,
+    "finalUrl": "https://www.presidency.eg/rss-%D8%A7%D9%84%D8%A3%D8%AD%D8%AF%D8%A7%D8%AB/",
+    "type": "text/xml; charset=utf-8",
+    "bytes": 618659,
+    "ms": 3359,
+    "looksLikeFeed": true
+  },
+  "presidency-listing-news-en": {
+    "url": "https://www.presidency.eg/en/%D9%82%D8%B3%D9%85-%D8%A7%D9%84%D8%A3%D8%AE%D8%A8%D8%A7%D8%B1/%D8%A3%D8%AE%D8%A8%D8%A7%D8%B1-%D8%B1%D8%A6%D8%A7%D8%B3%D9%8A%D8%A9/",
+    "status": 200,
+    "finalUrl": "https://www.presidency.eg/en/%D9%82%D8%B3%D9%85-%D8%A7%D9%84%D8%A3%D8%AE%D8%A8%D8%A7%D8%B1/%D8%A3%D8%AE%D8%A8%D8%A7%D8%B1-%D8%B1%D8%A6%D8%A7%D8%B3%D9%8A%D8%A9/",
+    "type": "text/html; charset=utf-8",
+    "bytes": 72850,
+    "ms": 752,
+    "looksLikeFeed": false
+  },
+  "presidency-home-en": {
+    "url": "https://www.presidency.eg/en/",
+    "status": 403,
+    "finalUrl": "https://www.presidency.eg/en/",
+    "type": "text/html; charset=UTF-8",
+    "bytes": 4244,
+    "ms": 88,
+    "looksLikeFeed": false
+  },
+  "sis-feed": {
+    "url": "https://sis.gov.eg/en/feed/",
+    "error": "fetch failed | cause: UNABLE_TO_VERIFY_LEAF_SIGNATURE",
+    "ms": 735
+  },
+  "sis-feed-www": {
+    "url": "https://www.sis.gov.eg/en/feed/",
+    "error": "fetch failed | cause: UNABLE_TO_VERIFY_LEAF_SIGNATURE",
+    "ms": 925
+  },
+  "sis-news-feed": {
+    "url": "https://sis.gov.eg/en/media-center/news/feed/",
+    "error": "fetch failed | cause: UNABLE_TO_VERIFY_LEAF_SIGNATURE",
+    "ms": 714
+  },
+  "sis-listing": {
+    "url": "https://sis.gov.eg/en/media-center/news/",
+    "error": "fetch failed | cause: UNABLE_TO_VERIFY_LEAF_SIGNATURE",
+    "ms": 715
+  },
+  "sis-wpjson": {
+    "url": "https://sis.gov.eg/wp-json/wp/v2/posts?per_page=5",
+    "error": "fetch failed | cause: UNABLE_TO_VERIFY_LEAF_SIGNATURE",
+    "ms": 944
+  },
+  "sis-home": {
+    "url": "https://sis.gov.eg/en/",
+    "error": "fetch failed | cause: UNABLE_TO_VERIFY_LEAF_SIGNATURE",
+    "ms": 915
+  },
+  "mena-home-en": {
+    "url": "https://www.mena.org.eg/en",
+    "status": 403,
+    "finalUrl": "https://mena.org.eg/",
+    "type": "text/html; charset=UTF-8",
+    "bytes": 5637,
+    "ms": 256,
+    "looksLikeFeed": false
+  },
+  "mena-rss-en": {
+    "url": "https://www.mena.org.eg/en/rss",
+    "status": 403,
+    "finalUrl": "https://mena.org.eg/",
+    "type": "text/html; charset=UTF-8",
+    "bytes": 5637,
+    "ms": 86,
+    "looksLikeFeed": false
+  },
+  "mena-home": {
+    "url": "https://www.mena.org.eg/",
+    "status": 403,
+    "finalUrl": "https://mena.org.eg/",
+    "type": "text/html; charset=UTF-8",
+    "bytes": 5637,
+    "ms": 87,
+    "looksLikeFeed": false
+  },
+  "ahram-foreign": {
+    "url": "https://english.ahram.org.eg/Category/1/1234/Egypt/Foreign-Affairs.aspx",
+    "status": 403,
+    "finalUrl": "https://english.ahram.org.eg/Category/1/1234/Egypt/Foreign-Affairs.aspx",
+    "type": "text/html; charset=UTF-8",
+    "bytes": 5878,
+    "ms": 135,
+    "looksLikeFeed": false
+  },
+  "ahram-politics": {
+    "url": "https://english.ahram.org.eg/Category/1/64/Egypt/Politics-.aspx",
+    "status": 403,
+    "finalUrl": "https://english.ahram.org.eg/Category/1/64/Egypt/Politics-.aspx",
+    "type": "text/html; charset=UTF-8",
+    "bytes": 5833,
+    "ms": 76,
+    "looksLikeFeed": false
+  },
+  "ahram-rss": {
+    "url": "https://english.ahram.org.eg/rss.aspx",
+    "status": 403,
+    "finalUrl": "https://english.ahram.org.eg/rss.aspx",
+    "type": "text/html; charset=UTF-8",
+    "bytes": 5712,
+    "ms": 63,
+    "looksLikeFeed": false
+  },
+  "ahram-rss-ui": {
+    "url": "https://english.ahram.org.eg/UI/Front/Rss.aspx",
+    "status": 403,
+    "finalUrl": "https://english.ahram.org.eg/UI/Front/Rss.aspx",
+    "type": "text/html; charset=UTF-8",
+    "bytes": 5760,
+    "ms": 66,
+    "looksLikeFeed": false
+  },
+  "aljazeera-rss": {
+    "url": "https://www.aljazeera.com/xml/rss/all.xml",
+    "status": 200,
+    "finalUrl": "https://www.aljazeera.com/xml/rss/all.xml",
+    "type": "application/rss+xml; charset=UTF-8",
+    "bytes": 17260,
+    "ms": 147,
+    "looksLikeFeed": true
+  },
+  "bbc-me-rss": {
+    "url": "https://feeds.bbci.co.uk/news/world/middle_east/rss.xml",
+    "status": 200,
+    "finalUrl": "https://feeds.bbci.co.uk/news/world/middle_east/rss.xml",
+    "type": "text/xml; charset=utf-8",
+    "bytes": 23362,
+    "ms": 344,
+    "looksLikeFeed": true
+  },
+  "almonitor-rss": {
+    "url": "https://www.al-monitor.com/rss",
+    "status": 200,
+    "finalUrl": "https://www.al-monitor.com/rss",
+    "type": "application/rss+xml; charset=utf-8",
+    "bytes": 16442,
+    "ms": 110,
+    "looksLikeFeed": true
+  },
+  "mee-rss": {
+    "url": "https://www.middleeasteye.net/rss",
+    "status": 200,
+    "finalUrl": "https://www.middleeasteye.net/rss",
+    "type": "application/rss+xml; charset=utf-8",
+    "bytes": 149127,
+    "ms": 235,
+    "looksLikeFeed": true
+  },
+  "national-rss": {
+    "url": "https://www.thenationalnews.com/arc/outboundfeeds/rss/?outputType=xml",
+    "status": 200,
+    "finalUrl": "https://www.thenationalnews.com/arc/outboundfeeds/rss/?outputType=xml",
+    "type": "application/xml; charset=utf-8",
+    "bytes": 722311,
+    "ms": 503,
+    "looksLikeFeed": true
+  },
+  "arabnews-rss": {
+    "url": "https://www.arabnews.com/cat/1/rss.xml",
+    "status": 200,
+    "finalUrl": "https://www.arabnews.com/",
+    "type": "text/html; charset=utf-8",
+    "bytes": 280857,
+    "ms": 186,
+    "looksLikeFeed": false
+  },
+  "gdelt-doc": {
+    "url": "https://api.gdeltproject.org/api/v2/doc/doc?query=%22el-Sisi%22%20sourcelang:english&mode=artlist&format=json&maxrecords=5&timespan=3d",
+    "status": 429,
+    "finalUrl": "https://api.gdeltproject.org/api/v2/doc/doc?query=%22el-Sisi%22%20sourcelang:english&mode=artlist&format=json&maxrecords=5&timespan=3d",
+    "type": null,
+    "bytes": 444,
+    "ms": 10677,
+    "looksLikeFeed": false
+  },
+  "gdelt-lastupdate": {
+    "url": "https://data.gdeltproject.org/gdeltv2/lastupdate.txt",
+    "status": 200,
+    "finalUrl": "https://data.gdeltproject.org/gdeltv2/lastupdate.txt",
+    "type": "text/plain",
+    "bytes": 320,
+    "ms": 203,
+    "looksLikeFeed": false
+  },
+  "openfreemap-dark": {
+    "url": "https://tiles.openfreemap.org/styles/dark",
+    "status": 200,
+    "finalUrl": "https://tiles.openfreemap.org/styles/dark",
+    "type": "application/json",
+    "bytes": 20959,
+    "ms": 307,
+    "looksLikeFeed": false
+  },
+  "arabnews-rss2": {
+    "url": "https://www.arabnews.com/rss.xml",
+    "status": 200,
+    "finalUrl": "https://www.arabnews.com/rss.xml",
+    "type": "application/rss+xml; charset=utf-8",
+    "bytes": 60818,
+    "ms": 51,
+    "looksLikeFeed": true
+  },
+  "arabnews-rss3": {
+    "url": "https://www.arabnews.com/taxonomy/term/1/feed",
+    "status": 200,
+    "finalUrl": "https://backup.arabnews.com/taxonomy/term/1/feed",
+    "type": "application/rss+xml; charset=utf-8",
+    "bytes": 55260,
+    "ms": 204,
+    "looksLikeFeed": true
+  },
+  "presidency-api-get": {
+    "url": "https://www.presidency.eg/Surface/News/GetAll?culture=en&categoryId=-1&pageNumber=1&pageSize=12",
+    "status": 403,
+    "finalUrl": "https://www.presidency.eg/Surface/News/GetAll?culture=en&categoryId=-1&pageNumber=1&pageSize=12",
+    "type": "text/html; charset=UTF-8",
+    "bytes": 4587,
+    "ms": 58,
+    "looksLikeFeed": false
+  },
+  "presidency-api-get2": {
+    "url": "https://www.presidency.eg/Surface/News/GetAll?culture=en&category=-1&page=1",
+    "status": 403,
+    "finalUrl": "https://www.presidency.eg/Surface/News/GetAll?culture=en&category=-1&page=1",
+    "type": "text/html; charset=UTF-8",
+    "bytes": 4491,
+    "ms": 114,
+    "looksLikeFeed": false
+  },
+  "gdelt-doc-sis": {
+    "url": "https://api.gdeltproject.org/api/v2/doc/doc?query=domain:sis.gov.eg&mode=artlist&format=json&maxrecords=10&timespan=14d",
+    "status": 200,
+    "finalUrl": "https://api.gdeltproject.org/api/v2/doc/doc?query=domain:sis.gov.eg&mode=artlist&format=json&maxrecords=10&timespan=14d",
+    "type": "application/json; charset=utf-8",
+    "bytes": 2,
+    "ms": 11535,
+    "looksLikeFeed": false
+  },
+  "gdelt-doc-presidency": {
+    "url": "https://api.gdeltproject.org/api/v2/doc/doc?query=domain:presidency.eg&mode=artlist&format=json&maxrecords=10&timespan=30d",
+    "status": 429,
+    "finalUrl": "https://api.gdeltproject.org/api/v2/doc/doc?query=domain:presidency.eg&mode=artlist&format=json&maxrecords=10&timespan=30d",
+    "type": null,
+    "bytes": 444,
+    "ms": 10141,
+    "looksLikeFeed": false
+  },
+  "gdelt-doc-ahram": {
+    "url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Sisi%20domain:ahram.org.eg&mode=artlist&format=json&maxrecords=10&timespan=14d",
+    "status": 429,
+    "finalUrl": "https://api.gdeltproject.org/api/v2/doc/doc?query=Sisi%20domain:ahram.org.eg&mode=artlist&format=json&maxrecords=10&timespan=14d",
+    "type": null,
+    "bytes": 444,
+    "ms": 10081,
+    "looksLikeFeed": false
+  },
+  "crt-sectigo-dv-r36": {
+    "url": "http://crt.sectigo.com/SectigoPublicServerAuthenticationCADVR36.crt",
+    "status": 200,
+    "finalUrl": "http://crt.sectigo.com/SectigoPublicServerAuthenticationCADVR36.crt",
+    "type": "application/pkix-cert",
+    "bytes": 1563,
+    "ms": 29,
+    "looksLikeFeed": false
+  },
+  "presidency-api-post-form": {
+    "status": 403,
+    "type": "text/html; charset=UTF-8",
+    "bytes": 4505
+  },
+  "presidency-api-post-json": {
+    "status": 403,
+    "type": "text/html; charset=UTF-8",
+    "bytes": 4526
+  }
+}

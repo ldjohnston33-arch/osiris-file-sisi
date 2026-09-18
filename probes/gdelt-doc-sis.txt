@@ -1,0 +1,4 @@
+200 https://api.gdeltproject.org/api/v2/doc/doc?query=domain:sis.gov.eg&mode=artlist&format=json&maxrecords=10&timespan=14d
+application/json; charset=utf-8
+
+{}

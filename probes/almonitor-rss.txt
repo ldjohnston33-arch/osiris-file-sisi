@@ -1,0 +1,180 @@
+200 https://www.al-monitor.com/rss
+application/rss+xml; charset=utf-8
+
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xml:base="https://www.al-monitor.com/" xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel>
+    <title>AL-MONITOR: The Pulse of The Middle East</title>
+    <link>https://www.al-monitor.com/</link>
+    <description>Al Monitor</description>
+    <language>en</language>
+    
+    <item>
+  <title>US troop deaths in Iran war exceed Pentagon count by at least four, Washington Post reports</title>
+  <link>https://www.al-monitor.com/originals/2026/09/us-troop-deaths-iran-war-exceed-pentagon-count-least-four-washington-post-reports</link>
+  <description>&lt;p&gt;Sept 18 (Reuters) - More US troops have died during the war with Iran than the Pentagon has publicly disclosed, the Washington Post reported on Friday, citing six US officials familiar with theDefense Department&#039;s internal casualty accounting data.&lt;/p&gt;&lt;p&gt;There have been at least 22 military fatalities, four more than the data available on the Pentagon&#039;s public database, the newspaper cited five of the officials as saying.&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt; (Reporting by Ismail Shakil and Bhargav Acharya; Editing by Caitlin Webber)&lt;/p&gt;</description>
+  <pubDate>2026-09-18T14:46:31-0400</pubDate>
+    <dc:creator />
+    <guid isPermaLink="true">https://www.al-monitor.com/originals/2026/09/us-troop-deaths-iran-war-exceed-pentagon-count-least-four-washington-post-reports</guid>
+    </item>
+<item>
+  <title>Costly overhaul fuels fears for Cairo&#039;s street kiosks</title>
+  <link>https://www.al-monitor.com/originals/2026/09/costly-overhaul-fuels-fears-cairos-street-kiosks</link>
+  <description>&lt;p&gt;Cairo&#039;s omnipresent street kiosks, where commuters grab cigarettes, children buy sweets, and residents stop for cold drinks or phone credit, are set for a makeover that some fear could price many small operators out of business.&lt;/p&gt;  
+            &lt;p&gt;Authorities in the Egyptian capital this week launched a scheme to standardise thousands of licensed kiosks, giving existing operators three months to adopt a unified design costing between 50,000 and 60,000 Egyptian pounds ($1,000-$1,200), a hefty sum for many small business owners.&lt;/p&gt;</description>
+  <pubDate>2026-09-18T11:30:30-0400</pubDate>
+    <dc:creator />
+    <guid isPermaLink="true">https://www.al-monitor.com/originals/2026/09/costly-overhaul-fuels-fears-cairos-street-kiosks</guid>
+    </item>
+<item>
+  <title>Saudi Aramco curbs Europe crude exports to support Asia supplies</title>
+  <link>https://www.al-monitor.com/originals/2026/09/saudi-aramco-curbs-europe-crude-exports-support-asia-supplies</link>
+  <description>Saudi Arabia is sending about 60 million barrels of crude through the Strait of Hormuz to Oman’s Sohar port this month and next, Reuters reported.</description>
+  <pubDate>2026-09-18T11:10:15-0400</pubDate>
+    <dc:creator>Jack Dutton</dc:creator>
+    <guid isPermaLink="true">https://www.al-monitor.com/originals/2026/09/saudi-aramco-curbs-europe-crude-exports-support-asia-supplies</guid>
+    </item>
+<item>
+  <title>Saudi Aramco curbs Europe crude exports to support Asia supplies</title>
+  <link>https://www.al-monitor.com/originals/2026/09/saudi-aramco-curbs-europe-crude-exports-support-asia-supplies</link>
+  <description>Saudi Arabia is sending about 60 million barrels of crude through the Strait of Hormuz to Oman’s Sohar port this month and next, Reuters reported.</description>
+  <pubDate>2026-09-18T11:10:15-0400</pubDate>
+    <dc:creator>Jack Dutton</dc:creator>
+    <guid isPermaLink="true">https://www.al-monitor.com/originals/2026/09/saudi-aramco-curbs-europe-crude-exports-support-asia-supplies</guid>
+    </item>
+<item>
+  <title>Saudi Aramco curbs Europe crude exports to support Asia supplies</title>
+  <link>https://www.al-monitor.com/originals/2026/09/saudi-aramco-curbs-europe-crude-exports-support-asia-supplies</link>
+  <description>Saudi Arabia is sending about 60 million barrels of crude through the Strait of Hormuz to Oman’s Sohar port this month and next, Reuters reported.</description>
+  <pubDate>2026-09-18T11:10:15-0400</pubDate>
+    <dc:creator>Jack Dutton</dc:creator>
+    <guid isPermaLink="true">https://www.al-monitor.com/originals/2026/09/saudi-aramco-curbs-europe-crude-exports-support-asia-supplies</guid>
+    </item>
+<item>
+  <title>Saudi Aramco curbs Europe crude exports to support Asia supplies</title>
+  <link>https://www.al-monitor.com/originals/2026/09/saudi-aramco-curbs-europe-crude-exports-support-asia-supplies</link>
+  <description>Saudi Arabia is sending about 60 million barrels of crude through the Strait of Hormuz to Oman’s Sohar port this month and next, Reuters reported.</description>
+  <pubDate>2026-09-18T11:10:15-0400</pubDate>
+    <dc:creator>Jack Dutton</dc:creator>
+    <guid isPermaLink="true">https://www.al-monitor.com/originals/2026/09/saudi-aramco-curbs-europe-crude-exports-support-asia-supplies</guid>
+    </item>
+<item>
+  <title>Lebanon charges 5 in alleged Hezbollah operation to train Assad loyalists</title>
+  <link>https://www.al-monitor.com/originals/2026/09/lebanon-charges-5-alleged-hezbollah-operation-train-assad-loyalists</link>
+  <description>A Lebanese military court has charged the five, including an Assad-era Syrian officer and Hezbollah members, with running a cross-border security network planning attacks in Syria’s coastal region.</description>
+  <pubDate>2026-09-18T10:20:57-0400</pubDate>
+    <dc:creator>Beatrice Farhat</dc:creator>
+    <guid isPermaLink="true">https://www.al-monitor.com/originals/2026/09/lebanon-charges-5-alleged-hezbollah-operation-train-assad-loyalists</guid>
+    </item>
+<item>
+  <title>Lebanon charges 5 in alleged Hezbollah operation to train Assad loyalists</title>
+  <link>https://www.al-monitor.com/originals/2026/09/lebanon-charges-5-alleged-hezbollah-operation-train-assad-loyalists</link>
+  <description>A Lebanese military court has charged the five, including an Assad-era Syrian officer and Hezbollah members, with running a cross-border security network planning attacks in Syria’s coastal region.</description>
+  <pubDate>2026-09-18T10:20:57-0400</pubDate>
+    <dc:creator>Beatrice Farhat</dc:creator>
+    <guid isPermaLink="true">https://www.al-monitor.com/originals/2026/09/lebanon-charges-5-alleged-hezbollah-operation-train-assad-loyalists</guid>
+    </item>
+<item>
+  <title>Lebanon charges 5 in alleged Hezbollah operation to train Assad loyalists</title>
+  <link>https://www.al-monitor.com/originals/2026/09/lebanon-charges-5-alleged-hezbollah-operation-train-assad-loyalists</link>
+  <description>A Lebanese military court has charged the five, including an Assad-era Syrian officer and Hezbollah members, with running a cross-border security network planning attacks in Syria’s coastal region.</description>
+  <pubDate>2026-09-18T10:20:57-0400</pubDate>
+    <dc:creator>Beatrice Farhat</dc:creator>
+    <guid isPermaLink="true">https://www.al-monitor.com/originals/2026/09/lebanon-charges-5-alleged-hezbollah-operation-train-assad-loyalists</guid>
+    </item>
+<item>
+  <title>Lebanon charges 5 in alleged Hezbollah operation to train Assad loyalists</title>
+  <link>https://www.al-monitor.com/originals/2026/09/lebanon-charges-5-alleged-hezbollah-operation-train-assad-loyalists</link>
+  <description>A Lebanese military court has charged the five, including an Assad-era Syrian officer and Hezbollah members, with running a cross-border security network planning attacks in Syria’s coastal region.</description>
+  <pubDate>2026-09-18T10:20:57-0400</pubDate>
+    <dc:creator>Beatrice Farhat</dc:creator>
+    <guid isPermaLink="true">https://www.al-monitor.com/originals/2026/09/lebanon-charges-5-alleged-hezbollah-operation-train-assad-loyalists</guid>
+    </item>
+<item>
+  <title>Isolated Syrian-Druze city blames Damascus for shortages</title>
+  <link>https://www.al-monitor.com/originals/2026/09/isolated-syrian-druze-city-blames-damascus-shortages</link>
+  <description>&lt;p&gt;In her bakery, Hoda Kiwan impatiently awaits flour and fuel, which have become scarce in southern Syria&#039;s Sweida, the Druze-majority city still outside Damascus&#039; control.&lt;/p&gt;  
+            &lt;p&gt;&quot;I am suffering from a shortage of gas and flour, especially after the road was cut off, but there is nothing I can do,&quot; the 59-year old said, her hair wrapped in the Druze white headscarf as she prepares potato pastries.&lt;/p&gt;</description>
+  <pubDate>2026-09-18T09:30:29-0400</pubDate>
+    <dc:creator />
+    <guid isPermaLink="true">https://www.al-monitor.com/originals/2026/09/isolated-syrian-druze-city-blames-damascus-shortages</guid>
+    </item>
+<item>
+  <title>Italy&#039;s minister calls for more ships to protect Red Sea navigation</title>
+  <link>https://www.al-monitor.com/originals/2026/09/italys-minister-calls-more-ships-protect-red-sea-navigation</link>
+  <description>&lt;p&gt;By Angelo Amante&lt;/p&gt;&lt;p&gt;ROME, Sept 18 (Reuters) - Italy&#039;s defence minister on Friday called for a stronger naval presence in the Red Sea to protect merchant shipping amid concerns over the Bab el-Mandeb Strait, a vital waterway threatened by the widening Middle East conflict.&lt;/p&gt;&lt;p&gt;The Iran-backed Houthis in Yemen have made rapid advances in recent weeks along the Red Sea coast, further complicating routes in a region that also includes the Strait of Hormuz, where traffic had already dwindled because of the U.S.-Iran war.&lt;/p&gt;</description>
+  <pubDate>2026-09-18T08:46:35-0400</pubDate>
+    <dc:creator />
+    <guid isPermaLink="true">https://www.al-monitor.com/originals/2026/09/italys-minister-calls-more-ships-protect-red-sea-navigation</guid>
+    </item>
+<item>
+  <title>Suicide attack kills 16 near mosque in northwest Pakistan police compound</title>
+  <link>https://www.al-monitor.com/originals/2026/09/suicide-attack-kills-16-near-mosque-northwest-pakistan-police-compound</link>
+  <description>&lt;p&gt;ISLAMABAD, Sept 18 (Reuters) - At least 16 people were killed and 57 wounded after a suicide attacker rammed an explosives-laden car into a police facility in northwest Pakistan on Friday as officers and their families were praying in a mosque inside, officials said.&lt;/p&gt;&lt;p&gt;Five police officers were among the dead after the vehicle smashed into the outer wall and gunmen who accompanied it opened fire in the city of Kohat, provincial police chief Zulfikar Hameed said.&lt;/p&gt;</description>
+  <pubDate>2026-09-18T08:46:35-0400</pubDate>
+    <dc:creator />
+    <guid isPermaLink="true">https://www.al-monitor.com/originals/2026/09/suicide-attack-kills-16-near-mosque-northwest-pakistan-police-compound</guid>
+    </item>
+<item>
+  <title>Barefoot and terrified, Yemenis flee the Houthi advance</title>
+  <link>https://www.al-monitor.com/originals/2026/09/barefoot-and-terrified-yemenis-flee-houthi-advance</link>
+  <description>&lt;p&gt;AL-BIREEN CAMP, Yemen, Sept 18 (Reuters) - When a terrifying bombardment erupted around their camp in Yemen this week as a long-paused civil war reignited, Rawya Hassan and her family fled for their lives, barefoot and leaving their animals and other belongings behind.&lt;/p&gt;&lt;p&gt;The family had already been forced from their village by war years earlier and now had to escape the fighting again, joining 115,000 people who aid agencies say are on the move after a rapid advance by the Houthi group.&lt;/p&gt;</description>
+  <pubDate>2026-09-18T08:46:35-0400</pubDate>
+    <dc:creator />
+    <guid isPermaLink="true">https://www.al-monitor.com/originals/2026/09/barefoot-and-terrified-yemenis-flee-houthi-advance</guid>
+    </item>
+<item>
+  <title>Anti-Assad music star makes triumphant return to Syria</title>
+  <link>https://www.al-monitor.com/originals/2026/09/anti-assad-music-star-makes-triumphant-return-syria</link>
+  <description>&lt;p&gt;Syrian singer Assala Nasri has made a triumphant return to Damascus with a sold-out concert following 15 years of exile due to her opposition to ousted ruler Bashar al-Assad.&lt;/p&gt;  
+            &lt;p&gt;Thousands of fans welcomed the 57-year-old, known mononymously as Assala, at a venue in the Syrian capital where she bowed and opened the show with songs hailing the Syrian people.&lt;/p&gt;  
+            &lt;p&gt;&quot;Souls of my heart, I missed you,&quot; she repeatedly said to endless cheers on Thursday night.&lt;/p&gt;</description>
+  <pubDate>2026-09-18T08:30:30-0400</pubDate>
+    <dc:creator />
+    <guid isPermaLink="true">https://www.al-monitor.com/originals/2026/09/anti-assad-music-star-makes-triumphant-return-syria</guid>
+    </item>
+<item>
+  <title>How Netanyahu is leveraging Houthi threat in secret Saudi normalization push</title>
+  <link>https://www.al-monitor.com/originals/2026/09/how-netanyahu-leveraging-houthi-threat-secret-saudi-normalization-push</link>
+  <description>Israeli Prime Minister Benjamin Netanyahu is trying to capitalize on Riyadh&#039;s need for intelligence assistance to make normalization headway ahead of the October elections.</description>
+  <pubDate>2026-09-18T06:58:43-0400</pubDate>
+    <dc:creator>Ben Caspit</dc:creator>
+    <guid isPermaLink="true">https://www.al-monitor.com/originals/2026/09/how-netanyahu-leveraging-houthi-threat-secret-saudi-normalization-push</guid>
+    </item>
+<item>
+  <title>How Netanyahu is leveraging Houthi threat in secret Saudi normalization push</title>
+  <link>https://www.al-monitor.com/originals/2026/09/how-netanyahu-leveraging-houthi-threat-secret-saudi-normalization-push</link>
+  <description>Israeli Prime Minister Benjamin Netanyahu is trying to capitalize on Riyadh&#039;s need for intelligence assistance to make normalization headway ahead of the October elections.</description>
+  <pubDate>2026-09-18T06:58:43-0400</pubDate>
+    <dc:creator>Ben Caspit</dc:creator>
+    <guid isPermaLink="true">https://www.al-monitor.com/originals/2026/09/how-netanyahu-leveraging-houthi-threat-secret-saudi-normalization-push</guid>
+    </item>
+<item>
+  <title>How Netanyahu is leveraging Houthi threat in secret Saudi normalization push</title>
+  <link>https://www.al-monitor.com/originals/2026/09/how-netanyahu-leveraging-houthi-threat-secret-saudi-normalization-push</link>
+  <description>Israeli Prime Minister Benjamin Netanyahu is trying to capitalize on Riyadh&#039;s need for intelligence assistance to make normalization headway ahead of the October elections.</description>
+  <pubDate>2026-09-18T06:58:43-0400</pubDate>
+    <dc:creator>Ben Caspit</dc:creator>
+    <guid isPermaLink="true">https://www.al-monitor.com/originals/2026/09/how-netanyahu-leveraging-houthi-threat-secret-saudi-normalization-push</guid>
+    </item>
+<item>
+  <title>How Netanyahu is leveraging Houthi threat in secret Saudi normalization push</title>
+  <link>https://www.al-monitor.com/originals/2026/09/how-netanyahu-leveraging-houthi-threat-secret-saudi-normalization-push</link>
+  <description>Israeli Prime Minister Benjamin Netanyahu is trying to capitalize on Riyadh&#039;s need for intelligence assistance to make normalization headway ahead of the October elections.</description>
+  <pubDate>2026-09-18T06:58:43-0400</pubDate>
+    <dc:creator>Ben Caspit</dc:creator>
+    <guid isPermaLink="true">https://www.al-monitor.com/originals/2026/09/how-netanyahu-leveraging-houthi-threat-secret-saudi-normalization-push</guid>
+    </item>
+<item>
+  <title>Palestinian state more distant than ever, a year after recognition</title>
+  <link>https://www.al-monitor.com/originals/2026/09/palestinian-state-more-distant-ever-year-after-recognition</link>
+  <description>&lt;p&gt;When France, Britain and other Western powers last year recognised a Palestinian state, entrepreneur Adam Bader felt a sense of hope.&lt;/p&gt;  
+            &lt;p&gt;&quot;I was happy when I heard about it,&quot; said Bader, 27, who lives in the occupied West Bank&#039;s city of Tulkarem, which has seen repeated Israeli raids in recent years.&lt;/p&gt;  
+            &lt;p&gt;&quot;Now a year on, we&#039;re not seeing any improvement. On the contrary,&quot; he said. &quot;The situation is getting worse by the day and no one can do anything.&quot;&lt;/p&gt;</description>
+  <pubDate>2026-09-18T06:30:30-0400</pubDate>
+    <dc:creator />
+    <guid isPermaLink="true">https://www.al-monitor.com/originals/2026/09/palestinian-state-more-distant-ever-year-after-recognition</guid>
+    </item>
+
+  </channel>
+</rss>

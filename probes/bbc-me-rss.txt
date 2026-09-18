@@ -1,0 +1,261 @@
+200 https://feeds.bbci.co.uk/news/world/middle_east/rss.xml
+text/xml; charset=utf-8
+
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0" xmlns:media="http://search.yahoo.com/mrss/">
+    <channel>
+        <title><![CDATA[BBC News]]></title>
+        <description><![CDATA[BBC News - Middle East]]></description>
+        <link>https://www.bbc.co.uk/news/world/middle_east</link>
+        <image>
+            <url>https://news.bbcimg.co.uk/nol/shared/img/bbc_news_120x60.gif</url>
+            <title>BBC News</title>
+            <link>https://www.bbc.co.uk/news/world/middle_east</link>
+        </image>
+        <generator>RSS for Node</generator>
+        <lastBuildDate>Fri, 18 Sep 2026 19:22:25 GMT</lastBuildDate>
+        <atom:link href="https://feeds.bbci.co.uk/news/world/middle_east/rss.xml" rel="self" type="application/rss+xml"/>
+        <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see https://www.bbc.co.uk/usingthebbc/terms-of-use/#15metadataandrssfeeds for terms and conditions of reuse.]]></copyright>
+        <language><![CDATA[en-gb]]></language>
+        <ttl>15</ttl>
+        <item>
+            <title><![CDATA[UN experts say grounds to believe US committed war crimes in Iran strikes]]></title>
+            <description><![CDATA[The US has not acknowledged carrying out February's deadly strikes on a primary school in Minab and a sports complex in Lamerd.]]></description>
+            <link>https://www.bbc.co.uk/news/articles/cm9w4n5nverdo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cm9w4n5nverdo#0</guid>
+            <pubDate>Thu, 17 Sep 2026 20:34:30 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9f29/live/f45ca2b0-b29c-11f1-bc1f-3f186ca4140c.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Why US plan to sell F-35 warplanes to Saudi Arabia is controversial]]></title>
+            <description><![CDATA[Saudi Arabia has lobbied the US for years to buy F35s, the world's most advanced fighter jet.]]></description>
+            <link>https://www.bbc.co.uk/news/articles/c3x2zrn01pxko?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/c3x2zrn01pxko#0</guid>
+            <pubDate>Fri, 18 Sep 2026 01:31:43 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/27ea/live/7d7d4cc0-b2e3-11f1-a845-59f886d45f54.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Verified video shows wreckage of Saudi fighter jet shot down over Yemen]]></title>
+            <description><![CDATA[BBC Verify tracks down the location of a Houthi video showing the wreckage of an F-15 they claim to have shot down.]]></description>
+            <link>https://www.bbc.co.uk/news/articles/c8vgy3p6k3y9o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/c8vgy3p6k3y9o#0</guid>
+            <pubDate>Thu, 17 Sep 2026 13:47:36 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ddbf/live/476a8230-b2a0-11f1-a430-4d16ee157c41.png"/>
+        </item>
+        <item>
+            <title><![CDATA[Assad regime planned US journalist's kidnap for weeks, BBC finds]]></title>
+            <description><![CDATA[Austin Tice’s abduction was approved by Syria’s former leader Bashar al-Assad, a source claims.]]></description>
+            <link>https://www.bbc.co.uk/news/articles/cv0lrxw6ygl2o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cv0lrxw6ygl2o#0</guid>
+            <pubDate>Thu, 17 Sep 2026 05:00:18 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f662/live/68ede5c0-b25d-11f1-bc1f-3f186ca4140c.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[US blocks Palestinian leader from UN meeting in New York for second year in row]]></title>
+            <description><![CDATA[The US State Department extended visa sanctions after accusing Palestinian officials of failing to live up to peace process commitments.]]></description>
+            <link>https://www.bbc.co.uk/news/articles/cq783jlrr282o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cq783jlrr282o#0</guid>
+            <pubDate>Thu, 17 Sep 2026 09:06:08 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0c44/live/ab1ae080-b24c-11f1-8e0a-fdb8fc2faaec.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Eight children among 21 killed after war-damaged Gaza building collapses, rescuers say]]></title>
+            <description><![CDATA[Some 10 families had reportedly been living in the six-storey building in Gaza City that was hit by an Israeli strike last year.]]></description>
+            <link>https://www.bbc.co.uk/news/articles/cvp8d00j9gg5o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cvp8d00j9gg5o#0</guid>
+            <pubDate>Wed, 16 Sep 2026 17:16:47 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9e43/live/ff225e50-b1b7-11f1-b1d1-571ed4d7ff2c.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Photos show widespread damage at US sites from Iranian attacks]]></title>
+            <description><![CDATA[A wrecked air force plane and destroyed buildings are among the images obtained by the BBC's partner CBS News.]]></description>
+            <link>https://www.bbc.co.uk/news/articles/c8g49e0gwxeno?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/c8g49e0gwxeno#0</guid>
+            <pubDate>Wed, 16 Sep 2026 18:36:16 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/506d/live/98661900-b1de-11f1-a430-4d16ee157c41.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Saudi Arabia says it shot down Houthi drone south of Mecca]]></title>
+            <description><![CDATA[The Houthis deny targeting the Islamic holy city after the Saudi-led coalition in Yemen accuses them of a "disgraceful act".]]></description>
+            <link>https://www.bbc.co.uk/news/articles/cr89jqd1w45eo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cr89jqd1w45eo#1</guid>
+            <pubDate>Wed, 16 Sep 2026 08:36:17 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/01a1/live/6450ab70-b1a3-11f1-a430-4d16ee157c41.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[How escalating Saudi oil crisis could drive up prices everywhere]]></title>
+            <description><![CDATA[BBC Verify's Ben Chu examines what impact rising energy costs could have on the global economy.]]></description>
+            <link>https://www.bbc.co.uk/news/articles/cqlym3wye1ero?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cqlym3wye1ero#1</guid>
+            <pubDate>Wed, 16 Sep 2026 16:06:50 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1a2a/live/d6d03600-b1e6-11f1-bc1f-3f186ca4140c.png"/>
+        </item>
+        <item>
+            <title><![CDATA[Two sailors missing after tanker attacked in Strait of Hormuz, Oman says]]></title>
+            <description><![CDATA[Iran says El Gaia caught fire after hitting mines, but the US says the oil tanker was struck by a missile and then a drone.]]></description>
+            <link>https://www.bbc.co.uk/news/articles/c3n07ydqdzlvo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/c3n07ydqdzlvo#1</guid>
+            <pubDate>Tue, 15 Sep 2026 16:13:41 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/61f8/live/adf23e90-b0fb-11f1-a451-6b1ff10ed362.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Iran war has led to US munitions shortfalls, Pentagon inspector confirms]]></title>
+            <description><![CDATA[The inspector also found a bottleneck in resupply, despite President Donald Trump's claims that US supplies are "virtually limitless".  ]]></description>
+            <link>https://www.bbc.co.uk/news/articles/c9gk58xgng0vo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/c9gk58xgng0vo#1</guid>
+            <pubDate>Tue, 15 Sep 2026 20:34:12 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3ff7/live/4d4e0d70-b110-11f1-8907-39a652c5e20e.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Israeli minister threatens to revoke filmmakers' citizenship over Gaza documentary]]></title>
+            <description><![CDATA[The film accuses the Israeli army of mass civilian killing in Gaza, and Israeli officials say it could be treasonous.]]></description>
+            <link>https://www.bbc.co.uk/news/articles/c9vgy8d8256go?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/c9vgy8d8256go#1</guid>
+            <pubDate>Mon, 14 Sep 2026 18:26:20 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ba72/live/d553bf60-b04a-11f1-bc1f-3f186ca4140c.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[AI 'SpongeBob' parody of problems in Egypt draws scrutiny of authorities]]></title>
+            <description><![CDATA[A take on the hit US TV series has become an unlikely tool for Egyptians to complain about life amid strict surveillance. ]]></description>
+            <link>https://www.bbc.co.uk/news/articles/c5y4g65vjnmo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/c5y4g65vjnmo#1</guid>
+            <pubDate>Tue, 15 Sep 2026 06:02:35 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/737b/live/5a6f74e0-b042-11f1-b1d1-571ed4d7ff2c.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Algae bloom that crippled Israel's desalination plants raises water security concerns]]></title>
+            <description><![CDATA[The "carpet" of microalgae stopped five of Israel's six desalination plants from working.]]></description>
+            <link>https://www.bbc.co.uk/news/articles/ck4glvqj4qqdo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/ck4glvqj4qqdo#2</guid>
+            <pubDate>Thu, 17 Sep 2026 08:40:41 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/afc3/live/32320130-b1de-11f1-ac01-a9af2f94b2cc.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Satellite image reveals major damage that shut crucial Saudi oil pipeline]]></title>
+            <description><![CDATA[Experts tell BBC Verify the pipeline's closure could cut oil supplies by as much as 3.6 million barrels per day.]]></description>
+            <link>https://www.bbc.co.uk/news/articles/c65yw2gq2nrno?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/c65yw2gq2nrno#2</guid>
+            <pubDate>Tue, 15 Sep 2026 14:21:14 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6491/live/f14f3560-b10c-11f1-a540-61c3f7fc4e6c.png"/>
+        </item>
+        <item>
+            <title><![CDATA[Lightning Houthi advance in Yemen may bring dangerous new dimension to Iran war]]></title>
+            <description><![CDATA[The capture by the rebels of a stretch of Yemen's strategic coastline is the group's most impressive military coup for several years.]]></description>
+            <link>https://www.bbc.co.uk/news/articles/c3v4zgzr1kxo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/c3v4zgzr1kxo#2</guid>
+            <pubDate>Fri, 11 Sep 2026 19:44:58 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/82b5/live/066e1ff0-ae16-11f1-aa28-67f8824e7b72.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[British-Israeli relations at lowest ebb in decades]]></title>
+            <description><![CDATA[Israel's response to London's trade ban with Israeli settlements in the occupied West Bank shows how important this moment is.]]></description>
+            <link>https://www.bbc.co.uk/news/articles/c5ydlex9yn3o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/c5ydlex9yn3o#2</guid>
+            <pubDate>Tue, 08 Sep 2026 21:46:31 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5143/live/e5381740-ac22-11f1-aed2-8d6da8d75094.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[In West Bank, date farmers weigh impact of UK sanctions on Israeli settlers]]></title>
+            <description><![CDATA[Palestinians strongly back a ban on settlement goods, but Israel's government says it is a "big mistake".]]></description>
+            <link>https://www.bbc.co.uk/news/articles/cvgy6gd228vo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cvgy6gd228vo#2</guid>
+            <pubDate>Tue, 08 Sep 2026 15:36:34 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/800e/live/1e4c26b0-ab70-11f1-b109-879e35c24276.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Palestinian parents fear for children's lives at school as settler attacks grow]]></title>
+            <description><![CDATA[A headteacher in the occupied West Bank has installed new barbed wire fencing after three pupils were killed this year.]]></description>
+            <link>https://www.bbc.co.uk/news/articles/c3wj45g73g1o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/c3wj45g73g1o#2</guid>
+            <pubDate>Mon, 07 Sep 2026 21:12:37 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1697/live/fa2ce530-ab47-11f1-a291-b542ee92de7c.png"/>
+        </item>
+        <item>
+            <title><![CDATA[How could US-Iran conflict end? Three experts give their views]]></title>
+            <description><![CDATA[After renewed strikes this week, does either side have an exit strategy?]]></description>
+            <link>https://www.bbc.co.uk/news/articles/cgjql614glvo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cgjql614glvo#2</guid>
+            <pubDate>Fri, 04 Sep 2026 09:14:57 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9a51/live/5d415e40-a7aa-11f1-b78b-6b70b0a83270.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[BBC travels inside occupied Lebanon as officials say Israel expanding positions]]></title>
+            <description><![CDATA[A BBC team joined a humanitarian mission of the UN peacekeeping force, which says Israeli troops are fortifying positions and continuing demolitions.]]></description>
+            <link>https://www.bbc.co.uk/news/articles/cge41d19gq9o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cge41d19gq9o#2</guid>
+            <pubDate>Wed, 02 Sep 2026 05:03:09 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/96b7/live/025c25f0-a61a-11f1-9ca2-a3e18de91b7b.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[What we know about reported strike on Iran wedding celebrations]]></title>
+            <description><![CDATA[BBC Verify looks at footage showing the aftermath of a strike on a building in southern Iran.]]></description>
+            <link>https://www.bbc.co.uk/news/videos/c0lr1krdxxwo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/videos/c0lr1krdxxwo#2</guid>
+            <pubDate>Wed, 02 Sep 2026 21:02:35 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a053/live/bb3c5450-a6c4-11f1-aed2-8d6da8d75094.png"/>
+        </item>
+        <item>
+            <title><![CDATA[Trump hopes sanctions will topple Iran's regime - its leaders are betting otherwise]]></title>
+            <description><![CDATA[The US says new sanctions are an "economic D-Day", but Tehran's leaders have survived restrictions before.]]></description>
+            <link>https://www.bbc.co.uk/news/articles/cr50n9gnljgo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cr50n9gnljgo#2</guid>
+            <pubDate>Tue, 25 Aug 2026 12:37:53 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3a97/live/68e58ff0-a057-11f1-b109-879e35c24276.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[How Israel is expanding settlements in drive to reshape West Bank]]></title>
+            <description><![CDATA[There has been a significant expansion of building and road construction on Palestinian land occupied by Israel in recent years.]]></description>
+            <link>https://www.bbc.co.uk/news/articles/c2lq5g4dedpo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/c2lq5g4dedpo#2</guid>
+            <pubDate>Fri, 21 Aug 2026 19:31:47 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c529/live/3bc5a6a0-9d8b-11f1-adf5-2dc21c9cc109.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Families' agonising search for answers as thousands still missing in Gaza]]></title>
+            <description><![CDATA[Ten months after a ceasefire was declared, thousands of Palestinians in Gaza are still reported missing. ]]></description>
+            <link>https://www.bbc.co.uk/news/articles/ce34r0er75go?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/ce34r0er75go#2</guid>
+            <pubDate>Wed, 19 Aug 2026 05:04:00 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5f5b/live/9a846da0-9a4f-11f1-96c4-e7f87215742d.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[How a community living under demolition orders from Israel view UK sanctions]]></title>
+            <description><![CDATA[BBC's Middle East Correspondent Lucy Williamson visits the Palestinian community of Khan al Ahmar in the so-called E1 area, and the neighbouring Israeli settlement of Maale Admumim.]]></description>
+            <link>https://www.bbc.co.uk/news/videos/cy5zpze3qe3o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/videos/cy5zpze3qe3o#3</guid>
+            <pubDate>Wed, 09 Sep 2026 22:17:22 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1315/live/45d63330-ace5-11f1-b1d1-571ed4d7ff2c.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Watch: Trump says Iran war will end 'immediately' after US midterm elections]]></title>
+            <description><![CDATA[The president also blamed the rising price of oil on the war, and said that prices will come down after the coming elections.]]></description>
+            <link>https://www.bbc.co.uk/news/videos/c3d7p3jmk7ko?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/videos/c3d7p3jmk7ko#3</guid>
+            <pubDate>Wed, 09 Sep 2026 21:12:12 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b9fd/live/e7593f90-ac90-11f1-ab14-5b9069dc795d.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[How Israel responded to UK sanctions on West Bank settlements]]></title>
+            <description><![CDATA[BBC correspondent Katy Watson reports from Jerusalem.]]></description>
+            <link>https://www.bbc.co.uk/news/videos/cj4jwnzd2dgo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/videos/cj4jwnzd2dgo#3</guid>
+            <pubDate>Tue, 08 Sep 2026 21:25:52 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4267/live/f9827a50-abc9-11f1-b109-879e35c24276.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[UK to ban imports from Israeli settlements in West Bank]]></title>
+            <description><![CDATA[Ed Miliband confirms the UK will ban the import of goods from Israeli settlements in the illegally occupied West Bank.]]></description>
+            <link>https://www.bbc.co.uk/news/videos/c5yjp3xylxjo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/videos/c5yjp3xylxjo#3</guid>
+            <pubDate>Tue, 08 Sep 2026 14:39:37 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d725/live/bbd7c870-ab8f-11f1-b109-879e35c24276.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Where is Israel's proposed West Bank settlement the UK opposes?]]></title>
+            <description><![CDATA[BBC's Middle East correspondent Lucy Williamson reports from an area close to Israel's proposed site in the occupied West Bank.]]></description>
+            <link>https://www.bbc.co.uk/news/videos/c74k1lw9nwko?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/videos/c74k1lw9nwko#3</guid>
+            <pubDate>Tue, 08 Sep 2026 16:45:32 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/794d/live/60f7daa0-ab9c-11f1-aed2-8d6da8d75094.jpg"/>
+        </item>
+    </channel>
+</rss>

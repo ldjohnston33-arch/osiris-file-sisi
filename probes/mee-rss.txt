@@ -1,0 +1,1803 @@
+200 https://www.middleeasteye.net/rss
+application/rss+xml; charset=utf-8
+
+<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:og="http://ogp.me/ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:schema="http://schema.org/" xmlns:sioc="http://rdfs.org/sioc/ns#" xmlns:sioct="http://rdfs.org/sioc/types#" xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:xsd="http://www.w3.org/2001/XMLSchema#" version="2.0" xml:base="https://www.middleeasteye.net/">
+  <channel>
+    <title>Section Feed</title>
+    <link>https://www.middleeasteye.net/</link>
+    <description/>
+    <language>en</language>
+    
+    <item>
+  <title>US troop deaths in Iran war exceed Pentagon count by at least four, Washington Post reports</title>
+  <link>https://www.middleeasteye.net/live-blog/live-blog-update/us-troop-deaths-iran-war-exceed-pentagon-count-least-four-washington</link>
+  <description>
+  
+
+&lt;article data-history-node-id="447934" about="https://www.middleeasteye.net/live-blog/live-blog-update/us-troop-deaths-iran-war-exceed-pentagon-count-least-four-washington" class="live-blog-update default clearfix"&gt;
+
+  
+      &lt;h2&gt;
+      &lt;a href="https://www.middleeasteye.net/live-blog/live-blog-update/us-troop-deaths-iran-war-exceed-pentagon-count-least-four-washington" rel="bookmark"&gt;
+&lt;span class="field field-title"&gt;US troop deaths in Iran war exceed Pentagon count by at least four, Washington Post reports&lt;/span&gt;
+&lt;/a&gt;
+    &lt;/h2&gt;
+    
+
+        
+    &lt;div class="content"&gt;
+                &lt;div class="field field-field-text"&gt;&lt;p&gt;More US troops have died during the war on Iran&amp;nbsp;than the Pentagon has publicly disclosed, the Washington Post reported on Friday, citing six US officials familiar with the Defense Department's internal casualty accounting data.&lt;/p&gt;
+
+&lt;p&gt;There have been at least 22 military fatalities, four more than the data available on the Pentagon's public database, the newspaper cited five of the officials as saying.&lt;/p&gt;
+&lt;/div&gt;
+      
+  &lt;/div&gt;
+
+&lt;/article&gt;
+</description>
+  <pubDate>Fri, 18 Sep 2026 20:02:44 +0100</pubDate>
+    <dc:creator>Bilge Kotan</dc:creator>
+    <guid isPermaLink="false">447934 at https://www.middleeasteye.net/</guid>
+    </item>
+<item>
+  <title>Gulf-Eurasian energy crunch pushes Europe to the edge of an inflationary crisis</title>
+  <link>https://www.middleeasteye.net/news/gulf-eurasian-energy-crunch-pushes-europe-edge-inflationary-crisis</link>
+  <description>
+  
+
+&lt;article data-history-node-id="447931" about="https://www.middleeasteye.net/news/gulf-eurasian-energy-crunch-pushes-europe-edge-inflationary-crisis" class="story default clearfix"&gt;
+
+  
+      &lt;h2&gt;
+      &lt;a href="https://www.middleeasteye.net/news/gulf-eurasian-energy-crunch-pushes-europe-edge-inflationary-crisis" rel="bookmark"&gt;
+&lt;span class="field field-title"&gt;Gulf-Eurasian energy crunch pushes Europe to the edge of an inflationary crisis&lt;/span&gt;
+&lt;/a&gt;
+    &lt;/h2&gt;
+    
+
+          &lt;footer&gt;
+      
+      &lt;div class="author"&gt;
+        Submitted by 
+&lt;span class="field field-uid"&gt;&lt;a title="View user profile." href="https://www.middleeasteye.net/users/ilya-roubanis" lang about="https://www.middleeasteye.net/users/ilya-roubanis" typeof="schema:Person" property="schema:name" datatype&gt;Ilya Roubanis&lt;/a&gt;&lt;/span&gt;
+ on 
+&lt;span class="field field-created"&gt;&lt;time datetime="2026-09-18T17:18:18+01:00" title="18 September 2026 17:18 BST"&gt;Fri, 09/18/2026 - 17:18&lt;/time&gt;
+&lt;/span&gt;
+        
+      &lt;/div&gt;
+    &lt;/footer&gt;
+      
+    &lt;div class="content"&gt;
+                &lt;div class="field field-field-subhead"&gt;Europe will be counting on luck as much as policy to face a mounting energy crisis fuelled by wars in Iran and Russia-Ukraine&lt;/div&gt;
+                  &lt;div class="field field-field-main-image"&gt;    &lt;picture&gt;
+                  &lt;source srcset="https://www.middleeasteye.net/sites/default/files/styles/crop_16_9/public/images-story/000_A4PB7KG.jpg.webp?itok=Vwuf3U6T 1x" type="image/webp" width="1400" height="788"&gt;
+                  &lt;img srcset="https://www.middleeasteye.net/sites/default/files/styles/crop_16_9/public/images-story/000_A4PB7KG.jpg.webp?itok=Vwuf3U6T 1x" width="1400" height="788" src="https://www.middleeasteye.net/sites/default/files/styles/crop_16_9/public/images-story/000_A4PB7KG.jpg.jpg?itok=Vwuf3U6T" alt typeof="foaf:Image" fetchpriority="high"&gt;
+
+  &lt;/picture&gt;
+
+&lt;/div&gt;
+                  &lt;div class="field field-field-cutline"&gt;This photograph taken from Port-de-Bouc, southern France shows oil tankers in Martigues, on 25 March 2026 (Elodie Clement/AFP)&lt;br&gt;
+&lt;br&gt;
+&lt;/div&gt;
+                  &lt;div class="field field-field-wide-photo-video"&gt;Off&lt;/div&gt;
+                  &lt;div class="field field-body clearfix"&gt;&lt;p style="line-height:1.39; margin-bottom:11px"&gt;Europe’s oil and gas supply is now disrupted by conflicts in both the Gulf and Eurasia.&amp;nbsp;On Friday,&lt;a href="https://www.middleeasteye.net/countries/saudi-arabia"&gt; Saudi Arabia&lt;/a&gt; told European refineries to not expect any crude oil deliveries next month.&amp;nbsp;The continent will need as much good fortune as foresightful policy to withstand the evolving energy crisis.&lt;/p&gt;
+
+&lt;p&gt;Conflicts on the periphery of the European Union, the Eastern Mediterranean, the Red Sea, the Straits of Hormuz, the Black and Caspian Seas have made it clear that Europe is not able to secure critical energy value chains.&amp;nbsp;&lt;/p&gt;
+
+&lt;p&gt;With shallow infrastructure in terms of strategic reserves for oil and gas, a dependence on spot markets, and increasingly volatile weather, Europe needs luck.&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;/p&gt;
+
+&lt;p&gt;Houthi forces have advanced rapidly along Yemen’s southwestern Red Sea coast, capturing the Port of Mokha on 10 September, seizing Mayun/Perim Island inside the Bab el-Mandeb Strait on 11 September, and reportedly taking Greater and Lesser Hanish Islands on 14 September.&amp;nbsp;&lt;/p&gt;
+
+&lt;p&gt;These islands sit directly on tanker and LNG shipping lanes entering the Red Sea, making even limited Houthi presence commercially significant. The strait is not physically closed, but territorial control now allows the Houthis to disrupt traffic.&lt;/p&gt;&lt;div class="block-adsense block-adsense-managed-ad-block"&gt;&lt;div&gt;
+  &lt;div class="adsense responsive"&gt;
+    &lt;script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-6114695881218027" crossorigin="anonymous"&gt;&lt;/script&gt;
+&lt;!-- responsive --&gt;
+&lt;ins class="adsbygoogle mee-auto-ad-wrapper " style="display:block" data-ad-client="ca-pub-6114695881218027" data-ad-slot="8690493793" data-ad-format="horizontal" data-full-width-responsive="true"&gt;&lt;/ins&gt;
+&lt;script&gt;
+     (adsbygoogle = window.adsbygoogle || []).push({});
+&lt;/script&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+
+&lt;p&gt;“The Houthis do not need to physically close Bab el-Mandeb to extract strategic value from their position,” Abdi Guled, editor of Horn Briefs and a former AP and Reuters correspondent, told Middle East Eye.&amp;nbsp;&lt;/p&gt;
+
+&lt;p&gt;War-risk insurance premiums for Red Sea transits have &lt;a href="https://www.reuters.com/world/middle-east/war-risk-insurance-costs-surge-southern-red-sea-voyages-after-houthi-attacks-2026-07-23/"&gt;surged&lt;/a&gt;, and even a perceived threat can make routine voyages commercially unviable.&amp;nbsp;&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;'The Houthis do not need to physically close Bab el-Mandeb to extract strategic value from their position'&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;- Abdi Guled, editor, Horn Briefs&lt;/em&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;While it’s still early to tell, early indicators show the transit of vessels has declined, with major insurance companies withdrawing war-risk coverage for Bab el-Mandeb, and shipping companies diverting vessels around the Cape of Good Hope, adding 10-14 days to voyages and raising costs across global supply chains.&lt;/p&gt;
+
+&lt;p&gt;These Red Sea disruptions come as global markets are still absorbing the shock of the months-long closure of the Strait of Hormuz earlier this year. The combined effect is visible in Europe’s inflation data: reduced supply, higher shipping costs, and refinery outages feed directly into diesel, electricity, and food prices.&amp;nbsp;&lt;/p&gt;
+
+&lt;p&gt;The closure of Hormuz from February to early September removed an estimated 17-19 million barrels per day from global markets, forcing Europe to rely more heavily on Atlantic Basin and Caspian supply.&amp;nbsp;&lt;/p&gt;
+
+&lt;p&gt;Saudi Arabia mitigated part of the shock by diverting crude through its East–West Pipeline to the Yanbu export terminal on the Red Sea, increasing flows – until recently – from roughly two million barrels per day at the start of the year to around six million barrels per day.&amp;nbsp;&lt;/p&gt;
+
+&lt;p&gt;The pipeline can technically carry up to seven million barrels per day, though Yanbu’s loading capacity limits this to some extent.&amp;nbsp;&lt;/p&gt;
+
+&lt;p&gt;A drone attack on a pumping station on 11 September prompted the immediate closure of the East-West line, and, at the time of writing, it is not clear when it will reopen.&amp;nbsp;&lt;/p&gt;
+
+&lt;p&gt;“The current energy crisis is morphing into a global financial crisis with symptoms in Europe now evident as eurozone inflation is accelerating at 3.3 percent and energy inflation jumping at 14.3 percent,” Costantinos Stambolis, Chairman of the Institute of Energy for South-East Europe, told MEE.&amp;nbsp;&lt;/p&gt;
+
+&lt;h3&gt;Four seas, two wars, one market&amp;nbsp;&lt;/h3&gt;
+
+&lt;p&gt;Europe’s quandary is that conflict is constraining energy supplies from both Russia and the Gulf.&lt;/p&gt;
+
+&lt;p&gt;Ukrainian strikes on Russian refineries and export terminals have created industrial constraints on Russian supply at a moment when European sanctions limit alternative inflows.&amp;nbsp;&lt;/p&gt;
+
+&lt;div class="mee-readmore mee-readmore-article-story mee-readmore-type-image align-right"&gt;
+  &lt;a class="mee-readmore-img-link" href="https://www.middleeasteye.net/news/from-syria-to-uae-race-to-bypass-strait-of-hormuz-is-on"&gt;&lt;img class="mee-readmore-image" src="https://www.middleeasteye.net/sites/default/files/styles/read_more/public/images-story/000_1RF9PS.jpg.webp?itok=1DA6fQpP" width="400" height="250" alt loading="lazy" typeof="foaf:Image"&gt;
+
+&lt;/a&gt;  &lt;div class="mee-readmore-description"&gt;From Syria to UAE, the race to bypass Strait of Hormuz is on&lt;/div&gt;
+    &lt;a class="mee-readmore-link" href="https://www.middleeasteye.net/news/from-syria-to-uae-race-to-bypass-strait-of-hormuz-is-on"&gt;Read More »&lt;/a&gt;
+&lt;/div&gt;
+
+&lt;p&gt;US President Donald Trump claimed this week that the two countries had agreed not to strike energy targets, but Kyiv said it was conditional and there is no public confirmation from Moscow.&lt;/p&gt;
+
+&lt;p&gt;One of Europe’s hopes for diversifying supply beyond the Middle East was Kazakhstan, a country that has quietly become one of the few producers capable of easing Europe’s tightening oil balance.&amp;nbsp;&lt;/p&gt;
+
+&lt;p&gt;However, Kazakhstan’s main export artery is the CPC pipeline, which handles more than 80 percent of the country’s crude exports - but which delivers the crude to a loading terminal at Russia’s Black Sea port of Novorossiysk.&amp;nbsp;&lt;/p&gt;
+
+&lt;p&gt;“There’s a difference between shortages and total crisis,” says John Roberts, formerly an editor at Financial Times Energy and an Atlantic Council Fellow, “but Europe is now exposed because several supply routes are under strain at once”.&lt;/p&gt;
+
+&lt;p&gt;“Ukraine seems capable and indeed willing to attack Novorossiysk,” Roberts said, leaving Kazakhstan unable to rely on its main outlet at a moment when alternative routes are limited.&amp;nbsp;&lt;/p&gt;
+
+&lt;p&gt;The Caspian is the logical alternative to the Black Sea route, with energy transit via Azerbaijan and Turkey.&lt;/p&gt;&lt;div class="block-adsense block-adsense-managed-ad-block"&gt;&lt;div&gt;
+  &lt;div class="adsense responsive"&gt;
+    &lt;script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-6114695881218027" crossorigin="anonymous"&gt;&lt;/script&gt;
+&lt;!-- responsive --&gt;
+&lt;ins class="adsbygoogle mee-auto-ad-wrapper " style="display:block" data-ad-client="ca-pub-6114695881218027" data-ad-slot="8690493793" data-ad-format="horizontal" data-full-width-responsive="true"&gt;&lt;/ins&gt;
+&lt;script&gt;
+     (adsbygoogle = window.adsbygoogle || []).push({});
+&lt;/script&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+
+&lt;p&gt;Through this route, tankers transit the Caspian Sea and feed the Baku-Supsa pipeline, which can handle around 150,000 barrels per day - far below Kazakhstan’s typical export volumes. Additional volumes can be channelled through the Baku–Tbilisi–Ceyhan pipeline, making Azerbaijan’s infrastructure key for Europe’s energy security.&lt;/p&gt;
+
+&lt;p&gt;But the Caspian route is not safe either.&lt;/p&gt;
+
+&lt;p&gt;On July 25, a Ukrainian drone struck an Iranian vessel in the Caspian. The strike proved that such attacks are possible and can happen again. For the moment, an understanding between Kyiv and Tehran has eased major concerns. There is little doubt that this is also an existential challenge for Central Asian states.&amp;nbsp;&lt;/p&gt;
+
+&lt;p&gt;If Kazakhstan cannot ship west, China becomes the default buyer, reducing volumes available to Europe.&lt;/p&gt;
+
+&lt;p&gt;“They don’t want to be dependent on a monopsonist customer (single dominant buyer),” Roberts said.&amp;nbsp;&lt;/p&gt;&lt;div class="block-adsense block-adsense-managed-ad-block"&gt;&lt;div&gt;
+  &lt;div class="adsense responsive"&gt;
+    &lt;script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-6114695881218027" crossorigin="anonymous"&gt;&lt;/script&gt;
+&lt;!-- responsive --&gt;
+&lt;ins class="adsbygoogle mee-auto-ad-wrapper " style="display:block" data-ad-client="ca-pub-6114695881218027" data-ad-slot="8690493793" data-ad-format="horizontal" data-full-width-responsive="true"&gt;&lt;/ins&gt;
+&lt;script&gt;
+     (adsbygoogle = window.adsbygoogle || []).push({});
+&lt;/script&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+
+&lt;h3&gt;Regulation compounds volatility&lt;/h3&gt;
+
+&lt;p&gt;Experts are now placing their hope for easing inflation on “demand destruction” - poorer countries reducing consumption because they can no longer afford high prices, diverting supply to Europe.&amp;nbsp;&lt;/p&gt;
+
+&lt;p&gt;Weather is a key factor: a mild winter would give Europe breathing space. How weather will affect demand for fossil fuels is anything but clear.&amp;nbsp;&lt;/p&gt;
+
+&lt;p&gt;According to reports from Rystad Energy and ICIS, the 2026-2027 El Niño weather pattern will change how much energy Europe uses over the next year.&amp;nbsp;&lt;/p&gt;
+
+&lt;div class="mee-readmore mee-readmore-article-story mee-readmore-type-image align-right"&gt;
+  &lt;a class="mee-readmore-img-link" href="https://www.middleeasteye.net/news/chinas-oil-imports-plunge-40-percent-helping-keep-lid-energy-prices-iran-fighting-flares"&gt;&lt;img class="mee-readmore-image" src="https://www.middleeasteye.net/sites/default/files/styles/read_more/public/images-story/China-oil-refinery-AFP-2026.jpg.webp?itok=035w2R-B" width="400" height="250" alt loading="lazy" typeof="foaf:Image"&gt;
+
+&lt;/a&gt;  &lt;div class="mee-readmore-description"&gt;China's oil imports plunge 40 percent, keeping a lid on energy prices&lt;/div&gt;
+    &lt;a class="mee-readmore-link" href="https://www.middleeasteye.net/news/chinas-oil-imports-plunge-40-percent-helping-keep-lid-energy-prices-iran-fighting-flares"&gt;Read More »&lt;/a&gt;
+&lt;/div&gt;
+
+&lt;p&gt;In a July 2026 assessment, analysts warned that while a milder start to the December 2026 to January 2027 winter could initially lower heating demand, a sudden atmospheric shift could trigger severe cold snaps in February 2027, causing a late-winter spike in gas and electricity use.&amp;nbsp;&lt;/p&gt;
+
+&lt;p&gt;Furthermore, historical data from ICIS shows that strong El Niño events can cut European wind power generation by up to 9.8 percent during the winter months, forcing power plants to burn more natural gas to keep the lights on.&lt;/p&gt;
+
+&lt;p&gt;However, regulation is reducing Europe’s scope to address short-to-medium pressure.&lt;/p&gt;
+
+&lt;p&gt;EU methane rules taking effect in 2027 will require gas and LNG importers to prove that overseas producers meet EU-level monitoring and verification standards.&amp;nbsp;&lt;/p&gt;
+
+&lt;p&gt;Analysts such as Ben Cahill at CSIS say this will immediately split the market between compliant and non-compliant exporters. Many producers lack the equipment and data systems needed to meet EU-level monitoring standards, meaning compliant gas may become more expensive. This is likely to affect suppliers from Central Asia.&amp;nbsp;&lt;/p&gt;
+
+&lt;p&gt;Central Asian countries such as Kazakhstan and Turkmenistan are studying ways to access the European market. But this requires the placement of critical infrastructure to carry Kazakh oil or Turkmen gas across the Caspian. This is hard, as the EU cannot offer investment capital or long-term contracting for oil and gas projects due to environmental regulations.&amp;nbsp;&lt;/p&gt;
+
+&lt;p&gt;One proposal is for a short interconnector with a capacity of around five billion cubic metres between Turkmenistan’s own offshore platforms and those of Azerbaijan.&amp;nbsp;&lt;/p&gt;
+
+&lt;p&gt;Advocates have put the cost of laying such a line at around $500m - or closer to one billion if the line were eventually intended to carry 10-12 bcm. Such a pipeline would pass through the territorial waters of only two countries, which, under the 2018 Convention on the Legal Status of the Caspian Sea, reduces Moscow and Tehran's ability to block the project.&amp;nbsp;&lt;/p&gt;
+
+&lt;p&gt;Nonetheless, Moscow and Tehran can use environmental impact assessments to exert pressure.&lt;/p&gt;
+
+&lt;p&gt;Europe’s energy crisis is turning into an industrial and inflationary challenge that cannot be addressed with policy or regulatory interventions.&amp;nbsp;&lt;/p&gt;
+
+&lt;p&gt;While in the long run Europe may come to rely on renewables alone, in the short run, there is little that policymakers can say to dissuade concerns. Luck matters more than policy.&amp;nbsp;&lt;/p&gt;
+&lt;/div&gt;
+                  &lt;div class="field field-field-topic"&gt;&lt;a href="https://www.middleeasteye.net/topics/analysis" hreflang="en"&gt;Analysis&lt;/a&gt;&lt;/div&gt;
+            &lt;div class="field field-field-coauthor-location"&gt;
+              &lt;div&gt; &lt;/div&gt;
+              &lt;div&gt; &lt;/div&gt;
+              &lt;div&gt; &lt;/div&gt;
+              &lt;div&gt; &lt;/div&gt;
+          &lt;/div&gt;
+              &lt;div class="field field-field-article-location"&gt; &lt;/div&gt;
+                  &lt;div class="field field-field-section"&gt;&lt;a href="https://www.middleeasteye.net/news/all" hreflang="en"&gt;News&lt;/a&gt;&lt;/div&gt;
+        &lt;div class="field field-field-post-date-override"&gt;
+    &lt;div&gt;Post Date Override&lt;/div&gt;
+              &lt;div&gt;0&lt;/div&gt;
+          &lt;/div&gt;
+  &lt;div class="field field-field-update-date-override"&gt;
+    &lt;div&gt;Update Date&lt;/div&gt;
+              &lt;div&gt;&lt;time datetime="2020-05-04T21:19:45+01:00"&gt;Mon, 05/04/2020 - 21:19&lt;/time&gt;
+&lt;/div&gt;
+          &lt;/div&gt;
+  &lt;div class="field field-field-update-date-check"&gt;
+    &lt;div&gt;Update Date Override&lt;/div&gt;
+              &lt;div&gt;0&lt;/div&gt;
+          &lt;/div&gt;
+
+  &lt;/div&gt;
+  
+&lt;/article&gt;
+</description>
+  <pubDate>Fri, 18 Sep 2026 19:42:32 +0100</pubDate>
+    <dc:creator>Ilya Roubanis</dc:creator>
+    <guid isPermaLink="false">447931 at https://www.middleeasteye.net/</guid>
+    </item>
+<item>
+  <title>US lifts sanctions on Eritrea with Red Sea in focus</title>
+  <link>https://www.middleeasteye.net/live-blog/live-blog-update/us-lifts-sanctions-eritrea-red-sea-focus</link>
+  <description>
+  
+
+&lt;article data-history-node-id="447932" about="https://www.middleeasteye.net/live-blog/live-blog-update/us-lifts-sanctions-eritrea-red-sea-focus" class="live-blog-update default clearfix"&gt;
+
+  
+      &lt;h2&gt;
+      &lt;a href="https://www.middleeasteye.net/live-blog/live-blog-update/us-lifts-sanctions-eritrea-red-sea-focus" rel="bookmark"&gt;
+&lt;span class="field field-title"&gt;US lifts sanctions on Eritrea with Red Sea in focus&lt;/span&gt;
+&lt;/a&gt;
+    &lt;/h2&gt;
+    
+
+        
+    &lt;div class="content"&gt;
+                &lt;div class="field field-field-text"&gt;&lt;p&gt;&lt;meta charset="UTF-8"&gt;&lt;/p&gt;
+
+&lt;p&gt;The&amp;nbsp;&lt;a href="https://www.middleeasteye.net/countries/us" target="_blank"&gt;US&lt;/a&gt;&amp;nbsp;has lifted sanctions on the Eritrean military and key entities on Friday, as the African country comes under renewed focus because of its strategic location on the Red Sea across from&amp;nbsp;&lt;a href="https://www.middleeasteye.net/countries/yemen" target="_blank"&gt;Yemen&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;The Treasury Department said in a&amp;nbsp;&lt;a href="https://ofac.treasury.gov/recent-actions/20260918" target="_blank"&gt;statement&lt;/a&gt;&amp;nbsp;that it was lifting sanctions imposed on Eritrea’s decades-long ruling party, the People's Front for Democracy and Justice; the Eritrean military; and the Red Sea Trading Corporation, the company that controls much of Eritrea’s trade with the outside world.&lt;/p&gt;
+
+&lt;p&gt;The US also lifted sanctions on Hagos Ghebrehiwet, a key economic advisor to Eritrean President Isaias Afwerki.&lt;/p&gt;
+
+&lt;h3&gt;Read more:&amp;nbsp;&lt;a href="https://www.middleeasteye.net/news/us-lifts-sanctions-eritrea-red-sea-focus"&gt;US lifts sanctions on Eritrea with Red Sea in focus&lt;/a&gt;&lt;/h3&gt;
+
+  &lt;figure role="group" class="media-block"&gt;
+  &lt;div class="group-inner"&gt;
+    &lt;div alt="Pedestrians cross a busy intersection in Asmara, Eritrea, on 4 October 2025 (Jemal Countess/AFP)" data-embed-button="file_browser" data-entity-embed-display="image:image" data-entity-embed-display-settings="{" data-entity-type="file" data-entity-uuid="c7ef24dd-c94e-490f-8fb2-5271864ecfc0" data-langcode="en" class="embedded-entity"&gt;  &lt;img src="https://www.middleeasteye.net/sites/default/files/images-story/Eritrea-Asmara-AFP-2026.jpg" width="1200" height="679" alt="Pedestrians cross a busy intersection in Asmara, Eritrea, on 4 October 2025 (Jemal Countess/AFP)" typeof="foaf:Image" fetchpriority="high"&gt;
+
+&lt;/div&gt;
+
+    &lt;figcaption&gt;Pedestrians cross a busy intersection in Asmara, Eritrea, on 4 October 2025 (Jemal Countess/AFP)&lt;/figcaption&gt;
+  &lt;/div&gt;
+&lt;/figure&gt;
+
+
+&lt;p&gt;&lt;span style="background:rgba(220,220,220,0.5);background-image:url(https://www.middleeasteye.net/modules/contrib/ckeditor/vendor/plugins/widget/images/handle.png);display:none;"&gt;&lt;img height="15" role="presentation" src="data:image/gif;base64,R0lGODlhAQABAPABAP///wAAACH5BAEKAAAALAAAAAABAAEAAAICRAEAOw==" title="Click and drag to move" width="15" loading="lazy"&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;/div&gt;
+      
+  &lt;/div&gt;
+
+&lt;/article&gt;
+</description>
+  <pubDate>Fri, 18 Sep 2026 19:35:02 +0100</pubDate>
+    <dc:creator>Bilge Kotan</dc:creator>
+    <guid isPermaLink="false">447932 at https://www.middleeasteye.net/</guid>
+    </item>
+<item>
+  <title>US lifts sanctions on Eritrea with Red Sea in focus </title>
+  <link>https://www.middleeasteye.net/news/us-lifts-sanctions-eritrea-red-sea-focus</link>
+  <description>
+  
+
+&lt;article data-history-node-id="447926" about="https://www.middleeasteye.net/news/us-lifts-sanctions-eritrea-red-sea-focus" class="story default clearfix"&gt;
+
+  
+      &lt;h2&gt;
+      &lt;a href="https://www.middleeasteye.net/news/us-lifts-sanctions-eritrea-red-sea-focus" rel="bookmark"&gt;
+&lt;span class="field field-title"&gt;US lifts sanctions on Eritrea with Red Sea in focus &lt;/span&gt;
+&lt;/a&gt;
+    &lt;/h2&gt;
+    
+
+          &lt;footer&gt;
+      
+      &lt;div class="author"&gt;
+        Submitted by 
+&lt;span class="field field-uid"&gt;&lt;a title="View user profile." href="https://www.middleeasteye.net/users/mee-staff" lang about="https://www.middleeasteye.net/users/mee-staff" typeof="schema:Person" property="schema:name" datatype&gt;MEE staff&lt;/a&gt;&lt;/span&gt;
+ on 
+&lt;span class="field field-created"&gt;&lt;time datetime="2026-09-18T17:29:15+01:00" title="18 September 2026 17:29 BST"&gt;Fri, 09/18/2026 - 17:29&lt;/time&gt;
+&lt;/span&gt;
+        
+      &lt;/div&gt;
+    &lt;/footer&gt;
+      
+    &lt;div class="content"&gt;
+                &lt;div class="field field-field-subhead"&gt;Proximity to Yemen puts Asmara at centre of growing strategic competition over Red Sea, amid Houthi military offensive&lt;/div&gt;
+                  &lt;div class="field field-field-main-image"&gt;    &lt;picture&gt;
+                  &lt;source srcset="https://www.middleeasteye.net/sites/default/files/styles/crop_16_9/public/images-story/Eritrea-Asmara-AFP-2026.jpg.webp?itok=XAxiYFHf 1x" type="image/webp" width="1200" height="679"&gt;
+                  &lt;img srcset="https://www.middleeasteye.net/sites/default/files/styles/crop_16_9/public/images-story/Eritrea-Asmara-AFP-2026.jpg.webp?itok=XAxiYFHf 1x" width="1200" height="679" src="https://www.middleeasteye.net/sites/default/files/styles/crop_16_9/public/images-story/Eritrea-Asmara-AFP-2026.jpg.jpg?itok=XAxiYFHf" alt typeof="foaf:Image" fetchpriority="high"&gt;
+
+  &lt;/picture&gt;
+
+&lt;/div&gt;
+                  &lt;div class="field field-field-cutline"&gt;Pedestrians cross a busy intersection in Asmara, Eritrea, on 4 October 2025 (Jemal Countess/AFP)&lt;/div&gt;
+                  &lt;div class="field field-field-wide-photo-video"&gt;Off&lt;/div&gt;
+                  &lt;div class="field field-body clearfix"&gt;&lt;p&gt;The &lt;a href="https://www.middleeasteye.net/countries/us"&gt;US&lt;/a&gt;&amp;nbsp;has lifted sanctions on the Eritrean military and key entities on Friday, as the African country comes under renewed focus because of its strategic location on the Red Sea across from &lt;a href="https://www.middleeasteye.net/countries/yemen"&gt;Yemen&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;span style="margin: 0px; padding: 0px;"&gt;The Treasury Department said in a&amp;nbsp;&lt;a href="https://ofac.treasury.gov/recent-actions/20260918" target="_blank"&gt;statement&lt;/a&gt;&amp;nbsp;that it was lifting sanctions imposed on Eritrea’s decades-long ruling party, the People's Front for Democracy and Justice; the Eritrean military; and the Red Sea Trading Corporation, the company that controls much of Eritrea’s trade with the outside world.&lt;/span&gt;&lt;/p&gt;
+
+&lt;p&gt;The US also lifted sanctions on Hagos Ghebrehiwet, a key economic advisor to Eritrean President Isaias Afwerki.&lt;/p&gt;
+
+&lt;p&gt;The sanctions go back to 2021, when the US administration under President Joe Biden imposed penalties on Eritrea for its role in fighting alongside Ethiopia against the Ethiopian regional government of Tigray.&lt;/p&gt;
+
+&lt;p&gt;The African Union said that the conflict may have killed up to 600,000 people. It sparked allegations of atrocities and widespread massacres.&lt;/p&gt;&lt;div class="block-adsense block-adsense-managed-ad-block"&gt;&lt;div&gt;
+  &lt;div class="adsense responsive"&gt;
+    &lt;script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-6114695881218027" crossorigin="anonymous"&gt;&lt;/script&gt;
+&lt;!-- responsive --&gt;
+&lt;ins class="adsbygoogle mee-auto-ad-wrapper " style="display:block" data-ad-client="ca-pub-6114695881218027" data-ad-slot="8690493793" data-ad-format="horizontal" data-full-width-responsive="true"&gt;&lt;/ins&gt;
+&lt;script&gt;
+     (adsbygoogle = window.adsbygoogle || []).push({});
+&lt;/script&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+
+&lt;p&gt;Afwerki has ruled Eritrea since it gained independence from Ethiopia in 1993. Ethiopia and Eritrea patched up their fraught ties temporarily to fight together in the former's 2020-2022 civil war, but their tactical alliance has since broken down, and they are at daggers drawn over various regional hotspots.&lt;/p&gt;
+
+&lt;p&gt;Ethiopia has moved closer to the UAE and Israel.&lt;/p&gt;
+
+&lt;p&gt;Ethiopia is helping the UAE support the Rapid Support Forces in Sudan’s civil war, Middle East Eye and other outlets have &lt;a href="https://www.middleeasteye.net/news/exclusive-eritrea-foreign-minister-says-uae-pursuing-port-imperialism-across-africa"&gt;reported&lt;/a&gt;. Addis Ababa has also deployed Emirati drones and other weapons systems.&lt;/p&gt;
+
+&lt;p&gt;Eritrea supports the Sudanese Armed Forces, along with Egypt, Turkey, and Saudi Arabia.&lt;/p&gt;
+
+&lt;p&gt;Eritrea was once close with the UAE and hosted the Gulf state at a military base in Assab, which is a short distance across the Red Sea from Yemen, but those ties have severely frayed.&amp;nbsp;&lt;/p&gt;
+
+&lt;div class="mee-readmore mee-readmore-article-story mee-readmore-type-image align-right"&gt;
+  &lt;a class="mee-readmore-img-link" href="https://www.middleeasteye.net/news/exclusive-eritrea-foreign-minister-says-uae-pursuing-port-imperialism-across-africa"&gt;&lt;img class="mee-readmore-image" src="https://www.middleeasteye.net/sites/default/files/styles/read_more/public/images-story/Eritrea-fm-reuters.jpg.webp?itok=RQuB5O2s" width="400" height="250" alt loading="lazy" typeof="foaf:Image"&gt;
+
+&lt;/a&gt;  &lt;div class="mee-readmore-description"&gt;Exclusive: UAE pursuing 'port imperialism' across Africa, Eritrean foreign minister says&lt;/div&gt;
+    &lt;a class="mee-readmore-link" href="https://www.middleeasteye.net/news/exclusive-eritrea-foreign-minister-says-uae-pursuing-port-imperialism-across-africa"&gt;Read More »&lt;/a&gt;
+&lt;/div&gt;
+
+&lt;p&gt;In an &lt;a href="https://www.middleeasteye.net/news/exclusive-eritrea-foreign-minister-says-uae-pursuing-port-imperialism-across-africa"&gt;exclusive interview&lt;/a&gt; with MEE, Eritrean Foreign Minister Osman Saleh accused the UAE of pursuing “port imperialism” across Africa and seeking a Red Sea naval base for joint use with Israel.&lt;/p&gt;
+
+&lt;p&gt;Eritrea sits in a strategic position, with more than 1,000km of Red Sea coastline. The territorial waters of Djibouti, Eritrea and Yemen comprise the Bab el-Mandeb Strait. At its narrowest point, the distance between Eritrea and Yemen across the Red Sea is approximately 20 nautical miles.&lt;/p&gt;
+
+&lt;p&gt;Houthi forces have taken control of the entirety of Yemen’s Red Sea coastline in a &lt;a href="https://www.middleeasteye.net/news/few-cards-play-allies-absent-saudi-arabia-has-few-options-fight-houthis"&gt;sweeping military offensive&lt;/a&gt;. They are now battling to gain control of hinterland cities Taiz and Marib, which could challenge the limited authority of Yemen’s internationally recognised government.&lt;/p&gt;
+
+&lt;p&gt;Saleh&amp;nbsp;&lt;a href="https://www.middleeasteye.net/news/no-military-solution-conflict-yemen-eritrean-foreign-minister-says"&gt;also told&lt;/a&gt; MEE that Asmara saw no military solution to the war raging across the Red Sea.&lt;/p&gt;
+
+&lt;p&gt;“There is no military option in Yemen, which must be given a chance to be peaceful,” he said.&lt;/p&gt;
+
+&lt;p&gt;Saleh added that littoral states must decide how to manage the freedom of navigation in the Red Sea, but this was complicated by the fact that Yemen is not united under a cohesive government.&amp;nbsp;&lt;/p&gt;
+&lt;/div&gt;
+                  &lt;div class="field field-field-topic"&gt;&lt;a href="https://www.middleeasteye.net/topics/horn-africa" hreflang="en"&gt;Horn of Africa&lt;/a&gt;&lt;/div&gt;
+            &lt;div class="field field-field-coauthor-location"&gt;
+              &lt;div&gt; &lt;/div&gt;
+              &lt;div&gt; &lt;/div&gt;
+              &lt;div&gt; &lt;/div&gt;
+              &lt;div&gt; &lt;/div&gt;
+          &lt;/div&gt;
+              &lt;div class="field field-field-article-location"&gt; &lt;/div&gt;
+                  &lt;div class="field field-field-section"&gt;&lt;a href="https://www.middleeasteye.net/news/all" hreflang="en"&gt;News&lt;/a&gt;&lt;/div&gt;
+        &lt;div class="field field-field-post-date-override"&gt;
+    &lt;div&gt;Post Date Override&lt;/div&gt;
+              &lt;div&gt;0&lt;/div&gt;
+          &lt;/div&gt;
+  &lt;div class="field field-field-update-date-override"&gt;
+    &lt;div&gt;Update Date&lt;/div&gt;
+              &lt;div&gt;&lt;time datetime="2020-05-04T21:19:45+01:00"&gt;Mon, 05/04/2020 - 21:19&lt;/time&gt;
+&lt;/div&gt;
+          &lt;/div&gt;
+  &lt;div class="field field-field-update-date-check"&gt;
+    &lt;div&gt;Update Date Override&lt;/div&gt;
+              &lt;div&gt;0&lt;/div&gt;
+          &lt;/div&gt;
+
+  &lt;/div&gt;
+  
+&lt;/article&gt;
+</description>
+  <pubDate>Fri, 18 Sep 2026 19:13:28 +0100</pubDate>
+    <dc:creator>MEE staff</dc:creator>
+    <guid isPermaLink="false">447926 at https://www.middleeasteye.net/</guid>
+    </item>
+<item>
+  <title>US redirects 105 vessels under Iran blockade</title>
+  <link>https://www.middleeasteye.net/live-blog/live-blog-update/us-redirects-105-vessels-under-iran-blockade</link>
+  <description>
+  
+
+&lt;article data-history-node-id="447930" about="https://www.middleeasteye.net/live-blog/live-blog-update/us-redirects-105-vessels-under-iran-blockade" class="live-blog-update default clearfix"&gt;
+
+  
+      &lt;h2&gt;
+      &lt;a href="https://www.middleeasteye.net/live-blog/live-blog-update/us-redirects-105-vessels-under-iran-blockade" rel="bookmark"&gt;
+&lt;span class="field field-title"&gt;US redirects 105 vessels under Iran blockade&lt;/span&gt;
+&lt;/a&gt;
+    &lt;/h2&gt;
+    
+
+        
+    &lt;div class="content"&gt;
+                &lt;div class="field field-field-text"&gt;&lt;p dir="ltr"&gt;US Central Command (Centcom) said it has redirected 105 commercial vessels since the US enforced a naval blockade against Iran.&lt;/p&gt;
+
+&lt;p dir="ltr"&gt;In a post on X, Centcom said the USS Boxer conducted flight operations in the Arabian Sea as it continues to “enforce the US blockade against Iran”, alongside its embarked Marine Expeditionary Unit.&lt;/p&gt;
+
+&lt;blockquote class="twitter-tweet"&gt;
+&lt;p dir="ltr" lang="en"&gt;USS Boxer (LHD 4) conducts flight operations in the Arabian Sea. Boxer and its embarked Marine Expeditionary Unit continue to enforce the U.S. blockade against Iran. As of Sept. 18, CENTCOM forces have redirected 105 commercial vessels to ensure strict compliance. &lt;a href="https://t.co/OQs8ODY0PS"&gt;pic.twitter.com/OQs8ODY0PS&lt;/a&gt;&lt;/p&gt;
+— U.S. Central Command (@CENTCOM) &lt;a href="https://x.com/CENTCOM/status/2100991308701516146?ref_src=twsrc%5Etfw"&gt;September 18, 2026&lt;/a&gt;&lt;/blockquote&gt;
+&lt;script async src="https://platform.x.com/widgets.js" charset="utf-8"&gt;&lt;/script&gt;
+
+
+&lt;/div&gt;
+      
+  &lt;/div&gt;
+
+&lt;/article&gt;
+</description>
+  <pubDate>Fri, 18 Sep 2026 18:58:50 +0100</pubDate>
+    <dc:creator>Bilge Kotan</dc:creator>
+    <guid isPermaLink="false">447930 at https://www.middleeasteye.net/</guid>
+    </item>
+<item>
+  <title>US approves visas for Iranian officials to attend United Nations General Assembly</title>
+  <link>https://www.middleeasteye.net/news/trump-administration-approves-visas-iranian-officials-attend-united-nations-annual-meeting</link>
+  <description>
+  
+
+&lt;article data-history-node-id="447927" about="https://www.middleeasteye.net/news/trump-administration-approves-visas-iranian-officials-attend-united-nations-annual-meeting" class="story default clearfix"&gt;
+
+  
+      &lt;h2&gt;
+      &lt;a href="https://www.middleeasteye.net/news/trump-administration-approves-visas-iranian-officials-attend-united-nations-annual-meeting" rel="bookmark"&gt;
+&lt;span class="field field-title"&gt;US approves visas for Iranian officials to attend United Nations General Assembly&lt;/span&gt;
+&lt;/a&gt;
+    &lt;/h2&gt;
+    
+
+          &lt;footer&gt;
+      
+      &lt;div class="author"&gt;
+        Submitted by 
+&lt;span class="field field-uid"&gt;&lt;a title="View user profile." href="https://www.middleeasteye.net/users/mee-staff" lang about="https://www.middleeasteye.net/users/mee-staff" typeof="schema:Person" property="schema:name" datatype&gt;MEE staff&lt;/a&gt;&lt;/span&gt;
+ on 
+&lt;span class="field field-created"&gt;&lt;time datetime="2026-09-18T17:15:28+01:00" title="18 September 2026 17:15 BST"&gt;Fri, 09/18/2026 - 17:15&lt;/time&gt;
+&lt;/span&gt;
+        
+      &lt;/div&gt;
+    &lt;/footer&gt;
+      
+    &lt;div class="content"&gt;
+                &lt;div class="field field-field-subhead"&gt;This comes as the US remains in open violent conflict with Iran, and follows visa denials to Palestinian officials for the same event&lt;/div&gt;
+                  &lt;div class="field field-field-main-image"&gt;    &lt;picture&gt;
+                  &lt;source srcset="https://www.middleeasteye.net/sites/default/files/styles/crop_16_9/public/images-story/000_C6YM8RH-2.jpg.webp?itok=2X6gFJ90 1x" type="image/webp" width="1400" height="788"&gt;
+                  &lt;img srcset="https://www.middleeasteye.net/sites/default/files/styles/crop_16_9/public/images-story/000_C6YM8RH-2.jpg.webp?itok=2X6gFJ90 1x" width="1400" height="788" src="https://www.middleeasteye.net/sites/default/files/styles/crop_16_9/public/images-story/000_C6YM8RH-2.jpg.jpg?itok=2X6gFJ90" alt typeof="foaf:Image" fetchpriority="high"&gt;
+
+  &lt;/picture&gt;
+
+&lt;/div&gt;
+                  &lt;div class="field field-field-cutline"&gt;Iran's President Masoud Pezeshkian attends a meeting of the Shanghai Cooperation Organisation summit in Bishkek, Kyrgyzstan, on 1 September 2026 (Iranian Presidency handout via AFP)&lt;/div&gt;
+                  &lt;div class="field field-field-wide-photo-video"&gt;Off&lt;/div&gt;
+                  &lt;div class="field field-body clearfix"&gt;&lt;p&gt;The US State Department indicated on Thursday that it has approved visas for a small number of &lt;a href="https://www.middleeasteye.net/countries/iran"&gt;Iranian&lt;/a&gt; officials to attend the United Nations annual meeting known as the General Assembly (UNGA), which begins next week.&amp;nbsp;&lt;/p&gt;
+
+&lt;p&gt;The New York Times first reported the approvals, citing an emailed statement.&lt;/p&gt;
+
+&lt;p&gt;State Department spokesperson Tommy Pigott had only shared a cryptic post on X suggesting some Iranian diplomats may be coming to New York City.&lt;/p&gt;
+
+&lt;p&gt;"While ordinary Iranians endure brutal repression, water and electricity shortages, and&amp;nbsp;soaring inflation, the regime's officials want to go on shopping sprees in New York. Not on our watch," he said.&lt;/p&gt;
+
+&lt;p&gt;"We will not let&amp;nbsp;the&amp;nbsp;Iranian regime’s&amp;nbsp;elites exploit UNGA for a&amp;nbsp;luxury&amp;nbsp;retail splurge&amp;nbsp;paid for by&amp;nbsp;the Iranian&amp;nbsp;people's suffering, all while the regime funnels Iran’s wealth to&amp;nbsp;support&amp;nbsp;its&amp;nbsp;terrorist proxies.&amp;nbsp;The US will continue to ban Iranian UN Mission officials, visiting officials, and their dependents from buying wholesale club memberships or luxury goods here," he added.&lt;/p&gt;&lt;div class="block-adsense block-adsense-managed-ad-block"&gt;&lt;div&gt;
+  &lt;div class="adsense responsive"&gt;
+    &lt;script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-6114695881218027" crossorigin="anonymous"&gt;&lt;/script&gt;
+&lt;!-- responsive --&gt;
+&lt;ins class="adsbygoogle mee-auto-ad-wrapper " style="display:block" data-ad-client="ca-pub-6114695881218027" data-ad-slot="8690493793" data-ad-format="horizontal" data-full-width-responsive="true"&gt;&lt;/ins&gt;
+&lt;script&gt;
+     (adsbygoogle = window.adsbygoogle || []).push({});
+&lt;/script&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+
+&lt;p&gt;"New York-area&amp;nbsp;retailers:&amp;nbsp;be on guard,&amp;nbsp;don’t&amp;nbsp;become complicit in these violations."&lt;/p&gt;
+
+&lt;p&gt;The visas issued will limit the scope of the delegation's movements in Manhattan, and the number of visiting officials will be smaller than last year, the New York Times said.&amp;nbsp;&lt;/p&gt;
+
+&lt;p&gt;The delegation is expected to include Iran's President Masoud Pezeshkian and Foreign Minister Abbas Aragchi.&lt;/p&gt;
+
+&lt;p&gt;Aragchi has been the chief negotiator with the Americans, alongside Iran's parliamentary speaker, Mohammad Bagher Ghalibaf, as the US war on Iran enters its seventh month.&lt;/p&gt;
+
+&lt;div class="mee-readmore mee-readmore-article-story mee-readmore-type-image align-right"&gt;
+  &lt;a class="mee-readmore-img-link" href="https://www.middleeasteye.net/news/turkey-halts-iran-mahan-air-flights-over-us-sanctions-risk"&gt;&lt;img class="mee-readmore-image" src="https://www.middleeasteye.net/sites/default/files/styles/read_more/public/images-story/FILE-photo-Yemen-Mahan-Air-2015-Mohammed-Huwais-AFP.jpg.webp?itok=lqMSfOSL" width="400" height="250" alt loading="lazy" typeof="foaf:Image"&gt;
+
+&lt;/a&gt;  &lt;div class="mee-readmore-description"&gt;Turkey to halt Iranian Mahan Air flights over US sanctions risk&lt;/div&gt;
+    &lt;a class="mee-readmore-link" href="https://www.middleeasteye.net/news/turkey-halts-iran-mahan-air-flights-over-us-sanctions-risk"&gt;Read More »&lt;/a&gt;
+&lt;/div&gt;
+
+&lt;p&gt;The Trump administration has insisted there are some skirmishes from time to time that no longer constitute a "war", but dozens of Iranian civilians were killed in American attacks just last month.&amp;nbsp;&lt;/p&gt;
+
+&lt;p&gt;Iran has continued to retaliate with increased and more targeted attacks on US military and energy assets in the region, in addition to maintaining control over the Strait of Hormuz.&lt;/p&gt;
+
+&lt;p&gt;In response, the US launched "Operation Economic Outcast" to "asphyxiate" the Iranians, the Treasury secretary announced last month.&lt;/p&gt;
+
+&lt;p&gt;New sanctions are now rolled out several times a week, and on Thursday, the Treasury Department's Office of Foreign Assets Control designated BitBank, a priority digital assets venture controlled by Iranian financier Babak Zanjani.&amp;nbsp;&lt;/p&gt;
+
+&lt;p&gt;In an accompanying statement to the sanctions announcement, Pigott said BitBank has helped the Central Bank of Iran gain access to the US-dominated international financial system.&amp;nbsp;&lt;/p&gt;
+
+&lt;h3&gt;Visa bans&amp;nbsp;&lt;/h3&gt;
+
+&lt;p&gt;As the host to the UN headquarters, the US has not historically exercised outsized visa restrictions, owing to the diplomatic nature of the forum and its agreements with the international body.&amp;nbsp;&lt;/p&gt;
+
+&lt;p&gt;That changed when the Trump administration took power in January 2025.&lt;/p&gt;&lt;div class="block-adsense block-adsense-managed-ad-block"&gt;&lt;div&gt;
+  &lt;div class="adsense responsive"&gt;
+    &lt;script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-6114695881218027" crossorigin="anonymous"&gt;&lt;/script&gt;
+&lt;!-- responsive --&gt;
+&lt;ins class="adsbygoogle mee-auto-ad-wrapper " style="display:block" data-ad-client="ca-pub-6114695881218027" data-ad-slot="8690493793" data-ad-format="horizontal" data-full-width-responsive="true"&gt;&lt;/ins&gt;
+&lt;script&gt;
+     (adsbygoogle = window.adsbygoogle || []).push({});
+&lt;/script&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+
+&lt;p&gt;For the second year in a row, Washington has chosen to deny a visa to Palestinian Authority (PA) President Mahmoud Abbas to attend UNGA.&lt;/p&gt;
+
+&lt;p&gt;&lt;meta charset="UTF-8"&gt;&lt;/p&gt;
+
+&lt;div class="mee-readmore mee-readmore-article-story mee-readmore-type-image align-right"&gt;
+  &lt;a class="mee-readmore-img-link" href="https://www.middleeasteye.net/news/us-bans-palestinian-president-speaking-un-again-over-icc-icj-action-against-israel"&gt;&lt;img class="mee-readmore-image" src="https://www.middleeasteye.net/sites/default/files/styles/read_more/public/images-story/000_76BN94M.jpg.webp?itok=hW02JeCi" width="400" height="250" alt loading="lazy" typeof="foaf:Image"&gt;
+
+&lt;/a&gt;  &lt;div class="mee-readmore-description"&gt;US bans Palestinian president from speaking at the UN&lt;/div&gt;
+    &lt;a class="mee-readmore-link" href="https://www.middleeasteye.net/news/us-bans-palestinian-president-speaking-un-again-over-icc-icj-action-against-israel"&gt;Read More »&lt;/a&gt;
+&lt;/div&gt;
+
+&lt;p&gt;In a statement on Wednesday, the State Department said it would bar members of the Palestine Liberation Organisation (PLO) as well as all officials with the PA.&amp;nbsp;&lt;/p&gt;
+
+&lt;p&gt;The Palestinian foreign ministry condemned the decision as an "unjustified measure that contradicts efforts to restore confidence, develop Palestinian-American relations, and create the necessary political climate for implementing the two-state solution and achieving peace and stability in the region".&lt;/p&gt;
+
+&lt;p&gt;The State Department said it was extending the restrictions on PA officials as "a consequence of their failure to reform, contrary to their commitments to the United States, and their ongoing activities that undermine the prospects for peace".&lt;/p&gt;
+
+&lt;p&gt;This is despite there being no peace negotiations in any form, and certainly not any mediated by Washington.&lt;/p&gt;
+
+&lt;p&gt;The Trump administration has also all but abandoned any recognition of a "two-state solution".&amp;nbsp;&lt;/p&gt;
+
+&lt;p&gt;Both Israeli Prime Minister Benjamin Netanyahu and his main opponent in next month's election, Gadi Eisenkot, have made it clear they do not believe a Palestinian state should exist.&lt;/p&gt;
+
+&lt;p&gt;Last year, the same visa decision prompted criticism of Washington’s role as host of UN headquarters and sparked calls to move a major UN meeting on Palestine to Geneva.&lt;/p&gt;
+
+&lt;p&gt;The UN General Assembly later voted 145-5 to allow Abbas to address the gathering remotely.&lt;/p&gt;
+&lt;/div&gt;
+                  &lt;div class="field field-field-topic"&gt;&lt;a href="https://www.middleeasteye.net/topics/war-on-iran" hreflang="en"&gt;War on Iran&lt;/a&gt;&lt;/div&gt;
+            &lt;div class="field field-field-coauthor-location"&gt;
+              &lt;div&gt; &lt;/div&gt;
+              &lt;div&gt; &lt;/div&gt;
+              &lt;div&gt; &lt;/div&gt;
+              &lt;div&gt; &lt;/div&gt;
+          &lt;/div&gt;
+              &lt;div class="field field-field-article-location"&gt; &lt;/div&gt;
+                  &lt;div class="field field-field-section"&gt;&lt;a href="https://www.middleeasteye.net/news/all" hreflang="en"&gt;News&lt;/a&gt;&lt;/div&gt;
+        &lt;div class="field field-field-post-date-override"&gt;
+    &lt;div&gt;Post Date Override&lt;/div&gt;
+              &lt;div&gt;0&lt;/div&gt;
+          &lt;/div&gt;
+  &lt;div class="field field-field-update-date-override"&gt;
+    &lt;div&gt;Update Date&lt;/div&gt;
+              &lt;div&gt;&lt;time datetime="2020-05-04T21:19:45+01:00"&gt;Mon, 05/04/2020 - 21:19&lt;/time&gt;
+&lt;/div&gt;
+          &lt;/div&gt;
+  &lt;div class="field field-field-update-date-check"&gt;
+    &lt;div&gt;Update Date Override&lt;/div&gt;
+              &lt;div&gt;0&lt;/div&gt;
+          &lt;/div&gt;
+
+  &lt;/div&gt;
+  
+&lt;/article&gt;
+</description>
+  <pubDate>Fri, 18 Sep 2026 18:22:25 +0100</pubDate>
+    <dc:creator>MEE staff</dc:creator>
+    <guid isPermaLink="false">447927 at https://www.middleeasteye.net/</guid>
+    </item>
+<item>
+  <title>Israeli strike on motorcycle kills one in Gaza City</title>
+  <link>https://www.middleeasteye.net/live-blog/live-blog-update/israeli-strike-motorcycle-kills-one-gaza-city</link>
+  <description>
+  
+
+&lt;article data-history-node-id="447929" about="https://www.middleeasteye.net/live-blog/live-blog-update/israeli-strike-motorcycle-kills-one-gaza-city" class="live-blog-update default clearfix"&gt;
+
+  
+      &lt;h2&gt;
+      &lt;a href="https://www.middleeasteye.net/live-blog/live-blog-update/israeli-strike-motorcycle-kills-one-gaza-city" rel="bookmark"&gt;
+&lt;span class="field field-title"&gt;Israeli strike on motorcycle kills one in Gaza City&lt;/span&gt;
+&lt;/a&gt;
+    &lt;/h2&gt;
+    
+
+        
+    &lt;div class="content"&gt;
+                &lt;div class="field field-field-text"&gt;&lt;p&gt;An Israeli attack on a motorcycle killed one person and wounded several others in Gaza City’s Sheikh Radwan neighbourhood,&amp;nbsp;the official Palestinian news agency Wafa reported.&lt;/p&gt;
+
+&lt;p&gt;An injured child is in critical condition, the report said,&amp;nbsp;citing medical sources at al-Shifa Hospital.&lt;/p&gt;
+&lt;/div&gt;
+      
+  &lt;/div&gt;
+
+&lt;/article&gt;
+</description>
+  <pubDate>Fri, 18 Sep 2026 18:17:35 +0100</pubDate>
+    <dc:creator>Bilge Kotan</dc:creator>
+    <guid isPermaLink="false">447929 at https://www.middleeasteye.net/</guid>
+    </item>
+<item>
+  <title>Ben Gvir supporters hand out gun-shaped keyrings to Israeli students</title>
+  <link>https://www.middleeasteye.net/live-blog/live-blog-update/ben-gvir-supporters-hand-out-gun-shaped-keyrings-israeli-students</link>
+  <description>
+  
+
+&lt;article data-history-node-id="447928" about="https://www.middleeasteye.net/live-blog/live-blog-update/ben-gvir-supporters-hand-out-gun-shaped-keyrings-israeli-students" class="live-blog-update default clearfix"&gt;
+
+  
+      &lt;h2&gt;
+      &lt;a href="https://www.middleeasteye.net/live-blog/live-blog-update/ben-gvir-supporters-hand-out-gun-shaped-keyrings-israeli-students" rel="bookmark"&gt;
+&lt;span class="field field-title"&gt;Ben Gvir supporters hand out gun-shaped keyrings to Israeli students&lt;/span&gt;
+&lt;/a&gt;
+    &lt;/h2&gt;
+    
+
+        
+    &lt;div class="content"&gt;
+                &lt;div class="field field-field-text"&gt;&lt;p&gt;&lt;meta charset="UTF-8"&gt;&lt;/p&gt;
+
+&lt;p&gt;Supporters of the far-right National Security Minister Itamar Ben Gvir handed gun-shaped keyrings emblazoned with the words "Guns Save Lives" to students at an&amp;nbsp;&lt;a href="https://www.middleeasteye.net/countries/israel" target="_blank"&gt;Israeli&lt;/a&gt;&amp;nbsp;high school on Thursday during a chaotic mock election event.&lt;/p&gt;
+
+&lt;p&gt;The Israeli newspaper Haaretz&amp;nbsp;&lt;a href="https://www.haaretz.co.il/news/elections/2026-09-17/ty-article/.premium/000001a0-af23-d91d-afeb-ef6372f60000" target="_blank"&gt;reported&lt;/a&gt;&amp;nbsp;that the keyrings, which also function as bottle openers, were either in the shape of a gun or&amp;nbsp;featured an image of Ben Gvir holding a gun.&lt;/p&gt;
+
+&lt;p&gt;Haaretz reported that supporters of Ben Gvir's Otzma Yehudit party also attempted to hand out noose-shaped keyrings but were prevented by the headmaster at the Blich High School in Ramat Gan.&lt;/p&gt;
+
+&lt;h3&gt;Read more:&amp;nbsp;&lt;a href="https://www.middleeasteye.net/news/ben-gvir-supporters-hand-out-gun-shaped-keyrings-israeli-students"&gt;Ben Gvir supporters hand out gun-shaped keyrings to Israeli students&lt;/a&gt;&lt;/h3&gt;
+
+  &lt;figure role="group" class="media-block"&gt;
+  &lt;div class="group-inner"&gt;
+    &lt;div alt="One of the gun-shaped keyrings bore the image of National Security Minister Itamar Ben Gvir (Screengrab)" data-embed-button="file_browser" data-entity-embed-display="image:image" data-entity-embed-display-settings="{" data-entity-type="file" data-entity-uuid="e094261a-5a08-4667-9a70-56e685248e8f" data-langcode="en" class="embedded-entity"&gt;  &lt;img src="https://www.middleeasteye.net/sites/default/files/images-story/itamar-ben-gvir-keyring-distributed-students-mock-election-screengrab.jpg" width="719" height="404" alt="One of the gun-shaped keyrings bore the image of National Security Minister Itamar Ben Gvir (Screengrab)" typeof="foaf:Image" fetchpriority="high"&gt;
+
+&lt;/div&gt;
+
+    &lt;figcaption&gt;One of the gun-shaped keyrings bore the image of National Security Minister Itamar Ben Gvir (Screengrab)&lt;/figcaption&gt;
+  &lt;/div&gt;
+&lt;/figure&gt;
+
+
+&lt;p&gt;&lt;span style="background:rgba(220,220,220,0.5);background-image:url(https://www.middleeasteye.net/modules/contrib/ckeditor/vendor/plugins/widget/images/handle.png);display:none;"&gt;&lt;img height="15" role="presentation" src="data:image/gif;base64,R0lGODlhAQABAPABAP///wAAACH5BAEKAAAALAAAAAABAAEAAAICRAEAOw==" title="Click and drag to move" width="15" loading="lazy"&gt;&lt;/span&gt;&lt;/p&gt;
+
+
+&lt;/div&gt;
+      
+  &lt;/div&gt;
+
+&lt;/article&gt;
+</description>
+  <pubDate>Fri, 18 Sep 2026 18:06:59 +0100</pubDate>
+    <dc:creator>Bilge Kotan</dc:creator>
+    <guid isPermaLink="false">447928 at https://www.middleeasteye.net/</guid>
+    </item>
+<item>
+  <title>Pakistan vows to defend ally Saudi 'to any extent'</title>
+  <link>https://www.middleeasteye.net/live-blog/live-blog-update/pakistan-vows-defend-ally-saudi-any-extent</link>
+  <description>
+  
+
+&lt;article data-history-node-id="447925" about="https://www.middleeasteye.net/live-blog/live-blog-update/pakistan-vows-defend-ally-saudi-any-extent" class="live-blog-update default clearfix"&gt;
+
+  
+      &lt;h2&gt;
+      &lt;a href="https://www.middleeasteye.net/live-blog/live-blog-update/pakistan-vows-defend-ally-saudi-any-extent" rel="bookmark"&gt;
+&lt;span class="field field-title"&gt;Pakistan vows to defend ally Saudi 'to any extent'&lt;/span&gt;
+&lt;/a&gt;
+    &lt;/h2&gt;
+    
+
+        
+    &lt;div class="content"&gt;
+                &lt;div class="field field-field-text"&gt;&lt;p&gt;Pakistan's military spokesman said his country will "go to any extent" to defend ally Saudi Arabia, as the kingdom comes under increased attack from Yemen's Houthi forces.&lt;/p&gt;
+
+&lt;p&gt;Houthi forces this week reported fresh Saudi air strikes, as Riyadh accused the group of launching a "cowardly" attack targeting Islam's holy city of Mecca, prompting a wave of outrage from around the Muslim world.&lt;/p&gt;
+
+&lt;p&gt;In an interview Thursday with Arab News, Pakistan's military spokesman Ahmed Sharif Chaudhry said his country would back Saudi Arabia "both diplomatically and physically".&lt;/p&gt;
+
+&lt;p&gt;"We will go to any extent for the security of (the two holy sanctuaries) and the kingdom of Saudi Arabia," he said.&lt;/p&gt;
+&lt;/div&gt;
+      
+  &lt;/div&gt;
+
+&lt;/article&gt;
+</description>
+  <pubDate>Fri, 18 Sep 2026 16:53:36 +0100</pubDate>
+    <dc:creator>Bilge Kotan</dc:creator>
+    <guid isPermaLink="false">447925 at https://www.middleeasteye.net/</guid>
+    </item>
+<item>
+  <title>Fighting uproots 112,000 in Yemen as thousands flee to Djibouti, UN says</title>
+  <link>https://www.middleeasteye.net/live-blog/live-blog-update/fighting-uproots-112000-yemen-thousands-flee-djibouti-un-says</link>
+  <description>
+  
+
+&lt;article data-history-node-id="447924" about="https://www.middleeasteye.net/live-blog/live-blog-update/fighting-uproots-112000-yemen-thousands-flee-djibouti-un-says" class="live-blog-update default clearfix"&gt;
+
+  
+      &lt;h2&gt;
+      &lt;a href="https://www.middleeasteye.net/live-blog/live-blog-update/fighting-uproots-112000-yemen-thousands-flee-djibouti-un-says" rel="bookmark"&gt;
+&lt;span class="field field-title"&gt;Fighting uproots 112,000 in Yemen as thousands flee to Djibouti, UN says&lt;/span&gt;
+&lt;/a&gt;
+    &lt;/h2&gt;
+    
+
+        
+    &lt;div class="content"&gt;
+                &lt;div class="field field-field-text"&gt;&lt;p&gt;Renewed fighting in Yemen has displaced more than 112,000 people and pushed nearly 3,000 others to flee across the Red Sea to Djibouti, the United Nations said on Friday.&amp;nbsp;&lt;/p&gt;
+
+&lt;p&gt;Houthis last week seized control of Yemen's Red Sea coastline, tightening their grip on the strategic Bab al-Mandab strait, a vital shipping gateway linking Europe and Asia via the Suez Canal.&amp;nbsp;&lt;/p&gt;
+
+&lt;p&gt;The latest fighting between the Houthis and forces loyal to the Aden-based government has also sparked a fresh humanitarian crisis, with civilians uprooted inside Yemen and others risking dangerous sea crossings to flee the violence.&lt;/p&gt;
+
+&lt;p&gt;The International Organization for Migration (IOM) has recorded more than 112,000 internally displaced people since the outbreak of fighting, the UN agency's leader in Yemen, Abdusattor Esoev, told reporters.&lt;/p&gt;
+
+&lt;p&gt;Most have been displaced over the last two weeks, mainly along the west coast and in the provinces of Taiz and Lahj, he said.&lt;/p&gt;
+&lt;/div&gt;
+      
+  &lt;/div&gt;
+
+&lt;/article&gt;
+</description>
+  <pubDate>Fri, 18 Sep 2026 16:32:16 +0100</pubDate>
+    <dc:creator>Bilge Kotan</dc:creator>
+    <guid isPermaLink="false">447924 at https://www.middleeasteye.net/</guid>
+    </item>
+<item>
+  <title>Turkey busts Israel-linked 'scam empire' behind alleged $266m fraud</title>
+  <link>https://www.middleeasteye.net/live-blog/live-blog-update/turkey-busts-israel-linked-scam-empire-behind-alleged-266m-fraud</link>
+  <description>
+  
+
+&lt;article data-history-node-id="447923" about="https://www.middleeasteye.net/live-blog/live-blog-update/turkey-busts-israel-linked-scam-empire-behind-alleged-266m-fraud" class="live-blog-update default clearfix"&gt;
+
+  
+      &lt;h2&gt;
+      &lt;a href="https://www.middleeasteye.net/live-blog/live-blog-update/turkey-busts-israel-linked-scam-empire-behind-alleged-266m-fraud" rel="bookmark"&gt;
+&lt;span class="field field-title"&gt;Turkey busts Israel-linked 'scam empire' behind alleged $266m fraud&lt;/span&gt;
+&lt;/a&gt;
+    &lt;/h2&gt;
+    
+
+        
+    &lt;div class="content"&gt;
+                &lt;div class="field field-field-text"&gt;&lt;p&gt;&lt;a href="https://www.middleeasteye.net/countries/turkey" rel="noopener noreferrer" target="_blank"&gt;Turkish&lt;/a&gt;&amp;nbsp;security forces busted an&amp;nbsp;&lt;a href="https://www.middleeasteye.net/countries/israel" target="_blank"&gt;Israel&lt;/a&gt;-linked fraudulent trading network that allegedly defrauded people in Europe, the Far East and Africa of at least $266m over the past two years, Turkish Justice Minister Akin Gurlek said on Friday.&lt;/p&gt;
+
+&lt;p&gt;Gurlek said in a&amp;nbsp;&lt;a href="https://x.com/abakingurlek/status/2100860597520752688" target="_blank"&gt;statement&lt;/a&gt;&amp;nbsp;that the forex fraud investigation targeted 42 call centres operated by 28 companies and involving 239 suspects.&lt;/p&gt;
+
+&lt;p&gt;"An organised fraud network targeting multiple countries was uncovered after we determined that individuals with links to Israel were the principal owners and ultimate beneficiaries of the companies in question," he said.&lt;/p&gt;
+
+&lt;p&gt;Dawn raids were conducted at 236 addresses in Istanbul and Mugla in coordination with Turkey's National Intelligence Organization (MIT) and Interpol.&lt;/p&gt;
+
+&lt;h3&gt;Read more:&amp;nbsp;&lt;a href="https://www.middleeasteye.net/news/turkey-busts-israel-linked-scam-empire-behind-alleged-266-million-dollar-fraud"&gt;Turkey busts Israel-linked 'scam empire' behind alleged $266m fraud&lt;/a&gt;&lt;/h3&gt;
+
+  &lt;figure role="group" class="media-block"&gt;
+  &lt;div class="group-inner"&gt;
+    &lt;div alt="Turkish anti riot police officers in Istanbul during a demonstration on 8 September 2025 (Kemal Aslan/AFP)" data-embed-button="file_browser" data-entity-embed-display="image:image" data-entity-embed-display-settings="{" data-entity-type="file" data-entity-uuid="f0b5fc4e-5569-45e0-a2b0-535489c1afcd" data-langcode="en" class="embedded-entity"&gt;  &lt;img src="https://www.middleeasteye.net/sites/default/files/images-story/File-photo-Turkey-Istanbul-police-9-8-2025-Kemal-Aslan.jpg" width="1024" height="682" alt="Turkish anti riot police officers in Istanbul during a demonstration on 8 September 2025 (Kemal Aslan/AFP)" typeof="foaf:Image" fetchpriority="high"&gt;
+
+&lt;/div&gt;
+
+    &lt;figcaption&gt;Turkish anti riot police officers in Istanbul during a demonstration on 8 September 2025 (Kemal Aslan/AFP)&lt;/figcaption&gt;
+  &lt;/div&gt;
+&lt;/figure&gt;
+
+
+&lt;p&gt;&lt;span style="background: url(&amp;quot;https://www.middleeasteye.net/modules/contrib/ckeditor/vendor/plugins/widget/images/handle.png&amp;quot;) rgba(220, 220, 220, 0.5); top: -15px; left: 0px;"&gt;&lt;img height="15" role="presentation" src="data:image/gif;base64,R0lGODlhAQABAPABAP///wAAACH5BAEKAAAALAAAAAABAAEAAAICRAEAOw==" title="Click and drag to move" width="15" loading="lazy"&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;/div&gt;
+      
+  &lt;/div&gt;
+
+&lt;/article&gt;
+</description>
+  <pubDate>Fri, 18 Sep 2026 16:24:51 +0100</pubDate>
+    <dc:creator>Bilge Kotan</dc:creator>
+    <guid isPermaLink="false">447923 at https://www.middleeasteye.net/</guid>
+    </item>
+<item>
+  <title>Ben Gvir supporters hand out gun-shaped keyrings to Israeli students</title>
+  <link>https://www.middleeasteye.net/news/ben-gvir-supporters-hand-out-gun-shaped-keyrings-israeli-students</link>
+  <description>
+  
+
+&lt;article data-history-node-id="447921" about="https://www.middleeasteye.net/news/ben-gvir-supporters-hand-out-gun-shaped-keyrings-israeli-students" class="story default clearfix"&gt;
+
+  
+      &lt;h2&gt;
+      &lt;a href="https://www.middleeasteye.net/news/ben-gvir-supporters-hand-out-gun-shaped-keyrings-israeli-students" rel="bookmark"&gt;
+&lt;span class="field field-title"&gt;Ben Gvir supporters hand out gun-shaped keyrings to Israeli students&lt;/span&gt;
+&lt;/a&gt;
+    &lt;/h2&gt;
+    
+
+          &lt;footer&gt;
+      
+      &lt;div class="author"&gt;
+        Submitted by 
+&lt;span class="field field-uid"&gt;&lt;a title="View user profile." href="https://www.middleeasteye.net/users/nadav-rapaport" lang about="https://www.middleeasteye.net/users/nadav-rapaport" typeof="schema:Person" property="schema:name" datatype&gt;Nadav Rapaport&lt;/a&gt;&lt;/span&gt;
+ on 
+&lt;span class="field field-created"&gt;&lt;time datetime="2026-09-18T14:20:55+01:00" title="18 September 2026 14:20 BST"&gt;Fri, 09/18/2026 - 14:20&lt;/time&gt;
+&lt;/span&gt;
+        
+      &lt;/div&gt;
+    &lt;/footer&gt;
+      
+    &lt;div class="content"&gt;
+                &lt;div class="field field-field-subhead"&gt;Supporters of far-right minister's Otzma Yehudit party also try to distribute noose-shaped keyrings during mock election&lt;/div&gt;
+                  &lt;div class="field field-field-main-image"&gt;    &lt;picture&gt;
+                  &lt;source srcset="https://www.middleeasteye.net/sites/default/files/styles/crop_16_9/public/images-story/itamar-ben-gvir-keyring-distributed-students-mock-election-screengrab.jpg.webp?itok=lRkfb7D7 1x" type="image/webp" width="719" height="404"&gt;
+                  &lt;img srcset="https://www.middleeasteye.net/sites/default/files/styles/crop_16_9/public/images-story/itamar-ben-gvir-keyring-distributed-students-mock-election-screengrab.jpg.webp?itok=lRkfb7D7 1x" width="719" height="404" src="https://www.middleeasteye.net/sites/default/files/styles/crop_16_9/public/images-story/itamar-ben-gvir-keyring-distributed-students-mock-election-screengrab.jpg.jpg?itok=lRkfb7D7" alt="One of the gun-shaped keyrings bore the image of National Security Minister Itamar Ben Gvir (Screengrab)" typeof="foaf:Image" fetchpriority="high"&gt;
+
+  &lt;/picture&gt;
+
+&lt;/div&gt;
+                  &lt;div class="field field-field-cutline"&gt;One of the gun-shaped keyrings bore the image of National Security Minister Itamar Ben Gvir (Screengrab)&lt;/div&gt;
+                  &lt;div class="field field-field-wide-photo-video"&gt;Off&lt;/div&gt;
+                  &lt;div class="field field-body clearfix"&gt;&lt;p&gt;Supporters of the far-right National Security Minister Itamar Ben Gvir handed gun-shaped keyrings emblazoned with the words "Guns Save Lives" to students at an &lt;a href="https://www.middleeasteye.net/countries/israel"&gt;Israeli&lt;/a&gt; high school on Thursday during a chaotic mock election event.&lt;/p&gt;
+
+&lt;p&gt;The Israeli newspaper Haaretz &lt;a href="https://www.haaretz.co.il/news/elections/2026-09-17/ty-article/.premium/000001a0-af23-d91d-afeb-ef6372f60000"&gt;reported&lt;/a&gt;&amp;nbsp;that the keyrings, which also function as bottle openers, were either in the shape of a gun or&amp;nbsp;featured an image of Ben Gvir holding a gun.&lt;/p&gt;
+
+&lt;p&gt;Haaretz reported that supporters of Ben Gvir's Otzma Yehudit party also attempted to hand out noose-shaped keyrings but were prevented by the headmaster at the Blich High School in Ramat Gan.&lt;/p&gt;
+
+&lt;p&gt;Otzma Yehudit defended the distribution of the keyrings, &lt;a href="https://news.walla.co.il/item/3868549"&gt;saying&lt;/a&gt; it was "glad to make accessible to the younger generation in schools the importance of Minister Ben Gvir's weapons reform through innovative and special ideas".&lt;/p&gt;
+
+&lt;p&gt;The keyrings sought to promote the policies championed by Ben Gvir and his party in recent years. In January, Ben Gvir approved gun licences for Israelis living in 18 additional settlements in the occupied West Bank. In March, the Knesset passed a law making the death penalty the default punishment for Palestinians convicted by military courts of lethal attacks, legislation championed by Ben Gvir.&lt;/p&gt;&lt;div class="block-adsense block-adsense-managed-ad-block"&gt;&lt;div&gt;
+  &lt;div class="adsense responsive"&gt;
+    &lt;script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-6114695881218027" crossorigin="anonymous"&gt;&lt;/script&gt;
+&lt;!-- responsive --&gt;
+&lt;ins class="adsbygoogle mee-auto-ad-wrapper " style="display:block" data-ad-client="ca-pub-6114695881218027" data-ad-slot="8690493793" data-ad-format="horizontal" data-full-width-responsive="true"&gt;&lt;/ins&gt;
+&lt;script&gt;
+     (adsbygoogle = window.adsbygoogle || []).push({});
+&lt;/script&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+
+&lt;p&gt;The keyrings were given out during Blich High School's traditional mock election, in which 11th- and 12th-grade students vote for political parties ahead of Israel’s national elections.&lt;/p&gt;
+
+&lt;p&gt;The event, which is intended to give students an opportunity to engage with Israel's political system, has become a closely watched fixture ahead of elections.&lt;/p&gt;
+
+  &lt;figure role="group" class="media-block"&gt;
+  &lt;div class="group-inner"&gt;
+    &lt;div alt="One of the gun-shaped keychains had National Security Minister Itamar Ben-Gvir holding a gun (Screengrab)" data-embed-button="file_browser" data-entity-embed-display="image:image" data-entity-embed-display-settings="{" data-entity-type="file" data-entity-uuid="83aacadd-b706-48a7-aeab-3284df5d6c0d" data-langcode="en" class="embedded-entity"&gt;  &lt;img loading="lazy" src="https://www.middleeasteye.net/sites/default/files/itamar-ben-gvir-keyring-distributed-israeli-students-screengrab.jpg" width="1179" height="663" alt="One of the gun-shaped keychains had National Security Minister Itamar Ben-Gvir holding a gun (Screengrab)" typeof="foaf:Image"&gt;
+
+&lt;/div&gt;
+
+    &lt;figcaption&gt;One of the gun-shaped keychains had Ben Gvir holding a gun (Screengrab)&lt;/figcaption&gt;
+  &lt;/div&gt;
+&lt;/figure&gt;
+
+
+&lt;p&gt;&lt;span style="background:rgba(220,220,220,0.5);background-image:url(https://www.middleeasteye.net/modules/contrib/ckeditor/vendor/plugins/widget/images/handle.png);display:none;"&gt;&lt;img height="15" role="presentation" src="data:image/gif;base64,R0lGODlhAQABAPABAP///wAAACH5BAEKAAAALAAAAAABAAEAAAICRAEAOw==" title="Click and drag to move" width="15" loading="lazy"&gt;&lt;/span&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;span style="background: url(&amp;quot;https://www.middleeasteye.net/modules/contrib/ckeditor/vendor/plugins/widget/images/handle.png&amp;quot;) rgba(220, 220, 220, 0.5); top: -15px; left: 0px;"&gt;&lt;img alt height="15" role="presentation" src="data:image/gif;base64,R0lGODlhAQABAPABAP///wAAACH5BAEKAAAALAAAAAABAAEAAAICRAEAOw==" title="Click and drag to move" width="15" loading="lazy"&gt;&lt;/span&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;span style="background:rgba(220,220,220,0.5);background-image:url(https://www.middleeasteye.net/modules/contrib/ckeditor/vendor/plugins/widget/images/handle.png);display:none;"&gt;&lt;img alt height="15" role="presentation" src="data:image/gif;base64,R0lGODlhAQABAPABAP///wAAACH5BAEKAAAALAAAAAABAAEAAAICRAEAOw==" title="Click and drag to move" width="15" loading="lazy"&gt;&lt;/span&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;span style="background: url(&amp;quot;https://www.middleeasteye.net/modules/contrib/ckeditor/vendor/plugins/widget/images/handle.png&amp;quot;) rgba(220, 220, 220, 0.5); top: -15px; left: 0px;"&gt;&lt;img alt height="15" role="presentation" src="data:image/gif;base64,R0lGODlhAQABAPABAP///wAAACH5BAEKAAAALAAAAAABAAEAAAICRAEAOw==" title="Click and drag to move" width="15" loading="lazy"&gt;&lt;/span&gt;&lt;/p&gt;&lt;div class="block-adsense block-adsense-managed-ad-block"&gt;&lt;div&gt;
+  &lt;div class="adsense responsive"&gt;
+    &lt;script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-6114695881218027" crossorigin="anonymous"&gt;&lt;/script&gt;
+&lt;!-- responsive --&gt;
+&lt;ins class="adsbygoogle mee-auto-ad-wrapper " style="display:block" data-ad-client="ca-pub-6114695881218027" data-ad-slot="8690493793" data-ad-format="horizontal" data-full-width-responsive="true"&gt;&lt;/ins&gt;
+&lt;script&gt;
+     (adsbygoogle = window.adsbygoogle || []).push({});
+&lt;/script&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+
+&lt;p&gt;&lt;span style="background:rgba(220,220,220,0.5);background-image:url(https://www.middleeasteye.net/modules/contrib/ckeditor/vendor/plugins/widget/images/handle.png);display:none;"&gt;&lt;img alt height="15" role="presentation" src="data:image/gif;base64,R0lGODlhAQABAPABAP///wAAACH5BAEKAAAALAAAAAABAAEAAAICRAEAOw==" title="Click and drag to move" width="15" loading="lazy"&gt;&lt;/span&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;span style="background:rgba(220,220,220,0.5);background-image:url(https://www.middleeasteye.net/modules/contrib/ckeditor/vendor/plugins/widget/images/handle.png);display:none;"&gt;&lt;img alt height="15" role="presentation" src="data:image/gif;base64,R0lGODlhAQABAPABAP///wAAACH5BAEKAAAALAAAAAABAAEAAAICRAEAOw==" title="Click and drag to move" width="15" loading="lazy"&gt;&lt;/span&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;span style="background:rgba(220,220,220,0.5);background-image:url(https://www.middleeasteye.net/modules/contrib/ckeditor/vendor/plugins/widget/images/handle.png);display:none;"&gt;&lt;img alt height="15" role="presentation" src="data:image/gif;base64,R0lGODlhAQABAPABAP///wAAACH5BAEKAAAALAAAAAABAAEAAAICRAEAOw==" title="Click and drag to move" width="15" loading="lazy"&gt;&lt;/span&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;span style="background:rgba(220,220,220,0.5);background-image:url(https://www.middleeasteye.net/modules/contrib/ckeditor/vendor/plugins/widget/images/handle.png);display:none;"&gt;&lt;img alt height="15" role="presentation" src="data:image/gif;base64,R0lGODlhAQABAPABAP///wAAACH5BAEKAAAALAAAAAABAAEAAAICRAEAOw==" title="Click and drag to move" width="15" loading="lazy"&gt;&lt;/span&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;span style="background: url(&amp;quot;https://www.middleeasteye.net/modules/contrib/ckeditor/vendor/plugins/widget/images/handle.png&amp;quot;) rgba(220, 220, 220, 0.5); top: -15px; left: 0px;"&gt;&lt;img alt height="15" role="presentation" src="data:image/gif;base64,R0lGODlhAQABAPABAP///wAAACH5BAEKAAAALAAAAAABAAEAAAICRAEAOw==" title="Click and drag to move" width="15" loading="lazy"&gt;&lt;/span&gt;&lt;/p&gt;&lt;div class="block-adsense block-adsense-managed-ad-block"&gt;&lt;div&gt;
+  &lt;div class="adsense responsive"&gt;
+    &lt;script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-6114695881218027" crossorigin="anonymous"&gt;&lt;/script&gt;
+&lt;!-- responsive --&gt;
+&lt;ins class="adsbygoogle mee-auto-ad-wrapper " style="display:block" data-ad-client="ca-pub-6114695881218027" data-ad-slot="8690493793" data-ad-format="horizontal" data-full-width-responsive="true"&gt;&lt;/ins&gt;
+&lt;script&gt;
+     (adsbygoogle = window.adsbygoogle || []).push({});
+&lt;/script&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+
+&lt;p&gt;According to Haaretz, Thursday's event descended into disorder, with students and political activists describing shouting, physical altercations and disruptions during speeches by rival parties. Activists from the Jewish left-wing Democrats party told Haaretz that Otzma Yehudit supporters shoved and cursed at them and “elbowed” them during a speech by the party’s Knesset member Gilad Kariv.&lt;/p&gt;
+
+&lt;p&gt;"In the end, after the shouting, the curses, and the bottles thrown at the stage by Ben Gvir's supporters," Kariv &lt;a href="https://x.com/KarivGilad/status/2100540448938815760?s=20"&gt;said&lt;/a&gt; on his X account, "Israeli Prime Minister Benjamin Nentyahu's bloc lost the mock elections in the high school."&lt;/p&gt;
+
+&lt;div class="mee-readmore mee-readmore-article-story mee-readmore-type-image align-right"&gt;
+  &lt;a class="mee-readmore-img-link" href="https://www.middleeasteye.net/news/far-right-israelis-call-naza-filmmaker-be-hanged-protest-outside-parents-home"&gt;&lt;img class="mee-readmore-image" src="https://www.middleeasteye.net/sites/default/files/styles/read_more/public/images-story/israel-far-right-gather-family-home-rachel-szor-savyon-16-sep-2026-afp.jpg.webp?itok=obEIvZnx" width="400" height="250" alt loading="lazy" typeof="foaf:Image"&gt;
+
+&lt;/a&gt;  &lt;div class="mee-readmore-description"&gt;Far-right Israelis call for NAZA co-director to be hanged in protest outside parents' home&lt;/div&gt;
+    &lt;a class="mee-readmore-link" href="https://www.middleeasteye.net/news/far-right-israelis-call-naza-filmmaker-be-hanged-protest-outside-parents-home"&gt;Read More »&lt;/a&gt;
+&lt;/div&gt;
+
+&lt;p&gt;The elections, Kariv maintained, "proved, contrary to everything being said, that not all of the youth have swung sharply to the right."&lt;/p&gt;
+
+&lt;p&gt;Merav Ben Ari, a Knesset member from the centre-right Together party led by former prime minister Naftali Bennett, also said Ben Gvir supporters had behaved aggressively during the event.&lt;/p&gt;
+
+&lt;p&gt;"They threw a cup at me, screamed at me 'only Ben Gvir'," Ben Ari &lt;a href="https://x.com/Meravbenari/status/2100532132980425200?s=20"&gt;said on X&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;She said the distribution of gun-shaped keyrings and noose-shaped pins had not translated into majority support for Ben Gvir among the students.&lt;/p&gt;
+
+&lt;p&gt;"The youth aren't stupid," Ben Ari said, adding that Ben Gvir's time in government had been marked by "violence and racism".&lt;/p&gt;
+
+&lt;h3&gt;Netanyahu loses, Ben Gvir's party gains&lt;/h3&gt;
+
+&lt;p&gt;In the mock vote, &lt;a href="https://www.middleeasteye.net/profile/israel-gadi-eisenkot"&gt;Gadi Eisenkot&lt;/a&gt;'s Yashar party came first with 32.2 percent of the vote, followed by Bennett’s Together party with 22.4 percent, and Netanyahu's Likud came third with 15.5 percent.&lt;/p&gt;
+
+&lt;p&gt;Otzma Yehudit came fourth with 9.4 percent, ahead of the Democrats on 7.1 percent.&lt;/p&gt;
+
+&lt;p&gt;While Kariv highlighted the result as evidence that young Israelis had not uniformly shifted towards the far right, the figures also showed stronger support for Ben Gvir’s party than in Blich’s previous mock election.&lt;/p&gt;
+
+&lt;p&gt;In 2022, when Otzma Yehudit was part of an alliance with Finance Minister Bezalel Smotrich’s Religious Zionist Party, the alliance only&lt;a href="https://www.mako.co.il/news-israel-elections/election_2022/Article-6c897ddb23a5381026.htm"&gt; received&lt;/a&gt; 4.6 percent of the vote at the school.&lt;/p&gt;
+
+&lt;div class="mee-readmore mee-readmore-article-story mee-readmore-type-image align-right"&gt;
+  &lt;a class="mee-readmore-img-link" href="https://www.middleeasteye.net/news/palestinian-prisoners-birth-israeli-jail-raises-fears-pregnant-detainees"&gt;&lt;img class="mee-readmore-image" src="https://www.middleeasteye.net/sites/default/files/styles/read_more/public/images-story/2026-01-06T115312Z_2124651583_MT1SOPANISHTAYEH641_RTRMADP_3_SOPA%20%281%29.jpg.webp?itok=VvLUP0rb" width="400" height="250" alt loading="lazy" typeof="foaf:Image"&gt;
+
+&lt;/a&gt;  &lt;div class="mee-readmore-description"&gt;Palestinian prisoner gives birth in Israeli jail raising fears for pregnant detainees&lt;/div&gt;
+    &lt;a class="mee-readmore-link" href="https://www.middleeasteye.net/news/palestinian-prisoners-birth-israeli-jail-raises-fears-pregnant-detainees"&gt;Read More »&lt;/a&gt;
+&lt;/div&gt;
+
+&lt;p&gt;This year, Otzma Yehudit and Religious Zionism together received 11 percent, while the new far-right Amcha Yisrael party,&amp;nbsp;which is calling to expel all Palestinians from the occupied Gaza Strip, received 3.6 percent of the votes.&lt;/p&gt;
+
+&lt;p&gt;The school's headmaster &lt;a href="https://www.maariv.co.il/news/elections-2026/article-1368331"&gt;told&lt;/a&gt; the Israeli newspaper Maariv that "civic education is also education for pluralism, tolerance, and the ability to conduct disagreement with respect and attentiveness".&lt;/p&gt;
+
+&lt;p&gt;The principal praised the students who took part in what he described as "a fruitful and enriching day".&lt;/p&gt;
+
+&lt;p&gt;The mock election comes as Israel's young voters prepare to participate in their first national election since the Gaza war began in October 2023.&lt;/p&gt;
+
+&lt;p&gt;Recent research has found high levels of anti-Palestinian sentiment among young Israelis, including support among some for excluding Palestinian citizens of Israel from Israeli society.&lt;/p&gt;
+
+&lt;p&gt;At the same time, students who publicly oppose Israel's genocidal war on Gaza have faced disciplinary action.&lt;/p&gt;
+
+&lt;p&gt;In July, a high school principal in Ramat Gan &lt;a href="https://www.middleeasteye.net/news/israeli-teen-threatened-suspension-over-call-refuse-military-service"&gt;summoned&lt;/a&gt; an 11th-grade student to a disciplinary meeting after the student distributed flyers urging classmates to refuse military service.&lt;/p&gt;
+&lt;/div&gt;
+                  &lt;div class="field field-field-topic"&gt;&lt;a href="https://www.middleeasteye.net/topics/inside-israel" hreflang="en"&gt;Inside Israel&lt;/a&gt;&lt;/div&gt;
+            &lt;div class="field field-field-coauthor-location"&gt;
+              &lt;div&gt; &lt;/div&gt;
+              &lt;div&gt; &lt;/div&gt;
+              &lt;div&gt; &lt;/div&gt;
+              &lt;div&gt; &lt;/div&gt;
+          &lt;/div&gt;
+              &lt;div class="field field-field-article-location"&gt; &lt;/div&gt;
+                  &lt;div class="field field-field-section"&gt;&lt;a href="https://www.middleeasteye.net/news/all" hreflang="en"&gt;News&lt;/a&gt;&lt;/div&gt;
+        &lt;div class="field field-field-post-date-override"&gt;
+    &lt;div&gt;Post Date Override&lt;/div&gt;
+              &lt;div&gt;0&lt;/div&gt;
+          &lt;/div&gt;
+  &lt;div class="field field-field-update-date-override"&gt;
+    &lt;div&gt;Update Date&lt;/div&gt;
+              &lt;div&gt;&lt;time datetime="2020-05-04T21:19:45+01:00"&gt;Mon, 05/04/2020 - 21:19&lt;/time&gt;
+&lt;/div&gt;
+          &lt;/div&gt;
+  &lt;div class="field field-field-update-date-check"&gt;
+    &lt;div&gt;Update Date Override&lt;/div&gt;
+              &lt;div&gt;0&lt;/div&gt;
+          &lt;/div&gt;
+
+  &lt;/div&gt;
+  
+&lt;/article&gt;
+</description>
+  <pubDate>Fri, 18 Sep 2026 16:22:56 +0100</pubDate>
+    <dc:creator>Nadav Rapaport</dc:creator>
+    <guid isPermaLink="false">447921 at https://www.middleeasteye.net/</guid>
+    </item>
+<item>
+  <title>Riyadh offers to lift Yemen blockade in two-week truce with Houthis, Al-Akhbar reports</title>
+  <link>https://www.middleeasteye.net/live-blog/live-blog-update/riyadh-offers-lift-yemen-blockade-two-week-truce-houthis-al-akhbar</link>
+  <description>
+  
+
+&lt;article data-history-node-id="447922" about="https://www.middleeasteye.net/live-blog/live-blog-update/riyadh-offers-lift-yemen-blockade-two-week-truce-houthis-al-akhbar" class="live-blog-update default clearfix"&gt;
+
+  
+      &lt;h2&gt;
+      &lt;a href="https://www.middleeasteye.net/live-blog/live-blog-update/riyadh-offers-lift-yemen-blockade-two-week-truce-houthis-al-akhbar" rel="bookmark"&gt;
+&lt;span class="field field-title"&gt;Riyadh offers to lift Yemen blockade in two-week truce with Houthis, Al-Akhbar reports&lt;/span&gt;
+&lt;/a&gt;
+    &lt;/h2&gt;
+    
+
+        
+    &lt;div class="content"&gt;
+                &lt;div class="field field-field-text"&gt;&lt;p&gt;Saudi Arabia has offered a two-week ceasefire to Yemen's Houthis, to be followed by direct talks, Lebanese newspaper Al-Akhbar reported, adding that Riyadh was ready to discuss humanitarian demands and ultimately secure a comprehensive deal.&lt;/p&gt;
+
+&lt;p&gt;The newspaper also reported that the Houthis were not enthusiastic about the proposal and wanted a comprehensive settlement that would lift the air, land and sea blockade and include withdrawal of Saudi military, security and political forces from Yemen.&lt;/p&gt;
+
+&lt;p&gt;Riyadh has also shown readiness to remove the blockade on Yemen and allow the entry of humanitarian aid, Al-Akhbar said.&lt;/p&gt;
+
+&lt;p&gt;The offer was reportedly conveyed through an Omani mediator following contacts involving Saudi Arabia, the United States, Egypt, Pakistan and Oman.&lt;/p&gt;
+&lt;/div&gt;
+      
+  &lt;/div&gt;
+
+&lt;/article&gt;
+</description>
+  <pubDate>Fri, 18 Sep 2026 15:59:08 +0100</pubDate>
+    <dc:creator>Qazi Zaid</dc:creator>
+    <guid isPermaLink="false">447922 at https://www.middleeasteye.net/</guid>
+    </item>
+<item>
+  <title>​​​​​​Sahel instability pushes Algeria to rethink its long-standing non‑intervention doctrine</title>
+  <link>https://www.middleeasteye.net/news/sahel-instability-pushes-algeria-rethink-its-long-standing-non-intervention-doctrine</link>
+  <description>
+  
+
+&lt;article data-history-node-id="447917" about="https://www.middleeasteye.net/news/sahel-instability-pushes-algeria-rethink-its-long-standing-non-intervention-doctrine" class="story default clearfix"&gt;
+
+  
+      &lt;h2&gt;
+      &lt;a href="https://www.middleeasteye.net/news/sahel-instability-pushes-algeria-rethink-its-long-standing-non-intervention-doctrine" rel="bookmark"&gt;
+&lt;span class="field field-title"&gt;​​​​​​Sahel instability pushes Algeria to rethink its long-standing non‑intervention doctrine&lt;/span&gt;
+&lt;/a&gt;
+    &lt;/h2&gt;
+    
+
+          &lt;footer&gt;
+      
+      &lt;div class="author"&gt;
+        Submitted by 
+&lt;span class="field field-uid"&gt;&lt;a title="View user profile." href="https://www.middleeasteye.net/user/16681" lang about="https://www.middleeasteye.net/user/16681" typeof="schema:Person" property="schema:name" datatype&gt;Zahra Rahmouni&lt;/a&gt;&lt;/span&gt;
+ on 
+&lt;span class="field field-created"&gt;&lt;time datetime="2026-09-18T14:21:48+01:00" title="18 September 2026 14:21 BST"&gt;Fri, 09/18/2026 - 14:21&lt;/time&gt;
+&lt;/span&gt;
+        
+      &lt;/div&gt;
+    &lt;/footer&gt;
+      
+    &lt;div class="content"&gt;
+                &lt;div class="field field-field-subhead"&gt;By openly deploying military assets to Niger, Algiers signals a possible shift in a core tenet of its foreign policy&lt;/div&gt;
+                  &lt;div class="field field-field-main-image"&gt;    &lt;picture&gt;
+                  &lt;source srcset="https://www.middleeasteye.net/sites/default/files/styles/crop_16_9/public/images-story/Niger-PM-Zeine-Algerian-military-delegation-Niamey-airport-30-August-2026-Facebook-Algerian-defence-ministry.jpg.webp?itok=lYy4wUD4 1x" type="image/webp" width="1400" height="829"&gt;
+                  &lt;img srcset="https://www.middleeasteye.net/sites/default/files/styles/crop_16_9/public/images-story/Niger-PM-Zeine-Algerian-military-delegation-Niamey-airport-30-August-2026-Facebook-Algerian-defence-ministry.jpg.webp?itok=lYy4wUD4 1x" width="1400" height="829" src="https://www.middleeasteye.net/sites/default/files/styles/crop_16_9/public/images-story/Niger-PM-Zeine-Algerian-military-delegation-Niamey-airport-30-August-2026-Facebook-Algerian-defence-ministry.jpg.jpg?itok=lYy4wUD4" alt typeof="foaf:Image" fetchpriority="high"&gt;
+
+  &lt;/picture&gt;
+
+&lt;/div&gt;
+                  &lt;div class="field field-field-cutline"&gt;Nigerien Prime Minister Ali Mahaman Lamine Zeine welcomes an Algerian military delegation at Niamey airport on 30 August 2026 after the deployment of support aircraft by Algiers (Algerian defence ministry/Facebook)&lt;/div&gt;
+                  &lt;div class="field field-field-wide-photo-video"&gt;Off&lt;/div&gt;
+                  &lt;div class="field field-body clearfix"&gt;&lt;p&gt;At the request of Nigerien authorities and on the instruction of President Abdelmadjid Tebboune, &lt;a href="https://www.middleeasteye.net/countries/algeria"&gt;Algeria&lt;/a&gt; announced on 30 August that it had deployed four Su-30 fighter jets, a refuelling aircraft and a military transport plane to help its African neighbour respond to a destabilisation attempt.&lt;/p&gt;
+
+&lt;p&gt;The support mission came the day after an aborted coup attempt in Niger, a country led by General Abdourahamane Tiani since he came to power through a military putsch in July 2023.&lt;/p&gt;
+
+&lt;p&gt;Niger, which shares 950km of border with southern Algeria, is experiencing a new surge in tensions. On 28 and 29 August, a mutiny targeted several strategic sites in the capital, Niamey, including the presidential palace, Diori-Hamani International Airport and Military Base 101.&lt;/p&gt;
+
+&lt;p&gt;According to a senior investigator at The Sentry, a non-profit investigative and policy organisation, the mutineers’ “grievances are mainly military and institutional”.&lt;/p&gt;
+
+&lt;p&gt;“These are soldiers who have watched their units take heavy losses while the Presidential Guard, Tiani’s own force, remains concentrated around the capital, with better equipment and much better treatment,” the researcher, who wished to remain anonymous, told Middle East Eye.&lt;/p&gt;&lt;div class="block-adsense block-adsense-managed-ad-block"&gt;&lt;div&gt;
+  &lt;div class="adsense responsive"&gt;
+    &lt;script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-6114695881218027" crossorigin="anonymous"&gt;&lt;/script&gt;
+&lt;!-- responsive --&gt;
+&lt;ins class="adsbygoogle mee-auto-ad-wrapper " style="display:block" data-ad-client="ca-pub-6114695881218027" data-ad-slot="8690493793" data-ad-format="horizontal" data-full-width-responsive="true"&gt;&lt;/ins&gt;
+&lt;script&gt;
+     (adsbygoogle = window.adsbygoogle || []).push({});
+&lt;/script&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+
+&lt;p&gt;“Around 18 soldiers were killed near Dosso the week before the mutiny, and this has been taking place in Niger since the start of the many insurgencies, sometimes with traumatic results for entire army units,” they added.&lt;/p&gt;
+
+&lt;p&gt;In December 2019, 71 Nigerien soldiers were killed in an attack on the Inates military base, while 89 others were killed in an attack on the Chinagodrar military post a month later. Both attacks, carried out near the Malian border, were claimed by Islamic State in the Greater Sahara.&lt;/p&gt;
+
+&lt;p&gt;General Tiani faces a two-fold pressure: the threat of armed militant groups such as Islamic State, and tensions within his own forces. An attack claimed by IS struck Niamey in January.&lt;/p&gt;
+
+&lt;p&gt;For Algiers, this deteriorating security situation raises a strategic question: how long can it remain on the sidelines while chaos spreads along its borders and armed groups, trafficking networks and political instability take root in the &lt;a href="https://www.middleeasteye.net/topics/sahel"&gt;Sahel&lt;/a&gt;?&lt;/p&gt;
+
+&lt;h3&gt;The Sahel, Algeria’s ‘strategic depth’&lt;/h3&gt;
+
+&lt;p&gt;Analysts view Algeria’s public deployment of military assets to Niger as a sign that it may be moving away from its long‑standing doctrine of non‑intervention abroad, a principle upheld since its independence from &lt;a href="https://www.middleeasteye.net/countries/france"&gt;France&lt;/a&gt; in 1962.&lt;/p&gt;&lt;div class="block-adsense block-adsense-managed-ad-block"&gt;&lt;div&gt;
+  &lt;div class="adsense responsive"&gt;
+    &lt;script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-6114695881218027" crossorigin="anonymous"&gt;&lt;/script&gt;
+&lt;!-- responsive --&gt;
+&lt;ins class="adsbygoogle mee-auto-ad-wrapper " style="display:block" data-ad-client="ca-pub-6114695881218027" data-ad-slot="8690493793" data-ad-format="horizontal" data-full-width-responsive="true"&gt;&lt;/ins&gt;
+&lt;script&gt;
+     (adsbygoogle = window.adsbygoogle || []).push({});
+&lt;/script&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+
+&lt;p&gt;“For Algeria, it is no longer possible to defend its security and national interests solely by protecting its borders. It has to defend its strategic depth,” explains Riccardo Fabiani, North Africa project director at the International Crisis Group.&lt;/p&gt;
+
+&lt;p&gt;In a sign of a notable shift, Algiers chose to communicate openly about the operation.&lt;/p&gt;
+
+&lt;p&gt;The official press agency reported it, while a video showed Algerian aircraft arriving on Nigerien soil. A press conference was then held with Nigerien officials and members of the Algerian military delegation led by Major General Rachid Cheblaoui.&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;‘This is part of a new, more pragmatic foreign policy in which Algeria is ready to play a security and military role, and no longer exclusively a diplomatic one’&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;- Riccardo Fabiani, International Crisis Group&lt;/em&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;“This is part of a new, more pragmatic foreign policy in which Algeria is ready to play a security and military role, and no longer exclusively a diplomatic one, in order to pursue its objectives in an environment that is changing very rapidly,” Fabiani told MEE.&lt;/p&gt;
+
+&lt;p&gt;This show of force also serves another purpose: asserting Algeria’s presence in the face of foreign powers seeking to strengthen their influence in the region.&lt;/p&gt;
+
+&lt;p&gt;“There are traditional and historical ties between Algerian and Nigerien societies. There is also an interest in protecting the sovereignty of Sahel countries against certain interference from states such as Morocco, Israel or the UAE,” Fabiani added.&lt;/p&gt;
+
+&lt;p&gt;“Algeria does not want foreign interference, either official or unofficial, in Niger’s political and security affairs.”&lt;/p&gt;
+
+&lt;p&gt;The Sahel has become an area of interest for several states. &lt;a href="https://www.middleeasteye.net/countries/morocco"&gt;Morocco&lt;/a&gt; has strengthened its cooperation with Niger since the 2023 military coup; &lt;a href="https://www.middleeasteye.net/countries/turkey"&gt;Turkey&lt;/a&gt; supplies combat drones to the Nigerien army; more than 300 Italian soldiers are deployed at Base 101; and &lt;a href="https://www.middleeasteye.net/countries/russia"&gt;Russia&lt;/a&gt; is present through the Africa Corps paramilitaries, who helped foil the August coup attempt.&lt;/p&gt;
+
+&lt;p&gt;Algiers views these foreign involvements with suspicion, particularly those of the United Arab Emirates, which it accuses of indirectly financing armed and separatist groups in the Sahel, including through multimillion-dollar ransom payments for hostage releases.&lt;/p&gt;
+
+&lt;p&gt;After months of political tensions, Algiers officially &lt;a href="https://www.middleeasteye.net/news/algeria-severs-diplomatic-relations-dwarf-state-uae"&gt;severed&lt;/a&gt; diplomatic ties with Abu Dhabi on 10 September.&lt;/p&gt;
+
+&lt;h3&gt;Human, security and economic interests&lt;/h3&gt;
+
+&lt;p&gt;While the porous Algerian-Nigerien border allows ties to be maintained between local populations, it also represents a major security challenge for Algiers.&lt;/p&gt;&lt;div class="block-adsense block-adsense-managed-ad-block"&gt;&lt;div&gt;
+  &lt;div class="adsense responsive"&gt;
+    &lt;script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-6114695881218027" crossorigin="anonymous"&gt;&lt;/script&gt;
+&lt;!-- responsive --&gt;
+&lt;ins class="adsbygoogle mee-auto-ad-wrapper " style="display:block" data-ad-client="ca-pub-6114695881218027" data-ad-slot="8690493793" data-ad-format="horizontal" data-full-width-responsive="true"&gt;&lt;/ins&gt;
+&lt;script&gt;
+     (adsbygoogle = window.adsbygoogle || []).push({});
+&lt;/script&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+
+&lt;p&gt;“From a sociological standpoint, we have transhumant populations on our southern front. The military approach is only a palliative; we must move toward strengthening and integrating these states to turn them into zones of prosperity,” said Mourad Preure, an Algerian energy expert and strategy consultant.&lt;/p&gt;
+
+&lt;p&gt;Economically, Algiers and Niamey have strengthened cooperation in recent years, particularly in the energy sector.&lt;/p&gt;
+
+&lt;p&gt;“The two countries have been rebuilding cooperation around the Bilma oil block in northeastern Niger and the &lt;a href="https://www.middleeasteye.net/news/algeria-trans-saharan-pipeline-nigeria-alternative-russian-gas"&gt;Trans-Saharan Gas Pipeline&lt;/a&gt;, the proposed 4,200km route from Nigeria through Niger to Algeria,” explains the senior investigator from The Sentry.&lt;/p&gt;
+
+&lt;div class="mee-readmore mee-readmore-article-story mee-readmore-type-image align-right"&gt;
+  &lt;a class="mee-readmore-img-link" href="https://www.middleeasteye.net/news/analysis-how-algeria-came-treat-uae-national-security-threat"&gt;&lt;img class="mee-readmore-image" src="https://www.middleeasteye.net/sites/default/files/styles/read_more/public/images-story/Algeria-President-Abdelmadjid-Tebboune-Berlin-Germany-16-July-2026-Schwarz-AFP.jpg.webp?itok=bVdaJ3CH" width="400" height="250" alt loading="lazy" typeof="foaf:Image"&gt;
+
+&lt;/a&gt;  &lt;div class="mee-readmore-description"&gt;Analysis: How Algeria came to treat the UAE as a national security threat&lt;/div&gt;
+    &lt;a class="mee-readmore-link" href="https://www.middleeasteye.net/news/analysis-how-algeria-came-treat-uae-national-security-threat"&gt;Read More »&lt;/a&gt;
+&lt;/div&gt;
+
+&lt;p&gt;“Morocco is backing an alternative project - the roughly 5,600km Nigeria-Morocco Atlantic Gas Pipeline - and has argued that Niger’s instability makes the trans-Saharan route unworkable. Keeping Tiani in place therefore has an economic dimension as well as a security one, and all of this is in the making, not just words, as Algeria just began building its own section in the Adrar region in June,” they added.&lt;/p&gt;
+
+&lt;p&gt;According to Preure, military support is only one component of a broader strategy aimed at stabilising Niger through development.&lt;/p&gt;
+
+&lt;p&gt;“Algeria supports electricity production in Niger and has provided it with small power plants. The gas pipeline will generate passage fees, creating a source of energy and revenue for Niger,” he told MEE.&lt;/p&gt;
+
+&lt;p&gt;“Algeria is also developing a corridor, with a trans-Saharan road and railway, that will allow the transit of goods and passengers for better integration,” he added.&lt;/p&gt;
+
+&lt;p&gt;For Algiers, Niger’s stability thus becomes both a security and economic issue: protecting its border, but also its investments and structuring projects in the region.&lt;/p&gt;
+
+&lt;h3&gt;First cracks in Algerian non-interventionism&lt;/h3&gt;
+
+&lt;p&gt;The question now is whether this military deployment in Niger marks a genuine break with Algeria’s doctrine of non-intervention.&lt;/p&gt;
+
+&lt;p&gt;Algeria did deploy troops and aircraft as part of an Arab coalition in support of &lt;a href="https://www.middleeasteye.net/countries/egypt"&gt;Egypt&lt;/a&gt; and &lt;a href="https://www.middleeasteye.net/countries/syria"&gt;Syria&lt;/a&gt; during the 1967 and 1973 wars against &lt;a href="https://www.middleeasteye.net/countries/israel"&gt;Israel&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;But these episodes were exceptions to its principle of refraining from military action beyond its borders - an implicit pillar of Algerian foreign policy since gaining independence in 1962, rooted in its stance of non‑alignment and non‑interference in the internal affairs of other states.&lt;/p&gt;
+
+  &lt;figure role="group" class="media-block"&gt;
+  &lt;div class="group-inner"&gt;
+    &lt;div alt="Algerian air force Sukhoi Su-30 fighter aircraft fly in formation alongside an Ilyushin IL-78 aerial refueling tanker over the capital Algiers on 5 July 2022, as the country celebrates the 60th anniversary of its independence (Ryad Kramdi/AFP)" data-embed-button="file_browser" data-entity-embed-display="image:image" data-entity-embed-display-settings="{" data-entity-type="file" data-entity-uuid="843444e2-1dc0-48f9-9db1-89efda8b6757" data-langcode="en" class="embedded-entity"&gt;  &lt;img loading="lazy" src="https://www.middleeasteye.net/sites/default/files/Algeria-Su-30-fighter-Ilyushin-78-refueling-tanker-Algiers-5-July-2022-anniversary-independence-Kramdi-AFP.jpg" width="1024" height="681" alt="Algerian air force Sukhoi Su-30 fighter aircraft fly in formation alongside an Ilyushin IL-78 aerial refueling tanker over the capital Algiers on 5 July 2022, as the country celebrates the 60th anniversary of its independence (Ryad Kramdi/AFP)" typeof="foaf:Image"&gt;
+
+&lt;/div&gt;
+
+    &lt;figcaption&gt;Algerian air force Sukhoi Su-30 fighter aircraft fly in formation alongside an Ilyushin IL-78 aerial refuelling tanker over the capital Algiers on 5 July 2022, as the country celebrated the 60th anniversary of its independence (Ryad Kramdi/AFP)&lt;/figcaption&gt;
+  &lt;/div&gt;
+&lt;/figure&gt;
+
+
+&lt;p&gt;&lt;span style="background: url(&amp;quot;https://www.middleeasteye.net/modules/contrib/ckeditor/vendor/plugins/widget/images/handle.png&amp;quot;) rgba(220, 220, 220, 0.5); top: -15px; left: 0px;"&gt;&lt;img height="15" role="presentation" src="data:image/gif;base64,R0lGODlhAQABAPABAP///wAAACH5BAEKAAAALAAAAAABAAEAAAICRAEAOw==" title="Click and drag to move" width="15" loading="lazy"&gt;&lt;/span&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;span style="background:rgba(220,220,220,0.5);background-image:url(https://www.middleeasteye.net/modules/contrib/ckeditor/vendor/plugins/widget/images/handle.png);display:none;"&gt;&lt;img alt height="15" role="presentation" src="data:image/gif;base64,R0lGODlhAQABAPABAP///wAAACH5BAEKAAAALAAAAAABAAEAAAICRAEAOw==" title="Click and drag to move" width="15" loading="lazy"&gt;&lt;/span&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;span style="background:rgba(220,220,220,0.5);background-image:url(https://www.middleeasteye.net/modules/contrib/ckeditor/vendor/plugins/widget/images/handle.png);display:none;"&gt;&lt;img alt height="15" role="presentation" src="data:image/gif;base64,R0lGODlhAQABAPABAP///wAAACH5BAEKAAAALAAAAAABAAEAAAICRAEAOw==" title="Click and drag to move" width="15" loading="lazy"&gt;&lt;/span&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;span style="background:rgba(220,220,220,0.5);background-image:url(https://www.middleeasteye.net/modules/contrib/ckeditor/vendor/plugins/widget/images/handle.png);display:none;"&gt;&lt;img alt height="15" role="presentation" src="data:image/gif;base64,R0lGODlhAQABAPABAP///wAAACH5BAEKAAAALAAAAAABAAEAAAICRAEAOw==" title="Click and drag to move" width="15" loading="lazy"&gt;&lt;/span&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;span style="background:rgba(220,220,220,0.5);background-image:url(https://www.middleeasteye.net/modules/contrib/ckeditor/vendor/plugins/widget/images/handle.png);display:none;"&gt;&lt;img alt height="15" role="presentation" src="data:image/gif;base64,R0lGODlhAQABAPABAP///wAAACH5BAEKAAAALAAAAAABAAEAAAICRAEAOw==" title="Click and drag to move" width="15" loading="lazy"&gt;&lt;/span&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;span style="background: url(&amp;quot;https://www.middleeasteye.net/modules/contrib/ckeditor/vendor/plugins/widget/images/handle.png&amp;quot;) rgba(220, 220, 220, 0.5); top: -15px; left: 0px;"&gt;&lt;img alt height="15" role="presentation" src="data:image/gif;base64,R0lGODlhAQABAPABAP///wAAACH5BAEKAAAALAAAAAABAAEAAAICRAEAOw==" title="Click and drag to move" width="15" loading="lazy"&gt;&lt;/span&gt;This military and strategic posture was never formalised in the constitution, so legal ambiguity has always surrounded the issue. Nonetheless, in practice, non-interventionism remained one of the cardinal principles of Algerian foreign policy.&lt;/p&gt;
+
+&lt;p&gt;Algiers thus favoured discretion, relying on diplomacy and mediation. The 2015 Algiers Accord - concluded between Malian authorities and northern Tuareg rebel groups, then repudiated in January 2024 by Mali’s junta - is a notable example.&lt;/p&gt;
+
+&lt;p&gt;But a turning point began in 2020.&lt;/p&gt;
+
+&lt;p&gt;A year into his presidency, Tebboune pushed through a constitutional revision, amid the Hirak pro‑democracy movement that toppled Abdelaziz Bouteflika in 2019 and persisted until 2021.&lt;/p&gt;
+
+&lt;p&gt;Article 91 of the new constitution grants the president the authority to decide on “sending units of the National People’s Army abroad after approval by a two-thirds majority of each chamber of Parliament”.&lt;/p&gt;
+
+&lt;p&gt;Article 31 authorises participation in peacekeeping operations “within the framework of respecting the principles and objectives of the United Nations, the African Union and the Arab League”, while ensuring that Algeria does not “resort to war to undermine the legitimate sovereignty and freedom of other peoples”.&lt;/p&gt;
+
+&lt;div class="mee-readmore mee-readmore-article-story mee-readmore-type-image align-right"&gt;
+  &lt;a class="mee-readmore-img-link" href="https://www.middleeasteye.net/news/malis-new-turmoil-tests-algerias-bid-reclaim-its-mediator-role-sahel"&gt;&lt;img class="mee-readmore-image" src="https://www.middleeasteye.net/sites/default/files/styles/read_more/public/images-story/Mali-Bamako-26-April-2026-attacks-Azawad-Liberation-Front-JNIM-AFP.jpg.webp?itok=y2neamEo" width="400" height="250" alt loading="lazy" typeof="foaf:Image"&gt;
+
+&lt;/a&gt;  &lt;div class="mee-readmore-description"&gt;Mali’s new turmoil tests Algerian bid to reclaim mediator role in the Sahel&lt;/div&gt;
+    &lt;a class="mee-readmore-link" href="https://www.middleeasteye.net/news/malis-new-turmoil-tests-algerias-bid-reclaim-its-mediator-role-sahel"&gt;Read More »&lt;/a&gt;
+&lt;/div&gt;
+
+&lt;p&gt;At the time, this amendment sparked debate within civil society, particularly among Hirak protesters, who strongly opposed any potential deployment of Algerian soldiers abroad.&lt;/p&gt;
+
+&lt;p&gt;Yet the deployment of military reinforcements to Niger - which, for now, does not involve sending troops other than the staff that was dispatched to operate the aircraft - has not been approved by either chamber of parliament.&lt;/p&gt;
+
+&lt;p&gt;“From the Algerian point of view, it is not really a question of sending troops or maintaining a military presence that could become directly involved in operations in these countries,” Fabiani said.&lt;/p&gt;
+
+&lt;p&gt;“That would be problematic, rather difficult to manage politically, even domestically. But sending equipment, yes.”&lt;/p&gt;
+
+&lt;p&gt;Before this deployment, Algiers had already strengthened its military support to Niamey, including donating four helicopters and military equipment in early August.&lt;/p&gt;
+
+&lt;p&gt;But the change lies elsewhere: for the first time, Algiers seems to be publicly assuming its involvement, turning it into an official communication effort - and thereby sending a political signal as much as a military one.&lt;/p&gt;
+
+&lt;h3&gt;A strategic turn or a one‑off?&lt;/h3&gt;
+
+&lt;p&gt;Whether this operation is an isolated episode or the first sign of a deeper transformation of Algeria’s security doctrine remains to be seen.&lt;/p&gt;
+
+&lt;p&gt;No analyst contacted by MEE is willing to make predictions, as everything depends on how the regional security situation evolves. Observers wonder whether this is simply a show of force.&lt;/p&gt;
+
+&lt;p&gt;According to Preure, “when Algeria is asked, it provides assistance as a neighbouring state, but it is not its role to ensure the national defence and security of these countries”.&lt;/p&gt;
+
+&lt;p&gt;The senior researcher at The Sentry similarly argues that Algerian intervention will not automatically extend to neighbouring states, but will be decided on a case-by-case basis.&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;‘When Algeria is asked, it provides assistance as a neighbouring state, but it is not its role to ensure the national defence and security of these countries’&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;- Mourad Preure, energy expert and strategy consultant&lt;/em&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Mali, its other main southern neighbour, is a good case in point.&lt;/p&gt;
+
+&lt;p&gt;Although relations between Algiers and Bamako have recently warmed after years of diplomatic tension - largely due to disputes over the Tuareg question and the deteriorating security situation in northern Mali - this rapprochement does not necessarily imply readiness for military intervention.&lt;/p&gt;
+
+&lt;p&gt;“A deployment to Mali on the Niger model doesn’t look close,” the researcher said.&lt;/p&gt;
+
+&lt;p&gt;“Relations with Niger are much easier, as the Tuareg issue does not have the same weight in the Algeria-Niger relationship. This means that Algeria can send aircraft and helicopters without stepping directly into the conflict that has poisoned its relationship with Bamako.”&lt;/p&gt;
+
+&lt;p&gt;In other words, Algeria can provide limited military support to Niger without being drawn into the highly sensitive Tuareg-related tensions that have long complicated its relationship with Mali.&lt;/p&gt;
+
+&lt;p&gt;However, faced with the continued deterioration of the Sahel, Algiers appears to consider that it can no longer simply defend its border: it must now act on its strategic environment.&lt;/p&gt;
+
+&lt;p&gt;After Egypt, Algeria is the second-largest military power in Africa and has the continent’s biggest defence budget. If it becomes more involved, it could reshape the security dynamics in the Sahel.&lt;/p&gt;
+&lt;/div&gt;
+                  &lt;div class="field field-field-topic"&gt;&lt;a href="https://www.middleeasteye.net/topics/algeria" hreflang="en"&gt;Inside Algeria&lt;/a&gt;&lt;/div&gt;
+            &lt;div class="field field-field-coauthor-location"&gt;
+              &lt;div&gt; &lt;/div&gt;
+              &lt;div&gt; &lt;/div&gt;
+              &lt;div&gt; &lt;/div&gt;
+              &lt;div&gt; &lt;/div&gt;
+          &lt;/div&gt;
+              &lt;div class="field field-field-article-location"&gt;Algiers&lt;/div&gt;
+                  &lt;div class="field field-field-section"&gt;&lt;a href="https://www.middleeasteye.net/news/all" hreflang="en"&gt;News&lt;/a&gt;&lt;/div&gt;
+        &lt;div class="field field-field-post-date-override"&gt;
+    &lt;div&gt;Post Date Override&lt;/div&gt;
+              &lt;div&gt;0&lt;/div&gt;
+          &lt;/div&gt;
+  &lt;div class="field field-field-update-date-override"&gt;
+    &lt;div&gt;Update Date&lt;/div&gt;
+              &lt;div&gt;&lt;time datetime="2020-05-04T21:19:45+01:00"&gt;Mon, 05/04/2020 - 21:19&lt;/time&gt;
+&lt;/div&gt;
+          &lt;/div&gt;
+  &lt;div class="field field-field-update-date-check"&gt;
+    &lt;div&gt;Update Date Override&lt;/div&gt;
+              &lt;div&gt;0&lt;/div&gt;
+          &lt;/div&gt;
+
+  &lt;/div&gt;
+  
+&lt;/article&gt;
+</description>
+  <pubDate>Fri, 18 Sep 2026 15:29:56 +0100</pubDate>
+    <dc:creator>Zahra Rahmouni</dc:creator>
+    <guid isPermaLink="false">447917 at https://www.middleeasteye.net/</guid>
+    </item>
+<item>
+  <title>Armed Israeli settlers attack Palestinian farmers near Hebron</title>
+  <link>https://www.middleeasteye.net/live-blog/live-blog-update/armed-israeli-settlers-attack-palestinian-farmers-near-hebron</link>
+  <description>
+  
+
+&lt;article data-history-node-id="447919" about="https://www.middleeasteye.net/live-blog/live-blog-update/armed-israeli-settlers-attack-palestinian-farmers-near-hebron" class="live-blog-update default clearfix"&gt;
+
+  
+      &lt;h2&gt;
+      &lt;a href="https://www.middleeasteye.net/live-blog/live-blog-update/armed-israeli-settlers-attack-palestinian-farmers-near-hebron" rel="bookmark"&gt;
+&lt;span class="field field-title"&gt;Armed Israeli settlers attack Palestinian farmers near Hebron&lt;/span&gt;
+&lt;/a&gt;
+    &lt;/h2&gt;
+    
+
+        
+    &lt;div class="content"&gt;
+                &lt;div class="field field-field-text"&gt;&lt;p&gt;Armed Israeli settlers attacked and assaulted Palestinian farmers in the Wadi al-Shennar area east of Halhul, north of Hebron, in the occupied West Bank, Palestinian news agency Wafa reported on Friday.&lt;/p&gt;
+
+&lt;p&gt;The news agency said the settlers were protected by Israeli forces and detained several farmers as they attempted to reach their agricultural land.&lt;/p&gt;
+
+&lt;p&gt;Wafa reported that the area has faced repeated settler attacks amid the threat of settlement expansion.&lt;/p&gt;
+
+&lt;p&gt;Recent incidents have included the theft and destruction of crops, uprooting and breaking of fruit trees, as well as demolitions and the levelling of Palestinian-owned land, according to the agency.&lt;/p&gt;
+&lt;/div&gt;
+      
+  &lt;/div&gt;
+
+&lt;/article&gt;
+</description>
+  <pubDate>Fri, 18 Sep 2026 15:19:04 +0100</pubDate>
+    <dc:creator>Qazi Zaid</dc:creator>
+    <guid isPermaLink="false">447919 at https://www.middleeasteye.net/</guid>
+    </item>
+<item>
+  <title>Trump's war on dissent uses powers tested on Muslims</title>
+  <link>https://www.middleeasteye.net/opinion/trumps-war-dissent-uses-powers-tested-muslims</link>
+  <description>
+  
+
+&lt;article data-history-node-id="447914" about="https://www.middleeasteye.net/opinion/trumps-war-dissent-uses-powers-tested-muslims" class="opinion default clearfix"&gt;
+
+  
+      &lt;h2&gt;
+      &lt;a href="https://www.middleeasteye.net/opinion/trumps-war-dissent-uses-powers-tested-muslims" rel="bookmark"&gt;
+&lt;span class="field field-title"&gt;Trump's war on dissent uses powers tested on Muslims&lt;/span&gt;
+&lt;/a&gt;
+    &lt;/h2&gt;
+    
+
+          &lt;footer&gt;
+      
+      &lt;div class="author"&gt;
+        Submitted by 
+&lt;span class="field field-uid"&gt;&lt;a title="View user profile." href="https://www.middleeasteye.net/users/sanaa-ansari-khan" lang about="https://www.middleeasteye.net/users/sanaa-ansari-khan" typeof="schema:Person" property="schema:name" datatype&gt;Sanaa Ansari Khan&lt;/a&gt;&lt;/span&gt;
+ on 
+&lt;span class="field field-created"&gt;&lt;time datetime="2026-09-18T10:45:36+01:00" title="18 September 2026 10:45 BST"&gt;Fri, 09/18/2026 - 10:45&lt;/time&gt;
+&lt;/span&gt;
+        
+      &lt;/div&gt;
+    &lt;/footer&gt;
+      
+    &lt;div class="content"&gt;
+                &lt;div class="field field-field-subhead"&gt;Twenty-five years after 9/11, expanding terrorism labels against protesters show how repression normalised against one community endangers broader political opposition&lt;/div&gt;
+                  &lt;div class="field field-field-main-image"&gt;    &lt;picture&gt;
+                  &lt;source srcset="https://www.middleeasteye.net/sites/default/files/styles/crop_16_9/public/images-story/063_1472402522%281%29.jpg.webp?itok=QF0vIlnK 1x" type="image/webp" width="1400" height="788"&gt;
+                  &lt;img srcset="https://www.middleeasteye.net/sites/default/files/styles/crop_16_9/public/images-story/063_1472402522%281%29.jpg.webp?itok=QF0vIlnK 1x" width="1400" height="788" src="https://www.middleeasteye.net/sites/default/files/styles/crop_16_9/public/images-story/063_1472402522%281%29.jpg.jpg?itok=QF0vIlnK" alt="Activists demonstrate in New York City against Cop City, a police training facility near Atlanta, Georgia, that opened in 2025 despite years of protests, on 9 March 2023 (Spencer Platt/Getty Images via AFP)" typeof="foaf:Image" fetchpriority="high"&gt;
+
+  &lt;/picture&gt;
+
+&lt;/div&gt;
+                  &lt;div class="field field-field-cutline"&gt;Activists demonstrate in New York City against Cop City, a police training facility near Atlanta, Georgia, that opened in 2025 despite years of protests, on 9 March 2023 (Spencer Platt/Getty Images via AFP)&lt;/div&gt;
+                  &lt;div class="field field-field-wide-photo-video"&gt;Off&lt;/div&gt;
+                  &lt;div class="field field-body clearfix"&gt;&lt;p&gt;The &lt;a href="https://www.middleeasteye.net/countries/us"&gt;US&lt;/a&gt; invasions and occupations of &lt;a href="https://www.middleeasteye.net/countries/iraq"&gt;Iraq&lt;/a&gt; and Afghanistan, and military campaigns in &lt;a href="https://www.middleeasteye.net/countries/pakistan"&gt;Pakistan&lt;/a&gt;, &lt;a href="https://www.middleeasteye.net/countries/syria"&gt;Syria&lt;/a&gt; and &lt;a href="https://www.middleeasteye.net/countries/yemen"&gt;Yemen&lt;/a&gt;, left &lt;a href="https://costsofwar.watson.brown.edu/costs/human"&gt;almost a million&lt;/a&gt; people dead - and were followed at home by two decades of surveillance, entrapment and discriminatory immigration policies.&lt;/p&gt;
+
+&lt;p&gt;After such a devastating toll, we would expect the United States-led "war on terror" to be banished to history as one of its most shameful chapters.&lt;/p&gt;
+
+&lt;p&gt;Instead, 25 years after then-US President George W Bush &lt;a href="https://georgewbush-whitehouse.archives.gov/news/releases/2001/09/20010920-8.html"&gt;declared&lt;/a&gt; a "war on terror" on 20 September 2001, we find ourselves in a reboot, a new phase of a chapter that was, and still is, ultimately a war on dissent.&lt;/p&gt;
+
+&lt;p&gt;Since &lt;a href="https://www.middleeasteye.net/topics/september-11-attacks"&gt;9/11&lt;/a&gt;, every US president has reaffirmed the "war on terror" to rationalise US military campaigns abroad. Over the last two decades, its logics and justifications have expanded at home, coming to define not just how we view and tolerate dissent, but what we understand as the limits of state power.&lt;/p&gt;
+
+&lt;p&gt;The US government is in the midst of applying terrorist labels to targets as varied as civilians in &lt;a href="https://www.aljazeera.com/news/2026/9/2/a-year-into-trumps-boat-strike-campaign-families-search-for-answers"&gt;fishing boats&lt;/a&gt; in international waters, &lt;a href="https://theintercept.com/2025/09/25/luigi-mangione-supporters-health-insurance/"&gt;domestic demonstrators&lt;/a&gt; against the US healthcare system, &lt;a href="https://www.npr.org/2023/06/28/1184726273/rights-groups-are-alarmed-over-domestic-terrorist-charges-in-cop-city-protests"&gt;protesters&lt;/a&gt; against a police training centre in Atlanta and those opposing the cruel and inhumane treatment of migrants.&lt;/p&gt;&lt;div class="block-adsense block-adsense-managed-ad-block"&gt;&lt;div&gt;
+  &lt;div class="adsense responsive"&gt;
+    &lt;script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-6114695881218027" crossorigin="anonymous"&gt;&lt;/script&gt;
+&lt;!-- responsive --&gt;
+&lt;ins class="adsbygoogle mee-auto-ad-wrapper " style="display:block" data-ad-client="ca-pub-6114695881218027" data-ad-slot="8690493793" data-ad-format="horizontal" data-full-width-responsive="true"&gt;&lt;/ins&gt;
+&lt;script&gt;
+     (adsbygoogle = window.adsbygoogle || []).push({});
+&lt;/script&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+
+&lt;p&gt;The staggering breadth of international and domestic targets now eligible for terrorism designations shows just how entrenched this frame has become in US political discourse, and how the state can selectively weaponise the label against anyone it identifies as opposed to its hegemony.&lt;/p&gt;
+
+&lt;h3&gt;An old playbook&lt;/h3&gt;
+
+&lt;p&gt;Those who defend the "war on terror" because they believe Muslims pose an exceptional threat ignore the fact that as far back as the 1970s, the CIA had already made the &lt;a href="https://www.aclu.org/news/national-security/former-cia-director-order-spy-domestic-dissidents"&gt;decision&lt;/a&gt; to adopt terrorism labels to defend its domestic surveillance of political dissidents in the face of increased objection.&lt;/p&gt;
+
+&lt;p&gt;The use of terrorism labels for the agency's domestic spying programme was thus a public relations move to rebrand operations aimed at pre-empting dissent as protecting citizens from terror, in order to quell criticism and generate support.&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;As far back as the 1970s, the CIA adopted terrorism labels to defend its surveillance of political dissidents&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Political dissent and objection to state injustice have repeatedly triggered a state surveillance apparatus that has consistently relied on labels like "terrorist", "subversive", "radical" or "extremist".&lt;/p&gt;
+
+&lt;p&gt;Historical records show the subversive label was originally applied to political dissidents and meant the government considered the individual, their political beliefs and their activities a threat to the established social or political order.&lt;/p&gt;
+
+&lt;p&gt;In other words, the government believed subversives sought to "change the status quo" or "our current way of life" - both phrases that have been used more recently by the US government to describe what it believes are the motivations of "antifa" and "Muslim radical extremists", respectively.&lt;/p&gt;
+
+&lt;p&gt;The &lt;a href="https://www.middleeasteye.net/topics/trump"&gt;Trump&lt;/a&gt; administration's National Security Presidential Memorandum 7 (NSPM-7), &lt;a href="https://www.whitehouse.gov/presidential-actions/2025/09/countering-domestic-terrorism-and-organized-political-violence/"&gt;released&lt;/a&gt; in September 2025, identified specific political expressions as potential new forms of domestic terrorism, including "anti-Christianity" and "anti-Americanism". It describes "American principles" as including support for law enforcement and border control.&lt;/p&gt;
+
+&lt;p&gt;Someone who objects to those agencies' policies or practices, including their records of violence and discrimination, thus risks being labelled "anti-American" - and becoming eligible for investigation over domestic terrorism or political violence.&lt;/p&gt;
+
+&lt;p&gt;The administration's 2026 &lt;a href="https://charityandsecurity.org/analysis/2026-united-states-counterterrorism-strategy-escalates-crackdown-on-civil-society/"&gt;counterterrorism strategy&lt;/a&gt; pushes further, and NSPM-7's own list of indicators includes "anti-capitalism" - expanding potential targets to those who express grievances over economic disparities.&lt;/p&gt;
+
+&lt;p&gt;As food, housing and healthcare costs continue to rise, the state threatens to leave citizens with few means of civic engagement to achieve redress.&lt;/p&gt;
+
+&lt;h3&gt;Selective by design&lt;/h3&gt;
+
+&lt;p&gt;The vagueness of US terrorism laws - and of terms like "radicalisation" and "extremism" during the "war on terror", and now "anti-Americanism" under NSPM-7 - has allowed a counterterrorism apparatus built around and tested on &lt;a href="https://www.middleeasteye.net/topics/islamophobia"&gt;Muslim communities&lt;/a&gt; to be applied to the general population, as President Donald Trump's administration seeks to target leftist protest movements and organising.&lt;/p&gt;&lt;div class="block-adsense block-adsense-managed-ad-block"&gt;&lt;div&gt;
+  &lt;div class="adsense responsive"&gt;
+    &lt;script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-6114695881218027" crossorigin="anonymous"&gt;&lt;/script&gt;
+&lt;!-- responsive --&gt;
+&lt;ins class="adsbygoogle mee-auto-ad-wrapper " style="display:block" data-ad-client="ca-pub-6114695881218027" data-ad-slot="8690493793" data-ad-format="horizontal" data-full-width-responsive="true"&gt;&lt;/ins&gt;
+&lt;script&gt;
+     (adsbygoogle = window.adsbygoogle || []).push({});
+&lt;/script&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+
+&lt;p&gt;The government's ability to selectively apply "war on terror" labels and laws to its chosen targets was established with the normalisation of the selective and racialised application of these frameworks upon mostly Muslim communities over the last two decades.&lt;/p&gt;
+
+&lt;div class="mee-readmore mee-readmore-article-opinion mee-readmore-type-image align-right"&gt;
+  &lt;a class="mee-readmore-img-link" href="https://www.middleeasteye.net/opinion/9-11-quarter-century-war-terror-trump"&gt;&lt;img class="mee-readmore-image" src="https://www.middleeasteye.net/sites/default/files/styles/read_more/public/images-story/000_93UV6KG%281%29.jpg.webp?itok=aVTjMjqX" width="400" height="250" alt loading="lazy" typeof="foaf:Image"&gt;
+
+&lt;/a&gt;  &lt;div class="mee-readmore-description"&gt;9/11 at 25: Trump finds new targets for America's endless war on terror&lt;/div&gt;
+    &lt;a class="mee-readmore-link" href="https://www.middleeasteye.net/opinion/9-11-quarter-century-war-terror-trump"&gt;Read More »&lt;/a&gt;
+&lt;/div&gt;
+
+&lt;p&gt;NSPM-7 continues that legacy and tradition, mobilising counterterrorism resources against political targets the administration identifies unilaterally.&lt;/p&gt;
+
+&lt;p&gt;Just as the "war on terror" failed to adequately define its ideological enemy - relying instead on an awkward, clunky concoction of labels it associated with Muslims ("Salafist-Jihadist-Islamist-Radical-Muslim-Extremist") - this administration has created a similarly vague ideological enemy in an undefined "&lt;a href="https://truthout.org/articles/trump-designated-antifa-domestic-terrorists-new-prosecutions-follow-his-lead/"&gt;Antifa&lt;/a&gt;", invoked to justify expanding counterterrorism frameworks against a broader domestic population daring to engage in dissent and protest.&lt;/p&gt;
+
+&lt;p&gt;One of the most powerful tools built during the "war on terror" was the material support for terrorism paradigm. For a chilling example of the expansion of material support prosecutions, look no further than the Prairieland case.&lt;/p&gt;
+
+&lt;p&gt;Defendants who protested against Trump's expansion of US Immigration and Customs Enforcement (ICE) detention centres were &lt;a href="https://www.justice.gov/usao-ndtx/pr/antifa-cell-members-indicted-prairieland-shooting"&gt;indicted&lt;/a&gt; not for shooting and injuring a local police officer, but for "providing material support to terrorists" and for "aid[ing] and abett[ing]" the alleged attempted murder of government officers.&lt;/p&gt;
+
+&lt;p&gt;They were &lt;a href="https://theintercept.com/2026/03/13/ice-protesters-terrorism-prairieland-antifa/"&gt;convicted&lt;/a&gt; in March, and in June, eight of them were &lt;a href="https://truthout.org/articles/prairieland-protesters-sentenced-to-30-to-100-years-for-terrorism-charges/"&gt;sentenced&lt;/a&gt; to between 30 and 100 years in prison.&lt;/p&gt;
+
+&lt;p&gt;Under US federal law, including the Patriot Act, terrorism is defined as violent acts intended to influence government policy or intimidate a civilian population.&lt;/p&gt;
+
+&lt;p&gt;Nevertheless, Tarek Mehanna was &lt;a href="https://bclawreview.bc.edu/articles/707"&gt;convicted&lt;/a&gt; in 2011 for activities that should be protected under the First Amendment, such as translating documents, and served &lt;a href="https://www.historyisaweapon.com/defcon1/tarekmehannasentencingstatement.html"&gt;more than a decade&lt;/a&gt; of a 17-and-a-half-year sentence before his release.&lt;/p&gt;
+
+&lt;p&gt;His case set a dangerous precedent for prosecuting speech as material support for terrorism, the foundation on which cases like Prairieland are now built.&lt;/p&gt;
+
+&lt;div class="url-embed-wrapper" data-social-platform="twitter" data-embed-url="https://x.com/davenewworld_2/status/2071019624322269527/photo/1"&gt;&lt;blockquote class="twitter-tweet"&gt;&lt;p lang="en" dir="ltr"&gt;8 anti-ICE protesters received sentences from 30 to 100 years, with several receiving 50 years or more. The harsh sentencing is meant to be a warning that intimidates activists around the country.&lt;br&gt;&lt;br&gt;Their protest began as a noise demonstration outside the Prairieland ICE facility… &lt;a href="https://t.co/L7OQcBvyqC"&gt;pic.twitter.com/L7OQcBvyqC&lt;/a&gt;&lt;/p&gt;— Fifty Shades of Whey (@davenewworld_2) &lt;a href="https://x.com/davenewworld_2/status/2071019624322269527?ref_src=twsrc%5Etfw"&gt;June 27, 2026&lt;/a&gt;&lt;/blockquote&gt; &lt;script async src="https://platform.x.com/widgets.js" charset="utf-8"&gt;&lt;/script&gt;&lt;/div&gt;
+
+&lt;p&gt;This past summer, one of the Prairieland defendants was &lt;a href="https://theintercept.com/2026/06/23/prairieland-texas-ice-protest-prison-sentences/"&gt;sentenced&lt;/a&gt; to 30 years after moving a box of zines that prosecutors claimed had the power to recruit sympathisers to their cause.&lt;/p&gt;
+
+&lt;h3&gt;A way forward&lt;/h3&gt;
+
+&lt;p&gt;With the &lt;a href="https://www.gao.gov/assets/gao-25-107030.pdf"&gt;rise&lt;/a&gt; in domestic political violence by white Christian nationalists, it can be tempting to expand terrorism labels to include those who have been historically exempt from the structures that have antagonised our communities for decades.&lt;/p&gt;
+
+&lt;p&gt;Expanding terrorism labels to capture white nationalist violent actors who have thus far evaded state scrutiny, however, does not guarantee terrorism frameworks will be applied to future incidents of that particular strain of political violence.&lt;/p&gt;&lt;div class="block-adsense block-adsense-managed-ad-block"&gt;&lt;div&gt;
+  &lt;div class="adsense responsive"&gt;
+    &lt;script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-6114695881218027" crossorigin="anonymous"&gt;&lt;/script&gt;
+&lt;!-- responsive --&gt;
+&lt;ins class="adsbygoogle mee-auto-ad-wrapper " style="display:block" data-ad-client="ca-pub-6114695881218027" data-ad-slot="8690493793" data-ad-format="horizontal" data-full-width-responsive="true"&gt;&lt;/ins&gt;
+&lt;script&gt;
+     (adsbygoogle = window.adsbygoogle || []).push({});
+&lt;/script&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+
+&lt;p&gt;The Trump administration's decision to &lt;a href="https://www.npr.org/2025/01/21/nx-s1-5268919/trump-issues-jan-6-pardons-attack-capitol-clemency"&gt;pardon&lt;/a&gt; those who stormed the Capitol on 6 January 2021 is a chilling recent example of how an entity or an act of violence might meet a statutory definition of terrorism, while the decision to prosecute it still relies on the discretion of those in power.&lt;/p&gt;
+
+&lt;p&gt;We assume terrorism frameworks were designed to protect us and keep us safe from irrationally violent, non-state actors.&lt;/p&gt;
+
+&lt;p&gt;Their selective deployment against the state's chosen targets, however, makes it increasingly clear that they were designed as a tool to be wielded against the state's opponents - especially in the area of narrative dominance, answering the question of who gets to tell the story about state violence.&lt;/p&gt;
+
+&lt;p class="text-align-center"&gt;&lt;iframe allowfullscreen frameborder="0" height="315" src="https://www.youtube.com/embed/YzJ8Q6EPqYg" title="A YouTube video" width="560"&gt;&lt;/iframe&gt;&lt;/p&gt;
+
+&lt;p&gt;Because objective discourse within terrorism frames has become impossible due to their selective and racialised applications, we should abandon the term in favour of language that defines violent acts clearly and with specificity.&lt;/p&gt;
+
+&lt;p&gt;Without this specificity, we collapse radically different actors and their motives into a single category, allowing the state to prosecute whom it chooses without the public's understanding.&lt;/p&gt;
+
+&lt;p&gt;Dismantling the discriminatory application of terrorism frameworks will require sustained collective action across multiple fronts, including media, community education, policy advocacy and impact litigation.&lt;/p&gt;
+
+&lt;p&gt;This demands exposing the function terrorism frames serve for the state, developing precise alternative language and advocating for responses to political violence that are rooted in community power and dignity.&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;The views expressed in this article belong to the author and do not necessarily reflect the editorial policy of Middle East Eye.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+                  &lt;div class="field field-field-topic"&gt;&lt;a href="https://www.middleeasteye.net/topics/september-11-attacks" hreflang="en"&gt;9/11 Attacks&lt;/a&gt;&lt;/div&gt;
+                  &lt;div class="field field-field-section"&gt;&lt;a href="https://www.middleeasteye.net/opinion/all" hreflang="en"&gt;Opinion&lt;/a&gt;&lt;/div&gt;
+        &lt;div class="field field-field-post-date-override"&gt;
+    &lt;div&gt;Post Date Override&lt;/div&gt;
+              &lt;div&gt;0&lt;/div&gt;
+          &lt;/div&gt;
+  &lt;div class="field field-field-update-date-override"&gt;
+    &lt;div&gt;Update Date&lt;/div&gt;
+              &lt;div&gt;&lt;time datetime="2020-05-04T21:29:16+01:00"&gt;Mon, 05/04/2020 - 21:29&lt;/time&gt;
+&lt;/div&gt;
+          &lt;/div&gt;
+  &lt;div class="field field-field-update-date-check"&gt;
+    &lt;div&gt;Update Date Override&lt;/div&gt;
+              &lt;div&gt;0&lt;/div&gt;
+          &lt;/div&gt;
+
+  &lt;/div&gt;
+  
+&lt;/article&gt;
+</description>
+  <pubDate>Fri, 18 Sep 2026 15:14:09 +0100</pubDate>
+    <dc:creator>Sanaa Ansari Khan</dc:creator>
+    <guid isPermaLink="false">447914 at https://www.middleeasteye.net/</guid>
+    </item>
+<item>
+  <title>Saudi Arabia to halt crude supplies to European refiners in October</title>
+  <link>https://www.middleeasteye.net/live-blog/live-blog-update/saudi-arabia-halt-crude-supplies-european-refiners-october</link>
+  <description>
+  
+
+&lt;article data-history-node-id="447918" about="https://www.middleeasteye.net/live-blog/live-blog-update/saudi-arabia-halt-crude-supplies-european-refiners-october" class="live-blog-update default clearfix"&gt;
+
+  
+      &lt;h2&gt;
+      &lt;a href="https://www.middleeasteye.net/live-blog/live-blog-update/saudi-arabia-halt-crude-supplies-european-refiners-october" rel="bookmark"&gt;
+&lt;span class="field field-title"&gt;Saudi Arabia to halt crude supplies to European refiners in October&lt;/span&gt;
+&lt;/a&gt;
+    &lt;/h2&gt;
+    
+
+        
+    &lt;div class="content"&gt;
+                &lt;div class="field field-field-text"&gt;&lt;p&gt;Saudi Arabia’s state oil company Aramco has told at least some European refiners that they will receive no Saudi crude next month following the shutdown of the kingdom’s East-West oil pipeline, Bloomberg reported.&amp;nbsp;&lt;/p&gt;
+
+&lt;p&gt;The disruption follows attacks that damaged three pumping stations along the 1,200km East-West pipeline, which had been carrying about 4 million to 5 million barrels of crude a day to the Red Sea port of Yanbu.&amp;nbsp;&lt;/p&gt;
+
+&lt;p&gt;Earlier today, reports said that King Fahd Port in Yanbu was targeted by Houthi ballistic missiles.&amp;nbsp;&lt;/p&gt;
+
+&lt;p&gt;European OECD countries were importing about 577,000 barrels per day from Saudi Arabia as of June, according to International Energy Agency data cited by Bloomberg.&amp;nbsp;&lt;/p&gt;
+
+&lt;p&gt;Saudi Arabia has been seeking alternative routes, including increased shipments through the Strait of Hormuz, while repairs to the pipeline are expected to take weeks.&lt;/p&gt;
+&lt;/div&gt;
+      
+  &lt;/div&gt;
+
+&lt;/article&gt;
+</description>
+  <pubDate>Fri, 18 Sep 2026 14:41:14 +0100</pubDate>
+    <dc:creator>Qazi Zaid</dc:creator>
+    <guid isPermaLink="false">447918 at https://www.middleeasteye.net/</guid>
+    </item>
+<item>
+  <title>Turkey busts Israel-linked 'scam empire' behind alleged $266m fraud</title>
+  <link>https://www.middleeasteye.net/news/turkey-busts-israel-linked-scam-empire-behind-alleged-266-million-dollar-fraud</link>
+  <description>
+  
+
+&lt;article data-history-node-id="447916" about="https://www.middleeasteye.net/news/turkey-busts-israel-linked-scam-empire-behind-alleged-266-million-dollar-fraud" class="story default clearfix"&gt;
+
+  
+      &lt;h2&gt;
+      &lt;a href="https://www.middleeasteye.net/news/turkey-busts-israel-linked-scam-empire-behind-alleged-266-million-dollar-fraud" rel="bookmark"&gt;
+&lt;span class="field field-title"&gt;Turkey busts Israel-linked 'scam empire' behind alleged $266m fraud&lt;/span&gt;
+&lt;/a&gt;
+    &lt;/h2&gt;
+    
+
+          &lt;footer&gt;
+      
+      &lt;div class="author"&gt;
+        Submitted by 
+&lt;span class="field field-uid"&gt;&lt;a title="View user profile." href="https://www.middleeasteye.net/users/ragip-soylu" lang about="https://www.middleeasteye.net/users/ragip-soylu" typeof="schema:Person" property="schema:name" datatype&gt;Ragip Soylu&lt;/a&gt;&lt;/span&gt;
+ on 
+&lt;span class="field field-created"&gt;&lt;time datetime="2026-09-18T13:29:06+01:00" title="18 September 2026 13:29 BST"&gt;Fri, 09/18/2026 - 13:29&lt;/time&gt;
+&lt;/span&gt;
+        
+      &lt;/div&gt;
+    &lt;/footer&gt;
+      
+    &lt;div class="content"&gt;
+                &lt;div class="field field-field-subhead"&gt;Dawn raids coordinated with Turkish intelligence and Interpol targeted an operation accused of defrauding victims across three continents&lt;/div&gt;
+                  &lt;div class="field field-field-main-image"&gt;    &lt;picture&gt;
+                  &lt;source srcset="https://www.middleeasteye.net/sites/default/files/styles/crop_16_9/public/images-story/File-photo-Turkey-Istanbul-police-9-8-2025-Kemal-Aslan.jpg.webp?itok=2NJasMus 1x" type="image/webp" width="1024" height="682"&gt;
+                  &lt;img srcset="https://www.middleeasteye.net/sites/default/files/styles/crop_16_9/public/images-story/File-photo-Turkey-Istanbul-police-9-8-2025-Kemal-Aslan.jpg.webp?itok=2NJasMus 1x" width="1024" height="682" src="https://www.middleeasteye.net/sites/default/files/styles/crop_16_9/public/images-story/File-photo-Turkey-Istanbul-police-9-8-2025-Kemal-Aslan.jpg.jpg?itok=2NJasMus" alt="File photo: Turkish anti riot police officers in Istanbul during a demonstration, on September 8, 2025. (Kemal Aslan / AFP)" typeof="foaf:Image" fetchpriority="high"&gt;
+
+  &lt;/picture&gt;
+
+&lt;/div&gt;
+                  &lt;div class="field field-field-cutline"&gt;Turkish anti riot police officers in Istanbul during a demonstration on 8 September 2025 (Kemal Aslan/AFP)&lt;/div&gt;
+                  &lt;div class="field field-field-wide-photo-video"&gt;Off&lt;/div&gt;
+                  &lt;div class="field field-body clearfix"&gt;&lt;p&gt;&lt;a href="https://www.middleeasteye.net/countries/turkey" rel="noopener noreferrer" target="_blank"&gt;Turkish&lt;/a&gt;&amp;nbsp;security forces busted an &lt;a href="https://www.middleeasteye.net/countries/israel"&gt;Israel&lt;/a&gt;-linked fraudulent trading network that allegedly defrauded people in Europe, the Far East and Africa of at least $266m over the past two years, Turkish Justice Minister Akin Gurlek said on Friday.&lt;/p&gt;
+
+&lt;p&gt;Gurlek said in a&amp;nbsp;&lt;a href="https://x.com/abakingurlek/status/2100860597520752688"&gt;statement&lt;/a&gt;&amp;nbsp;that the forex fraud investigation targeted 42 call centres operated by 28 companies and involving 239 suspects.&lt;/p&gt;
+
+&lt;p&gt;"An organised fraud network targeting multiple countries was uncovered after we determined that individuals with links to Israel were the principal owners and ultimate beneficiaries of the companies in question," he said.&lt;/p&gt;
+
+&lt;p&gt;Dawn raids were conducted at 236 addresses in Istanbul and Mugla in coordination with Turkey's National Intelligence Organization (MIT) and Interpol.&lt;/p&gt;
+
+&lt;p&gt;Turkish officials said the police operation was linked to the international criminal network known as "Scam Empire", which has operated across several countries over the past decade.&lt;/p&gt;&lt;div class="block-adsense block-adsense-managed-ad-block"&gt;&lt;div&gt;
+  &lt;div class="adsense responsive"&gt;
+    &lt;script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-6114695881218027" crossorigin="anonymous"&gt;&lt;/script&gt;
+&lt;!-- responsive --&gt;
+&lt;ins class="adsbygoogle mee-auto-ad-wrapper " style="display:block" data-ad-client="ca-pub-6114695881218027" data-ad-slot="8690493793" data-ad-format="horizontal" data-full-width-responsive="true"&gt;&lt;/ins&gt;
+&lt;script&gt;
+     (adsbygoogle = window.adsbygoogle || []).push({});
+&lt;/script&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+
+&lt;p&gt;The network was recently &lt;a href="https://www.occrp.org/en/project/scam-empire/scam-empire-everything-you-need-to-know-about-these-massive-investment-scams"&gt;exposed&lt;/a&gt; by the Organized Crime and Corruption Reporting Project (OCCRP), which revealed how groups operating from Israel and Europe had defrauded hundreds of victims through telephone investment scams.&lt;/p&gt;
+
+&lt;p&gt;Individual losses ranged from $10,000 to hundreds of thousands of dollars.&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;'One of the strictest rules reportedly enforced within the network is that Israeli citizens must not be targeted'&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;- Turkish official&lt;/em&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;"The network reportedly recruited victims through customer service representatives who spoke various languages," Gurlek said.&lt;/p&gt;
+
+&lt;p&gt;"On investment platforms controlled by the suspects, victims were shown fabricated profits to encourage them to invest more money," he added.&lt;/p&gt;
+
+&lt;p&gt;Gurlek said the funds were subsequently transferred to overseas bank accounts and cryptocurrency wallets.&lt;/p&gt;
+
+&lt;p&gt;Turkish officials identified one of the alleged masterminds by the initials YA, describing him as an Israeli national who also holds a Portuguese passport.&lt;/p&gt;
+
+&lt;p&gt;Reuters &lt;a href="https://www.haaretz.com/israel-news/business/2016-09-27/ty-article/easy-cash-quick-returns-and-an-empty-account-israeli-firms-leading-the-forex-scam/0000017f-e30c-d568-ad7f-f36f0cd30000"&gt;reported&lt;/a&gt; in 2016 that NRGbinary, an Israeli trading company offering products based on movements in financial markets, stocks and commodities, had defrauded people in Europe of millions of dollars. Israel banned the company later that year.&lt;/p&gt;
+
+&lt;p&gt;In a separate investigation published in 2025, OCCRP examined two groups of similar call centres based in Israel, Eastern Europe and Georgia. Their employees allegedly persuaded at least 32,000 people worldwide to pay a combined total of at least $275m.&lt;/p&gt;
+
+&lt;h3&gt;Moved to Turkey to avoid detection&lt;/h3&gt;
+
+&lt;p&gt;Turkish officials familiar with the investigation told journalists that, as documented in the OCCRP investigation, call-centre agents used false identities and forged documents.&lt;/p&gt;
+
+&lt;p&gt;The officials believe that, amid deepening tensions between Turkey and Israel, some Israel-based networks had sought to move their operations to Turkey to avoid detection.&lt;/p&gt;
+
+&lt;p&gt;According to the officials, the perpetrators typically establish a shell company - effectively a call centre - in the country from which the fraud is conducted. The company then recruits people who speak languages ranging from Japanese and Hindi to French and Spanish.&lt;/p&gt;
+
+&lt;div class="mee-readmore mee-readmore-article-story mee-readmore-type-image align-right"&gt;
+  &lt;a class="mee-readmore-img-link" href="https://www.middleeasteye.net/news/infant-care-fraud-hits-turkish-government-10-babies-reported-dead"&gt;&lt;img class="mee-readmore-image" src="https://www.middleeasteye.net/sites/default/files/styles/read_more/public/images-story/Turkey-infant-care-hospital-5-7-2020-Chris-Mcgrath-Getty-Images-AFP.jpg.webp?itok=YlA0tlFp" width="400" height="250" alt loading="lazy" typeof="foaf:Image"&gt;
+
+&lt;/a&gt;  &lt;div class="mee-readmore-description"&gt;Turkey rocked by private healthcare scam linked to infant deaths&lt;/div&gt;
+    &lt;a class="mee-readmore-link" href="https://www.middleeasteye.net/news/infant-care-fraud-hits-turkish-government-10-babies-reported-dead"&gt;Read More »&lt;/a&gt;
+&lt;/div&gt;
+
+&lt;p&gt;Employees are hired under titles such as "conversion agent" and "retention agent".&lt;/p&gt;
+
+&lt;p&gt;"Applicants undergo one week of training. During this period, each employee is given an alias and instructed to create a false personal background," one official said.&lt;/p&gt;
+
+&lt;p&gt;"These fabricated stories include details designed to impress potential victims and gain their trust, such as claiming to be an Oxford graduate."&lt;/p&gt;
+
+&lt;p&gt;The official added that recruits were required to undergo polygraph tests before beginning work to determine whether they had links to law enforcement or security agencies.&lt;/p&gt;
+
+&lt;p&gt;"Speaking Hebrew inside the office is prohibited," the official said.&lt;/p&gt;
+
+&lt;p&gt;"Instead of using the company's actual name, callers present themselves as representatives of investment platforms whose names are frequently changed by the Israeli organisers.&lt;/p&gt;&lt;div class="block-adsense block-adsense-managed-ad-block"&gt;&lt;div&gt;
+  &lt;div class="adsense responsive"&gt;
+    &lt;script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-6114695881218027" crossorigin="anonymous"&gt;&lt;/script&gt;
+&lt;!-- responsive --&gt;
+&lt;ins class="adsbygoogle mee-auto-ad-wrapper " style="display:block" data-ad-client="ca-pub-6114695881218027" data-ad-slot="8690493793" data-ad-format="horizontal" data-full-width-responsive="true"&gt;&lt;/ins&gt;
+&lt;script&gt;
+     (adsbygoogle = window.adsbygoogle || []).push({});
+&lt;/script&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+
+&lt;p&gt;"One of the strictest rules reportedly enforced within the network is that Israeli citizens must not be targeted," the official added.&lt;/p&gt;
+
+&lt;p&gt;The official also said Turkish investigators assessed that scam networks operating in different parts of the world &lt;a href="https://jewishstandard.timesofisrael.com/the-wolves-of-tel-aviv-israels-vast-amoral-binary-options-scam-exposed/amp/"&gt;created &lt;/a&gt;what they described as a mutually beneficial, or a "win-win", relationship between Israeli fraud bosses and the state of Israel.&lt;/p&gt;
+&lt;/div&gt;
+                  &lt;div class="field field-field-topic"&gt;&lt;a href="https://www.middleeasteye.net/topics/inside-turkey" hreflang="en"&gt;Inside Turkey&lt;/a&gt;&lt;/div&gt;
+            &lt;div class="field field-field-coauthor-location"&gt;
+              &lt;div&gt; &lt;/div&gt;
+              &lt;div&gt; &lt;/div&gt;
+              &lt;div&gt; &lt;/div&gt;
+              &lt;div&gt; &lt;/div&gt;
+          &lt;/div&gt;
+              &lt;div class="field field-field-article-location"&gt;Ankara &lt;/div&gt;
+                  &lt;div class="field field-field-section"&gt;&lt;a href="https://www.middleeasteye.net/news/all" hreflang="en"&gt;News&lt;/a&gt;&lt;/div&gt;
+        &lt;div class="field field-field-post-date-override"&gt;
+    &lt;div&gt;Post Date Override&lt;/div&gt;
+              &lt;div&gt;0&lt;/div&gt;
+          &lt;/div&gt;
+  &lt;div class="field field-field-update-date-override"&gt;
+    &lt;div&gt;Update Date&lt;/div&gt;
+              &lt;div&gt;&lt;time datetime="2020-05-04T21:19:45+01:00"&gt;Mon, 05/04/2020 - 21:19&lt;/time&gt;
+&lt;/div&gt;
+          &lt;/div&gt;
+  &lt;div class="field field-field-update-date-check"&gt;
+    &lt;div&gt;Update Date Override&lt;/div&gt;
+              &lt;div&gt;0&lt;/div&gt;
+          &lt;/div&gt;
+
+  &lt;/div&gt;
+  
+&lt;/article&gt;
+</description>
+  <pubDate>Fri, 18 Sep 2026 14:40:56 +0100</pubDate>
+    <dc:creator>Ragip Soylu</dc:creator>
+    <guid isPermaLink="false">447916 at https://www.middleeasteye.net/</guid>
+    </item>
+<item>
+  <title>Yemen conflict displaces 112,000 people in two weeks, UN says</title>
+  <link>https://www.middleeasteye.net/live-blog/live-blog-update/yemen-conflict-displaces-112000-people-two-weeks-un-says</link>
+  <description>
+  
+
+&lt;article data-history-node-id="447915" about="https://www.middleeasteye.net/live-blog/live-blog-update/yemen-conflict-displaces-112000-people-two-weeks-un-says" class="live-blog-update default clearfix"&gt;
+
+  
+      &lt;h2&gt;
+      &lt;a href="https://www.middleeasteye.net/live-blog/live-blog-update/yemen-conflict-displaces-112000-people-two-weeks-un-says" rel="bookmark"&gt;
+&lt;span class="field field-title"&gt;Yemen conflict displaces 112,000 people in two weeks, UN says&lt;/span&gt;
+&lt;/a&gt;
+    &lt;/h2&gt;
+    
+
+        
+    &lt;div class="content"&gt;
+                &lt;div class="field field-field-text"&gt;&lt;p&gt;The International Organization for Migration (IOM) on Friday said that at least 112,000 people have been displaced inside Yemen over the past two weeks, as renewed fighting between Houthi forces and forces aligned with the internationally recognised government has intensified along the country's western coast.&amp;nbsp;&lt;/p&gt;
+
+&lt;p&gt;According to the United Nations migration agency, nearly 3,000 residents from the Gulf of Aden have also crossed to neighbouring Djibouti by sea.&lt;/p&gt;
+
+&lt;p&gt;Djiboutian authorities are preparing to receive as many as 10,000 refugees as the influx puts additional pressure on already stretched health, education and humanitarian services, UN agencies said.&lt;/p&gt;
+
+&lt;p&gt;The latest displacement figures represent a sharp rise from earlier this month, when the IOM had reported more than 100,000 people displaced inside Yemen since renewed fighting.&lt;/p&gt;
+&lt;/div&gt;
+      
+  &lt;/div&gt;
+
+&lt;/article&gt;
+</description>
+  <pubDate>Fri, 18 Sep 2026 13:24:10 +0100</pubDate>
+    <dc:creator>Qazi Zaid</dc:creator>
+    <guid isPermaLink="false">447915 at https://www.middleeasteye.net/</guid>
+    </item>
+<item>
+  <title>Former Palestinian minister claims he warned Israel ahead of 7 October attack</title>
+  <link>https://www.middleeasteye.net/live-blog/live-blog-update/former-palestinian-minister-claims-he-warned-israel-ahead-7-october</link>
+  <description>
+  
+
+&lt;article data-history-node-id="447913" about="https://www.middleeasteye.net/live-blog/live-blog-update/former-palestinian-minister-claims-he-warned-israel-ahead-7-october" class="live-blog-update default clearfix"&gt;
+
+  
+      &lt;h2&gt;
+      &lt;a href="https://www.middleeasteye.net/live-blog/live-blog-update/former-palestinian-minister-claims-he-warned-israel-ahead-7-october" rel="bookmark"&gt;
+&lt;span class="field field-title"&gt;Former Palestinian minister claims he warned Israel ahead of 7 October attack&lt;/span&gt;
+&lt;/a&gt;
+    &lt;/h2&gt;
+    
+
+        
+    &lt;div class="content"&gt;
+                &lt;div class="field field-field-text"&gt;&lt;p&gt;Former Palestinian Authority minister Sufian Abu Zaida was the intermediary who passed along a warning from then-Hamas leader Yahya Sinwar to Israeli intelligence officials weeks before the 7 October attack, according to The Times of Israel.&amp;nbsp;&lt;/p&gt;
+
+&lt;p&gt;In a video posted on Facebook, Abu Zaida said that he was the unnamed source cited in an expose by Haaretz journalist Shlomi Eldar.&lt;/p&gt;
+
+&lt;p&gt;Sinwar had threatened to cause an “earthquake” if talks with Israel over a long-term arrangement fell apart, he said.&lt;/p&gt;
+
+&lt;p&gt;Abu Zaida, who until now was the Palestinian Authority’s minister for prisoner affairs, said he had acted as an intermediary, conveying a message from Sinwar to Israel.&lt;/p&gt;
+
+&lt;p&gt;The Times of Israel reported that his disclosure is consistent with earlier speculation about the identity of the intermediary, including possible links to former senior Palestinian official Mohammed Dahlan.&amp;nbsp;&lt;/p&gt;
+
+&lt;p&gt;Haaretz’s account also reported that a warning was subsequently communicated to UAE President Mohammed bin Zayed, who allegedly passed information to Israeli Prime Minister Benjamin Netanyahu, although Netanyahu has denied that account. &amp;nbsp;&lt;/p&gt;
+&lt;/div&gt;
+      
+  &lt;/div&gt;
+
+&lt;/article&gt;
+</description>
+  <pubDate>Fri, 18 Sep 2026 12:39:58 +0100</pubDate>
+    <dc:creator>Qazi Zaid</dc:creator>
+    <guid isPermaLink="false">447913 at https://www.middleeasteye.net/</guid>
+    </item>
+
+  </channel>
+</rss>
