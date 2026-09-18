@@ -104,18 +104,39 @@ const stamp = (d: Date) => d.toISOString().replace(/[-:T]/g, '').slice(0, 14);
  * GDELT asks for at most one request every 5 seconds, and throttles shared
  * cloud IP ranges harder than that. Calls are serialised with 5.5 s spacing
  * and retried with backoff on 429 / "Please limit requests".
+ *
+ * Hard time budget: one ingest makes ~16 of these calls (13 from gdeltDoc,
+ * 3 from the risk model's tone timeline), and on a bad GDELT day nearly
+ * every one of them eats a full timeout-and-retry cycle. Strung together
+ * that used to burn the entire Vercel function budget (300s) on GDELT DOC
+ * alone, leaving zero time for Gemini polish, the briefing, or the hero
+ * image to even start, let alone finish, they'd get killed mid-call when
+ * the function hit its cap. That's why analyst reads stopped appearing for
+ * events and the hero photo stopped changing day to day, even though the
+ * ingest looked "alive" often enough to keep the site populated. Once
+ * resetDocBudget's deadline passes, every DOC call still queued fails
+ * instantly (no wait, no request) instead of taking its full timeout, so a
+ * degraded GDELT day costs seconds, not minutes, and everything downstream
+ * still gets to run.
  */
 let lastDocCall = 0;
 let docChain: Promise<unknown> = Promise.resolve();
+let docDeadline = Infinity;
+/** Call once at the start of an ingest to cap total GDELT DOC time spend. */
+export function resetDocBudget(ms: number) {
+  docDeadline = Date.now() + ms;
+}
 function docGet<T>(qs: URLSearchParams): Promise<T> {
   const run = async () => {
+    if (Date.now() >= docDeadline) throw new Error('GDELT DOC time budget exceeded, query skipped');
     let lastErr: unknown;
     for (let attempt = 0; attempt < 3; attempt++) {
+      if (Date.now() >= docDeadline) throw new Error('GDELT DOC time budget exceeded, query skipped');
       const wait = lastDocCall + (attempt ? 9000 * attempt : 5500) - Date.now();
       if (wait > 0) await sleep(wait);
       lastDocCall = Date.now();
       try {
-        return await getJson<T>(`${DOC_API}?${qs}`, { timeoutMs: 25000 });
+        return await getJson<T>(`${DOC_API}?${qs}`, { timeoutMs: 12000 });
       } catch (e) {
         lastErr = e;
         if (!(e instanceof Error && /429|limit requests/i.test(e.message))) throw e;

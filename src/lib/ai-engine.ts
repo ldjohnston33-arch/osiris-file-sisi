@@ -74,7 +74,7 @@ export async function generateJson<T>(system: string, prompt: string, maxOutputT
             generationConfig: { temperature: 0.3, maxOutputTokens, responseMimeType: 'application/json' },
           },
           { 'x-goog-api-key': key },
-          60000,
+          20000,
         );
         if (res.promptFeedback?.blockReason) throw new Error(`blocked: ${res.promptFeedback.blockReason}`);
         const text = res.candidates?.[0]?.content?.parts?.map(p => p.text ?? '').join('') ?? '';

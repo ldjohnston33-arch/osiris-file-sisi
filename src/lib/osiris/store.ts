@@ -25,7 +25,7 @@ import { unstable_cache } from 'next/cache';
 import type { OsirisEvent, RawItem, SourceHealth, Store } from './types';
 import type { SourceAdapter } from './sources/common';
 import { presidency, sis, mena } from './sources/state';
-import { ahram, gdeltDoc, gdeltGeo, newsRss, docTone, getLastGeoSignals } from './sources/independent';
+import { ahram, gdeltDoc, gdeltGeo, newsRss, docTone, getLastGeoSignals, resetDocBudget } from './sources/independent';
 import { classify } from './classify';
 import { mergeClusters } from './corroborate';
 import { applyLinkage, applyTripContext, buildStatus, normalizeOrigins, rankPartners } from './enrich';
@@ -95,6 +95,13 @@ function relevant(e: OsirisEvent): boolean {
 export async function buildStore(): Promise<Store> {
   const now = new Date();
   const nowMs = now.getTime();
+
+  // GDELT DOC gets at most 90s total across this ingest (gdeltDoc's 13
+  // queries + the 3 tone-timeline queries below share this budget). Past
+  // that, queued calls fail instantly instead of each taking a full
+  // timeout-and-retry cycle, so a degraded GDELT day can't starve Gemini
+  // polish, the briefing, or the hero image of the time they need to run.
+  resetDocBudget(90_000);
 
   const [runs, history] = await Promise.all([
     Promise.all([presidency, sis, mena, ahram, newsRss, gdeltGeo, gdeltDoc].map(timed)),
