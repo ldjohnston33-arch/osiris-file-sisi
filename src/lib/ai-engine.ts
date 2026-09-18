@@ -50,11 +50,13 @@ interface GeminiResponse {
 
 // Wrong/retired model name → move on to the next model in the chain, no point retrying it.
 const MODEL_UNAVAILABLE = /\b404\b|not found|is not supported/i;
-// Transient overload/rate-limit → worth one immediate retry, then fall through to the next
-// model. Previously any non-404 error (including this) broke out of the loop entirely, so a
-// single "high demand" 503 from the first model in the chain killed the whole call even though
-// a second model (or the same model a moment later) would likely have succeeded.
-const TRANSIENT = /\b503\b|\b429\b|UNAVAILABLE|RESOURCE_EXHAUSTED|overloaded|high demand/i;
+// Transient overload/rate-limit/timeout → worth one immediate retry, then fall through to the
+// next model. Previously any non-404 error (including this) broke out of the loop entirely, so a
+// single "high demand" 503, or a client-side abort on a slow generation (a large batched call
+// like the Analyst Read polish can genuinely need more than one attempt's timeout budget to
+// stream back), killed the whole call even though a second model or a fresh attempt would likely
+// have succeeded.
+const TRANSIENT = /\b503\b|\b429\b|UNAVAILABLE|RESOURCE_EXHAUSTED|overloaded|high demand|aborted|timeout|timed out/i;
 const sleep = (ms: number) => new Promise(r => setTimeout(r, ms));
 
 /**
@@ -110,7 +112,7 @@ export async function generateJson<T>(system: string, prompt: string, maxOutputT
             generationConfig: { temperature: 0.3, maxOutputTokens, responseMimeType: 'application/json' },
           },
           { 'x-goog-api-key': key },
-          30000,
+          45000,
         );
         if (res.promptFeedback?.blockReason) throw new Error(`blocked: ${res.promptFeedback.blockReason}`);
         const text = res.candidates?.[0]?.content?.parts?.map(p => p.text ?? '').join('') ?? '';

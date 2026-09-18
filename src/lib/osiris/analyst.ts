@@ -82,14 +82,14 @@ Return JSON: {"reads":[{"id":"<event id>","posture":"<text>"}]}`;
 /**
  * Rewrites not-yet-polished reads with Gemini in a single batched call.
  * Mutates `events`. `limit` caps how many events one ingest's single batch
- * call will attempt: at ~150-250 tokens per read, 30 events comfortably fits
- * the 8192-token response budget below with room to spare, even accounting
- * for generateJson's own truncation-repair fallback. A cold backlog (e.g.
- * after a long outage) catches up over several ingest cycles rather than
- * all at once; anything already at method:'gemini' is excluded up front so
- * it never gets rewritten twice.
+ * call will attempt: kept modest (not just token-bound, but generation-time
+ * bound too) so the whole call reliably finishes inside generateJson's
+ * per-attempt timeout instead of racing it. A cold backlog (e.g. after a
+ * long outage) catches up over several ingest cycles rather than all at
+ * once; anything already at method:'gemini' is excluded up front so it
+ * never gets rewritten twice.
  */
-export async function polishReads(events: OsirisEvent[], limit = 30): Promise<{ polished: number; model?: string; error?: string }> {
+export async function polishReads(events: OsirisEvent[], limit = 20): Promise<{ polished: number; model?: string; error?: string }> {
   if (!aiEnabled()) return { polished: 0 };
   const targets = events
     .filter(e => e.analystRead && e.analystRead.method !== 'gemini')
