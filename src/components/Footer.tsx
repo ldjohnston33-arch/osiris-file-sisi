@@ -12,7 +12,7 @@ export default function Footer({ store }: { store: Store }) {
         <div className="footer-grid">
           <div>
             <h5>Method</h5>
-            <p>Osiris File tracks public activity from Egyptian state bulletins (Presidency, SIS, MENA), Ahram Online, international wires via GDELT, and regional RSS. Items describing the same happening are merged, and every item carries a sourcing tag: <b>state source only</b> or <b>independently corroborated</b>. Classification uses transparent keyword rules; the data refreshes about every 30 minutes.</p>
+            <p>Osiris File tracks public activity from Egyptian state bulletins (Presidency, SIS, MENA), Ahram Online, international wires via GDELT, and regional RSS. Items describing the same happening are merged, and every item carries a sourcing tag: <b>state source only</b> or <b>independently corroborated</b>. Classification uses transparent keyword rules; the data refreshes about every 2 hours.</p>
             <p><b>Analyst Read</b> notes are L4 Global’s analytical inferences, grounded in dated and sourced public records. They are never quotations and never represent President el-Sisi’s own words.</p>
           </div>
           <div>

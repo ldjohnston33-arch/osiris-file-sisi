@@ -13,7 +13,7 @@ export async function GET() {
     briefingMethod: store.briefing.method,
     model: store.briefing.model ?? null,
     analystReads: { total: reads.length, gemini: reads.filter(e => e.analystRead!.method === 'gemini').length, rules: reads.filter(e => e.analystRead!.method === 'rules').length },
-    budget: 'At most 2 Gemini calls per ingest (briefing + one batched Analyst Read request covering only events not already polished); ingest runs at most every ~30 minutes.',
+    budget: 'At most 2 Gemini calls per ingest (briefing + one batched Analyst Read request covering only events not already polished); ingest runs at most every ~2 hours.',
     generatedAt: store.generatedAt,
   });
 }

@@ -1,7 +1,7 @@
 /**
  * The dossier's short briefing paragraph.
  *
- * Generated once per ingest (every ~30 minutes), never per view. With a
+ * Generated once per ingest (every ~2 hours), never per view. With a
  * Gemini key it is a model-written paragraph over the latest events; without
  * one, a deterministic summary assembled from the same data.
  */

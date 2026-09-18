@@ -4,7 +4,7 @@ import { getStore } from '@/lib/osiris/store';
 export const maxDuration = 300;
 
 /**
- * The dossier briefing. Generated on ingest (at most once per ~30 minutes)
+ * The dossier briefing. Generated on ingest (at most once per ~2 hours)
  * and served from the store; this route never calls Gemini itself, so page
  * views cannot exhaust the free-tier quota or the 5 req/min limit.
  */

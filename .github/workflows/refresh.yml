@@ -1,15 +1,15 @@
-# Optional: time-driven refresh every 30 minutes.
+# Optional: time-driven refresh every 2 hours.
 #
 # Vercel Hobby only allows one cron run per day, and the store otherwise
 # refreshes on the first visit after it goes stale. This free GitHub Action
-# pings /api/ingest every 30 minutes so the data is fresh even when nobody
-# has visited. Set two repository secrets (Settings > Secrets > Actions):
+# pings /api/ingest every 2 hours so the data is fresh even when nobody has
+# visited. Set two repository secrets (Settings > Secrets > Actions):
 #   SITE_URL     e.g. https://osiris-file-sisi.vercel.app
 #   CRON_SECRET  same value as the CRON_SECRET env var on Vercel
 name: refresh-osiris-file
 on:
   schedule:
-    - cron: '*/30 * * * *'
+    - cron: '0 */2 * * *'
   workflow_dispatch: {}
 jobs:
   ping:
@@ -22,7 +22,9 @@ jobs:
           CRON_SECRET: ${{ secrets.CRON_SECRET }}
         run: |
           if [ -z "$SITE_URL" ]; then
-            echo "::error::SITE_URL repo secret is not set, so this 30-minute refresh has never actually run. Add it under Settings > Secrets and variables > Actions > New repository secret, with your live Vercel URL (e.g. https://osiris-file-sisi.vercel.app). CRON_SECRET is optional."
+            echo "::error::SITE_URL repo secret is not set, so this 2-hour refresh has never actually run. Add it under Settings > Secrets and variables > Actions > New repository secret, with your live Vercel URL (e.g. https://osiris-file-sisi.vercel.app). CRON_SECRET is optional."
             exit 1
           fi
-          curl -fsS -m 290 -H "Authorization: Bearer ${CRON_SECRET}" "$SITE_URL/api/ingest"
+          # A little past Vercel's own 300s function cap so a real server-side
+          # failure surfaces as an HTTP error instead of curl bailing first.
+          curl -fsS -m 320 -H "Authorization: Bearer ${CRON_SECRET}" "$SITE_URL/api/ingest"

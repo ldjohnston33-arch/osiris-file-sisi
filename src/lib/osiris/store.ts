@@ -2,7 +2,7 @@
  * The event store: one ingest, one normalized array, three views.
  *
  * Refresh model ("live" = scheduled refresh):
- *   getStore() is wrapped in Next's data cache with a 30-minute revalidate.
+ *   getStore() is wrapped in Next's data cache with a 2-hour revalidate.
  *   The first request after expiry is served the previous store while a
  *   background regeneration runs the full ingest (serverless-friendly: no
  *   cron needed, nothing re-hits upstreams per page view).
@@ -38,7 +38,7 @@ import { getHeroImage } from './portrait';
 import snapshot from '@/data/snapshot.json';
 
 export const STORE_TAG = 'osiris-store';
-export const REVALIDATE_SECONDS = 1800;
+export const REVALIDATE_SECONDS = 7200;
 const DAY = 86_400_000;
 const HISTORY_DAYS = 180;
 const MAX_EVENTS = 650;

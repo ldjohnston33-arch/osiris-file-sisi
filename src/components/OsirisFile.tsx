@@ -34,7 +34,7 @@ const MapView = dynamic(() => import('./MapView'), {
 
 const LS_LAST_SEEN = 'osiris-file:sisi:lastSeen';
 const LS_ANALYST = 'osiris-file:analystMode';
-const POLL_MS = 15 * 60_000;
+const POLL_MS = 30 * 60_000;
 const DAY = 86_400_000;
 
 export default function OsirisFile({ initial, coverage }: { initial: Store; coverage: CoverageEntry[] }) {
@@ -71,7 +71,7 @@ export default function OsirisFile({ initial, coverage }: { initial: Store; cove
     setTimeout(() => document.getElementById(anchorId)?.scrollIntoView({ behavior: 'smooth', block: 'start' }), analystMode ? 0 : 200);
   }, [analystMode]);
 
-  // ── keep long-open tabs current (store refreshes every ~30 min) ───
+  // ── keep long-open tabs current (store refreshes every ~2 hours) ───
   useEffect(() => {
     const id = setInterval(async () => {
       try {

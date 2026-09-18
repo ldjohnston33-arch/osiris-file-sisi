@@ -23,7 +23,7 @@ export default function Header({ store, now, analystMode, onToggleAnalyst }: { s
         <span className="live" title={`Store generated ${new Date(store.generatedAt).toUTCString()}`}>
           <span className={`live-dot${stale ? ' stale' : ''}`} aria-hidden />
           {store.mode === 'snapshot' ? 'Offline snapshot' : `Updated ${relTime(store.generatedAt, now)}`}
-          <span className="faint">· refreshes every 30 min</span>
+          <span className="faint">· refreshes every 2 hours</span>
         </span>
         <button className="toggle" aria-pressed={analystMode} onClick={onToggleAnalyst} title="Show denser panels: risk breakdowns, sourcing detail, relationship table, source health">
           <span className="toggle-track" aria-hidden />

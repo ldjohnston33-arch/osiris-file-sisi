@@ -43,9 +43,9 @@ The first page load runs a full ingest (about 60 to 90 seconds, mostly GDELT's r
 
 "Live" means scheduled refresh, which matches how fast the sources actually update.
 
-- The store is cached in Next's data cache for **30 minutes**. The first request after it goes stale is still served instantly from the old copy while a background regeneration runs the ingest. Page views never hit upstream sources directly.
-- The page itself regenerates at most every 15 minutes, and open tabs poll `/api/events` every 15 minutes, so a long-open tab picks up new data.
-- **Vercel Hobby limits cron jobs to once a day**, so `vercel.json` has one daily warm-up. For strictly time-driven refreshes every 30 minutes, the included GitHub Action (`.github/workflows/refresh.yml`) pings `/api/ingest`; set the `SITE_URL` and `CRON_SECRET` repository secrets to enable it.
+- The store is cached in Next's data cache for **2 hours**. The first request after it goes stale is still served instantly from the old copy while a background regeneration runs the ingest. Page views never hit upstream sources directly.
+- The page itself regenerates at most every 15 minutes, and open tabs poll `/api/events` every 30 minutes, so a long-open tab picks up new data.
+- **Vercel Hobby limits cron jobs to once a day**, so `vercel.json` has one daily warm-up. For strictly time-driven refreshes every 2 hours, the included GitHub Action (`.github/workflows/refresh.yml`) pings `/api/ingest`; set the `SITE_URL` and `CRON_SECRET` repository secrets to enable it.
 - If every live source fails, the committed snapshot in `src/data/snapshot.json` keeps the page populated and the header says so. Refresh it with `npm run dev` and then `npm run snapshot`.
 
 ## Architecture
