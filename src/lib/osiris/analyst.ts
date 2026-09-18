@@ -81,11 +81,15 @@ Return JSON: {"reads":[{"id":"<event id>","posture":"<text>"}]}`;
 
 /**
  * Rewrites not-yet-polished reads with Gemini in a single batched call.
- * Mutates `events`. `limit` is a safety ceiling on one ingest's batch size
- * (token/latency budget), not a "top N only" cap — anything already at
- * method:'gemini' is excluded up front so it never gets rewritten twice.
+ * Mutates `events`. `limit` caps how many events one ingest's single batch
+ * call will attempt: at ~150-250 tokens per read, 30 events comfortably fits
+ * the 8192-token response budget below with room to spare, even accounting
+ * for generateJson's own truncation-repair fallback. A cold backlog (e.g.
+ * after a long outage) catches up over several ingest cycles rather than
+ * all at once; anything already at method:'gemini' is excluded up front so
+ * it never gets rewritten twice.
  */
-export async function polishReads(events: OsirisEvent[], limit = 150): Promise<{ polished: number; model?: string; error?: string }> {
+export async function polishReads(events: OsirisEvent[], limit = 30): Promise<{ polished: number; model?: string; error?: string }> {
   if (!aiEnabled()) return { polished: 0 };
   const targets = events
     .filter(e => e.analystRead && e.analystRead.method !== 'gemini')
@@ -100,7 +104,7 @@ export async function polishReads(events: OsirisEvent[], limit = 150): Promise<{
     patternSummary: e.analystRead!.posture,
   })), null, 1);
   try {
-    const { data, model } = await generateJson<{ reads?: { id: string; posture: string }[] }>(SYSTEM, prompt, 3000);
+    const { data, model } = await generateJson<{ reads?: { id: string; posture: string }[] }>(SYSTEM, prompt, 8192);
     let polished = 0;
     for (const r of data.reads ?? []) {
       const e = targets.find(t => t.id === r.id);

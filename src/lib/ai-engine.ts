@@ -57,6 +57,42 @@ const MODEL_UNAVAILABLE = /\b404\b|not found|is not supported/i;
 const TRANSIENT = /\b503\b|\b429\b|UNAVAILABLE|RESOURCE_EXHAUSTED|overloaded|high demand/i;
 const sleep = (ms: number) => new Promise(r => setTimeout(r, ms));
 
+/**
+ * Best-effort recovery for a response cut off by maxOutputTokens: a batched
+ * call (like the Analyst Read polish, which asks for many events' reads in
+ * one array) can get most entries right and then run out of tokens mid
+ * string on the last one. Rather than discard the whole batch over one
+ * truncated tail, walk backwards to the last object boundary that isn't
+ * inside a string, close whatever brackets are still open at that point,
+ * and try parsing again. Salvages every complete entry; returns undefined
+ * (never throws) if nothing recoverable is found.
+ */
+function repairTruncatedJson(text: string): unknown | undefined {
+  for (let i = text.length - 1; i >= 0; i--) {
+    if (text[i] !== '}') continue;
+    const candidate = text.slice(0, i + 1);
+    const stack: string[] = [];
+    let inString = false;
+    let escaped = false;
+    for (const ch of candidate) {
+      if (inString) {
+        if (escaped) escaped = false;
+        else if (ch === '\\') escaped = true;
+        else if (ch === '"') inString = false;
+        continue;
+      }
+      if (ch === '"') inString = true;
+      else if (ch === '{' || ch === '[') stack.push(ch === '{' ? '}' : ']');
+      else if (ch === '}' || ch === ']') stack.pop();
+    }
+    if (inString || !stack.length) continue;
+    try {
+      return JSON.parse(candidate + stack.reverse().join(''));
+    } catch { /* try an earlier boundary */ }
+  }
+  return undefined;
+}
+
 /** One JSON-mode generation. Returns parsed JSON and the model that answered. */
 export async function generateJson<T>(system: string, prompt: string, maxOutputTokens = 2048): Promise<{ data: T; model: string }> {
   const keys = getEnvApiKeys();
@@ -74,12 +110,18 @@ export async function generateJson<T>(system: string, prompt: string, maxOutputT
             generationConfig: { temperature: 0.3, maxOutputTokens, responseMimeType: 'application/json' },
           },
           { 'x-goog-api-key': key },
-          20000,
+          30000,
         );
         if (res.promptFeedback?.blockReason) throw new Error(`blocked: ${res.promptFeedback.blockReason}`);
         const text = res.candidates?.[0]?.content?.parts?.map(p => p.text ?? '').join('') ?? '';
         const cleaned = text.replace(/^```(?:json)?\s*|\s*```$/g, '').trim();
-        return { data: JSON.parse(cleaned) as T, model };
+        try {
+          return { data: JSON.parse(cleaned) as T, model };
+        } catch {
+          const repaired = repairTruncatedJson(cleaned);
+          if (repaired !== undefined) return { data: repaired as T, model };
+          throw new Error(`${model} returned malformed JSON, likely truncated by maxOutputTokens (${maxOutputTokens}): ...${cleaned.slice(-120)}`);
+        }
       } catch (e) {
         lastErr = e;
         if (!(e instanceof Error)) break;
